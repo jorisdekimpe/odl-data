@@ -1,549 +1,553 @@
 {
- "players": [
-  {
-   "player": "Laura",
-   "name": "Ox",
-   "cls": "Barbarian 1",
-   "race": "Thylean Minotaur",
-   "path": "The Cursed One",
-   "hp": 14,
-   "fame": 0,
-   "notes": "Ontsnapte arenaslaaf uit Mytros, gebonden door een onbegrensde Oath of Service aan een priester van de Orde van Sydon (weet dat zelf niet). Vloek van zijn volk = Sydon. Fel rood triggert vanaf lvl 5 zijn transformatie. Vloek verbreken = schande & dienstbaarheid breken + gedaante wordt eigen keuze (hij blijft minotaur). \"Ox\" is zijn arenanaam, niet zijn echte."
-  },
-  {
-   "player": "Indy",
-   "name": "Orelle",
-   "cls": "Fighter 1 (Hoplite)",
-   "race": "Thylean Siren",
-   "path": "The Doomed One",
-   "hp": "",
-   "fame": 0,
-   "notes": "Kusthopliet van Mytros. Bloedlijn van Sydon. Doem-wezen = KENTIMANE (Fates onthullen dit in Act 3). Beschermartefact smeden aan Mithral Forge (Act 1). Versi is haar bloedverwant. Demetria kent haar lot. Wavering Emotions: rouw = geen vlucht."
-  },
-  {
-   "player": "Tiebe",
-   "name": "Kyrenos Dragonbane",
-   "cls": "Paladin 1 (Oath of the Dragonlord)",
-   "race": "Thylean Centaur",
-   "path": "The Dragonslayer",
-   "hp": "",
-   "fame": 0,
-   "notes": "Adara (geliefde) gedood door ARGYN, de zilveren draak van Gaius. Schrijft in het geheim liederen in haar boek — Kyrah-hook. Pseudodraak op lvl 3, ei komt uit op lvl 7. Mentor: Aesop (Estoria). Let op: na de eed zijn metallieke draken zijn \"bloed\" — Argyn ook."
-  },
-  {
-   "player": "Ruben",
-   "name": "Dr. Sirius Reed / Smash",
-   "cls": "Artificer 1 / Barbarian 1",
-   "race": "Elf / Goliath",
-   "path": "The Lost One",
-   "hp": "",
-   "fame": 0,
-   "notes": "Archeoloog, schipbreuk, door vissers naar Mytros gebracht. Sarcofaag-vloek = bloed van KENTIMANE (dienaar van hem lag erin); runen leesbaar in Grote Bibliotheek Yonder. Bemanning verspreid over de Golf (locaties nog kiezen). Woedemeter-huisregel: zie spelerskaart. Estor onderhandelt met hem over de schat."
-  },
-  {
-   "player": "Marthe",
-   "name": "Dragini Led Vit",
-   "cls": "Monk 1",
-   "race": "Dragonborn (wit)",
-   "path": "The Vanished One",
-   "hp": 8,
-   "fame": 0,
-   "notes": "Originele Dragonlord, ~500 jaar in Versi's waakdroom. Winterwenswacht/Hoedim = droom, bestond nooit. Zwoer Versi terug te keren (eed!). Xander herkent haar in de Necropolis en geeft de kroon (eerste echte herinnering). Harnas bij Gaius op Yonder — Boots of Speed of Cloak of the Bat (geen Dragon Scale Mail, monk). Tarotdeck = enige bezit."
-  },
-  {
-   "player": "Jarne",
-   "name": "Apollodorus",
-   "cls": "Bard 1",
-   "race": "Halfling",
-   "path": "The Haunted One",
-   "hp": "",
-   "fame": 0,
-   "notes": "Merric Huebald Clovis Greenbottle. Familie gewist door Lutheria (zielen in haar zeis). Vergeten troonaanspraak van de Greenbottles — hij weet dat niet; Clovis' vergetelheid was het begin van de uitwissing. Lesser artifact (Ring of Protection) bij Demetria; greater (Helm of Brilliance, bewijs van de aanspraak) bij de Amazonenkoningin — probleem voor Acastus. Academie-alumnus."
-  },
-  {
-   "player": "Jonas",
-   "name": "Wauros",
-   "cls": "Druid 1 (circle TBD)",
-   "race": "Thyleaans (volk TBD)",
-   "path": "The Gifted One",
-   "hp": "",
-   "fame": 0,
-   "notes": "OPEN: volk, circle (Moon/wolf of Sacrifice), en of hij zichzelf hernoemd heeft bij vertrek uit het dorp (raakt Ox' naamthema). GEEN centaur — dat is Tiebe. Vervangt de Demi-God vanaf sessie 3. Begaafd bosjong uit dorp aan rand van de OLDWOOD, naast een Academie-buitenpost. Werd gepest; toen hij protesteerde tegen de dam die de rivier omlegde schoot een student een fire bolt op zijn blote voeten. Eerste ongecontroleerde wildshape (WOLF), beet de student in de schouder, achterpoten in brand. Vluchtte het bos in. LITTEKEN rechtervoet; in wolfsvorm lijken achterpoten te branden (cosmetisch tot hij bindt met brass/red draak). Haat wizards, ongemakkelijk in drukte, open naar monstrous races. WAARHEID: kleinkind van SYDON — grootmoeder was een sterfelijke tovenares die Sydon vermoordde op aanstoken van Lutheria. Zijn wizardhaat is dus zelfhaat. MOTIVATIE herkaderd: geen roem, maar gezag dat niet weggelachen kan worden. TASKS: (1) nieuwe orde Dragonlords + fortress, (2) kroon van Xander, (3) draak grootbrengen (Vallus' ei). OPEN: volk, circle, en of hij zichzelf hernoemd heeft bij vertrek uit het dorp (raakt Ox' naamthema)."
-  }
- ],
- "ns": {
-  "p1": "active",
-  "p2": "active",
-  "p3": "active"
- },
- "sn": {},
- "npcs": [
-  {
-   "name": "Kyrah",
-   "role": "Goddess of Music (disguised as poet)",
-   "loc": "With party (Prologue onwards)",
-   "act": "Prologue",
-   "att": "Friendly",
-   "paths": "All paths",
-   "sec": "Goddess in disguise — party guide and chronicler. Never fights (Oath of Peace). True identity is one of the great reveals. Becomes a dragon in Act 4.",
-   "log": [
+  "players": [
     {
-     "pl": "Whole party",
-     "txt": "de party weet wie kyrah is, en volgt haar",
-     "dt": "27/08/2026"
+      "player": "Laura",
+      "name": "Ox",
+      "cls": "Barbarian 1",
+      "race": "Thylean Minotaur",
+      "path": "The Cursed One",
+      "hp": 14,
+      "fame": 0,
+      "notes": "Ontsnapte arenaslaaf uit Mytros, gebonden door een onbegrensde Oath of Service aan een priester van de Orde van Sydon (weet dat zelf niet). Vloek van zijn volk = Sydon. Fel rood triggert vanaf lvl 5 zijn transformatie. Vloek verbreken = schande & dienstbaarheid breken + gedaante wordt eigen keuze (hij blijft minotaur). \"Ox\" is zijn arenanaam, niet zijn echte."
+    },
+    {
+      "player": "Indy",
+      "name": "Orelle",
+      "cls": "Fighter 1 (Hoplite)",
+      "race": "Thylean Siren",
+      "path": "The Doomed One",
+      "hp": "",
+      "fame": 0,
+      "notes": "Kusthopliet van Mytros. Bloedlijn van Sydon. Doem-wezen = KENTIMANE (Fates onthullen dit in Act 3). Beschermartefact smeden aan Mithral Forge (Act 1). Versi is haar bloedverwant. Demetria kent haar lot. Wavering Emotions: rouw = geen vlucht."
+    },
+    {
+      "player": "Tiebe",
+      "name": "Kyrenos Dragonbane",
+      "cls": "Paladin 1 (Oath of the Dragonlord)",
+      "race": "Thylean Centaur",
+      "path": "The Dragonslayer",
+      "hp": "",
+      "fame": 0,
+      "notes": "Adara (geliefde) gedood door ARGYN, de zilveren draak van Gaius. Schrijft in het geheim liederen in haar boek — Kyrah-hook. Pseudodraak op lvl 3, ei komt uit op lvl 7. Mentor: Aesop (Estoria). Let op: na de eed zijn metallieke draken zijn \"bloed\" — Argyn ook."
+    },
+    {
+      "player": "Ruben",
+      "name": "Dr. Sirius Reed / Smash",
+      "cls": "Artificer 1 / Barbarian 1",
+      "race": "Elf / Goliath",
+      "path": "The Lost One",
+      "hp": "",
+      "fame": 0,
+      "notes": "Archeoloog, schipbreuk, door vissers naar Mytros gebracht. Sarcofaag-vloek = bloed van KENTIMANE (dienaar van hem lag erin); runen leesbaar in Grote Bibliotheek Yonder. Bemanning verspreid over de Golf (locaties nog kiezen). Woedemeter-huisregel: zie spelerskaart. Estor onderhandelt met hem over de schat."
+    },
+    {
+      "player": "Marthe",
+      "name": "Dragini Led Vit",
+      "cls": "Monk 1",
+      "race": "Dragonborn (wit)",
+      "path": "The Vanished One",
+      "hp": 8,
+      "fame": 0,
+      "notes": "Originele Dragonlord, ~500 jaar in Versi's waakdroom. Winterwenswacht/Hoedim = droom, bestond nooit. Zwoer Versi terug te keren (eed!). Xander herkent haar in de Necropolis en geeft de kroon (eerste echte herinnering). Harnas bij Gaius op Yonder — Boots of Speed of Cloak of the Bat (geen Dragon Scale Mail, monk). Tarotdeck = enige bezit."
+    },
+    {
+      "player": "Jarne",
+      "name": "Apollodorus",
+      "cls": "Bard 1",
+      "race": "Halfling",
+      "path": "The Haunted One",
+      "hp": "",
+      "fame": 0,
+      "notes": "Merric Huebald Clovis Greenbottle. Familie gewist door Lutheria (zielen in haar zeis). Vergeten troonaanspraak van de Greenbottles — hij weet dat niet; Clovis' vergetelheid was het begin van de uitwissing. Lesser artifact (Ring of Protection) bij Demetria; greater (Helm of Brilliance, bewijs van de aanspraak) bij de Amazonenkoningin — probleem voor Acastus. Academie-alumnus."
+    },
+    {
+      "player": "Jonas",
+      "name": "Wauros",
+      "cls": "Druid 1 (circle TBD)",
+      "race": "Thyleaans (volk TBD)",
+      "path": "The Gifted One",
+      "hp": "",
+      "fame": 0,
+      "notes": "OPEN: volk, circle (Moon/wolf of Sacrifice), en of hij zichzelf hernoemd heeft bij vertrek uit het dorp (raakt Ox' naamthema). GEEN centaur — dat is Tiebe. Vervangt de Demi-God vanaf sessie 3. Begaafd bosjong uit dorp aan rand van de OLDWOOD, naast een Academie-buitenpost. Werd gepest; toen hij protesteerde tegen de dam die de rivier omlegde schoot een student een fire bolt op zijn blote voeten. Eerste ongecontroleerde wildshape (WOLF), beet de student in de schouder, achterpoten in brand. Vluchtte het bos in. LITTEKEN rechtervoet; in wolfsvorm lijken achterpoten te branden (cosmetisch tot hij bindt met brass/red draak). Haat wizards, ongemakkelijk in drukte, open naar monstrous races. WAARHEID: kleinkind van SYDON — grootmoeder was een sterfelijke tovenares die Sydon vermoordde op aanstoken van Lutheria. Zijn wizardhaat is dus zelfhaat. MOTIVATIE herkaderd: geen roem, maar gezag dat niet weggelachen kan worden. TASKS: (1) nieuwe orde Dragonlords + fortress, (2) kroon van Xander, (3) draak grootbrengen (Vallus' ei). OPEN: volk, circle, en of hij zichzelf hernoemd heeft bij vertrek uit het dorp (raakt Ox' naamthema)."
     }
-   ]
+  ],
+  "ns": {
+    "p1": "active",
+    "p2": "active",
+    "p3": "active"
   },
-  {
-   "name": "Versi (the Oracle)",
-   "role": "Water Nymph — Prophet",
-   "loc": "Temple of the Oracle",
-   "act": "Prologue",
-   "att": "Friendly",
-   "paths": "Doomed One, Vanished One, Gifted One, Lost One, Haunted One, Cursed One",
-   "sec": "Daughter of Sydon. Captured by a hag at campaign start. JORIS: speelt haar behulpzaam (optie A). Was Estor's lover 500 jaar geleden. VIER AGENDA'S TEGELIJK: bloedverwant van Orelle; cipier van Dragini (liet haar zweren terug te keren); de enige die Apollodorus, Sirius en Kyrenos een richting kan geven; en degene die Wauros vertelt dat hij een kleinkind van Sydon is. GIFTED ONE: geeft hem het medaillon van zijn grootmoeder; een week later spreekt haar geest — laat de Dragonlords herrijzen, maar neem eerst wraak op Sydon. JALOEZIE (canon, dodelijk): begint Dragini iets met een ander, dan staat Versi een dag later voor de deur.",
-   "log": []
+  "sn": {
+    "s10": true,
+    "s11": true,
+    "s12": true
   },
-  {
-   "name": "Pythor",
-   "role": "God of Battle / King of Estoria",
-   "loc": "Estoria (Act 1), Ultros crew (Act 2+)",
-   "act": "Act 1",
-   "att": "Friendly",
-   "paths": "Lost One",
-   "sec": "God of Battle, koning van Estoria. Vijfhonderd jaar zonder oorlog heeft hem uitgehold; hij drinkt. Zijn geliefden werden een voor een weggenomen door de groene draak Hexia — niemand weet waarom ze hem zo haat. Anora moet eerst gered worden; tot dan helpt hij met niets. Joins Ultros crew Act 2. Wordt draak in Act 4. GEEN SPELERSHAAK MEER (Demi-God vrijgekomen): Anora blijft de poort naar zijn medewerking, maar de emotionele haak is weg.",
-   "log": []
-  },
-  {
-   "name": "Volkan",
-   "role": "God of Forges — IN ESTORIA (not Mytros)",
-   "loc": "Estoria — Volkan's Hall",
-   "act": "Act 1",
-   "att": "Friendly",
-   "paths": "Doomed One",
-   "sec": "God of Forges — IN ESTORIA, niet Mytros. Verstrooide dwergensmid, vader van Pythor, echtgenoot van Mytros. Smeedt aan de Mithral Forge zodra de vuren branden: Orelles beschermartefact tegen Kentimane, en verder wat de partij aanlevert. Stuurt een keledone om af te leveren. Joins Ultros crew Act 2. Wordt draak in Act 4.",
-   "log": []
-  },
-  {
-   "name": "Princess Anora",
-   "role": "Pythor's daughter",
-   "loc": "Estoria",
-   "act": "Act 1",
-   "att": "Friendly",
-   "paths": "—",
-   "sec": "Dochter van Pythor. Wordt geofferd aan Sydon als jaarlijkse tribuut — vastgeketend aan de Rock of Estor vóór de volle maan, anders vallen de verzamelde centaurenstammen aan. Zij heeft zich erbij neergelegd; Pythor heeft haar opgesloten om te beletten dat ze zichzelf aanbiedt. Zou een betere heerser zijn dan haar vader. PARTIJQUEST — geen persoonlijke haak meer sinds de spelerswissel.",
-   "log": []
-  },
-  {
-   "name": "Aesop",
-   "role": "Keeper of the Dragon Shrine",
-   "loc": "Estoria",
-   "act": "Act 1",
-   "att": "Friendly",
-   "paths": "Vanished One, Dragonslayer",
-   "sec": "Kyrenos' mentor/werkgever — vervangt de 'groep Dragonlord-paladins' uit zijn backstory. The Horn of Balmytria was stolen from his reliquary by goatlings. Needs party to retrieve it. Believes heroes should be the new Dragonlords, not Acastus.",
-   "log": []
-  },
-  {
-   "name": "Damon",
-   "role": "Ancient Wizard — Guardian of the Necropolis",
-   "loc": "Necropolis at Telamok",
-   "act": "Act 1",
-   "att": "Neutral",
-   "paths": "Vanished One, Gifted One, Cursed One",
-   "sec": "Served the original Dragonlords. Guarded the Necropolis for 500 years. Near-immortal or undead. GIFTED ONE: Damon is de STICHTER VAN DE ACADEMIE van Mytros en de grootste wizard die Thylea voortbracht. Wauros' eerste echte wizardconfrontatie — en hij kan er niet omheen, Damon bewaakt de poort.",
-   "log": []
-  },
-  {
-   "name": "Demetria",
-   "role": "Corrupted sister of the Oracle",
-   "loc": "Mossy Temple (Oldwood)",
-   "act": "Act 1",
-   "att": "Hostile",
-   "paths": "Doomed One, Haunted One, Gifted One",
-   "sec": "Versi's sister, corrupted by Lutheria — dus ook dochter van Sydon en bloedverwant van Orelle. Has Apollodorus' lesser artifact (Ring of Protection). Kan Orelles doem half lekken (vroege payoff). Boss encounter. GIFTED ONE: de Mossy Temple ligt in Wauros' eigen bos.",
-   "log": []
-  },
-  {
-   "name": "Xander (undead)",
-   "role": "First Dragonlord — undead spirit",
-   "loc": "Necropolis at Telamok",
-   "act": "Act 1",
-   "att": "Neutral",
-   "paths": "Vanished One, Gifted One",
-   "sec": "Recognizes the Vanished One and gives them the Crown of the Dragonlords. His armor was stolen by Gaius. His tomb holds the Dragonlord weapons (Labor 3). TWEE KRONEN: het boek geeft er een aan de Vanished One EN een aan de Gifted One. Geen verdeelprobleem tussen Marthe en Jonas. Kroon = bond of the dragonlords + dirge of the dragonlords (Gifted task 2).",
-   "log": []
-  },
-  {
-   "name": "Gaius",
-   "role": "Commander, Order of Sydon — recurring villain",
-   "loc": "Heartlands (Act 1) → Island of Yonder (Act 3)",
-   "act": "Act 1",
-   "att": "Hostile",
-   "paths": "Vanished One, Dragonslayer, Cursed One, Gifted One",
-   "sec": "DRIEVOUDIGE aartsvijand: rijdt ARGYN (doodde Kyrenos' Adara), bewaart Dragini's harnas op Yonder, en Ox' priester dient zijn Orde. Stuurt centaurenwarbands (pijnlijk voor Kyrenos). Yonder Act 3 = drie climaxen — speel als meerdere scenes. Beslis: is Argyn verdorven of zelf slachtoffer? Berijdt ARGYN, zoon van Nephele. Yonder is een VIERvoudige afrekening: Kyrenos/Argyn, Dragini's harnas, Sirius' runen, Ox' Orde.",
-   "log": []
-  },
-  {
-   "name": "King Acastus",
-   "role": "King of Mytros",
-   "loc": "Mytros",
-   "act": "Act 2",
-   "att": "Neutral",
-   "paths": "Gifted One, Lost One, Haunted One",
-   "sec": "Last Dragonlord heir but made dark Titan pacts for his dragons. Dragon Icarus turns on him in Act 4. Gave the Ultros map hoping Estor would kill the heroes. ICARUS is eveneens een zoon van Nephele — het eerste epische conflict van Act 4 is voor Tiebe en Jonas samen een familiekwestie.",
-   "log": []
-  },
-  {
-   "name": "Queen Vallus",
-   "role": "Goddess of Wisdom",
-   "loc": "Mytros",
-   "act": "Act 2",
-   "att": "Friendly",
-   "paths": "Gifted One, Lost One, Dragonslayer",
-   "sec": "Eldest daughter of Mytros. Most reliable ally. Warns about Acastus. Secretly gives dragon egg. Gives the Antikythera at the celebration. Becomes dragon in Act 4. GIFTED ONE: neemt Wauros voor het uitvaren apart — de fortress ligt bij een draak in de Garden of Helios. Het geheime drakenei GAAT NAAR WAUROS.",
-   "log": []
-  },
-  {
-   "name": "Estor Arkelander",
-   "role": "Ghost Dragonlord — captain of the Ultros",
-   "loc": "The Ultros",
-   "act": "Act 2",
-   "att": "Neutral",
-   "paths": "Lost One, Vanished One",
-   "sec": "Geest van de beruchtste Dragonlord — vermoordde zijn eigen bemanning. Houdt zijn schip smetteloos; het is misschien het enige waar hij ooit van hield. Wil een lichaam en bezoekt eerst de dromen van de helden om de waardigste te kiezen. DEAL MET SIRIUS: wijst de schat in de Nether Sea aan (en de route via de Dead Falls) in ruil voor eerste keuze — hij wil de xiphos of slaughter. Pas op met eden. Versi's andere minnaar: rivaal van Dragini zonder dat zij het weet.",
-   "log": []
-  },
-  {
-   "name": "The Three Fates",
-   "role": "Ancient hag coven — weavers of destiny",
-   "loc": "Island of the Fates",
-   "act": "Act 3",
-   "att": "Neutral",
-   "paths": "Doomed One, Haunted One, Cursed One",
-   "sec": "Onthullen aan Orelle: haar doem-wezen is KENTIMANE. Kennen de waarheid over Apollodorus' familie en de troonaanspraak. Voor Ox: zijn volk ziet de vloek als hun wil — was dat rechtvaardig? Verdeel over meerdere scenes. Extremely dangerous to bargain with.",
-   "log": []
-  },
-  {
-   "name": "Amazon Queen (Thea)",
-   "role": "Queen of the Amazons",
-   "loc": "Island of Themis",
-   "act": "Act 3",
-   "att": "Neutral",
-   "paths": "Haunted One, Lost One",
-   "sec": "Has de Helm of Brilliance — Apollodorus' greater artifact en bewijs van de vergeten troonaanspraak. Won't give it up easily. Stimfay-bouwers: pelgrimage voor Sirius. Powerful allies for the Battle of Mytros.",
-   "log": []
-  },
-  {
-   "name": "Hexia",
-   "role": "Green dragon — Act 3 boss",
-   "loc": "Island of the Dragon",
-   "act": "Act 3",
-   "att": "Hostile",
-   "paths": "—",
-   "sec": "Groene draak, Act 3 boss op het Island of the Dragon. Pythors grootste vijand: nam zijn geliefden een voor een weg. Houdt OPHEA gevangen. May yield a dragon egg. (Dragonslayer zit op Argyn, niet hier.) VRIJGEKOMEN — nu optioneel. Behoud je het, dan is het een reddingsverhaal van de partij.",
-   "log": []
-  },
-  {
-   "name": "Nephele",
-   "role": "Silver dragon at Praxys",
-   "loc": "Praxys, Tower of Sydon",
-   "act": "Act 3",
-   "att": "Neutral",
-   "paths": "Gifted One, Dragonslayer",
-   "sec": "Has no soul. The Gifted One's grandmother's spirit can enter her (break the locket) to create a powerful ally against Sydon. KRUIS MET TIEBE: Nephele is de MOEDER VAN ARGYN EN ICARUS. Sydon gaf haar twee draken om mee te paren en schonk het broedsel aan Gaius en Acastus. Breekt Wauros het medaillon, dan wordt zijn grootmoeder deze draak — arrogant, grillig, enkel bereid te helpen tegen Sydon. Prijs: hij hoort haar stem nooit meer los.",
-   "log": []
-  },
-  {
-   "name": "Sydon",
-   "role": "Lord of Storms — Titan",
-   "loc": "Phraxys (Act 3) → Mytros (Act 4)",
-   "act": "Act 1",
-   "att": "Hostile",
-   "paths": "Cursed One, Doomed One, Gifted One",
-   "sec": "Vervloekte Ox' hele volk (de stam van Minos) en liet Orelles sirenenstad zinken. Ox' priester dient zijn Orde. Attacks indirectly via Gaius (Oath of Peace). Escapes Praxys to the final battle at Mytros. GIFTED ONE: Wauros' grootvader. Herkent hem op Praxys met interesse maar is teleurgesteld dat zijn nageslacht zo klein uitviel. Ook: de dam bij Wauros' dorp kon gebouwd worden omdat de Orde van Sydon het toestond — zijn oudste grief hangt vast aan zijn eigen grootvader.",
-   "log": []
-  },
-  {
-   "name": "Lutheria",
-   "role": "Lady of Dreams — Titan",
-   "loc": "Nether Sea — aboard Hypnos",
-   "act": "Act 1",
-   "att": "Hostile",
-   "paths": "Haunted One",
-   "sec": "Wiste Apollodorus' familie — en is zelf vergeten waarom (de troonaanspraak?). Hun zielen zitten in haar kristallen zeis: hereniging kan op de Nether Sea. Sends nightmares from the very start — voor Apollodorus persoonlijk.",
-   "log": []
-  },
-  {
-   "name": "Kentimane",
-   "role": "De Honderdhandige — vader van de Titanen",
-   "loc": "Rond Thylea (Act 4: Mytros)",
-   "act": "Act 4",
-   "att": "Hostile",
-   "paths": "Doomed One, Lost One",
-   "sec": "Orelles doem-wezen (Fates onthullen dit Act 3) EN de bron van Sirius' vloek (zijn bloed zat in de sarcofaag-dienaar). Twee spelers, een Titaan: zij is voorspeld door zijn hand te sterven, hij draagt zijn bloed. Valt Mytros aan in Act 4.",
-   "log": []
-  },
-  {
-   "name": "De Priester (naam TBD)",
-   "role": "Ox' bevrijder — Orde van Sydon (geheim)",
-   "loc": "Mytros",
-   "act": "Act 2",
-   "att": "Unknown",
-   "paths": "Cursed One",
-   "sec": "Bevrijdde Ox echt uit de arena en bond hem met een onbegrensde Oath of Service. Dient de Orde van Sydon — Ox weet dat niet. Beveelt nooit, herinnert alleen: 'Je weet wat je mij beloofd hebt.' Roep hem EEN keer op op het slechtst mogelijke moment, met een schijnbaar redelijke vraag. Geef hem een naam.",
-   "log": []
-  },
-  {
-   "name": "Ophea",
-   "role": "Harpiste — Pythors laatste grote liefde",
-   "loc": "Island of the Dragon (gevangene van Hexia)",
-   "act": "Act 3",
-   "att": "Friendly",
-   "paths": "—",
-   "sec": "Harpiste, Pythors laatste grote liefde. LEEFT, als gevangene van Hexia. Pythor loog dat ze stierf bij de bevalling en haalde haar nooit terug — daarom drinkt hij. Kent de Forgotten Sea en kan van elk eiland een ruwe beschrijving geven. VRIJGEKOMEN: hangt aan geen spelersblad meer. Schrappen, of behouden als losse draad die Pythors drankzucht verklaart en de partij een reddingsverhaal geeft.",
-   "log": []
-  },
-  {
-   "name": "Narsus",
-   "role": "Forgotten god of beauty",
-   "loc": "Aresia (captive)",
-   "act": "Act 5",
-   "att": "Friendly",
-   "paths": "All paths",
-   "sec": "Lost his divinity when the Oath of Peace ended. Imprisoned in Aresia. Key to Act 5 and the Theogenesis ritual. Offers heroes a path to godhood.",
-   "log": []
-  },
-  {
-   "name": "Wauros' grootmoeder",
-   "role": "Geest in het medaillon — sterfelijke tovenares, dochter van Sydons geliefde",
-   "loc": "In het medaillon (Prologue onwards)",
-   "act": "Prologue",
-   "att": "Unknown",
-   "paths": "Gifted One",
-   "sec": "Spreekt een week na de proloog voor het eerst. Wil dat de Dragonlords herrijzen, maar eerst wraak op Sydon. IRONIE: zij was een wizard — Wauros' haat tegen wizards is zelfhaat, en het medaillon dwingt hem elke week naar haar te luisteren. Eindpunt: haar ziel in Nephele (medaillon breken).",
-   "log": []
-  },
-  {
-   "name": "De gebeten student (naam TBD)",
-   "role": "Meester aan de Academie van Mytros — littekens op de schouder",
-   "loc": "Mytros — Academie",
-   "act": "Act 2",
-   "att": "Hostile",
-   "paths": "Gifted One",
-   "sec": "LEEFT. Vertelt het verhaal anders: 'een monster viel ons zonder aanleiding aan.' Wauros' reputatie in Mytros is negatief tot hij het rechtzet — en hij moet zelf kiezen of hij dat wil, of liever het monster blijft dat ze van hem maakten.",
-   "log": []
-  },
-  {
-   "name": "Argyn",
-   "role": "Zilveren draak — rijdier van Gaius, zoon van Nephele",
-   "loc": "Island of Yonder",
-   "act": "Act 3",
-   "att": "Hostile",
-   "paths": "Dragonslayer, Gifted One",
-   "sec": "Doodde Kyrenos' kudde en Adara. BESLIS: verdorven door Gaius, of zelf slachtoffer? Bepaalt doden vs bevrijden. Zilver = metalliek: na de Dragonlord-eed is Argyn Kyrenos' bloed. Zoon van Nephele — kruist met Wauros.",
-   "log": []
-  },
-  {
-   "name": "Icarus",
-   "role": "Zilveren draak van Acastus — zoon van Nephele",
-   "loc": "Mytros",
-   "act": "Act 4",
-   "att": "Hostile",
-   "paths": "Gifted One, Dragonslayer",
-   "sec": "Eerste epische conflict van Act 4. Broer van Argyn; als Wauros Nephele bevrijdde staat hij tegenover haar zoon.",
-   "log": []
-  },
-  {
-   "name": "Helios",
-   "role": "Gouden draak — bewaakt het Fortress of the Dragonlords",
-   "loc": "Garden of Helios (Forgotten Sea)",
-   "act": "Act 3",
-   "att": "Hostile",
-   "paths": "Gifted One, Dragonslayer",
-   "sec": "In zijn schathoop ligt het instant fortress (Gifted task 1). Erinyes-scene: Helios wordt meegesleept naar het Island of Oathbreakers. In canon is Helios het Dragonslayer-doelwit — bij ons is dat Argyn, maar deze scene blijft bruikbaar als spiegel.",
-   "log": []
-  },
-  {
-   "name": "Chondrus",
-   "role": "Hogepriester van Lutheria — meester van de Grote Bibliotheek",
-   "loc": "Mytros (Act 2) → Island of Yonder (Act 3)",
-   "act": "Act 2",
-   "att": "Hostile",
-   "paths": "Dragonslayer, Lost One",
-   "sec": "Ooit in Lutheria's harem, weggeworpen. Pact met een arcanoloth uit Hades voor geheimen over de helden. Biedt aan de partij naar Hypnos te leiden — LEUGEN, hij saboteert. Draagt in canon het greater artifact van de Dragonslayer. Het Antikythera-tandwiel ligt in een verguld kistje in zijn kamer.",
-   "log": []
-  },
-  {
-   "name": "Druiden van de Oldwood",
-   "role": "Bosorde — geloven dat Mytros zich nooit in de Heartlands had mogen vestigen",
-   "loc": "Oldwood",
-   "act": "Act 1",
-   "att": "Friendly",
-   "paths": "Gifted One",
-   "sec": "AANBEVOLEN: zij vingen Wauros op na het incident. Verklaart waarom hij als tiener al ongecontroleerd wildshapete zonder een enkele les. Hun leer is letterlijk zijn grief tegen de Academie-buitenpost.",
-   "log": []
+  "npcs": [
+    {
+      "name": "Kyrah",
+      "role": "Goddess of Music (disguised as poet)",
+      "loc": "With party (Prologue onwards)",
+      "act": "Prologue",
+      "att": "Friendly",
+      "paths": "All paths",
+      "sec": "Goddess in disguise — party guide and chronicler. Never fights (Oath of Peace). True identity is one of the great reveals. Becomes a dragon in Act 4.",
+      "log": [
+        {
+          "pl": "Whole party",
+          "txt": "de party weet wie kyrah is, en volgt haar",
+          "dt": "27/08/2026"
+        }
+      ]
+    },
+    {
+      "name": "Versi (the Oracle)",
+      "role": "Water Nymph — Prophet",
+      "loc": "Temple of the Oracle",
+      "act": "Prologue",
+      "att": "Friendly",
+      "paths": "Doomed One, Vanished One, Gifted One, Lost One, Haunted One, Cursed One",
+      "sec": "Daughter of Sydon. Captured by a hag at campaign start. JORIS: speelt haar behulpzaam (optie A). Was Estor's lover 500 jaar geleden. VIER AGENDA'S TEGELIJK: bloedverwant van Orelle; cipier van Dragini (liet haar zweren terug te keren); de enige die Apollodorus, Sirius en Kyrenos een richting kan geven; en degene die Wauros vertelt dat hij een kleinkind van Sydon is. GIFTED ONE: geeft hem het medaillon van zijn grootmoeder; een week later spreekt haar geest — laat de Dragonlords herrijzen, maar neem eerst wraak op Sydon. JALOEZIE (canon, dodelijk): begint Dragini iets met een ander, dan staat Versi een dag later voor de deur.",
+      "log": []
+    },
+    {
+      "name": "Pythor",
+      "role": "God of Battle / King of Estoria",
+      "loc": "Estoria (Act 1), Ultros crew (Act 2+)",
+      "act": "Act 1",
+      "att": "Friendly",
+      "paths": "Lost One",
+      "sec": "God of Battle, koning van Estoria. Vijfhonderd jaar zonder oorlog heeft hem uitgehold; hij drinkt. Zijn geliefden werden een voor een weggenomen door de groene draak Hexia — niemand weet waarom ze hem zo haat. Anora moet eerst gered worden; tot dan helpt hij met niets. Joins Ultros crew Act 2. Wordt draak in Act 4. GEEN SPELERSHAAK MEER (Demi-God vrijgekomen): Anora blijft de poort naar zijn medewerking, maar de emotionele haak is weg.",
+      "log": []
+    },
+    {
+      "name": "Volkan",
+      "role": "God of Forges — IN ESTORIA (not Mytros)",
+      "loc": "Estoria — Volkan's Hall",
+      "act": "Act 1",
+      "att": "Friendly",
+      "paths": "Doomed One",
+      "sec": "God of Forges — IN ESTORIA, niet Mytros. Verstrooide dwergensmid, vader van Pythor, echtgenoot van Mytros. Smeedt aan de Mithral Forge zodra de vuren branden: Orelles beschermartefact tegen Kentimane, en verder wat de partij aanlevert. Stuurt een keledone om af te leveren. Joins Ultros crew Act 2. Wordt draak in Act 4.",
+      "log": []
+    },
+    {
+      "name": "Princess Anora",
+      "role": "Pythor's daughter",
+      "loc": "Estoria",
+      "act": "Act 1",
+      "att": "Friendly",
+      "paths": "—",
+      "sec": "Dochter van Pythor. Wordt geofferd aan Sydon als jaarlijkse tribuut — vastgeketend aan de Rock of Estor vóór de volle maan, anders vallen de verzamelde centaurenstammen aan. Zij heeft zich erbij neergelegd; Pythor heeft haar opgesloten om te beletten dat ze zichzelf aanbiedt. Zou een betere heerser zijn dan haar vader. PARTIJQUEST — geen persoonlijke haak meer sinds de spelerswissel.",
+      "log": []
+    },
+    {
+      "name": "Aesop",
+      "role": "Keeper of the Dragon Shrine",
+      "loc": "Estoria",
+      "act": "Act 1",
+      "att": "Friendly",
+      "paths": "Vanished One, Dragonslayer",
+      "sec": "Kyrenos' mentor/werkgever — vervangt de 'groep Dragonlord-paladins' uit zijn backstory. The Horn of Balmytria was stolen from his reliquary by goatlings. Needs party to retrieve it. Believes heroes should be the new Dragonlords, not Acastus.",
+      "log": []
+    },
+    {
+      "name": "Damon",
+      "role": "Ancient Wizard — Guardian of the Necropolis",
+      "loc": "Necropolis at Telamok",
+      "act": "Act 1",
+      "att": "Neutral",
+      "paths": "Vanished One, Gifted One, Cursed One",
+      "sec": "Served the original Dragonlords. Guarded the Necropolis for 500 years. Near-immortal or undead. GIFTED ONE: Damon is de STICHTER VAN DE ACADEMIE van Mytros en de grootste wizard die Thylea voortbracht. Wauros' eerste echte wizardconfrontatie — en hij kan er niet omheen, Damon bewaakt de poort.",
+      "log": []
+    },
+    {
+      "name": "Demetria",
+      "role": "Corrupted sister of the Oracle",
+      "loc": "Mossy Temple (Oldwood)",
+      "act": "Act 1",
+      "att": "Hostile",
+      "paths": "Doomed One, Haunted One, Gifted One",
+      "sec": "Versi's sister, corrupted by Lutheria — dus ook dochter van Sydon en bloedverwant van Orelle. Has Apollodorus' lesser artifact (Ring of Protection). Kan Orelles doem half lekken (vroege payoff). Boss encounter. GIFTED ONE: de Mossy Temple ligt in Wauros' eigen bos.",
+      "log": []
+    },
+    {
+      "name": "Xander (undead)",
+      "role": "First Dragonlord — undead spirit",
+      "loc": "Necropolis at Telamok",
+      "act": "Act 1",
+      "att": "Neutral",
+      "paths": "Vanished One, Gifted One",
+      "sec": "Recognizes the Vanished One and gives them the Crown of the Dragonlords. His armor was stolen by Gaius. His tomb holds the Dragonlord weapons (Labor 3). TWEE KRONEN: het boek geeft er een aan de Vanished One EN een aan de Gifted One. Geen verdeelprobleem tussen Marthe en Jonas. Kroon = bond of the dragonlords + dirge of the dragonlords (Gifted task 2).",
+      "log": []
+    },
+    {
+      "name": "Gaius",
+      "role": "Commander, Order of Sydon — recurring villain",
+      "loc": "Heartlands (Act 1) → Island of Yonder (Act 3)",
+      "act": "Act 1",
+      "att": "Hostile",
+      "paths": "Vanished One, Dragonslayer, Cursed One, Gifted One",
+      "sec": "DRIEVOUDIGE aartsvijand: rijdt ARGYN (doodde Kyrenos' Adara), bewaart Dragini's harnas op Yonder, en Ox' priester dient zijn Orde. Stuurt centaurenwarbands (pijnlijk voor Kyrenos). Yonder Act 3 = drie climaxen — speel als meerdere scenes. Beslis: is Argyn verdorven of zelf slachtoffer? Berijdt ARGYN, zoon van Nephele. Yonder is een VIERvoudige afrekening: Kyrenos/Argyn, Dragini's harnas, Sirius' runen, Ox' Orde.",
+      "log": []
+    },
+    {
+      "name": "King Acastus",
+      "role": "King of Mytros",
+      "loc": "Mytros",
+      "act": "Act 2",
+      "att": "Neutral",
+      "paths": "Gifted One, Lost One, Haunted One",
+      "sec": "Last Dragonlord heir but made dark Titan pacts for his dragons. Dragon Icarus turns on him in Act 4. Gave the Ultros map hoping Estor would kill the heroes. ICARUS is eveneens een zoon van Nephele — het eerste epische conflict van Act 4 is voor Tiebe en Jonas samen een familiekwestie.",
+      "log": []
+    },
+    {
+      "name": "Queen Vallus",
+      "role": "Goddess of Wisdom",
+      "loc": "Mytros",
+      "act": "Act 2",
+      "att": "Friendly",
+      "paths": "Gifted One, Lost One, Dragonslayer",
+      "sec": "Eldest daughter of Mytros. Most reliable ally. Warns about Acastus. Secretly gives dragon egg. Gives the Antikythera at the celebration. Becomes dragon in Act 4. GIFTED ONE: neemt Wauros voor het uitvaren apart — de fortress ligt bij een draak in de Garden of Helios. Het geheime drakenei GAAT NAAR WAUROS.",
+      "log": []
+    },
+    {
+      "name": "Estor Arkelander",
+      "role": "Ghost Dragonlord — captain of the Ultros",
+      "loc": "The Ultros",
+      "act": "Act 2",
+      "att": "Neutral",
+      "paths": "Lost One, Vanished One",
+      "sec": "Geest van de beruchtste Dragonlord — vermoordde zijn eigen bemanning. Houdt zijn schip smetteloos; het is misschien het enige waar hij ooit van hield. Wil een lichaam en bezoekt eerst de dromen van de helden om de waardigste te kiezen. DEAL MET SIRIUS: wijst de schat in de Nether Sea aan (en de route via de Dead Falls) in ruil voor eerste keuze — hij wil de xiphos of slaughter. Pas op met eden. Versi's andere minnaar: rivaal van Dragini zonder dat zij het weet.",
+      "log": []
+    },
+    {
+      "name": "The Three Fates",
+      "role": "Ancient hag coven — weavers of destiny",
+      "loc": "Island of the Fates",
+      "act": "Act 3",
+      "att": "Neutral",
+      "paths": "Doomed One, Haunted One, Cursed One",
+      "sec": "Onthullen aan Orelle: haar doem-wezen is KENTIMANE. Kennen de waarheid over Apollodorus' familie en de troonaanspraak. Voor Ox: zijn volk ziet de vloek als hun wil — was dat rechtvaardig? Verdeel over meerdere scenes. Extremely dangerous to bargain with.",
+      "log": []
+    },
+    {
+      "name": "Amazon Queen (Thea)",
+      "role": "Queen of the Amazons",
+      "loc": "Island of Themis",
+      "act": "Act 3",
+      "att": "Neutral",
+      "paths": "Haunted One, Lost One",
+      "sec": "Has de Helm of Brilliance — Apollodorus' greater artifact en bewijs van de vergeten troonaanspraak. Won't give it up easily. Stimfay-bouwers: pelgrimage voor Sirius. Powerful allies for the Battle of Mytros.",
+      "log": []
+    },
+    {
+      "name": "Hexia",
+      "role": "Green dragon — Act 3 boss",
+      "loc": "Island of the Dragon",
+      "act": "Act 3",
+      "att": "Hostile",
+      "paths": "—",
+      "sec": "Groene draak, Act 3 boss op het Island of the Dragon. Pythors grootste vijand: nam zijn geliefden een voor een weg. Houdt OPHEA gevangen. May yield a dragon egg. (Dragonslayer zit op Argyn, niet hier.) VRIJGEKOMEN — nu optioneel. Behoud je het, dan is het een reddingsverhaal van de partij.",
+      "log": []
+    },
+    {
+      "name": "Nephele",
+      "role": "Silver dragon at Praxys",
+      "loc": "Praxys, Tower of Sydon",
+      "act": "Act 3",
+      "att": "Neutral",
+      "paths": "Gifted One, Dragonslayer",
+      "sec": "Has no soul. The Gifted One's grandmother's spirit can enter her (break the locket) to create a powerful ally against Sydon. KRUIS MET TIEBE: Nephele is de MOEDER VAN ARGYN EN ICARUS. Sydon gaf haar twee draken om mee te paren en schonk het broedsel aan Gaius en Acastus. Breekt Wauros het medaillon, dan wordt zijn grootmoeder deze draak — arrogant, grillig, enkel bereid te helpen tegen Sydon. Prijs: hij hoort haar stem nooit meer los.",
+      "log": []
+    },
+    {
+      "name": "Sydon",
+      "role": "Lord of Storms — Titan",
+      "loc": "Phraxys (Act 3) → Mytros (Act 4)",
+      "act": "Act 1",
+      "att": "Hostile",
+      "paths": "Cursed One, Doomed One, Gifted One",
+      "sec": "Vervloekte Ox' hele volk (de stam van Minos) en liet Orelles sirenenstad zinken. Ox' priester dient zijn Orde. Attacks indirectly via Gaius (Oath of Peace). Escapes Praxys to the final battle at Mytros. GIFTED ONE: Wauros' grootvader. Herkent hem op Praxys met interesse maar is teleurgesteld dat zijn nageslacht zo klein uitviel. Ook: de dam bij Wauros' dorp kon gebouwd worden omdat de Orde van Sydon het toestond — zijn oudste grief hangt vast aan zijn eigen grootvader.",
+      "log": []
+    },
+    {
+      "name": "Lutheria",
+      "role": "Lady of Dreams — Titan",
+      "loc": "Nether Sea — aboard Hypnos",
+      "act": "Act 1",
+      "att": "Hostile",
+      "paths": "Haunted One",
+      "sec": "Wiste Apollodorus' familie — en is zelf vergeten waarom (de troonaanspraak?). Hun zielen zitten in haar kristallen zeis: hereniging kan op de Nether Sea. Sends nightmares from the very start — voor Apollodorus persoonlijk.",
+      "log": []
+    },
+    {
+      "name": "Kentimane",
+      "role": "De Honderdhandige — vader van de Titanen",
+      "loc": "Rond Thylea (Act 4: Mytros)",
+      "act": "Act 4",
+      "att": "Hostile",
+      "paths": "Doomed One, Lost One",
+      "sec": "Orelles doem-wezen (Fates onthullen dit Act 3) EN de bron van Sirius' vloek (zijn bloed zat in de sarcofaag-dienaar). Twee spelers, een Titaan: zij is voorspeld door zijn hand te sterven, hij draagt zijn bloed. Valt Mytros aan in Act 4.",
+      "log": []
+    },
+    {
+      "name": "De Priester (naam TBD)",
+      "role": "Ox' bevrijder — Orde van Sydon (geheim)",
+      "loc": "Mytros",
+      "act": "Act 2",
+      "att": "Unknown",
+      "paths": "Cursed One",
+      "sec": "Bevrijdde Ox echt uit de arena en bond hem met een onbegrensde Oath of Service. Dient de Orde van Sydon — Ox weet dat niet. Beveelt nooit, herinnert alleen: 'Je weet wat je mij beloofd hebt.' Roep hem EEN keer op op het slechtst mogelijke moment, met een schijnbaar redelijke vraag. Geef hem een naam.",
+      "log": []
+    },
+    {
+      "name": "Ophea",
+      "role": "Harpiste — Pythors laatste grote liefde",
+      "loc": "Island of the Dragon (gevangene van Hexia)",
+      "act": "Act 3",
+      "att": "Friendly",
+      "paths": "—",
+      "sec": "Harpiste, Pythors laatste grote liefde. LEEFT, als gevangene van Hexia. Pythor loog dat ze stierf bij de bevalling en haalde haar nooit terug — daarom drinkt hij. Kent de Forgotten Sea en kan van elk eiland een ruwe beschrijving geven. VRIJGEKOMEN: hangt aan geen spelersblad meer. Schrappen, of behouden als losse draad die Pythors drankzucht verklaart en de partij een reddingsverhaal geeft.",
+      "log": []
+    },
+    {
+      "name": "Narsus",
+      "role": "Forgotten god of beauty",
+      "loc": "Aresia (captive)",
+      "act": "Act 5",
+      "att": "Friendly",
+      "paths": "All paths",
+      "sec": "Lost his divinity when the Oath of Peace ended. Imprisoned in Aresia. Key to Act 5 and the Theogenesis ritual. Offers heroes a path to godhood.",
+      "log": []
+    },
+    {
+      "name": "Wauros' grootmoeder",
+      "role": "Geest in het medaillon — sterfelijke tovenares, dochter van Sydons geliefde",
+      "loc": "In het medaillon (Prologue onwards)",
+      "act": "Prologue",
+      "att": "Unknown",
+      "paths": "Gifted One",
+      "sec": "Spreekt een week na de proloog voor het eerst. Wil dat de Dragonlords herrijzen, maar eerst wraak op Sydon. IRONIE: zij was een wizard — Wauros' haat tegen wizards is zelfhaat, en het medaillon dwingt hem elke week naar haar te luisteren. Eindpunt: haar ziel in Nephele (medaillon breken).",
+      "log": []
+    },
+    {
+      "name": "De gebeten student (naam TBD)",
+      "role": "Meester aan de Academie van Mytros — littekens op de schouder",
+      "loc": "Mytros — Academie",
+      "act": "Act 2",
+      "att": "Hostile",
+      "paths": "Gifted One",
+      "sec": "LEEFT. Vertelt het verhaal anders: 'een monster viel ons zonder aanleiding aan.' Wauros' reputatie in Mytros is negatief tot hij het rechtzet — en hij moet zelf kiezen of hij dat wil, of liever het monster blijft dat ze van hem maakten.",
+      "log": []
+    },
+    {
+      "name": "Argyn",
+      "role": "Zilveren draak — rijdier van Gaius, zoon van Nephele",
+      "loc": "Island of Yonder",
+      "act": "Act 3",
+      "att": "Hostile",
+      "paths": "Dragonslayer, Gifted One",
+      "sec": "Doodde Kyrenos' kudde en Adara. BESLIS: verdorven door Gaius, of zelf slachtoffer? Bepaalt doden vs bevrijden. Zilver = metalliek: na de Dragonlord-eed is Argyn Kyrenos' bloed. Zoon van Nephele — kruist met Wauros.",
+      "log": []
+    },
+    {
+      "name": "Icarus",
+      "role": "Zilveren draak van Acastus — zoon van Nephele",
+      "loc": "Mytros",
+      "act": "Act 4",
+      "att": "Hostile",
+      "paths": "Gifted One, Dragonslayer",
+      "sec": "Eerste epische conflict van Act 4. Broer van Argyn; als Wauros Nephele bevrijdde staat hij tegenover haar zoon.",
+      "log": []
+    },
+    {
+      "name": "Helios",
+      "role": "Gouden draak — bewaakt het Fortress of the Dragonlords",
+      "loc": "Garden of Helios (Forgotten Sea)",
+      "act": "Act 3",
+      "att": "Hostile",
+      "paths": "Gifted One, Dragonslayer",
+      "sec": "In zijn schathoop ligt het instant fortress (Gifted task 1). Erinyes-scene: Helios wordt meegesleept naar het Island of Oathbreakers. In canon is Helios het Dragonslayer-doelwit — bij ons is dat Argyn, maar deze scene blijft bruikbaar als spiegel.",
+      "log": []
+    },
+    {
+      "name": "Chondrus",
+      "role": "Hogepriester van Lutheria — meester van de Grote Bibliotheek",
+      "loc": "Mytros (Act 2) → Island of Yonder (Act 3)",
+      "act": "Act 2",
+      "att": "Hostile",
+      "paths": "Dragonslayer, Lost One",
+      "sec": "Ooit in Lutheria's harem, weggeworpen. Pact met een arcanoloth uit Hades voor geheimen over de helden. Biedt aan de partij naar Hypnos te leiden — LEUGEN, hij saboteert. Draagt in canon het greater artifact van de Dragonslayer. Het Antikythera-tandwiel ligt in een verguld kistje in zijn kamer.",
+      "log": []
+    },
+    {
+      "name": "Druiden van de Oldwood",
+      "role": "Bosorde — geloven dat Mytros zich nooit in de Heartlands had mogen vestigen",
+      "loc": "Oldwood",
+      "act": "Act 1",
+      "att": "Friendly",
+      "paths": "Gifted One",
+      "sec": "AANBEVOLEN: zij vingen Wauros op na het incident. Verklaart waarom hij als tiener al ongecontroleerd wildshapete zonder een enkele les. Hun leer is letterlijk zijn grief tegen de Academie-buitenpost.",
+      "log": []
+    }
+  ],
+  "threads": [
+    {
+      "title": "The Three Great Labors",
+      "status": "active",
+      "desc": "Given by Oracle: (1) Horn of Balmytria — Mossy Temple. (2) Mithral Forge. (3) Weapons of the Dragonlords — Necropolis.",
+      "con": "Must complete all three to unlock the City of Mytros (Act 2)."
+    },
+    {
+      "title": "Two Dream Labors: Ultros + Antikythera",
+      "status": "hidden",
+      "desc": "Revealed in a dream after drinking the Horn. Find the ghost ship Ultros and the Antikythera navigation device.",
+      "con": "The Ultros unlocks Act 3. Antikythera needed to navigate the Cerulean Gulf."
+    },
+    {
+      "title": "Rescue Princess Anora",
+      "status": "hidden",
+      "desc": "Pythor's daughter is being sacrificed to Sydon. Pythor will not help with the Labors until she is safe.",
+      "con": "Without Pythor's guidance the Labors are harder and the party misses crucial lore."
+    },
+    {
+      "title": "Gaius and the Order of Sydon",
+      "status": "hidden",
+      "desc": "Recurring villain from Act 1. Rides silver dragon Argyn. Has the Vanished One's armor. Base on Island of Yonder.",
+      "con": "Keeps sending forces and blocking progress unless confronted."
+    },
+    {
+      "title": "Acastus's secret betrayal",
+      "status": "hidden",
+      "desc": "Acastus made pacts with the Titans for his dragons. Gave the Ultros map hoping Estor would kill the heroes.",
+      "con": "In Act 4 he unleashes dragon Icarus with disastrous results. Must be confronted."
+    },
+    {
+      "title": "Dragon eggs — who are the Dragonlords?",
+      "status": "hidden",
+      "desc": "VERDELING VASTLEGGEN: Tiebe via pseudodraak (classfeature, uiterlijk lvl 6). Marthe het brass ei op Fire Island (V15) via Versi's visioen. Wauros krijgt Vallus' geheime ei in Act 2. Reserve: koperen ei bij de Fates, en de drie eieren in Praxys waarvan er een nog leeft.",
+      "con": "Drie spelers eindigen bij een eigen draak. Broeden brass/gold = heet houden, o.a. met fire bolt — precies de cantrip die Wauros' voet verminkte."
+    },
+    {
+      "title": "The 60-day countdown",
+      "status": "hidden",
+      "desc": "The Oath of Peace expires 60 days after the Celebration in Act 2. The Titans prepare for war.",
+      "con": "If the party takes too long in Act 3, Mytros falls unprepared."
+    },
+    {
+      "title": "Ox' Oath of Service",
+      "status": "active",
+      "desc": "Ox is gebonden aan een priester van de Orde van Sydon (weet dat niet). Eed zonder limiet, taken of ontslagvoorwaarde. Niet reageren op een oproep = curse of the treacherous.",
+      "con": "Een keer inzetten op het slechtst mogelijke moment, met een schijnbaar redelijke vraag. Oracle-quote klaar: 'Je brak je ketens, maar gaf je naam weg.'"
+    },
+    {
+      "title": "Argyn — Kyrenos' doelwit",
+      "status": "active",
+      "desc": "De zilveren draak van Gaius doodde Adara en Kyrenos' kudde. Maar zilver is metalliek: na de Dragonlord-eed is Argyn zijn 'bloed'.",
+      "con": "Beslis: verdorven, of zelf slachtoffer van Gaius? Bepaalt of Act 3 op Yonder eindigt in doden of bevrijden."
+    },
+    {
+      "title": "Ophea leeft — vrijgekomen draad",
+      "status": "hidden",
+      "desc": "Pythors laatste grote liefde leeft als gevangene van Hexia. Hij loog over haar dood en haalde haar nooit terug.",
+      "con": "Hangt aan geen spelersblad meer. Schrappen, of behouden als partijquest die Pythors drankzucht verklaart."
+    },
+    {
+      "title": "Sirius' verspreide bemanning",
+      "status": "hidden",
+      "desc": "Zijn bemanningsleden spoelden aan op de eilanden van de Cerulean Gulf. Locaties nog te kiezen (suggestie: een bij de Barbarians of the Gulf, een als gevangene op Yonder, een dood).",
+      "con": "Vult Act 3-eilanden met persoonlijke inzet. Lost One task 1."
+    },
+    {
+      "title": "Kentimane — twee levens, een Titaan",
+      "status": "hidden",
+      "desc": "Orelle is voorspeld door zijn hand te sterven (Fates, Act 3); Sirius draagt zijn bloed (sarcofaag). Runen leesbaar in de Grote Bibliotheek op Yonder.",
+      "con": "Act 4: als Kentimane Mytros aanvalt hebben twee spelers een tegengestelde band met hem. Sirius' vloek is mogelijk het enige dat tegen hem opgewassen is."
+    },
+    {
+      "title": "De vergeten troonaanspraak",
+      "status": "hidden",
+      "desc": "De Greenbottles hadden een oude, waardeloos geworden aanspraak op de troon van Mytros — tot iemand hem gevaarlijk vond. Apollodorus weet dit niet. De Helm of Brilliance (bij de Amazonenkoningin) is het bewijs.",
+      "con": "Waarom Lutheria juist deze familie wiste. Maakt Apollodorus in Act 3+ een probleem voor Acastus."
+    },
+    {
+      "title": "Yonder — viervoudige afrekening",
+      "status": "hidden",
+      "desc": "Kyrenos/Argyn, Dragini's harnas, Sirius' runen in de Grote Bibliotheek, en Ox' Orde van Sydon (Gaius is de commandant).",
+      "con": "Speel als MEERDERE scenes: aankomst/bibliotheek eerst, dan de ontdekkingen, dan pas de confrontatie. Anders delen vier spelers een climax van vijf minuten."
+    },
+    {
+      "title": "The Five Gods' true nature",
+      "status": "hidden",
+      "desc": "The Five Gods are actually metallic dragons locked into mortal and divine forms after the First War.",
+      "con": "Reveal in Act 4 when the Oath ends and they transform. Do not spoil early."
+    },
+    {
+      "title": "Wauros' medaillon",
+      "status": "active",
+      "desc": "Grootmoeder spreekt wekelijks. Wil dat de Dragonlords herrijzen, maar eerst wraak op Sydon. Zij was zelf een wizard.",
+      "con": "Eindigt op Praxys: medaillon breken = haar ziel in Nephele, volwassen zilveren draak als bondgenoot, maar haar stem voorgoed weg."
+    },
+    {
+      "title": "Nephele, Argyn en Icarus — een broedsel",
+      "status": "hidden",
+      "desc": "Nephele is de moeder van beide draken. Sydon gaf haar twee draken om mee te paren en schonk het broedsel aan Gaius en Acastus.",
+      "con": "Kyrenos' wraak op Argyn en Wauros' bondgenootschap met Argyns moeder raken elkaar. Plan Praxys en Yonder samen. Act 4 conflict 1 (Icarus) is voor beiden familie."
+    },
+    {
+      "title": "De dam en de Orde van Sydon",
+      "status": "hidden",
+      "desc": "Water is Sydons domein. De Academie-buitenpost kon de dam bouwen omdat de Orde het toestond.",
+      "con": "Wauros' oudste grief hangt vast aan zijn eigen grootvader. Laat dit pas kloppen wanneer hij het zelf kan leggen."
+    },
+    {
+      "title": "De brandende achterpoten",
+      "status": "hidden",
+      "desc": "Cosmetisch effect in wolfsvorm. Wordt echt zodra hij bindt met een brass of red draak.",
+      "con": "Leest achteraf als voorspelling. De Fates in Act 3 mogen er een zin over kwijt."
+    },
+    {
+      "title": "De gebeten student",
+      "status": "hidden",
+      "desc": "Leeft, is nu meester aan de Academie, en vertelt het verhaal als een onprovoceerde monsteraanval.",
+      "con": "Wauros' reputatie in Mytros is negatief tot hij het rechtzet. Zijn keuze of hij dat wil."
+    },
+    {
+      "title": "Orelle en Wauros zijn familie",
+      "status": "active",
+      "desc": "Beiden dragen het bloed van Sydon — zij gedoemd, hij wraakzuchtig. Twee kanten van dezelfde erfenis.",
+      "con": "Licht Indy en Jonas vooraf in, net als bij Dragini/Kyrenos. Ze staan samen tegenover Sydon in Praxys."
+    },
+    {
+      "title": "Wauros tegen de geleerden",
+      "status": "active",
+      "desc": "Apollodorus is Academie-alumnus, Sirius is academicus-archeoloog. Allebei directe triggers voor zijn wizardhaat.",
+      "con": "Goede wrijving, maar niet als verrassing aan tafel. Damon in Act 1 is de eerste onvermijdelijke confrontatie."
+    },
+    {
+      "title": "De vrijgekomen Demi-God-lijn",
+      "status": "active",
+      "desc": "Pythor, Anora, Volkan, Hexia en Ophea hingen aan het Demi-God-blad. Niemand aan tafel heeft er nu nog een persoonlijke band mee.",
+      "con": "Anora redden werkt door als poort naar Pythor. Volkan blijft de smid. Hexia en Ophea zijn optioneel geworden."
+    },
+    {
+      "title": "Drie transformaties",
+      "status": "active",
+      "desc": "Smash overkomt Reed; Ox kiest het (bonus action); Wauros wildshapet routineus — maar zijn eerste keer was net zo ongecontroleerd als die van Reed.",
+      "con": "Benoem het verschil hardop, anders wordt het herhaling. Wauros mag dat ooit zelf tegen Ruben zeggen."
+    }
+  ],
+  "sessions": [
+    {
+      "num": "1",
+      "date": "2026-08-17",
+      "sum": "de party heeft zichzelf aan elkaar voorgesteld. samen zijn ze er in geslaagd om de boar te verslaan. zwijn geofferd aan vallus Twee downs, jarne's character en Dr.Reed. Daarnna vlot gesaved. Nu onderweg naar temple van versi, waar ze al snel doorhebben dat eriets neit pluis is. Ze hebben net de priester met soldiers en gijzelaars verslagen, einde sessie",
+      "cliff": "Wat is er aan de hand in de temple van het orakel, en wat heeft ze in petto",
+      "notes": ""
+    }
+  ],
+  "nfilt": "Act 1",
+  "combat": {
+    "combatants": [],
+    "current": -1,
+    "round": 0
   }
- ],
- "threads": [
-  {
-   "title": "The Three Great Labors",
-   "status": "active",
-   "desc": "Given by Oracle: (1) Horn of Balmytria — Mossy Temple. (2) Mithral Forge. (3) Weapons of the Dragonlords — Necropolis.",
-   "con": "Must complete all three to unlock the City of Mytros (Act 2)."
-  },
-  {
-   "title": "Two Dream Labors: Ultros + Antikythera",
-   "status": "hidden",
-   "desc": "Revealed in a dream after drinking the Horn. Find the ghost ship Ultros and the Antikythera navigation device.",
-   "con": "The Ultros unlocks Act 3. Antikythera needed to navigate the Cerulean Gulf."
-  },
-  {
-   "title": "Rescue Princess Anora",
-   "status": "hidden",
-   "desc": "Pythor's daughter is being sacrificed to Sydon. Pythor will not help with the Labors until she is safe.",
-   "con": "Without Pythor's guidance the Labors are harder and the party misses crucial lore."
-  },
-  {
-   "title": "Gaius and the Order of Sydon",
-   "status": "hidden",
-   "desc": "Recurring villain from Act 1. Rides silver dragon Argyn. Has the Vanished One's armor. Base on Island of Yonder.",
-   "con": "Keeps sending forces and blocking progress unless confronted."
-  },
-  {
-   "title": "Acastus's secret betrayal",
-   "status": "hidden",
-   "desc": "Acastus made pacts with the Titans for his dragons. Gave the Ultros map hoping Estor would kill the heroes.",
-   "con": "In Act 4 he unleashes dragon Icarus with disastrous results. Must be confronted."
-  },
-  {
-   "title": "Dragon eggs — who are the Dragonlords?",
-   "status": "hidden",
-   "desc": "VERDELING VASTLEGGEN: Tiebe via pseudodraak (classfeature, uiterlijk lvl 6). Marthe het brass ei op Fire Island (V15) via Versi's visioen. Wauros krijgt Vallus' geheime ei in Act 2. Reserve: koperen ei bij de Fates, en de drie eieren in Praxys waarvan er een nog leeft.",
-   "con": "Drie spelers eindigen bij een eigen draak. Broeden brass/gold = heet houden, o.a. met fire bolt — precies de cantrip die Wauros' voet verminkte."
-  },
-  {
-   "title": "The 60-day countdown",
-   "status": "hidden",
-   "desc": "The Oath of Peace expires 60 days after the Celebration in Act 2. The Titans prepare for war.",
-   "con": "If the party takes too long in Act 3, Mytros falls unprepared."
-  },
-  {
-   "title": "Ox' Oath of Service",
-   "status": "active",
-   "desc": "Ox is gebonden aan een priester van de Orde van Sydon (weet dat niet). Eed zonder limiet, taken of ontslagvoorwaarde. Niet reageren op een oproep = curse of the treacherous.",
-   "con": "Een keer inzetten op het slechtst mogelijke moment, met een schijnbaar redelijke vraag. Oracle-quote klaar: 'Je brak je ketens, maar gaf je naam weg.'"
-  },
-  {
-   "title": "Argyn — Kyrenos' doelwit",
-   "status": "active",
-   "desc": "De zilveren draak van Gaius doodde Adara en Kyrenos' kudde. Maar zilver is metalliek: na de Dragonlord-eed is Argyn zijn 'bloed'.",
-   "con": "Beslis: verdorven, of zelf slachtoffer van Gaius? Bepaalt of Act 3 op Yonder eindigt in doden of bevrijden."
-  },
-  {
-   "title": "Ophea leeft — vrijgekomen draad",
-   "status": "hidden",
-   "desc": "Pythors laatste grote liefde leeft als gevangene van Hexia. Hij loog over haar dood en haalde haar nooit terug.",
-   "con": "Hangt aan geen spelersblad meer. Schrappen, of behouden als partijquest die Pythors drankzucht verklaart."
-  },
-  {
-   "title": "Sirius' verspreide bemanning",
-   "status": "hidden",
-   "desc": "Zijn bemanningsleden spoelden aan op de eilanden van de Cerulean Gulf. Locaties nog te kiezen (suggestie: een bij de Barbarians of the Gulf, een als gevangene op Yonder, een dood).",
-   "con": "Vult Act 3-eilanden met persoonlijke inzet. Lost One task 1."
-  },
-  {
-   "title": "Kentimane — twee levens, een Titaan",
-   "status": "hidden",
-   "desc": "Orelle is voorspeld door zijn hand te sterven (Fates, Act 3); Sirius draagt zijn bloed (sarcofaag). Runen leesbaar in de Grote Bibliotheek op Yonder.",
-   "con": "Act 4: als Kentimane Mytros aanvalt hebben twee spelers een tegengestelde band met hem. Sirius' vloek is mogelijk het enige dat tegen hem opgewassen is."
-  },
-  {
-   "title": "De vergeten troonaanspraak",
-   "status": "hidden",
-   "desc": "De Greenbottles hadden een oude, waardeloos geworden aanspraak op de troon van Mytros — tot iemand hem gevaarlijk vond. Apollodorus weet dit niet. De Helm of Brilliance (bij de Amazonenkoningin) is het bewijs.",
-   "con": "Waarom Lutheria juist deze familie wiste. Maakt Apollodorus in Act 3+ een probleem voor Acastus."
-  },
-  {
-   "title": "Yonder — viervoudige afrekening",
-   "status": "hidden",
-   "desc": "Kyrenos/Argyn, Dragini's harnas, Sirius' runen in de Grote Bibliotheek, en Ox' Orde van Sydon (Gaius is de commandant).",
-   "con": "Speel als MEERDERE scenes: aankomst/bibliotheek eerst, dan de ontdekkingen, dan pas de confrontatie. Anders delen vier spelers een climax van vijf minuten."
-  },
-  {
-   "title": "The Five Gods' true nature",
-   "status": "hidden",
-   "desc": "The Five Gods are actually metallic dragons locked into mortal and divine forms after the First War.",
-   "con": "Reveal in Act 4 when the Oath ends and they transform. Do not spoil early."
-  },
-  {
-   "title": "Wauros' medaillon",
-   "status": "active",
-   "desc": "Grootmoeder spreekt wekelijks. Wil dat de Dragonlords herrijzen, maar eerst wraak op Sydon. Zij was zelf een wizard.",
-   "con": "Eindigt op Praxys: medaillon breken = haar ziel in Nephele, volwassen zilveren draak als bondgenoot, maar haar stem voorgoed weg."
-  },
-  {
-   "title": "Nephele, Argyn en Icarus — een broedsel",
-   "status": "hidden",
-   "desc": "Nephele is de moeder van beide draken. Sydon gaf haar twee draken om mee te paren en schonk het broedsel aan Gaius en Acastus.",
-   "con": "Kyrenos' wraak op Argyn en Wauros' bondgenootschap met Argyns moeder raken elkaar. Plan Praxys en Yonder samen. Act 4 conflict 1 (Icarus) is voor beiden familie."
-  },
-  {
-   "title": "De dam en de Orde van Sydon",
-   "status": "hidden",
-   "desc": "Water is Sydons domein. De Academie-buitenpost kon de dam bouwen omdat de Orde het toestond.",
-   "con": "Wauros' oudste grief hangt vast aan zijn eigen grootvader. Laat dit pas kloppen wanneer hij het zelf kan leggen."
-  },
-  {
-   "title": "De brandende achterpoten",
-   "status": "hidden",
-   "desc": "Cosmetisch effect in wolfsvorm. Wordt echt zodra hij bindt met een brass of red draak.",
-   "con": "Leest achteraf als voorspelling. De Fates in Act 3 mogen er een zin over kwijt."
-  },
-  {
-   "title": "De gebeten student",
-   "status": "hidden",
-   "desc": "Leeft, is nu meester aan de Academie, en vertelt het verhaal als een onprovoceerde monsteraanval.",
-   "con": "Wauros' reputatie in Mytros is negatief tot hij het rechtzet. Zijn keuze of hij dat wil."
-  },
-  {
-   "title": "Orelle en Wauros zijn familie",
-   "status": "active",
-   "desc": "Beiden dragen het bloed van Sydon — zij gedoemd, hij wraakzuchtig. Twee kanten van dezelfde erfenis.",
-   "con": "Licht Indy en Jonas vooraf in, net als bij Dragini/Kyrenos. Ze staan samen tegenover Sydon in Praxys."
-  },
-  {
-   "title": "Wauros tegen de geleerden",
-   "status": "active",
-   "desc": "Apollodorus is Academie-alumnus, Sirius is academicus-archeoloog. Allebei directe triggers voor zijn wizardhaat.",
-   "con": "Goede wrijving, maar niet als verrassing aan tafel. Damon in Act 1 is de eerste onvermijdelijke confrontatie."
-  },
-  {
-   "title": "De vrijgekomen Demi-God-lijn",
-   "status": "active",
-   "desc": "Pythor, Anora, Volkan, Hexia en Ophea hingen aan het Demi-God-blad. Niemand aan tafel heeft er nu nog een persoonlijke band mee.",
-   "con": "Anora redden werkt door als poort naar Pythor. Volkan blijft de smid. Hexia en Ophea zijn optioneel geworden."
-  },
-  {
-   "title": "Drie transformaties",
-   "status": "active",
-   "desc": "Smash overkomt Reed; Ox kiest het (bonus action); Wauros wildshapet routineus — maar zijn eerste keer was net zo ongecontroleerd als die van Reed.",
-   "con": "Benoem het verschil hardop, anders wordt het herhaling. Wauros mag dat ooit zelf tegen Ruben zeggen."
-  }
- ],
- "sessions": [
-  {
-   "num": "1",
-   "date": "2026-08-17",
-   "sum": "de party heeft zichzelf aan elkaar voorgesteld. samen zijn ze er in geslaagd om de boar te verslaan. zwijn geofferd aan vallus Twee downs, jarne's character en Dr.Reed. Daarnna vlot gesaved. Nu onderweg naar temple van versi, waar ze al snel doorhebben dat eriets neit pluis is. Ze hebben net de priester met soldiers en gijzelaars verslagen, einde sessie",
-   "cliff": "Wat is er aan de hand in de temple van het orakel, en wat heeft ze in petto",
-   "notes": ""
-  }
- ],
- "nfilt": "Prologue",
- "combat": {
-  "combatants": [],
-  "current": -1,
-  "round": 0
- }
 }
