@@ -38,7 +38,7 @@
       "path": "The Lost One",
       "hp": "",
       "fame": 0,
-      "notes": "Archeoloog, schipbreuk op zoek naar de schatten van de Dragonlords, door vissers naar Mytros gebracht. CANON: PYTHOR in Estoria kent het spoor naar de schat maar werkt pas mee nadat ANORA van het offer gered is (Act 1); dan onthult hij dat ESTOR ARKELANDER de laatste bezitter was. VALLUS (Act 2): het Antikythera kan door een gygan-smid - STEROS, BRONT of GARZOON - omgebouwd worden tot een kaart door de Forgotten Sea naar de buitenwereld. Dat is zijn WEG NAAR HUIS, drie akten eerder dan Theogenesis. ESTOR eist eerste keuze uit de schat maar zegt pas wat hij wil na toestemming: hij neemt de xiphos of slaughter. De schat ligt in de spiegelgevangenis in de Nether Sea, bewaakt door HEZZEBAL. Zijn item: GEM OF SEEING. Divine boon: Estor bezit zijn lichaam en de speler speelt door. OPEN EN VAN ONS: de bemanning (canon geeft geen locaties), Smash' herkomst, de Woedemeter-huisregel. Nu Kentimane niet meer Orelles doem is, staat de sarcofaag-herkomst vrij om opnieuw te kiezen."
+      "notes": "Archeoloog, schipbreuk op zoek naar de schatten van de Dragonlords, door vissers naar Mytros gebracht. CANON: PYTHOR in Estoria kent het spoor naar de schat maar werkt pas mee nadat ANORA van het offer gered is (Act 1); dan onthult hij dat ESTOR ARKELANDER de laatste bezitter was. VALLUS (Act 2): het Antikythera kan door een gygan-smid - STEROS, BRONT of GARZOON - omgebouwd worden tot een kaart door de Forgotten Sea naar de buitenwereld. Dat is zijn WEG NAAR HUIS, drie akten eerder dan Theogenesis. ESTOR eist eerste keuze uit de schat maar zegt pas wat hij wil na toestemming: hij neemt de xiphos of slaughter. De schat ligt in de spiegelgevangenis in de Nether Sea, bewaakt door HEZZEBAL. Zijn item: GEM OF SEEING. Divine boon: Estor bezit zijn lichaam en de speler speelt door. OPEN EN VAN ONS: de Woedemeter-huisregel (nog te ontwerpen). Smash' herkomst EN de verspreide bemanning zijn nu gekoppeld: tijdens Reeds oorspronkelijke expeditie raakte de bemanning de rand van Hezzebals spiegelgevangenis in de Nether Sea aan en verstoorde een fragment van zijn essentie — dat verklaart zowel het uiteenspatten van de bemanning als Reeds ongecontroleerde transformatie tot Smash. Geen Kentimane meer bij betrokken."
     },
     {
       "player": "Marthe",
@@ -225,6 +225,16 @@
       "log": []
     },
     {
+      "name": "Hezzebal",
+      "role": "Waanzinnige draak — bewaker van de spiegelgevangenis",
+      "loc": "Nether Sea — spiegelgevangenis",
+      "act": "Act 2",
+      "att": "Hostile",
+      "paths": "Lost One, Vanished One",
+      "sec": "Bewaakt de spiegelgevangenis in de Nether Sea waar Sirius' schat (incl. de Gem of Seeing) ligt. VANISHED ONE: geeft Dragini de schuld van zijn opsluiting. Waanzin te genezen met 3x greater restoration, wat hij als aanval opvat — praten blijft mogelijk tijdens het gevecht (twee heroic tasks ineen). LOST ONE: herkent dat Reeds oorspronkelijke bemanning ooit de rand van zijn gevangenis verstoorde — dat moment veroorzaakte zowel het uiteenspatten van de bemanning als Reeds ongecontroleerde transformatie tot Smash.",
+      "log": []
+    },
+    {
       "name": "The Three Fates",
       "role": "Ancient hag coven — weavers of destiny",
       "loc": "Island of the Fates",
@@ -291,7 +301,7 @@
       "act": "Act 4",
       "att": "Hostile",
       "paths": "—",
-      "sec": "De Honderdhandige, vader van de Titanen. Niet langer Orelles doem (dat is Lutheria's Joke) — en daarmee is ook Smash' sarcofaag-herkomst weer open (nog te herbepalen, zie thread 'Kentimane - losgekoppeld'). Valt Mytros aan in Act 4.",
+      "sec": "De Honderdhandige, vader van de Titanen. Geen link meer met Orelle (dat is Lutheria's Joke) of met Sirius (diens herkomst komt nu van Hezzebal, zie thread 'Sirius' verspreide bemanning & de oorsprong van Smash'). Valt Mytros aan in Act 4.",
       "log": []
     },
     {
@@ -457,16 +467,16 @@
       "con": "Hangt aan geen spelersblad meer. Schrappen, of behouden als partijquest die Pythors drankzucht verklaart."
     },
     {
-      "title": "Sirius' verspreide bemanning",
+      "title": "Sirius' verspreide bemanning & de oorsprong van Smash",
       "status": "hidden",
-      "desc": "Zijn bemanningsleden spoelden aan op de eilanden van de Cerulean Gulf. Locaties nog te kiezen (suggestie: een bij de Barbarians of the Gulf, een als gevangene op Yonder, een dood).",
-      "con": "Vult Act 3-eilanden met persoonlijke inzet. Lost One task 1."
+      "desc": "Tijdens Reeds oorspronkelijke expeditie raakte de bemanning de rand van Hezzebals spiegelgevangenis in de Nether Sea aan en verstoorde een fragment van zijn essentie. Gevolg: de bemanning spoelde verspreid aan op de eilanden van de Cerulean Gulf (suggestie: één bij de Barbarians of the Gulf, één als gevangene op Yonder, één dood) — en Reed zelf veranderde ongecontroleerd in Smash.",
+      "con": "Vult Act 3-eilanden met persoonlijke inzet (Lost One task 1) EN verklaart Smash' herkomst in één beweging. Hezzebal kan dit bij de finale confrontatie herkennen — 'jij bent al eens hier geweest' — sluit aan bij 'Hezzebal - dubbele scene'."
     },
     {
       "title": "Kentimane - losgekoppeld",
       "status": "hidden",
       "desc": "Kentimane is niet langer Orelles doem (canon: dat is Lutheria) en de sarcofaag-herkomst van Smash staat daarmee vrij.",
-      "con": "Kentimane blijft een Titaan in Act 4. Kies opnieuw waar Smash' vloek vandaan komt - dit is nu een open plek, geen probleem."
+      "con": "Kentimane blijft een Titaan in Act 4, maar los van Sirius. BESLIST: de sarcofaag-herkomst is vervangen door de Hezzebal-origin, zie thread 'Sirius' verspreide bemanning & de oorsprong van Smash'."
     },
     {
       "title": "De vergeten troonaanspraak",
@@ -572,7 +582,7 @@
       "title": "Hezzebal - dubbele scene",
       "status": "hidden",
       "desc": "De draak die de spiegelgevangenis bewaakt geeft Dragini de schuld van zijn opsluiting; in diezelfde hoard ligt Sirius' schat en de Gem of Seeing.",
-      "con": "Waanzin te genezen met 3x greater restoration, wat hij als aanval opvat. Twee heroic tasks in een gevecht waar praten mogelijk is.",
+      "con": "Waanzin te genezen met 3x greater restoration, wat hij als aanval opvat. Twee heroic tasks in een gevecht waar praten mogelijk is. Herkent Reed van de oude expeditie (zie 'Sirius' verspreide bemanning & de oorsprong van Smash') — dat kan het gesprek openen.",
       "log": []
     },
     {
