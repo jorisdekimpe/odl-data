@@ -636,7 +636,7 @@
         "id": "1789411028795_0.16637149838417065",
         "name": "centaur hero",
         "init": 0,
-        "hp": 21,
+        "hp": 11,
         "maxHp": 57,
         "isPlayer": false,
         "active": true
@@ -692,7 +692,7 @@
         "active": true
       }
     ],
-    "current": 4,
+    "current": 5,
     "round": 1
   }
 }
