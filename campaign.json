@@ -613,22 +613,22 @@
   "combat": {
     "combatants": [
       {
-        "id": "pl_0",
-        "playerId": 0,
-        "name": "Laura (Ox)",
-        "init": 20,
-        "hp": 14,
-        "maxHp": 14,
-        "isPlayer": true,
-        "active": true
-      },
-      {
         "id": "pl_6",
         "playerId": 6,
         "name": "Jonas (Wauros)",
         "init": 20,
         "hp": 20,
         "maxHp": 20,
+        "isPlayer": true,
+        "active": true
+      },
+      {
+        "id": "pl_0",
+        "playerId": 0,
+        "name": "Laura (Ox)",
+        "init": 20,
+        "hp": 14,
+        "maxHp": 14,
         "isPlayer": true,
         "active": true
       },
@@ -692,7 +692,7 @@
         "active": true
       }
     ],
-    "current": -1,
-    "round": 0
+    "current": 1,
+    "round": 1
   }
 }
