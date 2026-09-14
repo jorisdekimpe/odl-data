@@ -636,10 +636,10 @@
         "id": "1789411028795_0.16637149838417065",
         "name": "centaur hero",
         "init": 0,
-        "hp": 7,
+        "hp": 0,
         "maxHp": 57,
         "isPlayer": false,
-        "active": true
+        "active": false
       },
       {
         "id": "pl_5",
