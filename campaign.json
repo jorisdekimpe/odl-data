@@ -132,8 +132,8 @@
       "loc": "Estoria — Volkan's Hall",
       "act": "Act 1",
       "att": "Friendly",
-      "paths": "Doomed One",
-      "sec": "God of Forges — IN ESTORIA, niet Mytros. Verstrooide dwergensmid, vader van Pythor, echtgenoot van Mytros. Smeedt aan de Mithral Forge zodra de vuren branden: Orelles Breastplate of Invulnerability tegen Lutheria's Joke, en verder wat de partij aanlevert. Stuurt een keledone om af te leveren. Joins Ultros crew Act 2. Wordt draak in Act 4.",
+      "paths": "—",
+      "sec": "God of Forges — IN ESTORIA, niet Mytros. Verstrooide dwergensmid, vader van Pythor, echtgenoot van Mytros. Smeedt aan de Mithral Forge zodra de vuren branden wat de partij aanlevert. NIET Orelles artefact: haar Breastplate of Invulnerability wordt gemaakt aan het weefgetouw van de Fates (Act 3). Stuurt een keledone om af te leveren. Joins Ultros crew Act 2. Wordt draak in Act 4.",
       "log": []
     },
     {
@@ -243,7 +243,7 @@
       "act": "Act 3",
       "att": "Neutral",
       "paths": "Doomed One, Haunted One, Cursed One",
-      "sec": "Onthullen aan Orelle: haar doem-wezen is KENTIMANE. Kennen de waarheid over Apollodorus' familie en de troonaanspraak. Voor Ox: zijn volk ziet de vloek als hun wil — was dat rechtvaardig? Verdeel over meerdere scenes. Extremely dangerous to bargain with.",
+      "sec": "Onthullen aan Orelle de volledige geboorteprofetie: Lutheria liet haar ouders afslachten, ze moet drie keer sterven. Aan hun weefgetouw wordt haar Breastplate of Invulnerability gemaakt (onderhandelen of ze doden). Demetria (Mossy Temple) zet dit in met 'alleen de Fates kunnen meer zeggen'. Kennen de waarheid over Apollodorus' familie en de troonaanspraak. Voor Ox: zijn volk ziet de vloek als hun wil — was dat rechtvaardig? Verdeel over meerdere scenes. Extremely dangerous to bargain with.",
       "log": []
     },
     {
