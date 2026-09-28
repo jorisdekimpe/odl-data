@@ -38,7 +38,7 @@
       "path": "The Lost One",
       "hp": "",
       "fame": 0,
-      "notes": "Archeoloog, schipbreuk op zoek naar de schatten van de Dragonlords, door vissers naar Mytros gebracht. CANON: PYTHOR in Estoria kent het spoor naar de schat maar werkt pas mee nadat ANORA van het offer gered is (Act 1); dan onthult hij dat ESTOR ARKELANDER de laatste bezitter was. VALLUS (Act 2): het Antikythera kan door een gygan-smid - STEROS, BRONT of GARZOON - omgebouwd worden tot een kaart door de Forgotten Sea naar de buitenwereld. Dat is zijn WEG NAAR HUIS, drie akten eerder dan Theogenesis. ESTOR eist eerste keuze uit de schat maar zegt pas wat hij wil na toestemming: hij neemt de xiphos of slaughter. De schat ligt in de spiegelgevangenis in de Nether Sea, bewaakt door HEZZEBAL. Zijn item: GEM OF SEEING. Divine boon: Estor bezit zijn lichaam en de speler speelt door. OPEN EN VAN ONS: de Woedemeter-huisregel (nog te ontwerpen). Smash' herkomst EN de verspreide bemanning zijn nu gekoppeld: tijdens Reeds oorspronkelijke expeditie raakte de bemanning de rand van Hezzebals spiegelgevangenis in de Nether Sea aan en verstoorde een fragment van zijn essentie — dat verklaart zowel het uiteenspatten van de bemanning als Reeds ongecontroleerde transformatie tot Smash. Geen Kentimane meer bij betrokken."
+      "notes": "Archeoloog, schipbreuk op zoek naar de schatten van de Dragonlords, door vissers naar Mytros gebracht. CANON: PYTHOR in Estoria kent het spoor naar de schat maar werkt pas mee nadat ANORA van het offer gered is (Act 1); dan onthult hij dat ESTOR ARKELANDER de laatste bezitter was. VALLUS (Act 2): het Antikythera kan door een gygan-smid - STEROS, BRONT of GARZOON - omgebouwd worden tot een kaart door de Forgotten Sea naar de buitenwereld. Dat is zijn WEG NAAR HUIS, drie akten eerder dan Theogenesis. ESTOR eist eerste keuze uit de schat maar zegt pas wat hij wil na toestemming: hij neemt de xiphos of slaughter. De schat ligt in de spiegelgevangenis in de Nether Sea, bewaakt door HEZZEBAL. Zijn item: GEM OF SEEING. Divine boon: Estor bezit zijn lichaam en de speler speelt door. OPEN EN VAN ONS: de Woedemeter-huisregel (nog te ontwerpen). Smash' herkomst EN de verspreide bemanning zijn nu gekoppeld: tijdens Reeds oorspronkelijke expeditie raakte de bemanning de rand van Hezzebals spiegelgevangenis in de Nether Sea aan en verstoorde een fragment van zijn essentie — dat verklaart zowel het uiteenspatten van de bemanning als Reeds ongecontroleerde transformatie tot Smash. Geen Kentimane meer bij betrokken. YONDER (beslist 28/09): in Gaius' cellen zit MIKHAEL, laatste overlevende van een luchtschip-expeditie uit de buitenwereld die wél voorbij de Forgotten Sea raakte. Geen bemanningslid van Reed, wel een lotgenoot: het levende bewijs dat de weg naar huis bestaat."
     },
     {
       "player": "Marthe",
@@ -192,8 +192,8 @@
       "loc": "Heartlands (Act 1) → Island of Yonder (Act 3)",
       "act": "Act 1",
       "att": "Hostile",
-      "paths": "Vanished One, Dragonslayer, Cursed One, Gifted One",
-      "sec": "DRIEVOUDIGE aartsvijand: rijdt ARGYN (zoon van Nephele), bewaart Dragini's harnas op Yonder, en Ox' priester dient zijn Orde. Stuurt centaurenwarbands (pijnlijk voor Kyrenos). Yonder Act 3 = drievoudige afrekening: Dragini's harnas, Sirius' runen, Ox' Orde — speel als meerdere scenes. Voor Kyrenos is Yonder een tussenstap (Chondrus' koopje: het Dragonslayer-wapen), niet zijn wraak: dat is Helios. Beslis (optioneel): is Argyn verdorven of zelf slachtoffer?",
+      "paths": "Vanished One, Dragonslayer, Cursed One, Gifted One, Lost One",
+      "sec": "Aartsvijand: rijdt ARGYN (zoon van Nephele, door hem verdorven), bewaart Dragini's harnas op Yonder, en Ox' priester dient zijn Orde (speelt in Mytros, niet op Yonder). Stuurt centaurenwarbands (pijnlijk voor Kyrenos). YONDER Act 3 = DRIEVOUDIGE afrekening (beslist 28/09): Dragini's Cloak of the Bat in zijn kamer, Kyrenos' Dragonslayer-wapen via Chondrus' koopje, en Sirius' lotgenoot Mikhael in de cellen — met het Antikythera-tandwiel als reden om er te zijn. Speel als meerdere scenes. Voor Kyrenos is Yonder een tussenstap, niet zijn wraak: dat is Helios.",
       "log": []
     },
     {
@@ -362,8 +362,8 @@
       "loc": "Island of Yonder",
       "act": "Act 3",
       "att": "Hostile",
-      "paths": "Dragonslayer, Gifted One",
-      "sec": "Rijdier van Gaius op Yonder, zoon van Nephele — kruist met Wauros (Icarus is zijn broer, zie thread 'Nephele, Argyn en Icarus — een broedsel'). GEEN heroic task en GEEN Dragonslayer-doelwit meer: dat is Helios (locked 17/09, zie diens kaart). Versi's profetie uit sessie 2 wees naar Argyn/Gaius: dat is nu een tussenstap (Yonder → Chondrus → Dragonslayer-wapen), niet de wraak. BESLIS (optioneel): verdorven door Gaius, of zelf slachtoffer?",
+      "paths": "Gifted One",
+      "sec": "Rijdier van Gaius op Yonder, zoon van Nephele — kruist met Wauros (Icarus is zijn broer, zie thread 'Nephele, Argyn en Icarus — een broedsel'). BESLIST 28/09: verdorven door Gaius — gewoon een vijand, geen slachtoffer om te bevrijden. Geen heroic task en geen Dragonslayer-doelwit: dat is Helios (locked 17/09). Versi's profetie uit sessie 2 wees naar Argyn/Gaius: dat is nu een tussenstap (Yonder → Chondrus → Dragonslayer-wapen), niet de wraak.",
       "log": []
     },
     {
@@ -404,6 +404,56 @@
       "att": "Friendly",
       "paths": "Gifted One",
       "sec": "AANBEVOLEN: zij vingen Wauros op na het incident. Verklaart waarom hij als tiener al ongecontroleerd wildshapete zonder een enkele les. Hun leer is letterlijk zijn grief tegen de Academie-buitenpost.",
+      "log": []
+    },
+    {
+      "name": "Thericles",
+      "role": "Oud-verkenner van de koning — wijnboer, vader van Corinna",
+      "loc": "Estoria — Estorian Vineyards",
+      "act": "Act 1",
+      "att": "Friendly",
+      "paths": "—",
+      "sec": "NG scout. Diende vroeger de koning, nu met zijn man wijnboer aan de rand van Estoria; zeer gerespecteerd. Afstammeling van de Phobas-lijn van de Dragonlords (Rizon Phobas) — Aesop noemt hem en Acastus de laatste echte erfgenamen van Rizon en Estor. Wanhopig: Corinna verdween een week geleden in het Oldwood. QUEST Missing Daughter: brengen de helden haar terug, dan schenkt hij zijn familie-erfstuk, een JAVELIN OF LIGHTNING. Nog niet ontmoet.",
+      "log": []
+    },
+    {
+      "name": "Corinna",
+      "role": "Dochter van Thericles — ontsnapt uit de Mossy Temple",
+      "loc": "Oldwood → Mossy Temple",
+      "act": "Act 1",
+      "att": "Friendly",
+      "paths": "—",
+      "sec": "NG scout. Werd met haar vrienden door Demetria naar de tempel gelokt (rijkdom, schoonheid, roem). De satyr Loreus waarschuwde haar; ze vluchtte met de goatlings op haar hielen — zo ontmoet ze de helden (Encounter: Tribe of Goatlings). Bevestigt dat de Hoorn in de tempel ligt, waarschuwt dat Demetria iedereen verliefd praat, en wil per se mee om haar vrienden te redden. Met Corinna erbij slaagt de Persuasion DC 15 bij het feestmaal automatisch, en ze rent naar Sostrate (T8). BESLIST 19/09: volgt het boek, geen link met Wauros.",
+      "log": []
+    },
+    {
+      "name": "Loreus",
+      "role": "Jonge satyr — verliefde waarschuwer, mogelijke volgeling",
+      "loc": "Mossy Temple (T10) → Mytros → de Ultros",
+      "act": "Act 1",
+      "att": "Friendly",
+      "paths": "—",
+      "sec": "CG satyr met een beschermde opvoeding: schrijft liefdesgedichten, leest epische romances, gefascineerd door stervelingen die op helden lijken. Waarschuwde Corinna. Vertelt Demetria's geschiedenis (Estor hakte de eik van haar zus om voor de Ultros; daarna haar pact met Lutheria) en stuurt de helden naar de keukens. Wordt verliefd op de eerste held die hem vriendelijkheid toont, volgt die stilletjes en zet met zijn panfluit één vijand in slaap. Laat je hem achter, dan duikt hij op in Mytros met een snuisterij voor elke held; bij het vertrek van de Ultros zweert hij zijn geliefde een eed van bescherming (garland van witte bloemen). Het boek bedoelt hem als speelbare volgeling.",
+      "log": []
+    },
+    {
+      "name": "Herkus",
+      "role": "Gnoom-druïde van het Oldwood — krankzinnig, als eekhoorn",
+      "loc": "Mossy Temple — Standing Stones (T1)",
+      "act": "Act 1",
+      "att": "Friendly",
+      "paths": "—",
+      "sec": "CG druid (Small, darkvision, speed 25, gnome cunning; tweemaal per dag polymorph in een beast tot CR 1/2). Demetria vergiftigde hem met thee van een bloem uit de Ancient Glade: volledig krankzinnig. Als eekhoorn kettert hij, gooit nootjes en bijt; pas gevangen of gewond wordt hij weer gnoom. Volgt daarna de held die hem ving op diens schouder, gooit nootjes naar vijanden, en ruikt bij het feestmaal dat het vlees mensenvlees is. Genezen (greater restoration): een erg praatgrage gnoom die de helden uitvoerig bedankt. Lid van de Druïden van het Oldwood — dezelfde orde als Wauros' volk. BESLIST: blijft een gewone boek-NPC.",
+      "log": []
+    },
+    {
+      "name": "Mikhael",
+      "role": "Outsider-kapitein — gevangene van de Orde",
+      "loc": "Island of Yonder — cellen",
+      "act": "Act 3",
+      "att": "Friendly",
+      "paths": "Lost One",
+      "sec": "LG veteran. Laatste overlevende van een expeditie uit de buitenwereld die per LUCHTSCHIP voorbij de gevaren van de Forgotten Sea raakte; Sydon stuurde rocs om het schip te vernietigen en de kapitein te laten verhoren. De waardevolste gevangene die de Orde ooit had. BESLIST 28/09: Sirius' lotgenoot op Yonder (vervangt de 'runen') — geen bemanningslid van Reed, wel het levende bewijs dat de weg naar huis bestaat.",
       "log": []
     }
   ],
@@ -471,7 +521,7 @@
     {
       "title": "Sirius' verspreide bemanning & de oorsprong van Smash",
       "status": "hidden",
-      "desc": "Tijdens Reeds oorspronkelijke expeditie raakte de bemanning de rand van Hezzebals spiegelgevangenis in de Nether Sea aan en verstoorde een fragment van zijn essentie. Gevolg: de bemanning spoelde verspreid aan op de eilanden van de Cerulean Gulf (suggestie: één bij de Barbarians of the Gulf, één als gevangene op Yonder, één dood) — en Reed zelf veranderde ongecontroleerd in Smash.",
+      "desc": "Tijdens Reeds oorspronkelijke expeditie raakte de bemanning de rand van Hezzebals spiegelgevangenis in de Nether Sea aan en verstoorde een fragment van zijn essentie. Gevolg: de bemanning spoelde verspreid aan op de eilanden van de Cerulean Gulf (suggestie: één bij de Barbarians of the Gulf, één dood; op Yonder zit geen bemanningslid maar lotgenoot Mikhael, zie diens kaart) — en Reed zelf veranderde ongecontroleerd in Smash.",
       "con": "Vult Act 3-eilanden met persoonlijke inzet (Lost One task 1) EN verklaart Smash' herkomst in één beweging. Hezzebal kan dit bij de finale confrontatie herkennen — 'jij bent al eens hier geweest' — sluit aan bij 'Hezzebal - dubbele scene'."
     },
     {
@@ -489,8 +539,8 @@
     {
       "title": "Yonder - drievoudige afrekening",
       "status": "hidden",
-      "desc": "Het Antikythera-tandwiel bij Chondrus, Kyrenos' greater item (Dragonslayer) dat Chondrus zelf aanbiedt, en Dragini's Cloak of the Bat in Gaius' kamer.",
-      "con": "Lichter geworden nu Argyn geen heroic task meer is. Nog steeds als meerdere scenes spelen: aankomst en bibliotheek, dan Chondrus, dan Gaius."
+      "desc": "Drie persoonlijke lijnen + het tandwiel (beslist 28/09): Dragini's Cloak of the Bat in Gaius' kamer; Kyrenos' Dragonslayer-wapen dat Chondrus zelf aanbiedt als deel van zijn verraderlijke koopje; en Mikhael, Sirius' outsider-lotgenoot in de cellen, die een weg voorbij de Forgotten Sea kent. Het Antikythera-tandwiel (verguld kistje bij Chondrus) is de reden om er te zijn.",
+      "con": "Speel als meerdere scenes: aankomst en bibliotheek, Chondrus (tandwiel + koopje), de cellen en Gaius' kamer, dan Gaius & Argyn. Ox' Orde speelt niet hier. Argyn = verdorven, gewoon een vijand."
     },
     {
       "title": "The Five Gods' true nature",
