@@ -3,7 +3,7 @@
     {
       "player": "Laura",
       "name": "Ox",
-      "cls": "Barbarian 1",
+      "cls": "Barbarian 2",
       "race": "Thylean Minotaur",
       "path": "The Cursed One",
       "hp": 14,
@@ -13,7 +13,7 @@
     {
       "player": "Indy",
       "name": "Orelle",
-      "cls": "Fighter 1 (Hoplite)",
+      "cls": "Fighter 2 (Hoplite)",
       "race": "Thylean Siren",
       "path": "The Doomed One",
       "hp": "",
@@ -23,7 +23,7 @@
     {
       "player": "Tiebe",
       "name": "Kyrenos Dragonbane",
-      "cls": "Paladin 1 (Oath of the Dragonlord)",
+      "cls": "Paladin 2 (Oath of the Dragonlord)",
       "race": "Thylean Centaur",
       "path": "The Dragonslayer",
       "hp": "",
@@ -33,7 +33,7 @@
     {
       "player": "Ruben",
       "name": "Dr. Sirius Reed / Smash",
-      "cls": "Artificer 1 / Barbarian 1",
+      "cls": "Artificer 2 / Barbarian 2",
       "race": "Elf / Goliath",
       "path": "The Lost One",
       "hp": "",
@@ -43,7 +43,7 @@
     {
       "player": "Marthe",
       "name": "Dragini Led Vit",
-      "cls": "Monk 1",
+      "cls": "Monk 2",
       "race": "Dragonborn (wit)",
       "path": "The Vanished One",
       "hp": 8,
@@ -53,7 +53,7 @@
     {
       "player": "Jarne",
       "name": "Apollodorus",
-      "cls": "Bard 1",
+      "cls": "Bard 2",
       "race": "Halfling",
       "path": "The Haunted One",
       "hp": "",
@@ -63,7 +63,7 @@
     {
       "player": "Jonas",
       "name": "Wauros",
-      "cls": "Druid 1 (Circle of the Moon)",
+      "cls": "Druid 2 (Circle of the Moon)",
       "race": "Thyleaans — Druïden van het Oldwood",
       "path": "The Gifted One",
       "hp": "",
@@ -673,5 +673,6 @@
     "combatants": [],
     "current": -1,
     "round": 2
-  }
+  },
+  "lvl": 2
 }
