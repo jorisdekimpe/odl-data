@@ -68,7 +68,7 @@
       "path": "The Gifted One",
       "hp": "",
       "fame": 0,
-      "notes": "BESLIST 19/09: Circle of the Moon (niet het boek's Circle of Sacrifice); zijn volk zijn de Druïden van het Oldwood, dezelfde orde als Herkus. NOG OPEN: of hij zichzelf hernoemd heeft bij vertrek uit het dorp (raakt Ox' naamthema). GEEN centaur - dat is Tiebe. ZIJN HELE ACHTERGROND IS CANON: kleinkind van SYDON. Zijn grootmoeder was een sterfelijke tovenares op wie Sydon verliefd werd; Lutheria overtuigde hem dat die liefde hem bedierf, waarop Sydon haar vermoordde - zonder te weten dat ze al een dochter had. Versi onthult dit en geeft hem haar MEDAILLON (proloog). Een week later spreekt de geest voor het eerst: laat de Dragonlords herrijzen, maar neem eerst wraak op Sydon. Zijn wizardhaat is dus zelfhaat. XANDER geeft hem de TWEEDE KROON (Necropolis, Act 1). VALLUS (Act 2): de vesting is in het bezit van een draak in de Garden of Helios. Het geheime drakenei uit de bronzen kist gaat naar hem - NIET het ei van Fire Island, dat is van Dragini. INSTANT FORTRESS in de schathoop van Helios (Act 3). NEPHELE op Praxys: een clone uit het vlees van de zilveren draak BALMYTRIA, zielloos, nooit leren spreken; Sydon liet haar paren met een bronzen en een koperen draak en schonk het broedsel - waaronder ICARUS en ARGYN - aan Acastus en Gaius. Medaillon breken = grootmoeders ziel in Nephele: een volwassen zilveren draak als bondgenoot, arrogant en grillig, alleen bereid te helpen tegen Sydon - en haar stem is voorgoed weg. Sydon herkent hem en is teleurgesteld dat zijn nageslacht zo klein uitviel. Divine boon: Vallus wekt hem op met true resurrection. Dorp aan de Oldwood, de dam, fire bolt op zijn blote voeten, eerste ongecontroleerde wildshape (wolf), beet de student - die leeft en is nu meester aan de Academie."
+      "notes": "BESLIST 19/09: Circle of the Moon (niet het boek's Circle of Sacrifice); zijn volk zijn de Druïden van het Oldwood, dezelfde orde als Herkus. NOG OPEN: of hij zichzelf hernoemd heeft bij vertrek uit het dorp (raakt Ox' naamthema). GEEN centaur - dat is Tiebe. ZIJN HELE ACHTERGROND IS CANON: kleinkind van SYDON. Zijn grootmoeder was een sterfelijke tovenares op wie Sydon verliefd werd; Lutheria overtuigde hem dat die liefde hem bedierf, waarop Sydon haar vermoordde - zonder te weten dat ze al een dochter had. Versi onthult dit en geeft hem haar MEDAILLON (proloog). Een week later spreekt de geest voor het eerst: laat de Dragonlords herrijzen, maar neem eerst wraak op Sydon. Zijn wizardhaat is dus zelfhaat. XANDER geeft hem de TWEEDE KROON (Necropolis, Act 1). VALLUS (Act 2): de vesting is in het bezit van een draak in de Garden of Helios. Het geheime drakenei uit de bronzen kist gaat naar hem - NIET het ei van Fire Island, dat is van Dragini. INSTANT FORTRESS in de schathoop van Helios (Act 3). NEPHELE op Praxys: een clone uit het vlees van de zilveren draak BALMYTRIA, zielloos, nooit leren spreken; Sydon liet haar paren met een bronzen en een koperen draak en schonk het broedsel - waaronder ICARUS en ARGYN - aan Acastus en Gaius. Medaillon breken = grootmoeders ziel in Nephele: een volwassen zilveren draak als bondgenoot, arrogant en grillig, alleen bereid te helpen tegen Sydon - en haar stem is voorgoed weg. Sydon herkent hem en is teleurgesteld dat zijn nageslacht zo klein uitviel. Divine boon: Vallus wekt hem op met true resurrection. Dorp aan de Oldwood, de dam, fire bolt op zijn blote voeten, eerste ongecontroleerde wildshape (wolf), beet de student - die leeft en is nu meester aan de Academie. TAFELNOTITIE 12/10: Jonas speelt voorlopig afwachtend — krijgt tools aangereikt maar gaat er nog weinig op in."
     }
   ],
   "ns": {
@@ -174,7 +174,13 @@
       "att": "Hostile",
       "paths": "Doomed One, Haunted One, Gifted One",
       "sec": "Versi's sister, corrupted by Lutheria — dus ook dochter van Sydon en bloedverwant van Orelle. Has Apollodorus' lesser artifact (Ring of Protection). Kan Orelles doem half lekken (vroege payoff). Boss encounter. GIFTED ONE: de Mossy Temple ligt in Wauros' eigen bos.",
-      "log": []
+      "log": [
+        {
+          "pl": "Whole party",
+          "txt": "Nog niet ontmoet. Corinna noemde haar naam. Bij de tempelingang kwaadaardige magie gevoeld die zich terugtrok toen de party ze opmerkte (spelers weten niet dat zij het was).",
+          "dt": "12/10/2026"
+        }
+      ]
     },
     {
       "name": "Xander (undead)",
@@ -423,8 +429,14 @@
       "act": "Act 1",
       "att": "Friendly",
       "paths": "—",
-      "sec": "NG scout. Werd met haar vrienden door Demetria naar de tempel gelokt (rijkdom, schoonheid, roem). De satyr Loreus waarschuwde haar; ze vluchtte met de goatlings op haar hielen — zo ontmoet ze de helden (Encounter: Tribe of Goatlings). Bevestigt dat de Hoorn in de tempel ligt, waarschuwt dat Demetria iedereen verliefd praat, en wil per se mee om haar vrienden te redden. Met Corinna erbij slaagt de Persuasion DC 15 bij het feestmaal automatisch, en ze rent naar Sostrate (T8). BESLIST 19/09: volgt het boek, geen link met Wauros.",
-      "log": []
+      "sec": "NG scout. Werd met haar vrienden door Demetria naar de tempel gelokt (rijkdom, schoonheid, roem). De satyr Loreus waarschuwde haar; ze vluchtte met de goatlings op haar hielen — zo ontmoet ze de helden (Encounter: Tribe of Goatlings). Bevestigt dat de Hoorn in de tempel ligt, waarschuwt dat Demetria iedereen verliefd praat, en wil per se mee om haar vrienden te redden. Met Corinna erbij slaagt de Persuasion DC 15 bij het feestmaal automatisch, en ze rent naar Sostrate (T8). BESLIST 19/09: volgt het boek, geen link met Wauros. SESSIE 4: ontmoet en gered van de goatlings in het Oldwood (spelers noemen haar Korina); noemde Loreus en Demetria.",
+      "log": [
+        {
+          "pl": "Whole party",
+          "txt": "Gered van zes goatlings in het Oldwood. Vertelde dat ze dochter van Thericles is en noemde de satyr Loreus en Demetria.",
+          "dt": "12/10/2026"
+        }
+      ]
     },
     {
       "name": "Loreus",
@@ -434,17 +446,29 @@
       "att": "Friendly",
       "paths": "—",
       "sec": "CG satyr met een beschermde opvoeding: schrijft liefdesgedichten, leest epische romances, gefascineerd door stervelingen die op helden lijken. Waarschuwde Corinna. Vertelt Demetria's geschiedenis (Estor hakte de eik van haar zus om voor de Ultros; daarna haar pact met Lutheria) en stuurt de helden naar de keukens. Wordt verliefd op de eerste held die hem vriendelijkheid toont, volgt die stilletjes en zet met zijn panfluit één vijand in slaap. Laat je hem achter, dan duikt hij op in Mytros met een snuisterij voor elke held; bij het vertrek van de Ultros zweert hij zijn geliefde een eed van bescherming (garland van witte bloemen). Het boek bedoelt hem als speelbare volgeling.",
-      "log": []
+      "log": [
+        {
+          "pl": "Whole party",
+          "txt": "Nog niet ontmoet; alleen bij naam genoemd door Corinna.",
+          "dt": "12/10/2026"
+        }
+      ]
     },
     {
       "name": "Herkus",
       "role": "Gnoom-druïde van het Oldwood — krankzinnig, als eekhoorn",
-      "loc": "Mossy Temple — Standing Stones (T1)",
+      "loc": "Met de party — als eekhoorn op Apollodorus' schouder",
       "act": "Act 1",
       "att": "Friendly",
       "paths": "—",
-      "sec": "CG druid (Small, darkvision, speed 25, gnome cunning; tweemaal per dag polymorph in een beast tot CR 1/2). Demetria vergiftigde hem met thee van een bloem uit de Ancient Glade: volledig krankzinnig. Als eekhoorn kettert hij, gooit nootjes en bijt; pas gevangen of gewond wordt hij weer gnoom. Volgt daarna de held die hem ving op diens schouder, gooit nootjes naar vijanden, en ruikt bij het feestmaal dat het vlees mensenvlees is. Genezen (greater restoration): een erg praatgrage gnoom die de helden uitvoerig bedankt. Lid van de Druïden van het Oldwood — dezelfde orde als Wauros' volk. BESLIST: blijft een gewone boek-NPC.",
-      "log": []
+      "sec": "CG druid (Small, darkvision, speed 25, gnome cunning; tweemaal per dag polymorph in een beast tot CR 1/2). Demetria vergiftigde hem met thee van een bloem uit de Ancient Glade: volledig krankzinnig. Als eekhoorn kettert hij, gooit nootjes en bijt; pas gevangen of gewond wordt hij weer gnoom. Volgt daarna de held die hem ving op diens schouder, gooit nootjes naar vijanden, en ruikt bij het feestmaal dat het vlees mensenvlees is. Genezen (greater restoration): een erg praatgrage gnoom die de helden uitvoerig bedankt. Lid van de Druïden van het Oldwood — dezelfde orde als Wauros' volk. BESLIST: blijft een gewone boek-NPC. SESSIE 4: gevangen met Mage Hand door Apollodorus; zit op zijn schouder. Oorzaak van de waanzin nog niet onderzocht, dus nog niet genezen.",
+      "log": [
+        {
+          "pl": "Jarne (Apollodorus)",
+          "txt": "Krankzinnige eekhoorn bij de standing stones, gooide nootjes naar de party. Met Mage Hand gevangen, onthulde zich even als gnoom-druïde, werd weer eekhoorn en bleef op Apollodorus' schouder. Gooit nu nootjes naar vijanden.",
+          "dt": "12/10/2026"
+        }
+      ]
     },
     {
       "name": "Mikhael",
@@ -461,7 +485,7 @@
     {
       "title": "The Three Great Labors",
       "status": "active",
-      "desc": "Given by Oracle: (1) Horn of Balmytria — Mossy Temple. (2) Mithral Forge. (3) Weapons of the Dragonlords — Necropolis.",
+      "desc": "Given by Oracle: (1) Horn of Balmytria — Mossy Temple. (2) Mithral Forge. (3) Weapons of the Dragonlords — Necropolis. [Sessie 4] Mossy Temple binnengegaan; Hoorn nog niet gevonden.",
       "con": "Must complete all three to unlock the City of Mytros (Act 2)."
     },
     {
@@ -472,7 +496,7 @@
     },
     {
       "title": "Rescue Princess Anora",
-      "status": "hidden",
+      "status": "active",
       "desc": "Pythor's daughter is being sacrificed to Sydon. Pythor will not help with the Labors until she is safe.",
       "con": "Without Pythor's guidance the Labors are harder and the party misses crucial lore."
     },
@@ -605,8 +629,8 @@
     {
       "title": "Lutheria's Joke - Orelle",
       "status": "active",
-      "desc": "Zolang Lutheria leeft richten al haar dienaren zich zichtbaar op Orelle: goatlings, jackalwere, lamia, maenads en alle vijandige undead. Canon zegt expliciet dat het moet opvallen.",
-      "con": "Doorlopende gratis spotlight vanaf Act 1. Indy moet er iets van gaan vinden voor iemand het uitlegt.",
+      "desc": "Zolang Lutheria leeft richten al haar dienaren zich zichtbaar op Orelle: goatlings, jackalwere, lamia, maenads en alle vijandige undead. Canon zegt expliciet dat het moet opvallen. [Sessie 4] Zes goatlings focusten Orelle en haalden haar neer; Indy trekt nu zelf de conclusie dat Lutheria haar dood wil.",
+      "con": "Doorlopende gratis spotlight vanaf Act 1. Indy heeft het patroon in sessie 4 zelf opgemerkt — Demetria kan nu de helft van de doem bevestigen.",
       "log": []
     },
     {
@@ -666,6 +690,13 @@
       "sum": "Oath of Fellowship gezworen; elk kreeg een Potion of Healing van het Orakel. Onderweg naar Estoria langs een griffioen geslopen (dode wachter van Estoria). Cyclopen Misha & Mocho wilden hen offeren voor Sydon; Sirius praatte hen om met een 'geheime missie voor Sydon' — eten en onderdak, maar Misha sprak 's nachts met Sydon: centaurenwarbands komen hen 'escorteren'. Vroeg vertrokken. Drie centauren versperden de weg (twee gingen versterking halen): de centaur hero legde Ox in één ronde neer, Apollodorus landde met een drievoudige salto en Thunderwave, Orelle doodde hem met haar Hoplite-reactie en draagt nu zijn pike. Als 'de Zeven' binnengelaten in Estoria: droogte, vee wordt aangevoerd als offer voor Sydon. Orelle beschermde een oude sater tegen Ox. Pythor stomdronken; Kyrah las hem de les. Anora wordt bij volle maan geofferd op de Rock of Estor — vier opties besproken, niets beslist. Bij Aesop (Dragon Shrine): de Hoorn gestolen door goatlings. 's Nachts het spoor gevolgd; één goatling (bekogelde Apollodorus met stront) door Orelle neergeschoten, het spoor van een tweede gevolgd tot in het Oldwood.",
       "cliff": "Wat wacht er in het Oldwood? Anora's volle maan valt na de Mossy Temple (tijd blijft bewust fluïde). Sydons centaurenwarbands zoeken de Zeven nog altijd.",
       "notes": "Volledige recap (spelersrecap, wordt aangevuld met de volgende sessies): https://homebrewery.naturalcrit.com/share/bSZt6RG0z2HH"
+    },
+    {
+      "num": "4",
+      "date": "",
+      "sum": "Into the Mossy Temple. Wijnspoor van de goatlings gevolgd het Oldwood in. Korina (Corinna, dochter van Thericles) gered van zes goatlings die zich duidelijk op Orelle richtten (gegrepen, bespot, gebeten tot ze neerging); Orelle wierp daarna haar dory, Dragini sloeg de laatste goatling bewust bewusteloos (leeft nog, niet ondervraagd). Korina noemde Loreus en Demetria. Bij de standing stones: krankzinnige eekhoorn die met nootjes gooit; Apollodorus ving hem met Mage Hand: Herkus. Oorzaak van zijn waanzin niet onderzocht; hij zit nu als eekhoorn op Apollodorus' schouder en gooit nootjes naar vijanden. Bij de tempel (gygan-bouw) kwaadaardige magie gevoeld die zich terugtrok toen de party ze opmerkte. Standbeeld van Sydon met adamantine bekeken. Gebroken bronzen Dragonlord-schild (ruiter tegen zesarmige cyclopen) gevonden maar niet onderzocht. Flooded baths: twee roestende oozes + twee animated roots verslagen; Orelle ging die sessie voor de tweede keer neer (gewoon down, geen dood die meetelt).",
+      "cliff": "Hoorn nog zoek; Demetria en Loreus nog niet ontmoet. Wat is er met Herkus, wat zegt het schild, wat was de aanwezigheid bij de ingang? Bewusteloze goatling nog bruikbaar. Orelle vraagt zich nu zelf af waarom Lutheria haar dood wil.",
+      "notes": "Spelersrecap in dezelfde Homebrewery-link: https://homebrewery.naturalcrit.com/share/bSZt6RG0z2HH"
     }
   ],
   "nfilt": "Prologue",
