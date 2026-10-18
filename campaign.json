@@ -259,7 +259,7 @@
       "act": "Act 3",
       "att": "Neutral",
       "paths": "Haunted One, Lost One",
-      "sec": "Has de Helm of Brilliance — Apollodorus' greater artifact en bewijs van de vergeten troonaanspraak. Won't give it up easily. Stimfay-bouwers: pelgrimage voor Sirius. Powerful allies for the Battle of Mytros.",
+      "sec": "Has de Dancing Sword — Apollodorus' greater artifact en bewijs van de vergeten troonaanspraak. Won't give it up easily. Stimfay-bouwers: pelgrimage voor Sirius. Powerful allies for the Battle of Mytros.",
       "log": []
     },
     {
@@ -557,7 +557,7 @@
     {
       "title": "De vergeten troonaanspraak",
       "status": "hidden",
-      "desc": "De Greenbottles hadden een oude, waardeloos geworden aanspraak op de troon van Mytros — tot iemand hem gevaarlijk vond. Apollodorus weet dit niet. De Helm of Brilliance (bij de Amazonenkoningin) is het bewijs.",
+      "desc": "De Greenbottles hadden een oude, waardeloos geworden aanspraak op de troon van Mytros — tot iemand hem gevaarlijk vond. Apollodorus weet dit niet. De Dancing Sword (bij de Amazonenkoningin) is het bewijs.",
       "con": "Waarom Lutheria juist deze familie wiste. Maakt Apollodorus in Act 3+ een probleem voor Acastus."
     },
     {
