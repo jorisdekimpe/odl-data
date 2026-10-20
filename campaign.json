@@ -103,6 +103,11 @@
           "pl": "Whole party",
           "txt": "de party weet wie kyrah is, en volgt haar",
           "dt": "27/08/2026"
+        },
+        {
+          "pl": "Whole party",
+          "txt": "Sessie 5: niet blij met Orelles offer en gebed aan Sydon in de Mossy Temple.",
+          "dt": "20/10/2026"
         }
       ]
     },
@@ -179,6 +184,11 @@
           "pl": "Whole party",
           "txt": "Nog niet ontmoet. Corinna noemde haar naam. Bij de tempelingang kwaadaardige magie gevoeld die zich terugtrok toen de party ze opmerkte (spelers weten niet dat zij het was).",
           "dt": "12/10/2026"
+        },
+        {
+          "pl": "Whole party",
+          "txt": "Nog niet ontmoet. Lorius vertelde haar geschiedenis: Estor Arkelander liet de heilige boom van haar zus kappen voor een schip, de zus stierf, haar rouw werd haat op stervelingen en bracht haar bij Lutheria. Haar magie hangt over het hele complex (Arcana kan de bron niet pinpointen). Acht tieners in de Madon-grot wachten op haar 'initiatie' (beloofd: rijkdom, schoonheid, roem).",
+          "dt": "20/10/2026"
         }
       ]
     },
@@ -230,7 +240,13 @@
       "att": "Neutral",
       "paths": "Lost One, Vanished One",
       "sec": "Geest van de beruchtste Dragonlord — vermoordde zijn eigen bemanning. Houdt zijn schip smetteloos; het is misschien het enige waar hij ooit van hield. Wil een lichaam en bezoekt eerst de dromen van de helden om de waardigste te kiezen. DEAL MET SIRIUS: wijst de schat in de Nether Sea aan (en de route via de Dead Falls) in ruil voor eerste keuze — hij wil de xiphos of slaughter. Pas op met eden. Versi's andere minnaar: rivaal van Dragini zonder dat zij het weet.",
-      "log": []
+      "log": [
+        {
+          "pl": "Whole party",
+          "txt": "Sessie 5: geïdentificeerd op het gebroken bronzen schild in de Mossy Temple (History), gygans buigen voor hem. Via Lorius: hij liet de boom van Demetria's zus kappen voor een schip. De naam Ultros is nog niet gevallen.",
+          "dt": "20/10/2026"
+        }
+      ]
     },
     {
       "name": "Hezzebal",
@@ -290,7 +306,13 @@
       "att": "Hostile",
       "paths": "Cursed One, Doomed One, Gifted One",
       "sec": "Vervloekte Ox' hele volk (de stam van Minos) en liet Orelles sirenenstad zinken. Ox' priester dient zijn Orde. Attacks indirectly via Gaius (Oath of Peace). Escapes Praxys to the final battle at Mytros. GIFTED ONE: Wauros' grootvader. Herkent hem op Praxys met interesse maar is teleurgesteld dat zijn nageslacht zo klein uitviel. Ook: de dam bij Wauros' dorp kon gebouwd worden omdat de Orde van Sydon het toestond — zijn oudste grief hangt vast aan zijn eigen grootvader.",
-      "log": []
+      "log": [
+        {
+          "pl": "Indy (Orelle)",
+          "txt": "Sessie 5: Orelle offerde en bad tot Sydon bij de gygan-standbeelden om de wachters te sussen - werkte (Kyrah niet blij).",
+          "dt": "20/10/2026"
+        }
+      ]
     },
     {
       "name": "Lutheria",
@@ -300,7 +322,13 @@
       "att": "Hostile",
       "paths": "Haunted One",
       "sec": "Wiste Apollodorus' familie — en is zelf vergeten waarom (de troonaanspraak?). Hun zielen zitten in haar kristallen zeis: hereniging kan op de Nether Sea. Sends nightmares from the very start — voor Apollodorus persoonlijk.",
-      "log": []
+      "log": [
+        {
+          "pl": "Whole party",
+          "txt": "Sessie 5: weer goatlings op Orelle; Lorius koppelde Demetria aan Lutheria; haar maenads dreven Dragini tegen de eigen groep.",
+          "dt": "20/10/2026"
+        }
+      ]
     },
     {
       "name": "Kentimane",
@@ -425,16 +453,21 @@
     {
       "name": "Corinna",
       "role": "Dochter van Thericles — ontsnapt uit de Mossy Temple",
-      "loc": "Oldwood → Mossy Temple",
+      "loc": "Ingang van de Mossy Temple (wacht daar met Sostrate)",
       "act": "Act 1",
       "att": "Friendly",
       "paths": "—",
-      "sec": "NG scout. Werd met haar vrienden door Demetria naar de tempel gelokt (rijkdom, schoonheid, roem). De satyr Loreus waarschuwde haar; ze vluchtte met de goatlings op haar hielen — zo ontmoet ze de helden (Encounter: Tribe of Goatlings). Bevestigt dat de Hoorn in de tempel ligt, waarschuwt dat Demetria iedereen verliefd praat, en wil per se mee om haar vrienden te redden. Met Corinna erbij slaagt de Persuasion DC 15 bij het feestmaal automatisch, en ze rent naar Sostrate (T8). BESLIST 19/09: volgt het boek, geen link met Wauros. SESSIE 4: ontmoet en gered van de goatlings in het Oldwood (spelers noemen haar Korina); noemde Loreus en Demetria.",
+      "sec": "NG scout. Werd met haar vrienden door Demetria naar de tempel gelokt (rijkdom, schoonheid, roem). De satyr Loreus waarschuwde haar; ze vluchtte met de goatlings op haar hielen — zo ontmoet ze de helden (Encounter: Tribe of Goatlings). Bevestigt dat de Hoorn in de tempel ligt, waarschuwt dat Demetria iedereen verliefd praat, en wil per se mee om haar vrienden te redden. Met Corinna erbij slaagt de Persuasion DC 15 bij het feestmaal automatisch, en ze rent naar Sostrate (T8). BESLIST 19/09: volgt het boek, geen link met Wauros. SESSIE 4: ontmoet en gered van de goatlings in het Oldwood (spelers noemen haar Korina); noemde Loreus en Demetria. SESSIE 5: blijft met Sostrate aan de ingang - ze is NIET mee naar binnen, dus de automatische Persuasion bij het feestmaal geldt pas als de party haar gaat halen.",
       "log": [
         {
           "pl": "Whole party",
           "txt": "Gered van zes goatlings in het Oldwood. Vertelde dat ze dochter van Thericles is en noemde de satyr Loreus en Demetria.",
           "dt": "12/10/2026"
+        },
+        {
+          "pl": "Whole party",
+          "txt": "Wacht aan de ingang van de tempel met de geredde Sostrates.",
+          "dt": "20/10/2026"
         }
       ]
     },
@@ -445,12 +478,17 @@
       "act": "Act 1",
       "att": "Friendly",
       "paths": "—",
-      "sec": "CG satyr met een beschermde opvoeding: schrijft liefdesgedichten, leest epische romances, gefascineerd door stervelingen die op helden lijken. Waarschuwde Corinna. Vertelt Demetria's geschiedenis (Estor hakte de eik van haar zus om voor de Ultros; daarna haar pact met Lutheria) en stuurt de helden naar de keukens. Wordt verliefd op de eerste held die hem vriendelijkheid toont, volgt die stilletjes en zet met zijn panfluit één vijand in slaap. Laat je hem achter, dan duikt hij op in Mytros met een snuisterij voor elke held; bij het vertrek van de Ultros zweert hij zijn geliefde een eed van bescherming (garland van witte bloemen). Het boek bedoelt hem als speelbare volgeling.",
+      "sec": "CG satyr met een beschermde opvoeding: schrijft liefdesgedichten, leest epische romances, gefascineerd door stervelingen die op helden lijken. Waarschuwde Corinna. Vertelt Demetria's geschiedenis (Estor hakte de eik van haar zus om voor de Ultros; daarna haar pact met Lutheria) en stuurt de helden naar de keukens. Wordt verliefd op de eerste held die hem vriendelijkheid toont, volgt die stilletjes en zet met zijn panfluit één vijand in slaap. Laat je hem achter, dan duikt hij op in Mytros met een snuisterij voor elke held; bij het vertrek van de Ultros zweert hij zijn geliefde een eed van bescherming (garland van witte bloemen). Het boek bedoelt hem als speelbare volgeling. SESSIE 5: ontmoet in T10 met een nimf en twee saters (spelers schrijven Lorius); vertelde Demetria's geschiedenis. Of hij verliefd werd op iemand en meevolgt (panfluit-slaap) staat niet in de recap: aan tafel beslissen.",
       "log": [
         {
           "pl": "Whole party",
           "txt": "Nog niet ontmoet; alleen bij naam genoemd door Corinna.",
           "dt": "12/10/2026"
+        },
+        {
+          "pl": "Whole party",
+          "txt": "Ontmoet in een groene grot onder de tempel, samen met een nimf en twee saters. Waarschuwde voor Demetria en vertelde over haar zus en Estor Arkelander.",
+          "dt": "20/10/2026"
         }
       ]
     },
@@ -479,13 +517,45 @@
       "paths": "Lost One",
       "sec": "LG veteran. Laatste overlevende van een expeditie uit de buitenwereld die per LUCHTSCHIP voorbij de gevaren van de Forgotten Sea raakte; Sydon stuurde rocs om het schip te vernietigen en de kapitein te laten verhoren. De waardevolste gevangene die de Orde ooit had. BESLIST 28/09: Sirius' lotgenoot op Yonder (vervangt de 'runen') — geen bemanningslid van Reed, wel het levende bewijs dat de weg naar huis bestaat.",
       "log": []
+    },
+    {
+      "name": "Sostrate",
+      "role": "Tiener uit Estoria - vriend van Corinna",
+      "loc": "Ingang van de Mossy Temple (bij Corinna)",
+      "act": "Act 1",
+      "att": "Friendly",
+      "paths": "—",
+      "sec": "NG commoner. Werd in de Ancient Glade (T8) door goatlings als speelgoed opgejaagd. SESSIE 5: gered (spelers schrijven Sostrates) en naar de ingang gebracht, waar hij bij Corinna wacht.",
+      "log": [
+        {
+          "pl": "Whole party",
+          "txt": "Gered van zes goatlings in de grotten onder de tempel; naar de ingang gebracht.",
+          "dt": "20/10/2026"
+        }
+      ]
+    },
+    {
+      "name": "Demetria's tieners",
+      "role": "Gelokte jongeren uit Estoria - Madon-grot, slaapkamer en feestzaal",
+      "loc": "Mossy Temple (T9, T13, T15)",
+      "act": "Act 1",
+      "att": "Neutral",
+      "paths": "—",
+      "sec": "Commoners. T9 Madon-grot (8, poisoned 2u): Lysandra & Bassilus, Kleon & Heron, Irene & Draco, Callisto & Ariston. T13 slaapkamer (4, niet poisoned): Nikon, Markos, Theophania, Phokas. T15: vier meisjes bij Demetria (hun jongens liggen in de keuken, T14). Geloven in Demetria tot 24u van haar gescheiden, dan DC 10 Persuasion. Grasping Roots bij T9/T13 grijpen wie wil vertrekken. SESSIE 5: de acht in T9 gevonden, stoned en tevreden, achtergelaten (namen niet gevallen).",
+      "log": [
+        {
+          "pl": "Whole party",
+          "txt": "Acht tieners in de paddenstoelengrot gevonden, high van Madon en vol vertrouwen in Demetria. Achtergelaten.",
+          "dt": "20/10/2026"
+        }
+      ]
     }
   ],
   "threads": [
     {
       "title": "The Three Great Labors",
       "status": "active",
-      "desc": "Given by Oracle: (1) Horn of Balmytria — Mossy Temple. (2) Mithral Forge. (3) Weapons of the Dragonlords — Necropolis. [Sessie 4] Mossy Temple binnengegaan; Hoorn nog niet gevonden.",
+      "desc": "Given by Oracle: (1) Horn of Balmytria — Mossy Temple. (2) Mithral Forge. (3) Weapons of the Dragonlords — Necropolis. [Sessie 4] Mossy Temple binnengegaan; Hoorn nog niet gevonden. [Sessie 5] T4-T12 gedaan (tot en met de Nursing Chamber); Hoorn ligt in T15, nog niet bereikt.",
       "con": "Must complete all three to unlock the City of Mytros (Act 2)."
     },
     {
@@ -629,14 +699,14 @@
     {
       "title": "Lutheria's Joke - Orelle",
       "status": "active",
-      "desc": "Zolang Lutheria leeft richten al haar dienaren zich zichtbaar op Orelle: goatlings, jackalwere, lamia, maenads en alle vijandige undead. Canon zegt expliciet dat het moet opvallen. [Sessie 4] Zes goatlings focusten Orelle en haalden haar neer; Indy trekt nu zelf de conclusie dat Lutheria haar dood wil.",
+      "desc": "Zolang Lutheria leeft richten al haar dienaren zich zichtbaar op Orelle: goatlings, jackalwere, lamia, maenads en alle vijandige undead. Canon zegt expliciet dat het moet opvallen. [Sessie 4] Zes goatlings focusten Orelle en haalden haar neer; Indy trekt nu zelf de conclusie dat Lutheria haar dood wil. [Sessie 5] Opnieuw zes goatlings op Orelle (ze vloog weg); Lorius verbond Demetria met Lutheria; de maenads lieten Dragini Orelle knock-out slaan. Indy legt het verband nu zelf hardop.",
       "con": "Doorlopende gratis spotlight vanaf Act 1. Indy heeft het patroon in sessie 4 zelf opgemerkt — Demetria kan nu de helft van de doem bevestigen.",
       "log": []
     },
     {
       "title": "De drie doden van Orelle",
       "status": "hidden",
-      "desc": "De profetie: ze moet drie keer sterven om de Koningin van de Dood tevreden te stellen. Divine boon is 2x true resurrection; de derde dood is permanent.",
+      "desc": "De profetie: ze moet drie keer sterven om de Koningin van de Dood tevreden te stellen. Divine boon is 2x true resurrection; de derde dood is permanent. [Sessie 5] Weer neer (door een gefrenzyde Dragini): down, geen dood die meetelt. Teller staat nog op 0.",
       "con": "De limiet vervalt zodra Lutheria dood is. Indy moet dit weten voor het relevant wordt.",
       "log": []
     },
@@ -697,6 +767,13 @@
       "sum": "Into the Mossy Temple. Wijnspoor van de goatlings gevolgd het Oldwood in. Korina (Corinna, dochter van Thericles) gered van zes goatlings die zich duidelijk op Orelle richtten (gegrepen, bespot, gebeten tot ze neerging); Orelle wierp daarna haar dory, Dragini sloeg de laatste goatling bewust bewusteloos (leeft nog, niet ondervraagd). Korina noemde Loreus en Demetria. Bij de standing stones: krankzinnige eekhoorn die met nootjes gooit; Apollodorus ving hem met Mage Hand: Herkus. Oorzaak van zijn waanzin niet onderzocht; hij zit nu als eekhoorn op Apollodorus' schouder en gooit nootjes naar vijanden. Bij de tempel (gygan-bouw) kwaadaardige magie gevoeld die zich terugtrok toen de party ze opmerkte. Standbeeld van Sydon met adamantine bekeken. Gebroken bronzen Dragonlord-schild (ruiter tegen zesarmige cyclopen) gevonden maar niet onderzocht. Flooded baths: twee roestende oozes + twee animated roots verslagen; Orelle ging die sessie voor de tweede keer neer (gewoon down, geen dood die meetelt).",
       "cliff": "Hoorn nog zoek; Demetria en Loreus nog niet ontmoet. Wat is er met Herkus, wat zegt het schild, wat was de aanwezigheid bij de ingang? Bewusteloze goatling nog bruikbaar. Orelle vraagt zich nu zelf af waarom Lutheria haar dood wil.",
       "notes": "Spelersrecap in dezelfde Homebrewery-link: https://homebrewery.naturalcrit.com/share/bSZt6RG0z2HH"
+    },
+    {
+      "num": "5",
+      "date": "2026-10-13",
+      "sum": "Beneath the Mossy Temple (T4-T12). Terug naar het gebroken schild: History-check onthult Estor Arkelander, die zesarmige gygans aan zijn voeten laat buigen. Arcana: sterke magie, maar Demetria's magie hangt zo zwaar over het complex dat de bron niet te pinpointen is. Bij de vier gygan-standbeelden (T6) legde Orelle een offer in een schaal en bad tot Sydon (Kyrah niet blij) - daardoor bleven de twee gargoyle-wachters stil. Ancient Glade (T8): Ethereum-planten, aconite en de Sunril-struik (30 bessen, = goodberries) geoogst. Sostrate (spelers: Sostrates) gered van 2+4 goatlings; Orelle doodde er een met haar dory en werd weer gefocust tot ze wegvloog. Sostrates naar de ingang gebracht, waar hij bij Corinna blijft. Madon-grot (T9): paddenstoelen meegenomen; de acht stonede tieners (4 jongens, 4 meisjes) wachten blij op hun 'initiatie' en zijn achtergelaten. Den of Lush Flowers (T10): Loreus (spelers: Lorius) met een nimf en twee saters; hij vertelde Demetria's geschiedenis (Estor liet de heilige boom van haar zus kappen voor een schip, de zus stierf, haar rouw werd haat, zo kwam ze bij Lutheria). Stone Corridor (T11). Nursing Chamber (T12): Ox trapte de deur in na een blik door het sleutelgat; twee maenads + vier jonge goatlings. Wild Dance: Dragini in razernij sloeg Orelle en daarna Apollodorus knock-out; Sirius ging neer door psychische schade. Maenads verslagen, iedereen recht met Sunril-bessen. Party nog altijd level 2.",
+      "cliff": "Hoorn nog zoek (ligt op de feesttafel in T15). Demetria nog niet ontmoet. Nog te gaan: T13 (vier slapende tieners), T14 (keukens), T15 (Grisly Feast), T16. Acht tieners zitten nog in de Madon-grot. Corinna staat bij de ingang, niet bij de party.",
+      "notes": "Spelersrecap in dezelfde Homebrewery-link: https://homebrewery.naturalcrit.com/share/bSZt6RG0z2HH. DM: Sunril-bessen bederven na 24 uur (boek T8). Madon herkennen als grondstof voor truth serum = Nature-proficiency. Orelle ging deze sessie neer door een gefrenzyde Dragini: down, geen dood die meetelt. Of Loreus verliefd werd en meevolgt, zegt de recap niet - aan tafel beslissen. Lot van de vier babygoatlings en het potje as op de boomstronk (T8) niet vermeld."
     }
   ],
   "nfilt": "Prologue",
