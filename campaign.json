@@ -3,7 +3,7 @@
     {
       "player": "Laura",
       "name": "Ox",
-      "cls": "Barbarian 2",
+      "cls": "Barbarian 3",
       "race": "Thylean Minotaur",
       "path": "The Cursed One",
       "hp": 14,
@@ -13,7 +13,7 @@
     {
       "player": "Indy",
       "name": "Orelle",
-      "cls": "Fighter 2 (Hoplite)",
+      "cls": "Fighter 3 (Hoplite)",
       "race": "Thylean Siren",
       "path": "The Doomed One",
       "hp": "",
@@ -23,7 +23,7 @@
     {
       "player": "Tiebe",
       "name": "Kyrenos Dragonbane",
-      "cls": "Paladin 2 (Oath of the Dragonlord)",
+      "cls": "Paladin 3 (Oath of the Dragonlord)",
       "race": "Thylean Centaur",
       "path": "The Dragonslayer",
       "hp": "",
@@ -33,7 +33,7 @@
     {
       "player": "Ruben",
       "name": "Dr. Sirius Reed / Smash",
-      "cls": "Artificer 2 / Barbarian 2",
+      "cls": "Artificer 3 / Barbarian 3",
       "race": "Elf / Goliath",
       "path": "The Lost One",
       "hp": "",
@@ -43,7 +43,7 @@
     {
       "player": "Marthe",
       "name": "Dragini Led Vit",
-      "cls": "Monk 2",
+      "cls": "Monk 3",
       "race": "Dragonborn (wit)",
       "path": "The Vanished One",
       "hp": 8,
@@ -53,7 +53,7 @@
     {
       "player": "Jarne",
       "name": "Apollodorus",
-      "cls": "Bard 2",
+      "cls": "Bard 3",
       "race": "Halfling",
       "path": "The Haunted One",
       "hp": "",
@@ -63,7 +63,7 @@
     {
       "player": "Jonas",
       "name": "Wauros",
-      "cls": "Druid 2 (Circle of the Moon)",
+      "cls": "Druid 3 (Circle of the Moon)",
       "race": "Thyleaans — Druïden van het Oldwood",
       "path": "The Gifted One",
       "hp": "",
@@ -794,9 +794,9 @@
     {
       "num": "6",
       "date": "2026-10-25",
-      "sum": "Mossy Temple finale (T13-T15) en terug naar Estoria. Long rest in een gebarricadeerde kamer met één ingang; tijdens de rust passeerde iets zwaars door de gang (één oog gezien, zes armen vermoed: de gygan). Keukens (T14): gouden en stenen ketels met geroosterd vlees van een schaapgroot zoogdier. Demetria's slaapkamer (op slot, opengebroken met een nat 20): luxe bed en een kist met afbeeldingen van donder en regen. Buit: 2 kettingen van 100 gp (onbeschadigd) en 4 stukken van 50 gp, waarvan 2 beschadigd (nu 30 gp). Boek in mensenhuid ('how to turn humans into maenads') meteen vernietigd met fire bolts. Grisly Feast (T15): Demetria, de gygan en vier meisjes aan tafel, de Horn of Balmytria op tafel. Demetria's monoloog (Estor Arkelander, het schip uit de boom van haar zus, de Dragonlords). Een van de meisjes greep een keukenmes om Demetria te steken, maar de gygan spietste haar eerst: ze is dood. Gevecht: Kyrenos doodde Demetria. Kyrenos nam de Shortbow of Cupidity. Uit de Hoorn gedronken: visioen van een wijde zee en een vreemd bronzen toestel dat een sterrenbeeld weerspiegelt. Aesop vertelde over Telamok en Damon en gaf de burnished dragonlord coin voor de brugwachter, met de waarschuwing de praalgraven met rust te laten. Daarna long rest, inkopen en armor/wapen-upgrades bij de smid. Loreus niet meer gezien. Orelle niet gestorven.",
+      "sum": "Mossy Temple finale (T13-T15) en terug naar Estoria. Long rest in een gebarricadeerde kamer met één ingang; tijdens de rust passeerde iets zwaars door de gang (één oog gezien, zes armen vermoed: de gygan). Keukens (T14): gouden en stenen ketels met geroosterd vlees van een schaapgroot zoogdier. Demetria's slaapkamer (op slot, opengebroken met een nat 20): luxe bed en een kist met afbeeldingen van donder en regen. Buit: 2 kettingen van 100 gp (onbeschadigd) en 4 stukken van 50 gp, waarvan 2 beschadigd (nu 30 gp). Boek in mensenhuid ('how to turn humans into maenads') meteen vernietigd met fire bolts. Grisly Feast (T15): Demetria, de gygan en vier meisjes aan tafel, de Horn of Balmytria op tafel. Demetria's monoloog (Estor Arkelander, het schip uit de boom van haar zus, de Dragonlords). Een van de meisjes greep een keukenmes om Demetria te steken, maar de gygan spietste haar eerst: ze is dood. Gevecht: Kyrenos doodde Demetria. Kyrenos nam de Shortbow of Cupidity. Uit de Hoorn gedronken: visioen van een wijde zee en een vreemd bronzen toestel dat een sterrenbeeld weerspiegelt. Aesop vertelde over Telamok en Damon en gaf de burnished dragonlord coin voor de brugwachter, met de waarschuwing de praalgraven met rust te laten. Daarna long rest, inkopen en armor/wapen-upgrades bij de smid. Loreus niet meer gezien. Orelle niet gestorven. Party naar level 3.",
       "cliff": "Labour 1 klaar. Volgende labour en het offer van Anora liggen open. Nog te bevestigen: lot van de gygan en de drie overige meisjes, de vier slapende tieners in T13 en de acht in de Madon-grot, of de Ring of Protection (Apollodorus) gevonden is, en het gesprek Pythor-Sirius.",
-      "notes": "VOORLOPIG: opgemaakt uit twee Pocket-opnames (deel 2 slecht getranscribeerd) plus bevestiging door Joris op 25/10. Aanvullen zodra de Homebrewery-recap online staat. DM: Gaius' centaurenaanval komt onderweg naar de volgende labour; daar valt Orelles eerste dood (door Gaius). De kaarten die Sirius aan tafel uitlegde zijn een artificer-feature van Dr. Reed. Level-up naar 3 nog niet in campaign.json gezet (te bevestigen)."
+      "notes": "VOORLOPIG: opgemaakt uit twee Pocket-opnames (deel 2 slecht getranscribeerd) plus bevestiging door Joris op 25/10. Aanvullen zodra de Homebrewery-recap online staat. DM: Gaius' centaurenaanval komt onderweg naar de volgende labour; daar valt Orelles eerste dood (door Gaius). De kaarten die Sirius aan tafel uitlegde zijn een artificer-feature van Dr. Reed. Party is na de Mossy Temple level 3 (bevestigd 25/10)."
     }
   ],
   "nfilt": "Prologue",
@@ -805,5 +805,5 @@
     "current": -1,
     "round": 2
   },
-  "lvl": 2
+  "lvl": 3
 }
