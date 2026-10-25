@@ -28,7 +28,7 @@
       "path": "The Dragonslayer",
       "hp": "",
       "fame": 0,
-      "notes": "CANON-DOELWIT: HELIOS, de gouden draak van de Garden of Helios. NIET Argyn. De Fates vertelden Helios dat iemand uit Kyrenos' dorp of familie hem ooit zou doden, dus regende hij preventief vuur op dat dorp; Adara en de kudde stierven daardoor. Dit klopt weer met Tiebe's eigen tekst over drakenvuur. Helios wacht al jaren op hem en wil zijn fout rechtzetten. Versi stuurt hem naar de FORGEKEEPER in de Mithral Mines (Act 1): LESSER = RING OF RESISTANCE (FIRE) - correct element, want Helios is goud. De Forgekeeper zegt dat hij een wapen nodig heeft dat de gyganen van Yonder smeedden. De Fates (Act 3): zoek de Zonnegod onder het sterrenbeeld DE WAGEN. GREATER = DRAGONSLAYER (melee naar keuze) bij CHONDRUS op Yonder - hij biedt het zelf aan als deel van zijn koopje. Argyn blijft bestaan als Gaius' rijdier op Yonder, maar is niet langer zijn heroic task. Na de eed zijn metallieke draken zijn 'bloed' - een gouden draak dus ook. Pseudodraak op lvl 3, ei uit op lvl 7. Schrijft in het geheim liederen in Adara's boek (Kyrah-hook). Divine boon: Morta wekt hem eenmaal op."
+      "notes": "CANON-DOELWIT: HELIOS, de gouden draak van de Garden of Helios. NIET Argyn. De Fates vertelden Helios dat iemand uit Kyrenos' dorp of familie hem ooit zou doden, dus regende hij preventief vuur op dat dorp; Adara en de kudde stierven daardoor. Dit klopt weer met Tiebe's eigen tekst over drakenvuur. Helios wacht al jaren op hem en wil zijn fout rechtzetten. Versi stuurt hem naar de FORGEKEEPER in de Mithral Mines (Act 1): LESSER = RING OF RESISTANCE (FIRE) - correct element, want Helios is goud. De Forgekeeper zegt dat hij een wapen nodig heeft dat de gyganen van Yonder smeedden. De Fates (Act 3): zoek de Zonnegod onder het sterrenbeeld DE WAGEN. GREATER = DRAGONSLAYER (melee naar keuze) bij CHONDRUS op Yonder - hij biedt het zelf aan als deel van zijn koopje. Argyn blijft bestaan als Gaius' rijdier op Yonder, maar is niet langer zijn heroic task. Na de eed zijn metallieke draken zijn 'bloed' - een gouden draak dus ook. Pseudodraak op lvl 3, ei uit op lvl 7. Schrijft in het geheim liederen in Adara's boek (Kyrah-hook). Divine boon: Morta wekt hem eenmaal op. SESSIE 6: doodde Demetria; draagt de Shortbow of Cupidity (+1 attack/damage, attunement, 1/dag bij een treffer charm DC 14 Wis, 1 uur)."
     },
     {
       "player": "Ruben",
@@ -158,8 +158,14 @@
       "act": "Act 1",
       "att": "Friendly",
       "paths": "Vanished One, Dragonslayer",
-      "sec": "Kyrenos' mentor/werkgever — vervangt de 'groep Dragonlord-paladins' uit zijn backstory. The Horn of Balmytria was stolen from his reliquary by goatlings. Needs party to retrieve it. Believes heroes should be the new Dragonlords, not Acastus. BESLIST 18/10 — DAMON-INTRO: Proteus werd aan tafel grotendeels genegeerd, dus de spelers weten nog niets over Damon en kregen de burnished dragonlord coin niet. Aesop lost dat op wanneer ze de Horn terugbrengen: hij vertelt dat de wapens van de eerste Dragonlords in Telamok begraven liggen, dat een ondode wachter, Damon, niemand over de brug laat zonder betaling, en dat die betaling een burnished dragonlord coin is. De schrijn bewaart er nog één als relikwie; die geeft hij mee. NIET meer zeggen: dat Damon een lich is en zijn band met Ox komen pas in Telamok zelf.",
-      "log": []
+      "sec": "Kyrenos' mentor/werkgever — vervangt de 'groep Dragonlord-paladins' uit zijn backstory. The Horn of Balmytria was stolen from his reliquary by goatlings. Needs party to retrieve it. Believes heroes should be the new Dragonlords, not Acastus. BESLIST 18/10 — DAMON-INTRO: Proteus werd aan tafel grotendeels genegeerd, dus de spelers weten nog niets over Damon en kregen de burnished dragonlord coin niet. Aesop lost dat op wanneer ze de Horn terugbrengen: hij vertelt dat de wapens van de eerste Dragonlords in Telamok begraven liggen, dat een ondode wachter, Damon, niemand over de brug laat zonder betaling, en dat die betaling een burnished dragonlord coin is. De schrijn bewaart er nog één als relikwie; die geeft hij mee. NIET meer zeggen: dat Damon een lich is en zijn band met Ox komen pas in Telamok zelf. SESSIE 6: GEDAAN - Damon-intro en de burnished dragonlord coin gegeven.",
+      "log": [
+        {
+          "pl": "Whole party",
+          "txt": "Vertelde dat de wapens van de eerste Dragonlords in Telamok liggen en dat een wachter bij de brug betaling eist. Gaf de burnished dragonlord coin mee. Waarschuwde om niet te treuzelen en de praalgraven met rust te laten.",
+          "dt": "25/10/2026"
+        }
+      ]
     },
     {
       "name": "Damon",
@@ -178,7 +184,7 @@
       "act": "Act 1",
       "att": "Hostile",
       "paths": "Doomed One, Haunted One, Gifted One",
-      "sec": "Versi's sister, corrupted by Lutheria — dus ook dochter van Sydon en bloedverwant van Orelle. Has Apollodorus' lesser artifact (Ring of Protection). Kan Orelles doem half lekken (vroege payoff). Boss encounter. GIFTED ONE: de Mossy Temple ligt in Wauros' eigen bos.",
+      "sec": "DOOD - gedood door Kyrenos in sessie 6 (25/10). Versi's sister, corrupted by Lutheria — dus ook dochter van Sydon en bloedverwant van Orelle. Has Apollodorus' lesser artifact (Ring of Protection). Kan Orelles doem half lekken (vroege payoff). Boss encounter. GIFTED ONE: de Mossy Temple ligt in Wauros' eigen bos.",
       "log": [
         {
           "pl": "Whole party",
@@ -189,6 +195,11 @@
           "pl": "Whole party",
           "txt": "Nog niet ontmoet. Lorius vertelde haar geschiedenis: Estor Arkelander liet de heilige boom van haar zus kappen voor een schip, de zus stierf, haar rouw werd haat op stervelingen en bracht haar bij Lutheria. Haar magie hangt over het hele complex (Arcana kan de bron niet pinpointen). Acht tieners in de Madon-grot wachten op haar 'initiatie' (beloofd: rijkdom, schoonheid, roem).",
           "dt": "20/10/2026"
+        },
+        {
+          "pl": "Whole party",
+          "txt": "Ontmoet in de feestzaal met de gygan en vier meisjes; hield een monoloog over Estor Arkelander en haar zus. Gedood door Kyrenos.",
+          "dt": "25/10/2026"
         }
       ]
     },
@@ -541,12 +552,17 @@
       "act": "Act 1",
       "att": "Neutral",
       "paths": "—",
-      "sec": "Commoners. T9 Madon-grot (8, poisoned 2u): Lysandra & Bassilus, Kleon & Heron, Irene & Draco, Callisto & Ariston. T13 slaapkamer (4, niet poisoned): Nikon, Markos, Theophania, Phokas. T15: vier meisjes bij Demetria (hun jongens liggen in de keuken, T14). Geloven in Demetria tot 24u van haar gescheiden, dan DC 10 Persuasion. Grasping Roots bij T9/T13 grijpen wie wil vertrekken. SESSIE 5: de acht in T9 gevonden, stoned en tevreden, achtergelaten (namen niet gevallen).",
+      "sec": "Commoners. T9 Madon-grot (8, poisoned 2u): Lysandra & Bassilus, Kleon & Heron, Irene & Draco, Callisto & Ariston. T13 slaapkamer (4, niet poisoned): Nikon, Markos, Theophania, Phokas. T15: vier meisjes bij Demetria (hun jongens liggen in de keuken, T14). Geloven in Demetria tot 24u van haar gescheiden, dan DC 10 Persuasion. Grasping Roots bij T9/T13 grijpen wie wil vertrekken. SESSIE 5: de acht in T9 gevonden, stoned en tevreden, achtergelaten (namen niet gevallen). SESSIE 6: een van de vier meisjes in T15 wilde Demetria met een keukenmes steken en werd door de gygan gespietst - dood.",
       "log": [
         {
           "pl": "Whole party",
           "txt": "Acht tieners in de paddenstoelengrot gevonden, high van Madon en vol vertrouwen in Demetria. Achtergelaten.",
           "dt": "20/10/2026"
+        },
+        {
+          "pl": "Whole party",
+          "txt": "In de feestzaal zaten vier meisjes bij Demetria. Een van hen viel Demetria aan met een keukenmes en werd door de gygan gedood.",
+          "dt": "25/10/2026"
         }
       ]
     }
@@ -555,13 +571,13 @@
     {
       "title": "The Three Great Labors",
       "status": "active",
-      "desc": "Given by Oracle: (1) Horn of Balmytria — Mossy Temple. (2) Mithral Forge. (3) Weapons of the Dragonlords — Necropolis. [Sessie 4] Mossy Temple binnengegaan; Hoorn nog niet gevonden. [Sessie 5] T4-T12 gedaan (tot en met de Nursing Chamber); Hoorn ligt in T15, nog niet bereikt.",
+      "desc": "Given by Oracle: (1) Horn of Balmytria — Mossy Temple. (2) Mithral Forge. (3) Weapons of the Dragonlords — Necropolis. [Sessie 4] Mossy Temple binnengegaan; Hoorn nog niet gevonden. [Sessie 5] T4-T12 gedaan (tot en met de Nursing Chamber); Hoorn ligt in T15, nog niet bereikt. [Sessie 6] Labour 1 voltooid: Demetria gedood, Horn of Balmytria teruggehaald en gedronken. Aesop gaf de munt voor Telamok.",
       "con": "Must complete all three to unlock the City of Mytros (Act 2)."
     },
     {
       "title": "Two Dream Labors: Ultros + Antikythera",
-      "status": "hidden",
-      "desc": "Revealed in a dream after drinking the Horn. Find the ghost ship Ultros and the Antikythera navigation device.",
+      "status": "active",
+      "desc": "Revealed in a dream after drinking the Horn. Find the ghost ship Ultros and the Antikythera navigation device. [Sessie 6] Uit de Hoorn gedronken: visioen van een wijde zee en een vreemd bronzen toestel dat een sterrenbeeld weerspiegelt.",
       "con": "The Ultros unlocks Act 3. Antikythera needed to navigate the Cerulean Gulf."
     },
     {
@@ -573,7 +589,7 @@
     {
       "title": "Gaius and the Order of Sydon",
       "status": "hidden",
-      "desc": "Recurring villain from Act 1. Rides silver dragon Argyn. Has the Vanished One's armor. Base on Island of Yonder.",
+      "desc": "Recurring villain from Act 1. Rides silver dragon Argyn. Has the Vanished One's armor. Base on Island of Yonder. [Beslist 25/10] Gaius' centaurenaanval komt onderweg naar de volgende labour.",
       "con": "Keeps sending forces and blocking progress unless confronted."
     },
     {
@@ -706,7 +722,7 @@
     {
       "title": "De drie doden van Orelle",
       "status": "hidden",
-      "desc": "De profetie: ze moet drie keer sterven om de Koningin van de Dood tevreden te stellen. Divine boon is 2x true resurrection; de derde dood is permanent. [Sessie 5] Weer neer (door een gefrenzyde Dragini): down, geen dood die meetelt. Teller staat nog op 0.",
+      "desc": "De profetie: ze moet drie keer sterven om de Koningin van de Dood tevreden te stellen. Divine boon is 2x true resurrection; de derde dood is permanent. [Sessie 5] Weer neer (door een gefrenzyde Dragini): down, geen dood die meetelt. Teller staat nog op 0. [Sessie 6] Niet gestorven tegen Demetria. BESLIST 25/10: de eerste dood komt van Gaius (centaurenaanval onderweg naar de volgende labour), niet van Demetria. Teller nog 0.",
       "con": "De limiet vervalt zodra Lutheria dood is. Indy moet dit weten voor het relevant wordt.",
       "log": []
     },
@@ -774,6 +790,13 @@
       "sum": "Beneath the Mossy Temple (T4-T12). Terug naar het gebroken schild: History-check onthult Estor Arkelander, die zesarmige gygans aan zijn voeten laat buigen. Arcana: sterke magie, maar Demetria's magie hangt zo zwaar over het complex dat de bron niet te pinpointen is. Bij de vier gygan-standbeelden (T6) legde Orelle een offer in een schaal en bad tot Sydon (Kyrah niet blij) - daardoor bleven de twee gargoyle-wachters stil. Ancient Glade (T8): Ethereum-planten, aconite en de Sunril-struik (30 bessen, = goodberries) geoogst. Sostrate (spelers: Sostrates) gered van 2+4 goatlings; Orelle doodde er een met haar dory en werd weer gefocust tot ze wegvloog. Sostrates naar de ingang gebracht, waar hij bij Corinna blijft. Madon-grot (T9): paddenstoelen meegenomen; de acht stonede tieners (4 jongens, 4 meisjes) wachten blij op hun 'initiatie' en zijn achtergelaten. Den of Lush Flowers (T10): Loreus (spelers: Lorius) met een nimf en twee saters; hij vertelde Demetria's geschiedenis (Estor liet de heilige boom van haar zus kappen voor een schip, de zus stierf, haar rouw werd haat, zo kwam ze bij Lutheria). Stone Corridor (T11). Nursing Chamber (T12): Ox trapte de deur in na een blik door het sleutelgat; twee maenads + vier jonge goatlings. Wild Dance: Dragini in razernij sloeg Orelle en daarna Apollodorus knock-out; Sirius ging neer door psychische schade. Maenads verslagen, iedereen recht met Sunril-bessen. Party nog altijd level 2.",
       "cliff": "Hoorn nog zoek (ligt op de feesttafel in T15). Demetria nog niet ontmoet. Nog te gaan: T13 (vier slapende tieners), T14 (keukens), T15 (Grisly Feast), T16. Acht tieners zitten nog in de Madon-grot. Corinna staat bij de ingang, niet bij de party.",
       "notes": "Spelersrecap in dezelfde Homebrewery-link: https://homebrewery.naturalcrit.com/share/bSZt6RG0z2HH. DM: Sunril-bessen bederven na 24 uur (boek T8). Madon herkennen als grondstof voor truth serum = Nature-proficiency. Orelle ging deze sessie neer door een gefrenzyde Dragini: down, geen dood die meetelt. Bevestigd door Joris: de vier babygoatlings in T12 zijn dood; Loreus werd niet verliefd en volgt niet mee; het potje as op de boomstronk (T8) hebben ze niet gezien (Demetria heeft geen reden voor wraak op iemand)."
+    },
+    {
+      "num": "6",
+      "date": "2026-10-25",
+      "sum": "Mossy Temple finale (T13-T15) en terug naar Estoria. Long rest in een gebarricadeerde kamer met één ingang; tijdens de rust passeerde iets zwaars door de gang (één oog gezien, zes armen vermoed: de gygan). Keukens (T14): gouden en stenen ketels met geroosterd vlees van een schaapgroot zoogdier. Demetria's slaapkamer (op slot, opengebroken met een nat 20): luxe bed en een kist met afbeeldingen van donder en regen. Buit: 2 kettingen van 100 gp (onbeschadigd) en 4 stukken van 50 gp, waarvan 2 beschadigd (nu 30 gp). Boek in mensenhuid ('how to turn humans into maenads') meteen vernietigd met fire bolts. Grisly Feast (T15): Demetria, de gygan en vier meisjes aan tafel, de Horn of Balmytria op tafel. Demetria's monoloog (Estor Arkelander, het schip uit de boom van haar zus, de Dragonlords). Een van de meisjes greep een keukenmes om Demetria te steken, maar de gygan spietste haar eerst: ze is dood. Gevecht: Kyrenos doodde Demetria. Kyrenos nam de Shortbow of Cupidity. Uit de Hoorn gedronken: visioen van een wijde zee en een vreemd bronzen toestel dat een sterrenbeeld weerspiegelt. Aesop vertelde over Telamok en Damon en gaf de burnished dragonlord coin voor de brugwachter, met de waarschuwing de praalgraven met rust te laten. Daarna long rest, inkopen en armor/wapen-upgrades bij de smid. Loreus niet meer gezien. Orelle niet gestorven.",
+      "cliff": "Labour 1 klaar. Volgende labour en het offer van Anora liggen open. Nog te bevestigen: lot van de gygan en de drie overige meisjes, de vier slapende tieners in T13 en de acht in de Madon-grot, of de Ring of Protection (Apollodorus) gevonden is, en het gesprek Pythor-Sirius.",
+      "notes": "VOORLOPIG: opgemaakt uit twee Pocket-opnames (deel 2 slecht getranscribeerd) plus bevestiging door Joris op 25/10. Aanvullen zodra de Homebrewery-recap online staat. DM: Gaius' centaurenaanval komt onderweg naar de volgende labour; daar valt Orelles eerste dood (door Gaius). De kaarten die Sirius aan tafel uitlegde zijn een artificer-feature van Dr. Reed. Level-up naar 3 nog niet in campaign.json gezet (te bevestigen)."
     }
   ],
   "nfilt": "Prologue",
