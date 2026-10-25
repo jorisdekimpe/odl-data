@@ -1,0 +1,3044 @@
+{
+ "meta": {
+  "titel": "De Zeven — verhaalstroom",
+  "stand": "Na sessie 6 (25/10): Labour 1 klaar, party level 3.",
+  "bijgewerkt": "2026-10-25",
+  "versie": 1
+ },
+ "spelers": [
+  {
+   "held": "Orelle",
+   "speler": "Indy",
+   "pad": "Doomed One"
+  },
+  {
+   "held": "Kyrenos",
+   "speler": "Tiebe",
+   "pad": "Dragonslayer"
+  },
+  {
+   "held": "Dragini",
+   "speler": "Marthe",
+   "pad": "Vanished One"
+  },
+  {
+   "held": "Apollodorus",
+   "speler": "Jarne",
+   "pad": "Haunted One"
+  },
+  {
+   "held": "Sirius",
+   "speler": "Ruben",
+   "pad": "Lost One"
+  },
+  {
+   "held": "Ox",
+   "speler": "Laura",
+   "pad": "Cursed One"
+  },
+  {
+   "held": "Wauros",
+   "speler": "Jonas",
+   "pad": "Gifted One"
+  }
+ ],
+ "aktes": [
+  {
+   "id": "P",
+   "titel": "Proloog — The Prophecy"
+  },
+  {
+   "id": "A1",
+   "titel": "Act 1 — The Great Labors"
+  },
+  {
+   "id": "A2",
+   "titel": "Act 2 — The Dragonlords (Mytros)"
+  },
+  {
+   "id": "A3",
+   "titel": "Act 3 — The Great Voyage"
+  },
+  {
+   "id": "A4",
+   "titel": "Act 4 — The Battle of Mytros"
+  },
+  {
+   "id": "A5",
+   "titel": "Act 5 — The New Pantheon"
+  }
+ ],
+ "groepen": [
+  {
+   "id": "p-proloog",
+   "akte": "P",
+   "titel": "Proloog",
+   "sub": "The Sour Vintage in the Heartlands. Kyrah (vermomd als dichteres) roept de helden samen. Eindigt met de Drie Arbeidsdaden en de zeven gesprekken met Versi. Sessies 1–2.",
+   "dicht": true
+  },
+  {
+   "id": "a1-gespeeld",
+   "akte": "A1",
+   "titel": "Estoria en de Mossy Temple",
+   "sub": "Sessies 3–6. Labour 1 is klaar."
+  },
+  {
+   "id": "a1-estoria",
+   "akte": "A1",
+   "titel": "Terug in Estoria",
+   "sub": "Corinna thuis, Gaius ontmoeten, Anora redden, het feest."
+  },
+  {
+   "id": "a1-zijpaden",
+   "akte": "A1",
+   "titel": "Zijpaden in en rond Estoria",
+   "sub": "Optioneel. Kleur, buit en losse haken.",
+   "dicht": true
+  },
+  {
+   "id": "a1-warband",
+   "akte": "A1",
+   "titel": "Onderweg: Gaius slaat toe",
+   "sub": "Op weg naar de volgende labour."
+  },
+  {
+   "id": "a1-forge",
+   "akte": "A1",
+   "titel": "Labour: Mithral Forge",
+   "sub": "Troglodieten, death dogs, de Forgekeeper.",
+   "fork": "labour",
+   "tab": "Mithral Forge"
+  },
+  {
+   "id": "a1-telamok",
+   "akte": "A1",
+   "titel": "Labour: Necropolis van Telamok",
+   "sub": "Damon, de graven, Graxis en Xander.",
+   "fork": "labour",
+   "tab": "Telamok"
+  },
+  {
+   "id": "a1-na",
+   "akte": "A1",
+   "titel": "Na de tweede labour",
+   "sub": "Nachtmerrie, herstellingen en de ontbieding."
+  },
+  {
+   "id": "a2-grof",
+   "akte": "A2",
+   "titel": "Overzicht (nog uit te werken)",
+   "sub": "De storm, de Ultros, de Antikythera. Eindigt met het uitvaren en de 60-dagen klok. Poort: Complete at least 2 Great Labors.",
+   "grof": true
+  },
+  {
+   "id": "a3-grof",
+   "akte": "A3",
+   "titel": "Overzicht (nog uit te werken)",
+   "sub": "Cerulean Gulf → Forgotten Sea → Nether Sea → Praxys. Bijna elke persoonlijke lijn koerst hier af op een antwoord. Plan deze akte, of hij plant jou. Poort: Claim the Ultros.",
+   "grof": true
+  },
+  {
+   "id": "a4-grof",
+   "akte": "A4",
+   "titel": "Overzicht (nog uit te werken)",
+   "sub": "De Oath of Peace eindigt. ONTHULLING: de Vijf Goden zijn draken. Conflicten volgen elkaar op zonder short rest. Poort: Confront both Titans in Act 3.",
+   "grof": true
+  },
+  {
+   "id": "a5-grof",
+   "akte": "A5",
+   "titel": "Overzicht (nog uit te werken)",
+   "sub": "Laat eerst jaren voorbijgaan. Narsus biedt het pad naar goddelijkheid. Dan de Apokalypsis. Poort: Survive the Battle of Mytros.",
+   "grof": true
+  }
+ ],
+ "scenes": [
+  {
+   "id": "p1",
+   "groep": "p-proloog",
+   "titel": "The Sour Vintage",
+   "ster": false,
+   "status": "klaar",
+   "type": "verhaal",
+   "kern": "Kyrah verzamelt de helden en onthult het visioen van het Orakel. Ze benoemt ieders talent — dat is haar opdracht.",
+   "doen": [
+    "Kennismaking + opdracht aangenomen",
+    "Vertrek met Taneias en Javon"
+   ],
+   "haken": [],
+   "bron": "Tracker-boom"
+  },
+  {
+   "id": "p2",
+   "groep": "p-proloog",
+   "titel": "The Great Boar",
+   "ster": false,
+   "status": "klaar",
+   "type": "verhaal",
+   "kern": "Zwijn met verdorven hart, losgelaten door de Titanen. Survival DC 10 om het hol te vinden. Eén jager sterft sowieso.",
+   "doen": [
+    "Hol voorbereiden (strikken/valkuil/palissade)",
+    "Karkas geofferd aan Vallus → scarab of protection (Act 2)"
+   ],
+   "haken": [],
+   "bron": "Tracker-boom"
+  },
+  {
+   "id": "p3",
+   "groep": "p-proloog",
+   "titel": "Temple of the Oracle",
+   "ster": false,
+   "status": "klaar",
+   "type": "verhaal",
+   "kern": "Versi is gevangene van zeeheks Heleka, gestuurd door Sydon. Zonder haar bevrijding start de campagne niet.",
+   "doen": [
+    "Heleka en haar minions verslagen",
+    "Versi bevrijd"
+   ],
+   "haken": [],
+   "bron": "Tracker-boom"
+  },
+  {
+   "id": "p4",
+   "groep": "p-proloog",
+   "titel": "Drie Arbeidsdaden onthuld",
+   "ster": true,
+   "status": "klaar",
+   "type": "verhaal",
+   "kern": "(1) Drink uit de Horn of Balmytria. (2) Ontsteek de Mithral Forge. (3) Herover de wapens van de Dragonlords. Proteus geeft één dragonlord coin.",
+   "doen": [],
+   "haken": [],
+   "bron": "Tracker-boom"
+  },
+  {
+   "id": "p5",
+   "groep": "p-proloog",
+   "titel": "Versi apart — de zeven gesprekken",
+   "ster": true,
+   "status": "klaar",
+   "type": "verhaal",
+   "kern": "De vijf minuten die de hele campagne dragen. Versi heeft meerdere agenda's tegelijk: bloedverwant van twee spelers, cipier van een derde.",
+   "doen": [],
+   "haken": [
+    {
+     "h": "Orelle",
+     "t": "Gedeeld bloed van Sydon erkend. Doem is echt én afwendbaar. Stuurt haar naar DEMETRIA in de Mossy Temple. Zwijgt over de drie doden."
+    },
+    {
+     "h": "Kyrenos",
+     "t": "Hij is voorbestemd de vloek van boze draken te worden. Naar de FORGEKEEPER in de Mithral Mines voor zijn artefacten. Zwijgt dat de draak een god is."
+    },
+    {
+     "h": "Dragini",
+     "t": "Versi bekent dat zij 500 jaar de cipier was. Naar Xander in de Necropolis. Eed van terugkeer."
+    },
+    {
+     "h": "Apollodorus",
+     "t": "Gewist is niet vernietigd. Begin in het Oudwoud, bij haar zuster."
+    },
+    {
+     "h": "Sirius",
+     "t": "Bemanning leeft, verspreid over de Golf. Eerst de verloren schat van de Dragonlords vinden; daarna volgt de weg naar huis."
+    },
+    {
+     "h": "Wauros",
+     "t": "KLEINKIND VAN SYDON. Krijgt het medaillon van zijn grootmoeder. Geen roem — gezag dat niet weggelachen kan worden."
+    },
+    {
+     "h": "Ox",
+     "t": "Weigert zijn arenanaam. Vloek is breekbaar — spreek met DAMON, de lich die de Necropolis bewaakt. Hij weet wie de vloek wierp."
+    }
+   ],
+   "bron": "Tracker-boom"
+  },
+  {
+   "id": "p6",
+   "groep": "p-proloog",
+   "titel": "Oath of Fellowship",
+   "ster": false,
+   "status": "klaar",
+   "type": "verhaal",
+   "kern": "Kyrah stelt de eed voor. Fame wordt gedeeld en de eed beschermt de groep. Daarna: eerste Arbeidsdaad kiezen — Kyrah stuurt naar Estoria.",
+   "doen": [],
+   "haken": [],
+   "bron": "Tracker-boom"
+  },
+  {
+   "id": "p7",
+   "groep": "p-proloog",
+   "titel": "Een week later — het medaillon spreekt",
+   "ster": false,
+   "status": "klaar",
+   "type": "verhaal",
+   "kern": "De geest van de grootmoeder meldt zich voor het eerst: laat de Dragonlords herrijzen, maar neem eerst wraak op Sydon.",
+   "doen": [],
+   "haken": [
+    {
+     "h": "Wauros",
+     "t": "Zij was zelf een tovenares. Zijn wizardhaat is zelfhaat — en hij moet elke week luisteren."
+    }
+   ],
+   "bron": "Tracker-boom"
+  },
+  {
+   "id": "a1-aankomst",
+   "groep": "a1-gespeeld",
+   "titel": "Aankomst in Estoria",
+   "waar": "Estoria — zuidpoort, paleis (E10)",
+   "status": "klaar",
+   "type": "verhaal",
+   "kern": "Sessie 3. Pythor ontmoet (dronken, Kyrah las hem de les). Het offer van Anora besproken maar niet beslist. Onderweg: Sirius praatte de cyclopen Misha & Mosho om met een leugen over een geheime missie voor Sydon; Orelle doodde een centaur hero en draagt zijn pike. Sydons centaurenbendes zoeken de partij nog.",
+   "dm": [
+    "Gaius en de Orde van Sydon kwamen in sessie 3 NIET in beeld. Thericles werd nog niet ontmoet."
+   ],
+   "bron": "Recap sessie 3; campaign.json"
+  },
+  {
+   "id": "a1-shrine",
+   "groep": "a1-gespeeld",
+   "titel": "Dragon Shrine — de Hoorn is gestolen",
+   "waar": "E7 Dragon Shrine",
+   "status": "klaar",
+   "type": "onderzoek",
+   "kern": "Aesop meldde de diefstal; hoefsporen en wijnvlekken leidden naar het Oldwood.",
+   "bron": "Boek ch2 E7"
+  },
+  {
+   "id": "a1-mossy",
+   "groep": "a1-gespeeld",
+   "titel": "Mossy Temple (T1–T15)",
+   "waar": "Oldwood",
+   "status": "klaar",
+   "type": "kerker",
+   "kern": "Sessies 4–6. Corinna gered, Herkus gevangen (eekhoorn op Apollodorus' schouder), Sostrate gered, Loreus vertelde Demetria's verhaal, maenads verslagen. Finale: Kyrenos doodde Demetria en nam de Shortbow of Cupidity. Een van de meisjes stierf (door de gygan). Ritual Tome verbrand. Uit de Hoorn gedronken: visioen van een wijde zee en een bronzen toestel dat een sterrenbeeld weerspiegelt.",
+   "open": [
+    "Nog te bevestigen: lot van de gygan en de drie overige meisjes; de vier slapende tieners in T13 en de acht in de Madon-grot; of de Ring of Protection (Apollodorus) gevonden is."
+   ],
+   "bron": "campaign.json sessies 4–6"
+  },
+  {
+   "id": "a1-hoorn",
+   "groep": "a1-gespeeld",
+   "titel": "De Hoorn terug bij Aesop",
+   "waar": "E7 Dragon Shrine",
+   "status": "klaar",
+   "type": "sociaal",
+   "kern": "Sessie 6. Aesop vertelde over Telamok en Damon en gaf de burnished dragonlord coin voor de brugwachter, met de waarschuwing de praalgraven met rust te laten. Daarna long rest, inkopen en armor/wapen-upgrades bij de smid. Party naar level 3.",
+   "open": [
+    "Heeft Aesop de eed gevraagd om de Hoorn naar Queen Vallus in Mytros te brengen (en gewaarschuwd voor Acastus)? Zo niet: inhalen bij het volgende bezoek."
+   ],
+   "dm": [
+    "De Droom is canon de Ultros (galei, dode roeiers) + de Antikythera. Kyrah, Aesop of Proteus kunnen hem duiden: twee nieuwe Labors."
+   ],
+   "bron": "Boek ch2 E7 \"Returning the Horn\"; campaign.json sessie 6"
+  },
+  {
+   "id": "a1-thericles",
+   "groep": "a1-estoria",
+   "titel": "Corinna naar huis — Thericles",
+   "waar": "E13 Estorian Vineyards",
+   "status": "nu",
+   "type": "sociaal",
+   "wanneer": "Zodra Corinna (en Sostrate) uit het Oldwood terug zijn.",
+   "kern": "Thericles (NG scout), oud-verkenner van de koning, leeft met zijn man aan de rand van de stad. Hij zocht Corinna al een week. Brengen de helden haar thuis, dan is hij uitzinnig van vreugde en geeft hij zijn familie-erfstuk.",
+   "zeg": [
+    "Thericles is niet rijk, maar hij geeft graag zijn erfstuk: een javelin of lightning.",
+    "Hij stamt af van de Phobas-lijn van de Dragonlords en wordt door heel Estoria gerespecteerd."
+   ],
+   "dialoog": [
+    {
+     "wie": "Thericles",
+     "kern": [
+      "Eerst ongeloof, dan een omhelzing die te lang duurt.",
+      "Vraagt naar de andere tieners: wie leeft nog, wie moet hij gaan vertellen dat een kind niet terugkomt?",
+      "Biedt het erfstuk aan; hij is niet rijk, maar dit hoort bij helden."
+     ]
+    },
+    {
+     "wie": "Corinna",
+     "kern": [
+      "Wil weten wat er met haar vrienden gebeurt. Ze kent de namen van de tieners in de tempel."
+     ]
+    }
+   ],
+   "doen": [
+    "Beslis wie de javelin of lightning krijgt (aan tafel).",
+    "Families van de vermiste tieners: wie meldt het overlijden van het meisje uit T15?"
+   ],
+   "buit": [
+    "Javelin of lightning (Thericles' erfstuk)."
+   ],
+   "haken": [
+    {
+     "h": "Kyrenos",
+     "t": "Voorstel: Gaius gooit ook javelins of lightning. Eén heldenwapen tegenover drie van de vijand: laat dat later terugkomen."
+    },
+    {
+     "h": "Dragini",
+     "t": "Voorstel: Phobas is een naam uit haar tijd (Rizon Phobas, rivale van Xander). Een flits van herkenning, geen herinnering."
+    }
+   ],
+   "dm": [
+    "Rizon, Cosmo en Nicholas Phobas liggen in Telamok (X6, X7, X14). Aesop noemt Thericles en Acastus de laatste echte erfgenamen van Rizon en Estor."
+   ],
+   "open": [
+    "Thericles: boek en tracker zeggen wijnboer, de recap en de spelersapp zeggen \"tavern owner\". Kies één versie."
+   ],
+   "bron": "Boek ch2 E13; sessies 4–5"
+  },
+  {
+   "id": "a1-gaius-paleis",
+   "groep": "a1-estoria",
+   "titel": "Gaius en de Orde van Sydon",
+   "waar": "E10 The King's Palace",
+   "status": "nu",
+   "type": "sociaal",
+   "wanneer": "Bij de eerste poging om over Anora te onderhandelen. Eerste ontmoeting met Gaius.",
+   "kern": "De zeven kapiteins van de Orde logeren in het paleis, onder bevel van Gaius in zware wapenrusting. Hij weigert de vijftig ossen en is eerst tegen elke vervanger. Hij draait pas bij als de helden zichzelf aanbieden; doen ze dat niet, dan stelt hij het zelf voor vóór ze vertrekken. Alleen als ALLE helden samen geofferd worden.",
+   "zeg": [
+    "Gaius aanvaardt een vervanging alleen als alle helden samen aan de Rots gaan.",
+    "De Orde eist een mens, geen vee. Pythor durft niemand voor te stellen."
+   ],
+   "dialoog": [
+    {
+     "wie": "Gaius",
+     "kern": [
+      "Grimmig, geen greintje humor, drinkt nooit. Spreekt over Sydon als over de enige wet.",
+      "Wuift de ossen weg: Sydon heeft al genoeg vee gekregen, de stad verhongert erdoor.",
+      "Als de helden zichzelf aanbieden: een korte stilte, dan instemming. Hij lijkt bijna tevreden.",
+      "Stellen ze het niet voor, dan stelt hij het zelf voor bij het afscheid (voorbeeldzin: het Orakel noemt jullie uitverkoren, laat Sydon dan maar oordelen)."
+     ]
+    },
+    {
+     "wie": "Kyrah",
+     "kern": [
+      "Vond onderhandelen de beste optie. Bij Gaius' voorstel ziet ze de val: houdt haar mond niet."
+     ]
+    }
+   ],
+   "doen": [
+    "Insight DC 15 op Gaius: hij wil de helden dood, en dit is een \"gepaste\" manier.",
+    "Wie Gaius beledigt of grapt: hij maakt van ketterij graag een (dodelijk) voorbeeld. Niet in het paleis, wel later."
+   ],
+   "vijanden": [
+    {
+     "k": "gaius",
+     "q": 1,
+     "noot": "Alleen als het misloopt. Vechten in het paleis is een ramp: Pythor is gebonden door de Oath of Peace."
+    },
+    {
+     "k": "captain",
+     "q": 7,
+     "naam": "Kapiteins van de Orde"
+    }
+   ],
+   "haken": [
+    {
+     "h": "Apollodorus",
+     "t": "Gaius kruisigt barden om ze te doen zwijgen. Een bard aan tafel trekt meteen zijn blik."
+    },
+    {
+     "h": "Kyrenos",
+     "t": "Gaius voert de centaurenstammen aan die Estoria bedreigen: Kyrenos' eigen volk."
+    },
+    {
+     "h": "Ox",
+     "t": "Gaius voert de Orde aan waaraan Ox' priester Theron verbonden is. Ox weet dat niet. Voorstel: laat hooguit een symbool herkennen."
+    }
+   ],
+   "dm": [
+    "Gaius weet dat Sydon de Uitverkorenen dood wil. De Rots is voor hem een elegante oplossing.",
+    "Argyn is hier nog niet te zien: de draak komt pas in beeld bij de warband.",
+    "Gaius heeft Dragini's harnas (Cloak of the Bat) in zijn kamer op Yonder. Zij weet dat nog niet; Xander vertelt het in Telamok."
+   ],
+   "bron": "Boek ch2 \"The Order of Sydon\"; App. D Gaius"
+  },
+  {
+   "id": "a1-anora-keuze",
+   "groep": "a1-estoria",
+   "titel": "Anora — de keuze",
+   "waar": "E10 paleis",
+   "status": "nu",
+   "type": "keuze",
+   "wanneer": "Na één Great Labor is de volle maan er (klok volgt het boek; tijd blijft bewust vaag).",
+   "kern": "Pythor smeekt, alle koninklijke waardigheid kwijt. Anora zit in de kerker, omdat ze zichzelf anders zou aanbieden. Opties: onderhandelen met de Orde (wordt: zelf aan de Rots), de centaurenhoofdman uitdagen, of het offer laten gebeuren. Een vierde optie bedenkt niemand voor hen: de basilisken in hun nest doden.",
+   "zeg": [
+    "Zonder offer vóór de volle maan vallen alle verzamelde centaurenstammen Estoria aan.",
+    "Pythor helpt met niets meer tot Anora veilig is."
+   ],
+   "dialoog": [
+    {
+     "wie": "Pythor",
+     "kern": [
+      "Biedt vijftig ossen (100 gp per stuk) om te onderhandelen.",
+      "Weet dat de Orde een mens wil, maar kan niemand voorstellen.",
+      "Laten de helden het afweten: hij drinkt zich voor het offer laveloos en blijft een week van de wereld."
+     ]
+    },
+    {
+     "wie": "Kyrah",
+     "kern": [
+      "Onderhandelen is de beste optie.",
+      "Baenor uitdagen is zelfmoord: zo'n leger verspreid je alleen door de hoofdman op ongelijke voet te verslaan."
+     ]
+    },
+    {
+     "wie": "Anora (in de kerker)",
+     "kern": [
+      "Gelaten, koninklijker dan haar vader. Ze gaat liever zelf dan dat duizenden sterven."
+     ]
+    }
+   ],
+   "doen": [
+    "Zet de keuze op tafel en laat de spelers kiezen. Elke optie is een eigen scène hieronder."
+   ],
+   "haken": [
+    {
+     "h": "Sirius",
+     "t": "Pythor gebruikt zijn kennis over de schat van de Dragonlords als hefboom: pas na Anora's redding vertelt hij over Estor Arkelander."
+    }
+   ],
+   "dm": [
+    "Komen de helden niet opdagen, dan voert de Orde het offer met geweld uit en gaat Anora gewillig.",
+    "De basilisken doden redt Anora niet alleen: Lutheria stuurt hoe dan ook harpijen om de dood zeker te maken."
+   ],
+   "bron": "Boek ch2 \"The King's Daughter\", \"Possible Solutions\""
+  },
+  {
+   "id": "a1-baenor",
+   "groep": "a1-estoria",
+   "titel": "Optie: Baenor uitdagen",
+   "waar": "Overkant van de Arkelon (E12)",
+   "status": "optie",
+   "type": "gevecht",
+   "wanneer": "Als de helden de centaurenhoofdman willen uitdagen. Pythor regelt de ontmoeting.",
+   "kern": "Baenor komt met een dozijn centauren en twee cyclopen. Met Persuasion DC 20 (of een bijzonder sterk argument) aanvaardt hij een rituele strijd. Wint zijn kant niet, dan trekt het leger weg. Hij eist gelijke aantallen en dat alle helden meevechten.",
+   "zeg": [
+    "Baenor zweert dat zijn leger de stad met rust laat als zijn kant verliest.",
+    "Gelijke aantallen: Baenor, één cycloop en voor de rest centaur heroes."
+   ],
+   "dialoog": [
+    {
+     "wie": "Baenor",
+     "kern": [
+      "Spot met mensen die zich achter een dronken god verschuilen.",
+      "Respecteert alleen kracht en eer. Trucs maken hem woedender (Kyrah waarschuwt)."
+     ]
+    }
+   ],
+   "doen": [
+    "Persuasion DC 20 om de duelvoorwaarden te krijgen.",
+    "Bij zeven helden: Baenor + 1 cycloop + 5 centaur heroes."
+   ],
+   "vijanden": [
+    {
+     "k": "baenor",
+     "q": 1
+    },
+    {
+     "k": "cyclops",
+     "q": 1
+    },
+    {
+     "k": "centaur_hero",
+     "q": 5,
+     "noot": "Aantal = helden min twee"
+    },
+    {
+     "k": "centaur",
+     "q": 12,
+     "noot": "Toeschouwers; mengen zich niet zolang het eerlijk blijft"
+    }
+   ],
+   "haken": [
+    {
+     "h": "Kyrenos",
+     "t": "Voorstel: een centaur aan de kant van de mensen. Baenor spreekt hem aan als verrader of als verloren broer: dat bepaalt de toon."
+    }
+   ],
+   "dm": [
+    "Vrijwel onwinbaar op level 3. Sterven de helden, dan brengt Kyrah de lichamen naar het paleis en wekt ze over een week weer op.",
+    "LET OP Orelle: sterft zij hier, dan treedt meteen haar divine boon in werking (true resurrection) en telt het als dood 1 van 3. Joris plande haar eerste dood bij Gaius."
+   ],
+   "bron": "Boek ch2 \"The Centaur Chieftain\""
+  },
+  {
+   "id": "a1-basilisken",
+   "groep": "a1-estoria",
+   "titel": "Optie: het basiliskennest",
+   "waar": "Grot 1 mijl ten noorden van de Rots",
+   "status": "optie",
+   "type": "gevecht",
+   "wanneer": "Alleen als de helden zelf op het idee komen.",
+   "kern": "Bijna dagelijks binden twee leden van de Orde een koe aan de paal; twee basilisken (zwemmen 20 ft) verstenen en eten haar. Hun nest ligt een mijl stroomop, enkel bereikbaar door onder water naar een grotje te zwemmen.",
+   "doen": [
+    "Survival DC 15 aan de Rots: sporen naar de grot.",
+    "Onder water zwemmen naar het nest (grotto)."
+   ],
+   "vijanden": [
+    {
+     "k": "basilisk",
+     "q": 4,
+     "noot": "Tussen offers in zitten er vier. Zwemsnelheid 20 ft."
+    }
+   ],
+   "buit": [
+    "Vier basiliskeneieren in het nest."
+   ],
+   "dm": [
+    "Zijn alle vier dood, dan komen er geen basilisken naar het offer. De harpijen worden dan steeds ongeduldiger en duiken uiteindelijk zelf aan."
+   ],
+   "bron": "Boek ch2 E11 \"Encounter: Basilisks\""
+  },
+  {
+   "id": "a1-rots",
+   "groep": "a1-estoria",
+   "titel": "De Rots van Estor — de nacht",
+   "waar": "E11 Rock of Estor, in de Arkelon",
+   "status": "open",
+   "type": "gevecht",
+   "wanneer": "De nacht van het offer, als de helden Anora's plaats innemen.",
+   "kern": "Een grimmige processie door de doorwaadbare plaats. Gaius en zijn zeven kapiteins binden elke held met een been aan de ijzeren paal. Wie van de Rots stapt, brengt Sydons toorn over de stad. Overleven tot zonsopgang is genoeg.",
+   "zeg": [
+    "Elke vastgebonden held kan maximaal 10 ft. van de paal bewegen.",
+    "Gaius: blijf tot de zon opkomt. Wie van de Rots stapt, laat de stad boeten.",
+    "Aan de overkant kijken twaalf centauren toe."
+   ],
+   "dialoog": [
+    {
+     "wie": "Gaius",
+     "kern": [
+      "Ceremonieel, kort. Draagt de helden op aan de Lord of Storms en trekt zich terug op de oever."
+     ]
+    },
+    {
+     "wie": "Harpijen",
+     "kern": [
+      "Cirkelen 100 ft. hoog en honen. Ze zingen pas als iemand van de Rots stapt."
+     ]
+    }
+   ],
+   "doen": [
+    "Boeien: DC 15 Dex met thieves' tools, of stukslaan (AC 15, 10 HP per boei).",
+    "Na 10 minuten: drie harpijen cirkelen boven de Rots en schelden.",
+    "Stapt een held van de Rots: Luring Song op die held, de rivier in; dan duiken ze aan om te doden.",
+    "Na 20 minuten: twee basilisken komen uit het water (tenzij het nest al leeg is).",
+    "Zonsopgang: Gaius laat ze met tegenzin gaan. Aan de voorwaarden is voldaan."
+   ],
+   "vijanden": [
+    {
+     "k": "harpy",
+     "q": 3,
+     "noot": "Door Lutheria gestuurd: Lutheria's Joke, ze kiezen Orelle als doelwit."
+    },
+    {
+     "k": "basilisk",
+     "q": 2,
+     "noot": "Zwemmen 20 ft. Petrifying Gaze DC 12; ogen afwenden kan."
+    },
+    {
+     "k": "centaur",
+     "q": 12,
+     "noot": "Kijken toe; grijpen enkel in bij een aanval of als iemand oversteekt"
+    },
+    {
+     "k": "gaius",
+     "q": 1,
+     "noot": "Enkel als de helden de voorwaarden breken"
+    },
+    {
+     "k": "captain",
+     "q": 7
+    }
+   ],
+   "haken": [
+    {
+     "h": "Orelle",
+     "t": "De harpijen zijn Lutheria's dienaren: ze negeren de rest zoveel mogelijk en pesten haar. Het moet opvallen."
+    },
+    {
+     "h": "Kyrenos",
+     "t": "Voorstel: twaalf centauren aan de overkant kijken hoe een van hun soort zich laat vastbinden voor de mensen."
+    }
+   ],
+   "dm": [
+    "Speel de getallen van het boek en hou reserves achter de hand (bijv. een vierde harpij) in plaats van vooraf op te schalen.",
+    "Een spiegel of gepoetst schild in fel licht: de basilisk kan zichzelf verstenen."
+   ],
+   "open": [
+    "Aan tafel werd gezegd dat ze \"zonder wapens\" de nacht moeten doorkomen. Het boek zegt niets over wapens afnemen. Beslis of Gaius de wapens laat inleveren."
+   ],
+   "bron": "Boek ch2 \"The Sacrifice\""
+  },
+  {
+   "id": "a1-feest",
+   "groep": "a1-estoria",
+   "titel": "Feest bij de koning",
+   "waar": "E10 troonzaal",
+   "status": "open",
+   "type": "beloning",
+   "wanneer": "Als Anora gered is (Rots overleefd of Baenor verslagen).",
+   "kern": "Pythor zit al diep in zijn bekers. Botbrekende omhelzingen, pijnlijke schouderklopjes. Hij geeft zijn hamer weg, kondigt een week feest af en, nu zijn dochter veilig is, vertelt hij wat hij weet.",
+   "zeg": [
+    "Pythor geeft Pythor's hammer aan één held. Volkan smeedde hem; met deze hamer kan Volkan aan de Mithral Forge machtige wapens en wapenrusting maken (en Xanders wapens herstellen).",
+    "Een week feest ter ere van de helden: toneel in het amfitheater, eten, drinken.",
+    "Aan Sirius: Estor Arkelander was de laatste die de schat van de Dragonlords had. Estor is nu de ondode kapitein van het spookschip Ultros."
+   ],
+   "dialoog": [
+    {
+     "wie": "Pythor",
+     "kern": [
+      "\"Vroeger was ik alleen het veld op gegaan tegen dat hele centaurenleger…\" Tijd om de hamer met pensioen te sturen.",
+      "Herinnert zich geen enkel van de talloze verhalen over de hamer echt.",
+      "Vragen de helden hulp bij de Labors: ga naar zijn vader Volkan, de smid. Een dwerg als vader? \"It's… complicated.\""
+     ]
+    },
+    {
+     "wie": "Kyrah",
+     "kern": [
+      "Gunt hen één avond, en spoort hen dan aan om verder te gaan met de Labors."
+     ]
+    }
+   ],
+   "buit": [
+    "Pythor's hammer (legendary, requires attunement): +1 op aanval en schade; één keer per dag teleporteert hij naar je hand; wie er magische wapens of wapenrusting mee smeedt, halveert de smeedtijd."
+   ],
+   "haken": [
+    {
+     "h": "Sirius",
+     "t": "Het Estor-spoor: de galei uit de Droom is de Ultros, en Estor had de schat. Ruben moet hier zijn eerste concrete lead voelen."
+    },
+    {
+     "h": "Dragini",
+     "t": "Estor was 500 jaar geleden Versi's andere minnaar. Voorstel: Pythor weet dat niet, maar laat de naam bij haar binnenkomen."
+    }
+   ],
+   "dm": [
+    "Het boek geeft de hamer bij voorkeur aan een Demi-God-kind. Dat pad is vrij: laat de tafel kiezen of geef hem aan wie het meest voor Anora riskeerde.",
+    "Wil je het Wijnfestival (Tassos, Seema) spelen: dit is het moment (zie zijpaden)."
+   ],
+   "bron": "Boek ch2 \"Celebration with the King\"; ch1 Lost One"
+  },
+  {
+   "id": "a1-volkan",
+   "groep": "a1-estoria",
+   "titel": "Volkan's Hall",
+   "waar": "E9 Volkan's Hall",
+   "status": "open",
+   "type": "sociaal",
+   "kern": "De knorrige dwergensmid is in werkelijkheid Volkan, God of the Forge en vader van Pythor. Hij herkent de Uitverkorenen en is vaag onder de indruk. Hij ratelt over de oude smidse in de Mithral Mines en wat er ooit gesmeed werd, vóór Lutheria de plek vervloekte.",
+   "zeg": [
+    "Volkan belooft naar de Mithral Mines te komen zodra de vuren van de smidse weer branden.",
+    "Platemail, kruisbogen en ander geavanceerd materiaal koop je hier, niet op de agora."
+   ],
+   "dialoog": [
+    {
+     "wie": "Volkan",
+     "kern": [
+      "Verstrooid, bijziend, vergeetachtig. Maakt geen geheim van wie hij is; de stad lacht er al eeuwen om.",
+      "Moppert over al het werk. Zijn hulpje Theo (tiener) doet de stallen en boodschappen."
+     ]
+    }
+   ],
+   "haken": [
+    {
+     "h": "Kyrenos",
+     "t": "Voorstel: Volkan laat vallen dat de Forgekeeper daar beneden nog leeft (Versi stuurde Kyrenos naar haar)."
+    }
+   ],
+   "dm": [
+    "Volkan's Reward (lesser item) enkel als het zwijn aan Volkan geofferd werd. Bij ons ging het karkas naar Vallus (scarab of protection in Act 2): geen beloning van Volkan."
+   ],
+   "open": [
+    "De \"smid\" uit sessie 6 (upgrades): was dat Volkan? Dan is deze scène deels gespeeld."
+   ],
+   "bron": "Boek ch2 E9"
+  },
+  {
+   "id": "a1-z-dwergen",
+   "groep": "a1-zijpaden",
+   "titel": "De dwergen van Estoria",
+   "waar": "E8 The Dragon's Tooth",
+   "status": "optie",
+   "type": "quest",
+   "kern": "Elke avond komen een paar dwergen uit de kopermijn naar de herberg. Hun clan vluchtte eeuwen geleden uit de Mithral Mines. Terug willen ze niet (Lutheria vervloekte de plek), maar de oudsten willen hun doden begraven.",
+   "zeg": [
+    "10 gp per dwergenschedel die terug naar Estoria komt."
+   ],
+   "buit": [
+    "F14 Dwarven Hall: 25 dwergenskeletten → tot 250 gp."
+   ],
+   "bron": "Boek ch2 E8"
+  },
+  {
+   "id": "a1-z-claus",
+   "groep": "a1-zijpaden",
+   "titel": "Claus, de vervloekte grafrover",
+   "waar": "E5 The Agora",
+   "status": "optie",
+   "type": "sociaal",
+   "kern": "Een uitgehongerde man (NE bandit) probeert een smaragden halsketting te verkopen voor 1 gp. Het is een necklace of fireballs met één kraal. Hij glipte langs Damon in Telamok en is nu vervloekt: alles wat hij eet, komt eruit.",
+   "zeg": [
+    "Een koopman komt tussenbeide: Claus is een grafrover, de ketting komt uit de Necropolis."
+   ],
+   "dm": [
+    "De vloek eindigt pas als hij de ketting verkoopt aan iemand die weet hoe hij eraan kwam. Liegen of achterlaten werkt niet: hij wordt er elke ochtend mee wakker.",
+    "Koopt een held hem toch: Curse of the Graverobber (kan niet eten; na Con-score dagen elke dag een level exhaustion). Greater restoration lost het op.",
+    "Goede voorbode voor de waarschuwing van Aesop over de graven in Telamok."
+   ],
+   "bron": "Boek ch2 E5; Intro \"Laws of Thylea\""
+  },
+  {
+   "id": "a1-z-festival",
+   "groep": "a1-zijpaden",
+   "titel": "Het Wijnfestival en Seema",
+   "waar": "E1 Public Amphitheater",
+   "status": "optie",
+   "type": "sociaal",
+   "kern": "Een week lang drie stukken van Tassos (CE priest van Lutheria): The Fall of Estor, The Plight of Pellenia en Pythor and the Five Sisters. Afsluiter: een bacchanaal. Hoofdactrices: Seema (een green hag in vermomming) en de oread Aria. Ze haten elkaar.",
+   "doen": [
+    "Ziet Seema een held kijken: ze flirt en lokt hem naar het slotfeest om er zijn hart op te eten.",
+    "Aria probeert de held weg te sturen; Seema noemt dat jaloezie."
+   ],
+   "vijanden": [
+    {
+     "k": "seema",
+     "q": 1
+    },
+    {
+     "k": "satyr",
+     "q": 2,
+     "noot": "Muzikanten van Tassos"
+    }
+   ],
+   "haken": [
+    {
+     "h": "Orelle",
+     "t": "Voorstel: Lutheria eiste haar op bij een wijnfeest. Een priester van Lutheria die een wijnfestival leidt: dat moet pijn doen."
+    },
+    {
+     "h": "Sirius",
+     "t": "Voorstel: The Fall of Estor speelt Estor Arkelander als held die zijn bemanning redt. Mooi tegengif voor wat Pythor vertelt."
+    }
+   ],
+   "bron": "Boek ch2 E1"
+  },
+  {
+   "id": "a1-z-woodhike",
+   "groep": "a1-zijpaden",
+   "titel": "Woodhike — de stropers",
+   "waar": "E14 Woodhike (halflingdorp)",
+   "status": "optie",
+   "type": "quest",
+   "kern": "Burgemeester Thobos (LG halfling) biedt thee en vraagt hulp: dieren verdwijnen, bomen zijn omgehakt. Een mijl stroomop zit de bende van Korteva (CE bandit chief). Ze heeft een goedaardige cycloop wijsgemaakt dat de bandieten zijn vrienden zijn.",
+   "doen": [
+    "Persuasion DC 18 om de cycloop te overtuigen dat het geen vrienden zijn.",
+    "Anders: bedreig je de bandieten, dan valt de cycloop mee aan."
+   ],
+   "vijanden": [
+    {
+     "k": "bandit_captain",
+     "q": 1,
+     "naam": "Korteva"
+    },
+    {
+     "k": "bandit",
+     "q": 6
+    },
+    {
+     "k": "cyclops",
+     "q": 1,
+     "noot": "NG: hem doden is een kwade daad"
+    }
+   ],
+   "dm": [
+    "Raken ze de cycloop los van de bende, dan adopteert Thobos hem."
+   ],
+   "bron": "Boek ch2 E14"
+  },
+  {
+   "id": "a1-z-geruchten",
+   "groep": "a1-zijpaden",
+   "titel": "Geruchten in The Dragon's Tooth",
+   "waar": "E8",
+   "status": "optie",
+   "type": "info",
+   "kern": "Herbergier Delphion (NG veteran) heeft weinig geduld voor bijgeloof, maar helpt graag. Rol d8 of kies.",
+   "doen": [
+    "1 tieners verdwijnen (Thericles' dochter) · 2 orkaan bij Mytros, wegen dicht · 3 de Orde eist de vernietiging van de Tempel van de Vijf in Mytros · 4 een groep strijders trok vorige maand naar de Necropolis en kwam niet terug · 5 Acastus heeft draken, boeren zagen ze vliegen · 6 de kopermijnen leveren te weinig; als de Mithral Mines maar terug waren · 7 Anora zou een betere heerser zijn · 8 Volkan beweert de God of the Forge te zijn, iedereen speelt mee."
+   ],
+   "bron": "Boek ch2 E8"
+  },
+  {
+   "id": "a1-warband",
+   "groep": "a1-warband",
+   "titel": "De centaurenwarband — Gaius op Argyn",
+   "waar": "Onderweg naar de volgende labour",
+   "status": "open",
+   "type": "gevecht",
+   "wanneer": "Joris (25/10): onderweg naar de volgende labour. Boek: na de eerste Labor.",
+   "kern": "Donkere wolken en gedonder. Een zilveren flits in de wolken, eerst aangezien voor bliksem: een prachtige zilveren draak met een figuur in blauwe mantel. Gaius eist dat ze hun queeste opgeven en knielen voor Sydon; halverwege verandert zijn stem in iets diepers, niet-menselijks. De draak verdwijnt in de wolken, de bliksem scheurt, de grond dreunt: een bloeddorstige warband charget.",
+   "zeg": [
+    "Eén centaur per held. Ze vechten twee rondes, keren dan abrupt om en trekken weg. Hun doden laten ze liggen."
+   ],
+   "dialoog": [
+    {
+     "wie": "Gaius (vanaf Argyn)",
+     "kern": [
+      "Geef je queeste op en buig voor de macht van Sydon.",
+      "Dan spreekt Sydon door hem: \"you meddle with forces beyond your comprehension\"."
+     ]
+    }
+   ],
+   "doen": [
+    "Ronde 1–2: de warband (7 centauren) charget. Charge-schade bij 30 ft. aanloop.",
+    "Orelles eerste dood (Joris): Gaius duikt op Argyn uit de wolken en gooit een javelin of lightning (+9; 1d6+5 piercing + 4d6 lightning; wie in de lijn staat DC 13 Dex of 4d6).",
+    "Na ronde 2: de centauren draaien om. Gaius en Argyn zijn al weg."
+   ],
+   "vijanden": [
+    {
+     "k": "centaur",
+     "q": 7,
+     "noot": "Eén per held; twee rondes, dan terugtrekken"
+    },
+    {
+     "k": "gaius",
+     "q": 1,
+     "noot": "Op Argyn; één duik, dan weg"
+    },
+    {
+     "k": "argyn",
+     "q": 1,
+     "noot": "Blijft in de wolken; vecht niet mee"
+    }
+   ],
+   "haken": [
+    {
+     "h": "Orelle",
+     "t": "Eerste dood (1 van 3). Haar divine boon werkt meteen: true resurrection. Speel het groot en publiek; de tafel moet voelen dat de teller loopt."
+    },
+    {
+     "h": "Kyrenos",
+     "t": "Eerste keer Argyn. Een draak, maar niet de zijne: zilver, en hij ademt kou. Zijn doelwit ademde vuur. Volgens de gecorrigeerde profetie is Argyn/Gaius een tussenstap (Yonder → Chondrus → Dragonslayer-wapen), niet de prooi."
+    },
+    {
+     "h": "Kyrenos",
+     "t": "De warband zijn centauren van de stammen die Gaius aanvoert: zijn eigen volk valt hem aan."
+    },
+    {
+     "h": "Wauros",
+     "t": "Het is Sydons stem die door Gaius spreekt: de stem van zijn grootvader. Voorstel: hij weet het niet, maar het medaillon wordt koud."
+    }
+   ],
+   "dm": [
+    "Gaius is CR 8; hij blijft niet. Eén treffer, één boodschap, weg.",
+    "Gaat het naar de Mithral Forge: dezelfde avond ontmoeten ze Hukar's vriendelijke centauren. Speel dat contrast bewust."
+   ],
+   "open": [
+    "Is Tiebe's gecorrigeerde profetie (Argyn/Gaius als tussenstap, Helios als echte prooi) al verstuurd? Zo niet: vóór deze scène."
+   ],
+   "bron": "Boek Intro \"Event: The Centaur Warband\"; beslissing 25/10"
+  },
+  {
+   "id": "f-weg",
+   "groep": "a1-forge",
+   "kop": "Onderweg",
+   "titel": "De verlaten weg",
+   "waar": "Van de North Gate door de steppe",
+   "status": "open",
+   "type": "reis",
+   "kern": "Vertrek bij dageraad uit de North Gate. Een oude, overwoekerde ertsweg langs granieten kliffen; ten noorden de steppe en blauwe bergen. Overdag grijs en koud, 's nachts een deken van sterren. Bij zonsondergang bereik je de Great Falls.",
+   "zeg": [
+    "De tocht is rustig. Bij zonsondergang: een bende centauren."
+   ],
+   "bron": "Boek ch2 \"Traveling to the Forge\""
+  },
+  {
+   "id": "f-hukar",
+   "groep": "a1-forge",
+   "kop": "Onderweg",
+   "titel": "Hukar en zijn centauren",
+   "waar": "Steppe, bij zonsondergang",
+   "status": "open",
+   "type": "sociaal",
+   "kern": "Hoefgedreun uit het noorden: een dozijn \"ruiters\" met bronzen helmen en lange pieken met scharlaken linten. Het zijn centauren. Ze omsingelen de helden. Aangevallen vechten ze enkel om te overmeesteren, niet om te doden.",
+   "zeg": [
+    "Hoofdman Hukar waarschuwt: in de grotten bij de Great Falls wonen troglodieten die 's nachts jagen. Twee van zijn verwanten zijn in hun klauwen gevallen.",
+    "De paden in de mijn zijn te verraderlijk voor centauren: hij kan niets doen."
+   ],
+   "dialoog": [
+    {
+     "wie": "Hukar",
+     "kern": [
+      "Nors maar eerlijk. Geeft een ivoren hoorn: blaas erop aan de oever van de Arkelon als je weet wat er met zijn verwanten gebeurd is.",
+      "Bij de beloning: de drankjes komen uit het bloed van zijn stam, gezegend door Sydon. Hij weet van de profetie, maar vraagt de helden Sydons wijsheid te overwegen."
+     ]
+    }
+   ],
+   "buit": [
+    "Ivoren hoorn (oproep).",
+    "Beloning later: 3 potions of heroism."
+   ],
+   "vijanden": [
+    {
+     "k": "centaur",
+     "q": 12,
+     "noot": "Enkel als het escaleert; vechten om te overmeesteren"
+    }
+   ],
+   "haken": [
+    {
+     "h": "Kyrenos",
+     "t": "Voorstel: na de warband van Gaius: centauren die gewoon hun eigen mensen willen terugvinden. Hukar spreekt hem aan als een van hen."
+    },
+    {
+     "h": "Wauros",
+     "t": "Voorstel: \"Blood of Sydon\", de zegen van zijn grootvader in een flesje. Laat hij het drinken?"
+    },
+    {
+     "h": "Orelle",
+     "t": "Voorstel: ook zij draagt Sydons bloed. Hukar's pleidooi voor Sydons wijsheid landt anders bij haar, zeker na haar gebed in de tempel."
+    }
+   ],
+   "bron": "Boek ch2 \"Band of Centaurs\", \"The Missing Centaurs\""
+  },
+  {
+   "id": "f-falls",
+   "groep": "a1-forge",
+   "kop": "Onderweg",
+   "titel": "De Great Falls van Arkelon",
+   "waar": "Uitkijkpunt boven het meer",
+   "status": "open",
+   "type": "verkenning",
+   "kern": "Alsof een hele oceaan over de rand van de wereld valt. Een halfrond meer, witte nevel, oorverdovend geraas, rood-goud licht van de ondergaande zon. Vier enorme stenen handen staan rond het meer. In het westen de besneeuwde Mithral Mountains.",
+   "zeg": [
+    "De hoofdingang van de mijn is ingestort; met een triviaal onderzoek vind je een geheim pad."
+   ],
+   "dm": [
+    "De vier handen zijn de Hands of Kentimane, de Elder Titan. Voorlopig slapend.",
+    "De dwergen bliezen de ingang dicht om de cerberus op te sluiten."
+   ],
+   "bron": "Boek ch2 \"The Great Falls of Arkelon\""
+  },
+  {
+   "id": "f1",
+   "groep": "a1-forge",
+   "kop": "Onderweg",
+   "titel": "F1 · Geheim pad + troglodiet-vissers",
+   "waar": "F1 Secret Pathway",
+   "status": "open",
+   "type": "gevecht",
+   "kern": "Een glibberige richel achter het watergordijn, een kwart mijl lang, koude nevel, geraas. Een touwladder naar de rivier. Vier smerige humanoïden klauteren op het pad met netten vol spartelende vis; ze laten de vis vallen en kijken hongerig.",
+   "doen": [
+    "De troglodieten vallen meteen aan.",
+    "Tactiek: één troglodiet grijpt een slachtoffer vast zodat de rest moet kiezen tussen vluchten en een vriend achterlaten."
+   ],
+   "vijanden": [
+    {
+     "k": "troglodyte",
+     "q": 3
+    },
+    {
+     "k": "trog_brute",
+     "q": 1
+    }
+   ],
+   "dm": [
+    "Verliezen de helden van troglodieten, dan worden ze niet gedood maar naar de koning gebracht: wakker met de effecten van een short rest, zonder wapens."
+   ],
+   "bron": "Boek ch2 F1"
+  },
+  {
+   "id": "f2",
+   "groep": "a1-forge",
+   "kop": "Onderweg",
+   "titel": "F2 · De gevorkte tunnel",
+   "waar": "F2 Forked Tunnel",
+   "status": "open",
+   "type": "verkenning",
+   "kern": "Vijftig voet natte tunnel met mos en sporen. Links natuurlijke grotten met een vreselijke stank en gekrijs van pijn; rechts wordt de tunnel gemetseld steenwerk.",
+   "doen": [
+    "Links = troglodietengrotten (F3+). Rechts = de mijnen (F10+).",
+    "Bij elke doortocht 1 op 6: een patrouille van 2d4+2 troglodieten + 1 brute. Eén rent alarm slaan, de rest vecht tot de dood."
+   ],
+   "vijanden": [
+    {
+     "k": "troglodyte",
+     "q": 6,
+     "noot": "2d4+2 bij een patrouille"
+    },
+    {
+     "k": "trog_brute",
+     "q": 1
+    }
+   ],
+   "bron": "Boek ch2 F2"
+  },
+  {
+   "id": "f3",
+   "groep": "a1-forge",
+   "kop": "Troglodietengrotten",
+   "titel": "F3 · Ingang van de grotten",
+   "waar": "F3",
+   "status": "open",
+   "type": "gevecht",
+   "kern": "De tunnel daalt; een stank erger dan alles wat ze kennen. Het gekrijs diep in de grot stopt plots.",
+   "vijanden": [
+    {
+     "k": "troglodyte",
+     "q": 4,
+     "noot": "Plat tegen de wanden; voordeel op Stealth (Chameleon Skin). Elke zes uur afgelost."
+    }
+   ],
+   "bron": "Boek ch2 F3"
+  },
+  {
+   "id": "f4",
+   "groep": "a1-forge",
+   "kop": "Troglodietengrotten",
+   "titel": "F4 · De gevangenenput",
+   "waar": "F4 Prison Pit",
+   "status": "open",
+   "type": "gevecht",
+   "kern": "Een vuurkuil met een half verkoold centaurenlijk aan het spit. Een kooi van versteend hout waarin een jonge centaur gepord wordt met puntige stokken; de troglodieten kwaken van plezier bij elke kreet.",
+   "zeg": [
+    "De gekooide jonge centaur is Kaluk. De centaur aan het spit is Hirak, en die leeft nog."
+   ],
+   "doen": [
+    "Hirak sterft binnen vijf rondes tenzij iemand hem geneest.",
+    "Kaluk en Hirak willen zo snel mogelijk naar buiten."
+   ],
+   "vijanden": [
+    {
+     "k": "troglodyte",
+     "q": 4
+    },
+    {
+     "k": "trog_brute",
+     "q": 2,
+     "noot": "Verborgen tegen de wanden, voordeel op Stealth; vallen meteen aan, vechten tot de dood"
+    }
+   ],
+   "haken": [
+    {
+     "h": "Kyrenos",
+     "t": "Voorstel: een centaur aan het spit. Dit is het moment waarop hij beslist wat Hukar's stam voor hem betekent."
+    }
+   ],
+   "dm": [
+    "Dit lost Hukar's quest op: blaas de ivoren hoorn aan de oever van de Arkelon."
+   ],
+   "bron": "Boek ch2 F4"
+  },
+  {
+   "id": "f5",
+   "groep": "a1-forge",
+   "kop": "Troglodietengrotten",
+   "titel": "F5 · De warrens",
+   "waar": "F5",
+   "status": "open",
+   "type": "gevecht",
+   "kern": "Een hol met strooien matten vol vuil en botten van mensen en centauren. Normaal slapen hier tientallen troglodieten; nu zijn de meeste elders.",
+   "vijanden": [
+    {
+     "k": "troglodyte",
+     "q": 2
+    },
+    {
+     "k": "trog_brute",
+     "q": 2,
+     "noot": "Slapen; horen ze de helden, dan verstoppen ze zich tegen de wanden of in hun eigen vuil voor een hinderlaag"
+    }
+   ],
+   "bron": "Boek ch2 F5"
+  },
+  {
+   "id": "f6",
+   "groep": "a1-forge",
+   "kop": "Troglodietengrotten",
+   "titel": "F6 · Kille grot",
+   "waar": "F6 Chilly Cave",
+   "status": "open",
+   "type": "gevecht",
+   "kern": "Veel kouder dan de rest; een vreemde koude wind uit de zuidwestelijke tunnel.",
+   "vijanden": [
+    {
+     "k": "troglodyte",
+     "q": 3
+    },
+    {
+     "k": "trog_brute",
+     "q": 1
+    }
+   ],
+   "dm": [
+    "De zuidwestelijke tunnel daalt mijlenver af naar de Underdark. Zo kwamen de troglodieten boven. Buiten het boek."
+   ],
+   "bron": "Boek ch2 F6"
+  },
+  {
+   "id": "f7",
+   "groep": "a1-forge",
+   "kop": "Troglodietengrotten",
+   "titel": "F7 · Broedhol",
+   "waar": "F7 Brood Den",
+   "status": "open",
+   "type": "gevecht",
+   "kern": "De stank wordt nog erger. Drie grote broedmoeders hurken in het midden; meer dan een dozijn jongen scheurt het zwakste broertje uiteen terwijl het piept van angst.",
+   "doen": [
+    "Broedlingen bijten wie dichtbij komt: DC 12 Dex of 1 piercing en 1 uur poisoned. Ze vallen zelf niet aan.",
+    "Morele keuze: niet gedood worden ze binnen een week volwassen troglodieten."
+   ],
+   "vijanden": [
+    {
+     "k": "broodmother",
+     "q": 3,
+     "noot": "Verdedigen hun jongen tot de dood"
+    },
+    {
+     "k": "broodling",
+     "q": 12
+    }
+   ],
+   "bron": "Boek ch2 F7"
+  },
+  {
+   "id": "f8",
+   "groep": "a1-forge",
+   "kop": "Troglodietengrotten",
+   "titel": "F8 · De mestput",
+   "waar": "F8 Refuse Pit",
+   "status": "open",
+   "type": "val",
+   "kern": "Een donkere put met strepen zwart en bruin langs de randen. De stank brandt in ogen en neus.",
+   "doen": [
+    "Binnenkomen: DC 15 Con-save of 1 uur poisoned.",
+    "Per voorwerp: 1 minuut wroeten + DC 15 Investigation. Niets straalt magie uit.",
+    "Wie het vuil aanraakt, faalt automatisch op alles wat met stealth te maken heeft tot hij een bad neemt."
+   ],
+   "buit": [
+    "5 ft. diep onder de smurrie: mithral breastplate, mithral ringmail, adamantine short sword, adamantine spear."
+   ],
+   "bron": "Boek ch2 F8"
+  },
+  {
+   "id": "f9",
+   "groep": "a1-forge",
+   "kop": "Troglodietengrotten",
+   "titel": "F9 · De troglodietenkoning",
+   "waar": "F9",
+   "status": "open",
+   "type": "sociaal",
+   "kern": "Ruwe treden naar een platform met een grove troon. Een enorme troglodiet met een gouden diadeem, geflankeerd door zijn soortgenoten, glimlacht boosaardig en spreekt hen aan in hun eigen taal: \"How dost thou, sweetlings?\"",
+   "zeg": [
+    "De koning draagt al een eeuw een headband of intellect. Het bracht hem enkel verdriet: hij is omringd door vuile idioten en heeft niemand om mee te praten.",
+    "Hij stelt een raadselspel voor."
+   ],
+   "dialoog": [
+    {
+     "wie": "De koning (spreekt als Caliban uit The Tempest)",
+     "kern": [
+      "Klaagt over zijn lot: de gouden band leerde hem taal, en wat hij ermee won is dat hij kan vloeken. De goden kwellen hem met dit gezelschap.",
+      "Bij het spel: hij wordt er vrolijk van, laten we spelen!",
+      "Bij beledigingen: treed zacht, opdat zijn woede je niet treft.",
+      "In een gevecht moedigt hij zijn brutes aan: bijt ze dood!"
+     ]
+    }
+   ],
+   "doen": [
+    "Raadsels (antwoord): Wat wordt moeilijker te vangen hoe sneller je loopt? (adem) · Wat breek je elke keer dat je spreekt? (stilte) · Wat loopt maar wandelt nooit, heeft monden maar praat niet, heeft hoofden maar huilt niet, heeft bedden maar slaapt niet? (een rivier)",
+    "Wat de uitkomst ook is: hij wil hen opeten. Hij wil alleen eerst zijn verstand tegen het hunne meten."
+   ],
+   "vijanden": [
+    {
+     "k": "trog_king",
+     "q": 1
+    },
+    {
+     "k": "trog_brute",
+     "q": 2
+    },
+    {
+     "k": "troglodyte",
+     "q": 1,
+     "noot": "Een vrouwelijke troglodiet"
+    }
+   ],
+   "buit": [
+    "Headband of intellect.",
+    "Mithral-ingot als scepter (500 gp)."
+   ],
+   "dm": [
+    "Hij kent het wachtwoord van de lift (F18): \"dragon\" in het Dwarvish. De Forgekeeper gaf het hem een jaar geleden.",
+    "Leeft de koning nog als de smidse ontwaakt, dan komt hij met een horde (zie Het ontwaken van de smidse)."
+   ],
+   "bron": "Boek ch2 F9"
+  },
+  {
+   "id": "f10",
+   "groep": "a1-forge",
+   "kop": "De mijnen",
+   "titel": "F10 · Gebroken ingang",
+   "waar": "F10 Broken Entryway",
+   "status": "open",
+   "type": "gevecht",
+   "kern": "De natuurlijke gang wordt dwergenwerk. Een stenen brug overhead, een smalle richel van 5 ft. erheen, en een standbeeld van een grote tweekoppige hond als wachter.",
+   "vijanden": [
+    {
+     "k": "death_dog",
+     "q": 1,
+     "noot": "Versteend door een cockatrice; ontwaakt 10 minuten na aankomst"
+    }
+   ],
+   "dm": [
+    "De death dogs uit de diepte verkennen sinds een paar dagen de bovenste verdieping. Ze doodden de troglodieten hier; die lieten als laatste redmiddel de cockatrices los."
+   ],
+   "bron": "Boek ch2 F10"
+  },
+  {
+   "id": "f11",
+   "groep": "a1-forge",
+   "kop": "De mijnen",
+   "titel": "F11 · De cockatricehokken",
+   "waar": "F11 Cockatrice Pens",
+   "status": "open",
+   "type": "gevecht",
+   "kern": "Een vierkante kamer met gebroken kooien van versteend hout. Een standbeeld van een troglodiet en een van een tweekoppige hond, en een half dozijn dode \"kippen\".",
+   "vijanden": [
+    {
+     "k": "cockatrice",
+     "q": 1,
+     "noot": "Loopt los rond en valt aan"
+    },
+    {
+     "k": "death_dog",
+     "q": 1,
+     "noot": "Ontwaakt als de helden langer dan één minuut blijven"
+    }
+   ],
+   "dm": [
+    "De koning kweekt cockatrices, laat ze vechten en verstenen gevangenen om ze te bewaren voor later. Aan \"eregasten\" serveert hij soms gebraden cockatrice."
+   ],
+   "bron": "Boek ch2 F11"
+  },
+  {
+   "id": "f12",
+   "groep": "a1-forge",
+   "kop": "De mijnen",
+   "titel": "F12 · Barakken",
+   "waar": "F12 Barracks",
+   "status": "open",
+   "type": "gevecht",
+   "kern": "Een recent slagveld: half opgegeten troglodietlijken in een hoek, drie beelden van tweekoppige honden in het midden, rottende wapenrekken.",
+   "vijanden": [
+    {
+     "k": "cockatrice",
+     "q": 2,
+     "noot": "Vallen aan bij binnenkomst"
+    },
+    {
+     "k": "death_dog",
+     "q": 3,
+     "noot": "Ontwaken na 10 minuten, één per twee rondes"
+    }
+   ],
+   "bron": "Boek ch2 F12"
+  },
+  {
+   "id": "f13",
+   "groep": "a1-forge",
+   "kop": "De mijnen",
+   "titel": "F13–F16 · Opslag, hal en vertrekken",
+   "waar": "F13 Storage · F14 Dwarven Hall · F15 Quarters · F16 Entrance Hall",
+   "status": "open",
+   "type": "gevecht",
+   "kern": "F13: leeggeroofde opslag. F14: een enorme zuilenhal met het lijk van een gigantische driekoppige hond; tweekoppige honden knagen eraan, overal dwergenskeletten. F15: rottende stapelbedden en kisten. F16: een grote inkomhal, na dertig voet versperd door puin.",
+   "doen": [
+    "F14: drie death dogs vallen aan en vechten tot de dood.",
+    "F15 kamer 1: zak met 65 sp onder het meubilair. Kamer 3: een skelet met een amethistring (250 gp).",
+    "F16: het puin is niet te verplaatsen."
+   ],
+   "vijanden": [
+    {
+     "k": "death_dog",
+     "q": 3,
+     "noot": "F14"
+    }
+   ],
+   "buit": [
+    "F14: mithral chain shirt op een skelet; 25 dwergenschedels (10 gp per stuk in Estoria).",
+    "F15: 65 sp; amethistring 250 gp."
+   ],
+   "dm": [
+    "De cerberus werd gedood door iets enorms dat uit de Deep Shaft (F17) kwam. Laat dat dreigen, niet verschijnen."
+   ],
+   "bron": "Boek ch2 F13–F16"
+  },
+  {
+   "id": "f17",
+   "groep": "a1-forge",
+   "kop": "De mijnen",
+   "titel": "F17 · De diepe schacht",
+   "waar": "F17 The Deep Shaft",
+   "status": "open",
+   "type": "val",
+   "kern": "De gang eindigt op de rand van een enorme kloof. Het plafond hangt op twintig voet, de kloof zakt weg in een bodemloze zwarte diepte. Zilveren aders in de wanden, rotte steigers, roestige kettingen, en klauwsporen in de rots alsof een reuzenklauw uit de put reikte.",
+   "doen": [
+    "Ingang naar het tweede niveau 100 ft. lager: drie geslaagde DC 15 Athletics om de wand af te klimmen. Wie het haalt, kan met pitons en touw een makkelijker pad maken.",
+    "Een val tot op de bodem (een mijl): 70 (20d6) bludgeoning. Gas daar: DC 10 Con per ronde of poisoned."
+   ],
+   "dm": [
+    "Onderaan: een ingang naar de Underdark die uitkomt in een magmameer. Buiten het boek.",
+    "Alternatieve weg naar beneden naast de lift (F18)."
+   ],
+   "bron": "Boek ch2 F17"
+  },
+  {
+   "id": "f18",
+   "groep": "a1-forge",
+   "kop": "De Mithral Forge",
+   "titel": "F18 · De dwergenlift (vuurval)",
+   "waar": "F18 The Dwarven Elevator",
+   "status": "open",
+   "type": "val",
+   "kern": "Een bronzen kubus van tien voet met grijnzende drakenkoppen in de wanden. Een hendel binnenin. Hij zakt 100 ft. naar de smidse, maar is dodelijk zonder wachtwoord.",
+   "zeg": [
+    "Het wachtwoord is \"dragon\" in het Dwarvish. De koning en de Forgekeeper kennen het."
+   ],
+   "doen": [
+    "Ronde 1: de lift daalt (5 rondes in totaal).",
+    "Ronde 2: initiatief. Op 20 pompen de koppen bovenaan zwarte olie de kamer in.",
+    "Ronde 3: gebulder van vlammen van onderen, nog meer olie.",
+    "Ronde 4, initiatief 10: vlammen uit de zijkoppen. Einde ronde 4 en 5: 21 (6d6) fire.",
+    "Minder schade: −2d6 als de olie geblokkeerd is vóór initiatief 10 in ronde 3, nog eens −2d6 vóór initiatief 10 in ronde 2.",
+    "Uitschakelen: het wachtwoord uitspreken, of de drakenmonden dichtstoppen (ze gloeien dan rood).",
+    "Einde ronde 5: het vuur dooft, de deuren gaan open met een belletje. Terug omhoog = de val start opnieuw."
+   ],
+   "bron": "Boek ch2 F18"
+  },
+  {
+   "id": "f19",
+   "groep": "a1-forge",
+   "kop": "De Mithral Forge",
+   "titel": "F19 · De wapenkamer",
+   "waar": "F19 The Armory",
+   "status": "open",
+   "type": "verkenning",
+   "kern": "IJzeren rekken, bijna allemaal omgegooid. Wat overblijft is gebroken of verroest. Botten en afval in de hoeken. Prachtig vakmanschap, onbruikbaar na eeuwen.",
+   "doen": [
+    "DC 20 Perception of detect magic: onder het afval een vuile, aangevreten mithral xiphos +1."
+   ],
+   "buit": [
+    "Mithral xiphos +1."
+   ],
+   "bron": "Boek ch2 F19"
+  },
+  {
+   "id": "f20",
+   "groep": "a1-forge",
+   "kop": "De Mithral Forge",
+   "titel": "F20 · Het lavabekken — de Forgekeeper",
+   "waar": "F20 The Lava Pool",
+   "status": "open",
+   "type": "sociaal",
+   "kern": "Een groot rond bekken met borrelende lava; iets zwemt eronder. Een sierlijke bronzen bol op vier poten, met een tuit naar de lava. Twee death dogs liggen erbij en grommen.",
+   "zeg": [
+    "In de lava zwemt de Forgekeeper, een salamander. Ze wil praten.",
+    "De bronzen bol houdt haar gevangen: verlaat ze het bekken, dan blaast hij de kamer met kou.",
+    "Ze vertelt alles over deze plek en het wachtwoord van de lift, als de helden beloven de bol uit te schakelen."
+   ],
+   "dialoog": [
+    {
+     "wie": "De Forgekeeper",
+     "kern": [
+      "Eeuwen opgesloten; brandende haat tegen dwergen (vijandig tegen dwergen in de partij).",
+      "De dwergen riepen haar op en bonden haar aan de smidse. Ze dreef het vuur aan en smeedde mee met Volkan aan mithral- en adamantine-items.",
+      "Ze moet vijf eeuwen blijven, tenzij het contract vernietigd wordt. Het tablet ligt volgens haar in de Blast Furnace (F21).",
+      "Ze kan de smidse herstarten als de helden haar van het contract bevrijden."
+     ]
+    }
+   ],
+   "doen": [
+    "Iemand raakt de bol aan: de death dogs vallen aan.",
+    "Val: verlaat de Forgekeeper het bekken vóór de bol uit is, dan klikt hij: cone of cold, 36 (8d8) cold op iedereen in de kamer. Herhaalt om de vijf rondes.",
+    "Bol stukslaan (AC 18, 30 HP): bij breken nog één keer 36 (8d8) cold over de hele kamer.",
+    "DC 15 Investigation: hij kan geblokkeerd worden. Dan maalt hij vijf rondes en gaat de val toch af.",
+    "Onderhandelen trekt de jonge cerberus uit F21 aan: die komt met de death dogs aanvallen."
+   ],
+   "vijanden": [
+    {
+     "k": "death_dog",
+     "q": 2
+    },
+    {
+     "k": "young_cerberus",
+     "q": 1,
+     "noot": "Komt uit F21 zodra er onderhandeld wordt"
+    },
+    {
+     "k": "forgekeeper",
+     "q": 1,
+     "noot": "Bondgenoot, geen vijand"
+    }
+   ],
+   "haken": [
+    {
+     "h": "Kyrenos",
+     "t": "LESSER ITEM: de Forgekeeper geeft hem de Ring of Resistance (Fire). Helios is goud; vuur is het juiste element."
+    },
+    {
+     "h": "Kyrenos",
+     "t": "Ze zegt dat hij een wapen nodig heeft dat sterk genoeg is voor een draak: de gygans van Yonder smeedden zulke wapens in de Eerste Oorlog (Chondrus, Act 3)."
+    }
+   ],
+   "open": [
+    "Wanneer geeft ze de ring: meteen bij het gesprek, of pas na haar bevrijding? Voorstel: na het contract, als dank."
+   ],
+   "bron": "Boek ch2 F20; ch1 Dragonslayer"
+  },
+  {
+   "id": "f21",
+   "groep": "a1-forge",
+   "kop": "De Mithral Forge",
+   "titel": "F21 · De hoogoven — jonge cerberus",
+   "waar": "F21 The Blast Furnace",
+   "status": "open",
+   "type": "gevecht",
+   "kern": "Een dode hoogoven: vier stenen kuipen langs de wanden, tuiten erboven, en in het midden een rond gat van drie voet.",
+   "dialoog": [
+    {
+     "wie": "Jonge cerberus",
+     "kern": [
+      "Intelligent genoeg om te praten. Noemt zich een dienaar van Lutheria, de Mistress of Death.",
+      "Zijn moeder werd een paar jaar geleden gedood door een groot beest uit de diepte. Hij nam haar plaats in door een half dozijn broers en zussen op te eten.",
+      "Praat niet lang: hij heeft heel veel honger. Drie monden om te voeden."
+     ]
+    }
+   ],
+   "vijanden": [
+    {
+     "k": "young_cerberus",
+     "q": 1
+    }
+   ],
+   "buit": [
+    "56 pp, 125 gp, 389 sp.",
+    "Adamantine trident en zes adamantine javelins.",
+    "Het runetablet met het contract van de Forgekeeper."
+   ],
+   "haken": [
+    {
+     "h": "Orelle",
+     "t": "Een dienaar van Lutheria: hij kiest haar. Drie koppen, één doelwit."
+    }
+   ],
+   "bron": "Boek ch2 F21"
+  },
+  {
+   "id": "f-ontwaken",
+   "groep": "a1-forge",
+   "kop": "De Mithral Forge",
+   "titel": "Het ontwaken van de smidse",
+   "waar": "F21 en de smidse",
+   "status": "open",
+   "type": "gevecht",
+   "wanneer": "Zodra de cerberus verslagen is en de Forgekeeper het contract heeft.",
+   "kern": "Ze zegt de helden te wachten en glijdt door het gat in de vloer. Vijf rondes later komt ze terug. Lava borrelt op en stroomt in geultjes door de kamer. De smidse leeft. Labour voltooid.",
+   "zeg": [
+    "Geven de helden haar het contract, dan smelt ze het. Ze keert niet meteen terug naar het Plane of Fire: ze blijft een jaar en smeedt voor de helden.",
+    "Volkan komt naar de smidse zoals beloofd."
+   ],
+   "doen": [
+    "Passive Perception 15+: de dwergenlift komt in beweging.",
+    "Leeft de koning nog: na één minuut geluiden bij de lift. De Forgekeeper herkent ze van het \"vreemde, walgelijke beest\" dat haar een jaar geleden bezocht en aan wie ze het wachtwoord gaf.",
+    "Initiatief. Op 10 in ronde 1 gaat de lift open: horde. De koning stuurt eerst vier troglodieten vooruit om te verkennen.",
+    "Valkuilen (kies twee vakjes per soort): ketels met lava 28 (8d6) fire; vuurvents 14 (4d6) fire in een lijn van 15 ft. De Forgekeeper geeft hints om ze tegen de troglodieten te gebruiken."
+   ],
+   "vijanden": [
+    {
+     "k": "troglodyte",
+     "q": 12,
+     "noot": "Alleen als de koning nog leeft"
+    },
+    {
+     "k": "trog_brute",
+     "q": 4
+    },
+    {
+     "k": "trog_king",
+     "q": 1
+    }
+   ],
+   "buit": [
+    "Toegang tot de Mithral Forge (recepten: zie App. G). Met Volkan +50 gp/dag smeedsnelheid, de smidse zelf +75 gp/dag."
+   ],
+   "haken": [
+    {
+     "h": "Kyrenos",
+     "t": "Als de ring nog niet gegeven is: nu."
+    }
+   ],
+   "dm": [
+    "Labour 2 voltooid (Light the Fires of the Mithral Forge). Telt mee voor de Madness of Lutheria (nachtmerrie na de tweede labour).",
+    "Probeer de helden de Forgekeeper te dwingen met het tablet: de uitkomst is altijd dezelfde."
+   ],
+   "bron": "Boek ch2 \"Awakening the Forge\", \"The Forgekeeper's Contract\"",
+   "ster": true
+  },
+  {
+   "id": "f22",
+   "groep": "a1-forge",
+   "kop": "De Mithral Forge",
+   "titel": "F22 · Het geheime dok",
+   "waar": "F22 The Secret Dock",
+   "status": "open",
+   "type": "verkenning",
+   "kern": "Een stenen dok groot genoeg voor de meeste schepen, achter de donderende waterval. Rottende zakken, vaten en kisten. Een prachtig bewerkte bronzen hendel aan de verre wand.",
+   "zeg": [
+    "De hendel bedient een stenen dam bovenaan de rivier die een opening in de waterval maakt."
+   ],
+   "dm": [
+    "Zodra ze de Ultros hebben, kunnen ze hier aanleggen en terugkeren naar de smidse. Een uitstekende schuilplaats voor het schip."
+   ],
+   "bron": "Boek ch2 F22"
+  },
+  {
+   "id": "f-terug",
+   "groep": "a1-forge",
+   "kop": "Terug",
+   "titel": "Hukar's hoorn en de dwergenschedels",
+   "waar": "Oever van de Arkelon · Estoria",
+   "status": "open",
+   "type": "beloning",
+   "kern": "De hoorn aan de oever roept de centauren. Ze rouwen om hun doden en nodigen de partij uit om onder de sterren te drinken. Hukar houdt woord.",
+   "buit": [
+    "3 potions of heroism (Hukar).",
+    "10 gp per dwergenschedel bij de dwergen in The Dragon's Tooth."
+   ],
+   "bron": "Boek ch2 \"The Missing Centaurs\"; E8"
+  },
+  {
+   "id": "x-armen",
+   "groep": "a1-telamok",
+   "kop": "Onderweg",
+   "titel": "De armen van Kentimane",
+   "waar": "Vlakte voor de Mithral Mountains",
+   "status": "open",
+   "type": "reis",
+   "kern": "Eerst een rustige reis over een goed onderhouden maar weinig gebruikte weg. Dan, met de bergen in zicht: tientallen reusachtige stenen armen die een mijl lang uit de grond reiken. Bewegingloos, zonder doel. Wat zijn ze? Wie maakte ze? Leven ze?",
+   "dm": [
+    "De armen van Kentimane, de Hundred-Handed Titan. Ze zijn onverwoestbaar en bewegen niet tegen de helden."
+   ],
+   "bron": "Boek ch2 \"Arms of Kentimane\""
+  },
+  {
+   "id": "x-pad",
+   "groep": "a1-telamok",
+   "kop": "Onderweg",
+   "titel": "Het Pad van de Doden",
+   "waar": "De bergweg naar Telamok",
+   "status": "open",
+   "type": "gevecht",
+   "kern": "Volstrekte stilte: geen vogels, geen insecten, zelfs geen wind. Het wordt kouder, sneeuw op het smalle pad, een afgrond van honderden voet. Dan breekt een lied de stilte, zo mooi dat het hart pijn doet.",
+   "zeg": [
+    "Benadruk de stilte. Skeletten en specters maken geen geluid. Damon spreekt niet. Alleen de minotaur Graxis praat."
+   ],
+   "doen": [
+    "Drie harpijen nesten op de klif tegenover het pad en gebruiken hun Luring Song.",
+    "Wie betoverd is, wil de kloof overspringen. Eerst nog een Wis-save om eraf te raken; anders DC 15 Strength om de sprong te halen.",
+    "Mislukte sprong: 50 ft. vallen op een richel, 5d6 bludgeoning."
+   ],
+   "vijanden": [
+    {
+     "k": "harpy",
+     "q": 3
+    }
+   ],
+   "haken": [
+    {
+     "h": "Orelle",
+     "t": "Voorstel: haar sirenenbloed kent dit soort lied. Speel het als iets dat haar herkent, niet alleen betovert."
+    }
+   ],
+   "bron": "Boek ch2 \"The Path of the Dead\""
+  },
+  {
+   "id": "x-dalen",
+   "groep": "a1-telamok",
+   "kop": "Onderweg",
+   "titel": "Dalen in de nevel",
+   "waar": "De valleien rond de berg",
+   "status": "optie",
+   "type": "gevecht",
+   "kern": "Diepe dalen, voor altijd in nevel. Geen leven, maar wel patrouilles van wie stierf bij de bouw van de Necropolis.",
+   "doen": [
+    "Wie afdaalt: meteen 1d4 skeletten. Na twee rondes nog 1d4 skeletten + 1 minotaur skeleton. Na nog twee rondes 1d4 skeletten + 1 specter. Daarna elke ronde 1d4 specters.",
+    "Terugklimmen: kliffen van 500 ft.; de eerste 100 ft. word je lastiggevallen door specters."
+   ],
+   "vijanden": [
+    {
+     "k": "skeleton",
+     "q": 4
+    },
+    {
+     "k": "minotaur_skeleton",
+     "q": 1
+    },
+    {
+     "k": "specter",
+     "q": 4
+    }
+   ],
+   "haken": [
+    {
+     "h": "Orelle",
+     "t": "Alle vijandige undead richten zich op haar (Lutheria's Joke)."
+    }
+   ],
+   "bron": "Boek ch2 \"Valleys Shrouded in Mist\""
+  },
+  {
+   "id": "x1",
+   "groep": "a1-telamok",
+   "kop": "De Necropolis",
+   "titel": "X1 · De nadering",
+   "waar": "X1 The Approach",
+   "status": "open",
+   "type": "verkenning",
+   "kern": "Ontzagwekkend: zuilen en beelden onder ijs en sneeuw rond een massief stenen bouwwerk. Een enorme kloof met drie stenen bruggen, waarvan twee gebroken. In de nevel beneden liggen botten tussen de rotsen. Alleen het knerpen van je voeten in de sneeuw.",
+   "doen": [
+    "Survival DC 15: sporen onder de sneeuw van een tweebenige stier, heen en terug. DC 20+: een machtige minotaur."
+   ],
+   "bron": "Boek ch2 X1"
+  },
+  {
+   "id": "x2",
+   "groep": "a1-telamok",
+   "kop": "De Necropolis",
+   "titel": "X2 · Damon, de lich",
+   "waar": "X2, midden op de brug",
+   "status": "open",
+   "type": "sociaal",
+   "kern": "Een eenzaam skelet midden op de brug. Een gerafelde mantel met gouden runen langs de zomen verbergt het gezicht. Als de helden naderen, steekt het een benen hand uit, alsof het betaling verwacht.",
+   "zeg": [
+    "Damon laat alleen door tegen één burnished dragonlord coin. De partij heeft die van Aesop."
+   ],
+   "dialoog": [
+    {
+     "wie": "Damon (spreekt niet)",
+     "kern": [
+      "Een gezel van de eerste Dragonlords. Verloor in de Eerste Oorlog alles, ook vrouw en kinderen. Bewaakt de Necropolis ter ere van wie zich opofferden.",
+      "Herkent Ox (Cursed One): hij kende zijn voorouder."
+     ]
+    }
+   ],
+   "doen": [
+    "Zonder betaling: eerst wall of force; daarna niet-dodelijk (hold person, paralyzing touch). Vecht tot de dood als hij bedreigd wordt.",
+    "Wie zonder betaling naar de Necropolis vliegt, wordt doelwit.",
+    "Graxis mag als enige vrij passeren."
+   ],
+   "vijanden": [
+    {
+     "k": "damon",
+     "q": 1,
+     "noot": "Niet om te bevechten op level 3"
+    }
+   ],
+   "buit": [
+    "Voor Ox: een gem of brightness (verloren familie-erfstuk)."
+   ],
+   "haken": [
+    {
+     "h": "Ox",
+     "t": "LESSER ITEM: gem of brightness. Damon zegt dat de vloek uniek is in Thylea, door Sydon én Lutheria samen bedacht, en stuurt hem naar de Lotus Witch op Scorpion Island."
+    },
+    {
+     "h": "Ox",
+     "t": "Wees Versi's handout hem naar \"een toren in de zee\" (Praxys)? Dan zet Damon het spoor hier recht."
+    },
+    {
+     "h": "Wauros",
+     "t": "Damon is de stichter van de Academie van Mytros en de grootste wizard die Thylea voortbracht. Wauros' eerste echte wizardconfrontatie, en hij kan er niet omheen."
+    }
+   ],
+   "dm": [
+    "Ox' divine boon: sterft Ox, dan teleporteert Damon binnen, ruimt de vijanden op en laat een raise dead-scroll achter."
+   ],
+   "open": [
+    "Damon spreekt niet (boek), maar moet Ox naar de Lotus Witch sturen. Kies hoe: runen in de rijp op de brugleuning, de gouden runen op zijn mantel die een kaart tonen, of een geschreven tablet uit zijn mantel."
+   ],
+   "bron": "Boek ch2 X2; ch1 Cursed One",
+   "ster": true
+  },
+  {
+   "id": "x-ruines",
+   "groep": "a1-telamok",
+   "kop": "De Necropolis",
+   "titel": "De ruïnes en de graven",
+   "waar": "Over de brug",
+   "status": "open",
+   "type": "verkenning",
+   "kern": "Twaalf grafingangen in de kliffen, elk met vier stenen zuilen. In het noorden een wit marmeren mausoleum zo groot als een klein paleis, en vlakbij een dertiende, grootser graf op een rotsuitsteeksel: Xander. Op de ijzige paden liggen uitgedroogde grafrovers en beelden van allerlei soort; hun bevroren ogen lijken te kijken.",
+   "zeg": [
+    "Kyrah waarschuwt: wie een gewijd graf berooft, krijgt de curse of the graverobber.",
+    "Aesop gaf dezelfde waarschuwing mee: laat de praalgraven met rust."
+   ],
+   "doen": [
+    "Grafplaat (5×5×5 ft. marmer) verschuiven of terugzetten: actie + DC 25 Strength.",
+    "Elke plaat draagt naam, grafschrift en een waarschuwing: de dood wacht wie de grote krijger stoort.",
+    "Binnen: kamer van 15×15 ft. met een marmeren sarcofaag. Vroege Dragonlords met mithral/adamantine, latere met brons."
+   ],
+   "dm": [
+    "Curse of the Graverobber: magisch item uit een gewijd graf → kan niet eten; na Con-score dagen elke dag een level exhaustion. Het item keert om middernacht altijd terug. Greater restoration helpt, of iemand die het item willens en wetens aanneemt.",
+    "De graven zijn optioneel en vaak te zwaar voor level 3. Uitgedroogde, verscheurde lijken bij de ingangen zijn de waarschuwing."
+   ],
+   "bron": "Boek ch2 \"The Necropolis Ruins\""
+  },
+  {
+   "id": "x3",
+   "groep": "a1-telamok",
+   "kop": "De graven (optioneel)",
+   "titel": "X3 · Graf van Telamok Arkelander",
+   "status": "optie",
+   "type": "graf",
+   "kern": "Oathsworn of Vallus. Muurschilderingen tonen een trotse krijger die alles afslacht: mannen, vrouwen, centauren, saters, cyclopen. Hij gaf nooit kwartier en werd voor zijn bloedbaden tot ondood vervloekt.",
+   "doen": [
+    "Sarcofaag open: Telamok rijst op als wight en achtervolgt de indringers één minuut, keert dan terug en verzegelt zijn graf."
+   ],
+   "vijanden": [
+    {
+     "k": "telamok",
+     "q": 1
+    }
+   ],
+   "buit": [
+    "Mithral breastplate en shield met drakenmotieven, 500 gp elk. NIET gewijd."
+   ],
+   "haken": [
+    {
+     "h": "Orelle",
+     "t": "Een vijandige undead: hij kiest haar."
+    }
+   ],
+   "bron": "Boek ch2 X3"
+  },
+  {
+   "id": "x4",
+   "groep": "a1-telamok",
+   "kop": "De graven (optioneel)",
+   "titel": "X4 · Graf van Adonis Neurdagon",
+   "status": "optie",
+   "type": "graf",
+   "kern": "Oathsworn of Pythor, \"de mooiste der Dragonlords\" (het grafschrift spot met zijn zwaardwerk). Een wit marmeren sarcofaag; de reliëfs tonen vooral hoe mooi de ruiter was.",
+   "doen": [
+    "Valstrik: de sarcofaag aanraken laat een marmeren blok de ingang afsluiten; kwikzilver stroomt binnen.",
+    "Drie rondes om vol te lopen; elke ronde DC 15 Con of poisoned. Begin ronde 4: geen lucht meer (verdrinkingsregels; ook water ademen helpt niet).",
+    "Ontsnappen: het blok verschuiven (DC 30 Strength) of vernietigen (AC 17, 100 HP, damage threshold 5)."
+   ],
+   "vijanden": [],
+   "buit": [
+    "Breastplate +1 en short sword of quickness. GEWIJD: curse of the graverobber."
+   ],
+   "haken": [],
+   "bron": "Boek ch2 X4"
+  },
+  {
+   "id": "x5",
+   "groep": "a1-telamok",
+   "kop": "De graven (optioneel)",
+   "titel": "X5 · Graf van Estor Arkelander",
+   "status": "optie",
+   "type": "graf",
+   "kern": "Oathsworn of Kyrah. Verontrustende reliëfs: een man die ongewapende dryaden en saters gruwelijk afslacht; op één paneel smeekt zijn draak om genade voor een groepje wezens. Een bloedrode marmeren sarcofaag met zijn beeltenis.",
+   "doen": [
+    "De sarcofaag is leeg."
+   ],
+   "vijanden": [],
+   "buit": [],
+   "haken": [
+    {
+     "h": "Sirius",
+     "t": "Leeg: Estor werd nooit begraven. Hij is de kapitein van de Ultros, de man die de schat had."
+    },
+    {
+     "h": "Dragini",
+     "t": "Voorstel: Estor is voor haar geen onbekende naam. De afgeslachte dryaden passen bij het verhaal van Demetria's zus."
+    }
+   ],
+   "bron": "Boek ch2 X5"
+  },
+  {
+   "id": "x6",
+   "groep": "a1-telamok",
+   "kop": "De graven (optioneel)",
+   "titel": "X6 · Graf van Rizon Phobas",
+   "status": "optie",
+   "type": "graf",
+   "kern": "Oathsworn of Volkan. Muurschilderingen van een imposante vrouw op een bronzen draak die minotaurussen verslaat. Zes minotaurusskeletten staan als wachters rond de sarcofaag.",
+   "doen": [
+    "De zes minotaur skeletons vallen iedereen aan die binnenkomt."
+   ],
+   "vijanden": [
+    {
+     "k": "minotaur_skeleton",
+     "q": 6
+    }
+   ],
+   "buit": [
+    "Mithral breastplate en shield, 500 gp elk; mithral kopis +1. GEWIJD: curse of the graverobber."
+   ],
+   "haken": [
+    {
+     "h": "Dragini",
+     "t": "Voorstel: Rizon kwam met Xander over zee en was zijn rivale. Dragini kan haar gekend hebben."
+    },
+    {
+     "h": "Orelle",
+     "t": "Undead: zij is het doelwit."
+    }
+   ],
+   "bron": "Boek ch2 X6"
+  },
+  {
+   "id": "x7",
+   "groep": "a1-telamok",
+   "kop": "De graven (optioneel)",
+   "titel": "X7 · Graf van Cosmo Phobas",
+   "status": "optie",
+   "type": "graf",
+   "kern": "Zoon van Rizon, opvolger van Xander als leider. Fakkellicht lijkt de vloer, het plafond en de wanden niet te bereiken: alles is bedekt met een glibberige zwarte substantie die beweegt.",
+   "doen": [
+    "Vijf black puddings: één op elke wand (behalve de ingang), plafond en vloer. Vallen iedereen aan die binnenkomt."
+   ],
+   "vijanden": [
+    {
+     "k": "black_pudding",
+     "q": 5
+    }
+   ],
+   "buit": [
+    "Adamantine breastplate en shield, 500 gp elk. NIET gewijd."
+   ],
+   "haken": [],
+   "bron": "Boek ch2 X7"
+  },
+  {
+   "id": "x8",
+   "groep": "a1-telamok",
+   "kop": "De graven (optioneel)",
+   "titel": "X8 · Graf van Myrto the Magnificent",
+   "status": "optie",
+   "type": "graf",
+   "kern": "Kleinzoon van Adonis; kocht met familiegeld zijn verkiezing tot leider na Cosmo. Twee identieke kleibeelden van een knappe man flankeren de sarcofaag; de muren glinsteren van goud, zilver en edelstenen.",
+   "doen": [
+    "De twee beelden zijn clay golems en vallen iedereen aan die binnenkomt."
+   ],
+   "vijanden": [
+    {
+     "k": "clay_golem",
+     "q": 2
+    }
+   ],
+   "buit": [
+    "Decoratieve breastplate en shield (zilver, goud, platina), nutteloos in een gevecht: 2.500 gp elk. NIET gewijd."
+   ],
+   "haken": [],
+   "bron": "Boek ch2 X8"
+  },
+  {
+   "id": "x9",
+   "groep": "a1-telamok",
+   "kop": "De graven (optioneel)",
+   "titel": "X9 · Graf van Isadore Huorath",
+   "status": "optie",
+   "type": "graf",
+   "kern": "Kleindochter van Xander. Muurschilderingen van wedlopen en speerwerpen, altijd met aan haar zijde een man in een mantel zoals die van de lich op de brug.",
+   "doen": [
+    "Damon heeft een alarm spell op dit graf. Opengaan: een bel klinkt. Arcana DC 10: alarm spell; DC 15: waarschijnlijk door Damon.",
+    "Drie rondes later teleporteert Damon binnen en gebruikt al zijn macht tegen wie nog in het graf is."
+   ],
+   "vijanden": [
+    {
+     "k": "damon",
+     "q": 1,
+     "noot": "Na 3 rondes"
+    }
+   ],
+   "buit": [
+    "Halsketting 1.000 gp, vijf ringen à 200 gp, staff of charming. GEWIJD: de staf geeft de curse."
+   ],
+   "haken": [],
+   "bron": "Boek ch2 X9"
+  },
+  {
+   "id": "x10",
+   "groep": "a1-telamok",
+   "kop": "De graven (optioneel)",
+   "titel": "X10 · Graf van Lysis Arkelander",
+   "status": "optie",
+   "type": "graf",
+   "kern": "Achterkleinzoon van Estor, de laatste Arkelander op de troon van Estoria: een gekke tiran. Het hoofdpaneel toont zijn val door de god Pythor. Een zwarte marmeren sarcofaag.",
+   "doen": [],
+   "vijanden": [],
+   "buit": [
+    "Bronzen breastplate en shield met platina ingelegd, 500 gp elk. NIET gewijd."
+   ],
+   "haken": [
+    {
+     "h": "Sirius",
+     "t": "De Arkelander-lijn: Estor → Lysis → … → Acastus."
+    }
+   ],
+   "bron": "Boek ch2 X10"
+  },
+  {
+   "id": "x11",
+   "groep": "a1-telamok",
+   "kop": "De graven (optioneel)",
+   "titel": "X11 · Graf van Ochos Arkelander",
+   "status": "optie",
+   "type": "graf",
+   "kern": "Een soldaat, geen koning. Een bronzen beeld van een man bewaakt het graf; de muren tonen hem aan het hoofd van hoplieten tegen de centauren ten noorden van de Arkelon. Een onversierde sarcofaag.",
+   "doen": [
+    "Het bronzen beeld is een golem (iron golem-stats, AC 18). Valt aan wie een voorwerp uit het graf haalt."
+   ],
+   "vijanden": [
+    {
+     "k": "bronze_golem",
+     "q": 1
+    }
+   ],
+   "buit": [
+    "Breastplate +2; bronzen short sword en shield, 250 gp elk. NIET gewijd."
+   ],
+   "haken": [
+    {
+     "h": "Kyrenos",
+     "t": "Voorstel: Ochos versloeg centauren. Het graf van een held is het graf van een vijand van zijn volk."
+    }
+   ],
+   "bron": "Boek ch2 X11"
+  },
+  {
+   "id": "x12",
+   "groep": "a1-telamok",
+   "kop": "De graven (optioneel)",
+   "titel": "X12 · Graf van Dorion Neurdagon",
+   "status": "optie",
+   "type": "graf",
+   "kern": "Roet op vloer en wanden. Een sierlijke sarcofaag met het deksel op een kier; voetsporen in het roet.",
+   "doen": [
+    "Geplunderd. De vuurval werkt niet meer. Damon verzegelde het graf opnieuw. Het lijk mist zijn hoofd; geen schat."
+   ],
+   "vijanden": [],
+   "buit": [],
+   "haken": [],
+   "bron": "Boek ch2 X12"
+  },
+  {
+   "id": "x13",
+   "groep": "a1-telamok",
+   "kop": "De graven (optioneel)",
+   "titel": "X13 · Graf van Gregor Huorath",
+   "status": "optie",
+   "type": "graf",
+   "kern": "Geen zuilen, geen sarcofaag. De muren vertellen hoe een jonge man de eilanden en zeeën van Thylea bereisde; op het laatste paneel ontbreekt hij en kijkt een rouwende vrouw vanaf een balkon over een stormzee.",
+   "doen": [
+    "Leeg. Zijn lichaam werd nooit gevonden."
+   ],
+   "vijanden": [],
+   "buit": [],
+   "haken": [
+    {
+     "h": "Sirius",
+     "t": "Voorstel: een Dragonlord die op zee verdween. Een lotgenoot van een ander soort."
+    }
+   ],
+   "bron": "Boek ch2 X13"
+  },
+  {
+   "id": "x14",
+   "groep": "a1-telamok",
+   "kop": "De graven (optioneel)",
+   "titel": "X14 · Graf van Nicholas Phobas",
+   "status": "optie",
+   "type": "graf",
+   "kern": "Blessed of Sydon. Goed bewaard, felle kleuren. Een man die evenveel zeeman als koning was, met een borstplaat met de maalstroom van Sydon.",
+   "doen": [
+    "Teleportval: wie de sarcofaag aanraakt, DC 15 Cha-save of één minuut naar Sydons troonzaal in Praxys (S28). Sydon gebruikt al zijn macht tegen de grafschender. Wie overleeft, keert terug. Daarna een jaar inactief."
+   ],
+   "vijanden": [],
+   "buit": [
+    "Bronzen breastplate en platina shield met het teken van Sydon, 1.500 gp elk; een mithral-ingot van 500 gp."
+   ],
+   "haken": [
+    {
+     "h": "Ox",
+     "t": "De Orde van Sydon modelleerde zich naar Nicholas: de oorsprong van de Orde waaraan Theron dient."
+    },
+    {
+     "h": "Wauros",
+     "t": "Wie hier geteleporteerd wordt, staat voor Sydon: zijn grootvader."
+    }
+   ],
+   "bron": "Boek ch2 X14"
+  },
+  {
+   "id": "x15",
+   "groep": "a1-telamok",
+   "kop": "De graven (optioneel)",
+   "titel": "X15 · Mausoleum van Balmytria",
+   "status": "optie",
+   "type": "graf",
+   "kern": "Het grootste graf, zoals een draak past. Serpentijnse zuilen die van dichtbij gebeeldhouwde draken blijken. Ongerepte mozaïeken: vijf draken (één zilver, vier brons) met ruiters; de zilveren landt op de kust van Thylea en haar ruiter begroet uitgeputte mensen; steden bloeien op.",
+   "doen": [
+    "Een marmeren blok van 15×10×5 ft.: hier ligt Balmytria. Alleen een Titan of een van de Vijf kan het verplaatsen, en geen van hen wil dat.",
+    "Sommigen zeggen dat hier een doorgang naar de Onderwereld is."
+   ],
+   "vijanden": [],
+   "buit": [],
+   "haken": [
+    {
+     "h": "Wauros",
+     "t": "Nephele op Praxys is een kloon uit het vlees van Balmytria. Voorstel: plant dat zaadje hier."
+    },
+    {
+     "h": "Dragini",
+     "t": "Voorstel: de mozaïeken tonen de aankomst van haar eigen generatie. Ze herkent gezichten."
+    }
+   ],
+   "bron": "Boek ch2 X15"
+  },
+  {
+   "id": "x16",
+   "groep": "a1-telamok",
+   "kop": "Het graf van Xander",
+   "titel": "X16 · De ingang van het graf",
+   "waar": "X16 The Tomb Entrance",
+   "status": "open",
+   "type": "verkenning",
+   "kern": "Een wit marmeren graf in de bergwand onder een portiek van verweerde zuilen. Een zware plaat met een bronzen handvat, geflankeerd door twee zittende leeuwen. Op het fronton: \"XANDER\" tussen ranken en laurier.",
+   "doen": [
+    "De deur openen: DC 15 Strength.",
+    "Vier kleinere graven ernaast (plaat: DC 25 Strength): Aetius, Pericles en Eustace, plus één leeg en naamloos graf, gebouwd voor Damon.",
+    "In de drie graven: stalen breastplates, schilden en short swords, perfect bewaard, niet magisch."
+   ],
+   "bron": "Boek ch2 X16"
+  },
+  {
+   "id": "x17",
+   "groep": "a1-telamok",
+   "kop": "Het graf van Xander",
+   "titel": "X17 · De hal van Xander",
+   "waar": "X17 The Hall of Xander",
+   "status": "open",
+   "type": "verkenning",
+   "kern": "Een donkere, natte hal met stenen bogen en lege fakkelhouders; de vloer daalt in brede treden. Achteraan een trap naar beneden, bewaakt door een bronzen beeld van een knielende minotaurus. Mozaïeken: koningen die Xander schepen en geld geven, het verbond met vijf draken, de ontdekking van Thylea, de veroveringsoorlog tegen centauren, minotaurussen en gygans.",
+   "zeg": [
+    "Inscriptie boven de trap (in het Engels voorlezen): \"Those who trespass in order to seek an audience with Xander Hourath must deal with the horned ones.\""
+   ],
+   "haken": [
+    {
+     "h": "Kyrenos",
+     "t": "Voorstel: de mozaïeken vieren de verovering van zijn volk."
+    },
+    {
+     "h": "Ox",
+     "t": "Voorstel: idem voor de minotaurussen: de \"horned ones\" zijn zijn soort."
+    }
+   ],
+   "bron": "Boek ch2 X17"
+  },
+  {
+   "id": "x18",
+   "groep": "a1-telamok",
+   "kop": "Het graf van Xander",
+   "titel": "X18 · Het catacombendoolhof",
+   "waar": "X18 The Catacomb Maze",
+   "status": "open",
+   "type": "verkenning",
+   "kern": "Een gapende tunnel onder de trap. Een doordringende kou door de wapenrusting, stof in de lucht, echoënde voetstappen. Na een korte afstand een splitsing.",
+   "doen": [
+    "Eenvoudig: laat de partij de ruimtes in volgorde ontdekken (X19, X20, X21…).",
+    "Elke 5 minuten (of bij een nieuwe ruimte) d20: 1–8 niets · 9–12 Graxis · 13–16 3 skeletten · 17–20 2 minotaur skeletons.",
+    "Skeletten patrouilleren per drie in falanx: schild en shortsword vooraan (AC 18), pieken achteraan (AC 16, +4, reach 15 ft., 1d10+2).",
+    "Minotaur skeletons per twee: één van voren, één van achteren."
+   ],
+   "vijanden": [
+    {
+     "k": "hoplite_front",
+     "q": 1
+    },
+    {
+     "k": "hoplite_pike",
+     "q": 2
+    },
+    {
+     "k": "minotaur_skeleton",
+     "q": 2
+    },
+    {
+     "k": "graxis",
+     "q": 1,
+     "noot": "Hit-and-run"
+    }
+   ],
+   "haken": [
+    {
+     "h": "Orelle",
+     "t": "Alle undead hier kiezen haar."
+    }
+   ],
+   "bron": "Boek ch2 X18"
+  },
+  {
+   "id": "x19",
+   "groep": "a1-telamok",
+   "kop": "Het graf van Xander",
+   "titel": "X19 · De skeletminotaurussen",
+   "waar": "X19",
+   "status": "open",
+   "type": "gevecht",
+   "kern": "Een marmeren nis met een brandende fakkel, stenen planken vol spinrag en mensenschedels, een dikke laag stof. Grote vergeelde botten rond drie zware bronzen bijlen. Dan trillen de botten: onzichtbare krachten trekken gewrichten terug in hun kassen, en drie torenhoge skeletminotaurussen staan op.",
+   "vijanden": [
+    {
+     "k": "minotaur_skeleton",
+     "q": 3,
+     "noot": "Weathered bronze greataxes; verlaten het doolhof niet"
+    }
+   ],
+   "bron": "Boek ch2 X19"
+  },
+  {
+   "id": "x20",
+   "groep": "a1-telamok",
+   "kop": "Het graf van Xander",
+   "titel": "X20 · Het valse graf",
+   "waar": "X20 The False Tomb",
+   "status": "open",
+   "type": "val",
+   "kern": "Een ronde kamer met een koepel en een oculus. Een grote stenen sarcofaag met vergulde letters in het Draconic: XANDER HUORATH, FIRST OF HIS ORDER. Aan het voeteneind een oud maar prachtig tapijt: Xander die de minotaurussen verovert, één knielt met een vredesoffer.",
+   "doen": [
+    "De sarcofaag is een mimic, het tapijt een rug of smothering. Wie de sarcofaag eerst aanraakt, blijft eraan plakken; daarna vallen beide aan met surprise.",
+    "Achteraan een hendel: reset de val in X23. Bij elke trek een gekrijs van metaal op metaal. Onthoud wie het hoorde."
+   ],
+   "vijanden": [
+    {
+     "k": "mimic",
+     "q": 1
+    },
+    {
+     "k": "rug_of_smothering",
+     "q": 1
+    }
+   ],
+   "bron": "Boek ch2 X20"
+  },
+  {
+   "id": "x21",
+   "groep": "a1-telamok",
+   "kop": "Het graf van Xander",
+   "titel": "X21 · Het hol van Graxis",
+   "waar": "X21 Graxis's Lair",
+   "status": "open",
+   "type": "verkenning",
+   "kern": "Stank van bloed en slachtafval. Karkassen en lappen vlees aan zware kettingen; twee ervan zijn mensen, boeren. De vloer is zwart van eeuwen honger.",
+   "doen": [
+    "Graxis jaagt één keer per maand en bewaart zijn buit hier. Zijn vloek laat hem niet slapen: er is geen rustplaats.",
+    "De helden kunnen hier een hinderlaag leggen: hij keert terug om te eten en HP te herstellen."
+   ],
+   "buit": [
+    "Zak: 600 cp, 254 sp, 115 gp en zes juwelen à 25 gp."
+   ],
+   "bron": "Boek ch2 X21"
+  },
+  {
+   "id": "x22",
+   "groep": "a1-telamok",
+   "kop": "Het graf van Xander",
+   "titel": "X22 · Kamer van de smekelingen",
+   "waar": "X22 The Chamber of Supplicants",
+   "status": "open",
+   "type": "gevecht",
+   "kern": "Een tongewelf vol botten, weggegooide wapens en roestige schilden. Marmeren beelden van priesters en smekelingen in nissen. Dan rammelen de botten en wapens, gewrichten klikken: zes gepantserde skeletten slaan met hun zwaarden op hun schilden.",
+   "vijanden": [
+    {
+     "k": "hoplite_front",
+     "q": 3,
+     "noot": "Vooraan, blokkeren de doorgang"
+    },
+    {
+     "k": "hoplite_pike",
+     "q": 3,
+     "noot": "Achteraan met pieken"
+    }
+   ],
+   "haken": [
+    {
+     "h": "Orelle",
+     "t": "Ze focussen haar."
+    }
+   ],
+   "bron": "Boek ch2 X22"
+  },
+  {
+   "id": "x23",
+   "groep": "a1-telamok",
+   "kop": "Het graf van Xander",
+   "titel": "X23 · De val (pletterkamer)",
+   "waar": "X23 The Trap",
+   "status": "open",
+   "type": "val",
+   "kern": "Een hoge rechthoekige kamer met rijen schreeuwende stenen gezichten in de wanden en een flagstone-vloer. Een verminkt skelet bij de ingang. Achteraan zware bronzen dubbeldeuren, met twee half verpletterde skeletten in verwrongen wapenrusting ervoor.",
+   "doen": [
+    "Gaat af bij meer dan 300 pond in de kamer. Iedereen initiatief.",
+    "Ronde 1, init 20: een valhek sluit de ingang; de zuidmuur schuift naar voren met hetzelfde gekrijs als de hendel in X20.",
+    "Ronde 2, init 10: pinnen uit de monden van de gezichten, 10 (3d6) piercing voor iedereen (eenmalig).",
+    "Ronde 4, init 1: 32 (10d6) bludgeoning; wie op 0 HP valt, is pulp.",
+    "Ontsnappen: de hendel in X20 (stopt alles, een uur inactief) · de bronzen deuren forceren: DC 15 Athletics = 3 rondes, 20+ = 2 rondes, 25+ = meteen · het valhek: DC 25 Athletics.",
+    "Zonder val zitten de deuren van de andere kant op slot: DC 30 Strength."
+   ],
+   "buit": [
+    "Tussen de verpletterde slachtoffers: 112 gp en 245 sp."
+   ],
+   "bron": "Boek ch2 X23"
+  },
+  {
+   "id": "x24",
+   "groep": "a1-telamok",
+   "kop": "Het graf van Xander",
+   "titel": "X24 · Het graf van Xander",
+   "waar": "X24 Tomb of Xander",
+   "status": "open",
+   "type": "gevecht",
+   "kern": "Een groot tongewelf met gepolijst brons dat als goud flakkert in het rode licht van één fakkel. In het midden een zwarte marmeren sarcofaag met Xanders beeltenis. Gefluister breekt de stilte: plechtige stemmen uit vervlogen tijden die zijn daden bezingen.",
+   "zeg": [
+    "Het deksel weegt bijna een ton: gecombineerde Strength 22 om het te schuiven.",
+    "Labour voltooid zodra ze de wapens van de Dragonlords hebben."
+   ],
+   "dialoog": [
+    {
+     "wie": "Graxis (komt binnen zodra de sarcofaag opengaat)",
+     "kern": [
+      "Snuift minachtend: kom je je held eer bewijzen?",
+      "Xander de veroveraar, Xander de moordenaar. Hij is de laatste van zijn stam, kan niet rusten, kan niet slapen.",
+      "Xander slachtte zijn volk af, maakte zijn familie tot slaven en bond ze aan deze plek. Bij jullie is hij daarvoor vereerd.",
+      "\"I spit on his bones.\" Dan heft hij zijn bijl, brult tot de muren beven, en charget."
+     ]
+    },
+    {
+     "wie": "Xander (ronde 3)",
+     "kern": [
+      "Zonder geluid rijst het uitgedroogde lijk op en heft zijn handen naar Graxis. De bijl springt uit Graxis' handen in de greep van de ondode koning.",
+      "Hij draait zich naar de partij en biedt hen het handvat aan.",
+      "Na Graxis' dood: legt zwijgend zijn borstplaat voor de sarcofaag neer en schuift het deksel weer dicht.",
+      "Hij spreekt tegen één persoon: Dragini."
+     ]
+    }
+   ],
+   "doen": [
+    "Graxis vecht hier tot de dood. Na ronde 3 heeft hij enkel nog Gore.",
+    "Xander vecht niet, tenzij de partij hem echt dwingt.",
+    "De Shield of Volkan haal je van Graxis' lijk."
+   ],
+   "vijanden": [
+    {
+     "k": "graxis",
+     "q": 1
+    },
+    {
+     "k": "xander",
+     "q": 1,
+     "noot": "Bondgenoot in deze scène"
+    }
+   ],
+   "buit": [
+    "Axe of Xander (beschadigd, magie werkt niet).",
+    "Breastplate of Mytros (AC 18, gedeukt).",
+    "Golden Shield of Volkan (van Graxis; beschadigd).",
+    "Twee crowns of the dragonlords (voor Dragini en Wauros)."
+   ],
+   "haken": [
+    {
+     "h": "Dragini",
+     "t": "Xander HERKENT haar en geeft haar een kroon. Eerste echte herinnering. Haar harnas ligt hier niet: Gaius heeft het, in zijn kamer op Yonder (Cloak of the Bat)."
+    },
+    {
+     "h": "Wauros",
+     "t": "TWEEDE KROON: het boek verdeelt ze zelf. Een kroon van de Dragonlords voor wie de orde moet doen herrijzen."
+    },
+    {
+     "h": "Ox",
+     "t": "Graxis komt uit een stam die Lutheria schiep en die Damon vervloekte. Voorstel: speel hem als spiegel van Ox' eigen vloek."
+    }
+   ],
+   "dm": [
+    "De bijl en het schild moeten naar de Mithral Forge (F21): Volkan herstelt ze met Pythor's Hammer, één item per week.",
+    "Labour 3 voltooid. Telt mee voor de Madness of Lutheria (nachtmerrie na de tweede labour)."
+   ],
+   "bron": "Boek ch2 X24; ch1 Vanished One, Gifted One",
+   "ster": true
+  },
+  {
+   "id": "a1-nachtmerrie",
+   "groep": "a1-na",
+   "titel": "Madness of Lutheria (nachtmerrie)",
+   "waar": "Bij de eerstvolgende rust",
+   "status": "open",
+   "type": "verhaal",
+   "wanneer": "Na de tweede voltooide labour (Hoorn = de eerste).",
+   "kern": "Een zachte, bezorgde vrouwenstem: arme kleine stervelingen, altijd maar bezorgd. Om de goden, om oorlog, om de toekomst. Wat kunnen we doen om jullie minder te laten piekeren? Op het pad staat een man met de rug naar hen, uitkijkend over een bloeiend dal vol vogelgezang. Kennis is de zwaarste last; onwetendheid maakt gelukkig. De man draait zich om: rode tranen, ogen, oren en mond dichtgenaaid.",
+   "doen": [
+    "Iedereen wordt op een ander moment wakker: d10 rondes. Wakker schudden of schade wekt eerder.",
+    "Bij het ontwaken: DC 20 Wis-save of een willekeurige long-term madness (DMG). Lesser restoration geneest."
+   ],
+   "haken": [
+    {
+     "h": "Orelle",
+     "t": "Lutheria's stem, persoonlijk. Ze weet nu dat haar doem van Lutheria komt."
+    },
+    {
+     "h": "Apollodorus",
+     "t": "Voorstel: een stem die vergeten aanprijst, tegen iemand wiens bestaan uitgewist is."
+    }
+   ],
+   "open": [
+    "Is de eerste nachtmerrie (Dreaming of Lutheria, na het verlaten van de Oracle-tempel) al gespeeld?"
+   ],
+   "bron": "Boek Intro \"Event: Madness of Lutheria\""
+  },
+  {
+   "id": "a1-herstel",
+   "groep": "a1-na",
+   "titel": "Herstellingen aan de Mithral Forge",
+   "waar": "F21 / Estoria",
+   "status": "later",
+   "type": "beloning",
+   "wanneer": "Als de smidse brandt, Pythor's Hammer in handen is en Xanders wapens gevonden zijn.",
+   "kern": "Volkan herstelt met Pythor's Hammer de Axe of Xander en de Shield of Volkan: één item per week werk.",
+   "dm": [
+    "Voor Volkan geldt de Oath of Peace: hij smeedt, hij vecht niet mee."
+   ],
+   "bron": "Boek ch2 X24 \"Armaments\"; App. G"
+  },
+  {
+   "id": "a1-acastus",
+   "groep": "a1-na",
+   "titel": "Ontbieding door Acastus",
+   "waar": "Wegen van de Heartlands of Estoria",
+   "status": "later",
+   "type": "verhaal",
+   "wanneer": "Na twee of drie Great Labors. Gate naar Act 2.",
+   "kern": "Drie gevleugelde vormen in de verte: jonge koperen draken, bereden door ruiters in rode mantels. Ze landen op enkele tientallen meters. Tarchon (NG captain) en twee kapiteins komen namens koning Acastus: Sydon teistert Mytros met een orkaan, de koning verwacht hen meteen.",
+   "zeg": [
+    "Tarchon mag niet terugkeren zonder de helden, maar valt niet aan, ook niet als hij uitgedaagd wordt.",
+    "Weigeren: hij doet een beroep op eer en plicht en bekent dat Acastus niet vergevingsgezind is."
+   ],
+   "haken": [
+    {
+     "h": "Apollodorus",
+     "t": "De \"nieuwe Dragonlords\" van Acastus. Zijn troonaanspraak wordt vanaf hier een probleem voor de koning."
+    }
+   ],
+   "dm": [
+    "Kyrah en de andere goden vinden die nieuwe orde pure ijdelheid.",
+    "Bij aankomst in Mytros werpt Sydon een bliksemschicht naar de held met het laagste initiatief (zie Act 2)."
+   ],
+   "bron": "Boek ch3 \"Summoned by the King\""
+  },
+  {
+   "id": "a2a",
+   "groep": "a2-grof",
+   "titel": "The Storm — vijf voorstellen",
+   "ster": false,
+   "status": "later",
+   "type": "verhaal",
+   "kern": "Acastus legt het besluit bij de helden. Elke optie heeft een prijs: control weather / tempel slopen / 70 kinderen / hecatombe 10.000gp / mirakel (Persuasion DC 16).",
+   "doen": [
+    "Keuze gemaakt — storm gaat liggen",
+    "Kaart naar de Ultros ontvangen"
+   ],
+   "haken": [],
+   "bron": "Tracker-boom (grof)"
+  },
+  {
+   "id": "a2b",
+   "groep": "a2-grof",
+   "titel": "Queen Vallus",
+   "ster": true,
+   "status": "later",
+   "type": "verhaal",
+   "kern": "Godin van wijsheid. Waarschuwt openlijk voor de ambities van haar man. Betrouwbaarste bondgenoot.",
+   "doen": [],
+   "haken": [
+    {
+     "h": "Wauros",
+     "t": "Neemt hem apart: de fortress ligt bij een draak in de Garden of Helios. Het geheime ei gaat naar hem."
+    }
+   ],
+   "bron": "Tracker-boom (grof)"
+  },
+  {
+   "id": "a2c",
+   "groep": "a2-grof",
+   "titel": "King Acastus",
+   "ster": false,
+   "status": "later",
+   "type": "verhaal",
+   "kern": "Wil de orde van de Dragonlords herstellen maar heeft zijn draken niet verdiend — Lutheria gaf hem de eieren plus potions of aging.",
+   "doen": [],
+   "haken": [
+    {
+     "h": "Wauros",
+     "t": "Icarus is een zoon van Nephele. Zet dit klaar voor Act 4."
+    },
+    {
+     "h": "Apollodorus",
+     "t": "Als de troonaanspraak echt is, wordt hij vanaf Act 3 een probleem voor Acastus."
+    }
+   ],
+   "bron": "Tracker-boom (grof)"
+  },
+  {
+   "id": "a2d",
+   "groep": "a2-grof",
+   "titel": "Explore Mytros",
+   "ster": false,
+   "status": "later",
+   "type": "verhaal",
+   "kern": "Academie, Tempel van de Vijf vs. Orde van Sydon, de arena en de Great Games, de aquaducten, de haven.",
+   "doen": [
+    "Cult of the Snake in de aquaducten gevonden"
+   ],
+   "haken": [
+    {
+     "h": "Ox",
+     "t": "Zijn arena, en de cultus van zijn priester. Zet de oproep hier klaar."
+    },
+    {
+     "h": "Apollodorus",
+     "t": "De Academie: zijn eigen leermeesters plaatsen hem niet."
+    },
+    {
+     "h": "Wauros",
+     "t": "De gebeten student LEEFT en is nu meester. Zijn versie: \"een monster viel ons zonder aanleiding aan.\""
+    },
+    {
+     "h": "Orelle",
+     "t": "Haar stad, haar haven."
+    }
+   ],
+   "bron": "Tracker-boom (grof)"
+  },
+  {
+   "id": "a2e",
+   "groep": "a2-grof",
+   "titel": "Dead Falls — Claim the Ultros",
+   "ster": true,
+   "status": "later",
+   "type": "verhaal",
+   "kern": "Zeventig geesten en spectres. Estor Arkelander wacht op krijgers en wil een lichaam — hij bezoekt eerst hun dromen.",
+   "doen": [],
+   "haken": [
+    {
+     "h": "Sirius",
+     "t": "DE DEAL: Estor wijst de schat in de Nether Sea aan, mits hij eerste keuze krijgt (xiphos of slaughter). Zonder eed geen route."
+    },
+    {
+     "h": "Dragini",
+     "t": "Estor was Versi's andere minnaar, 500 jaar geleden."
+    }
+   ],
+   "bron": "Tracker-boom (grof)"
+  },
+  {
+   "id": "a2f",
+   "groep": "a2-grof",
+   "titel": "Feest, Antikythera & vertrek",
+   "ster": false,
+   "status": "later",
+   "type": "verhaal",
+   "kern": "Vallus geeft de Antikythera — vijf Arbeidsdaden compleet. Pythor zweert dienst en gaat mee, Volkan in zijn kielzog. Honderd vrijwilligers.",
+   "doen": [
+    "Antikythera ontvangen",
+    "Bemanning + voorraden geregeld"
+   ],
+   "haken": [
+    {
+     "h": "Sirius",
+     "t": "De Antikythera kan door een gygan-smid (Steros/Bront/Garzoon) omgebouwd worden tot kompas naar buiten Thylea."
+    },
+    {
+     "h": "Wauros",
+     "t": "Vallus geeft het geheime drakenei aan Kyrah — wijs het aan hem toe. NIET het brass ei op Fire Island: dat is canon van Dragini."
+    }
+   ],
+   "bron": "Tracker-boom (grof)"
+  },
+  {
+   "id": "a2g",
+   "groep": "a2-grof",
+   "titel": "De 60-dagen klok start",
+   "ster": true,
+   "status": "later",
+   "type": "verhaal",
+   "kern": "Vanaf hier telt elke zeedag. Drie dagen varen tussen eilanden. Laat Kyrah aftellen; op dag 50 wordt ze gejaagd.",
+   "doen": [],
+   "haken": [],
+   "bron": "Tracker-boom (grof)"
+  },
+  {
+   "id": "a3a",
+   "groep": "a3-grof",
+   "titel": "Yonder — DRIEvoudige afrekening",
+   "ster": true,
+   "status": "later",
+   "type": "verhaal",
+   "kern": "Het enige verplichte eiland: het Antikythera-tandwiel ligt in een verguld kistje bij Chondrus. Gaius voert het bevel. SPEEL ALS MEERDERE SCÈNES.",
+   "doen": [
+    "1. Aankomst + Grote Bibliotheek",
+    "2. Chondrus + het tandwiel",
+    "3. De cellen en Gaius' kamer (Mikhael, Cloak of the Bat)",
+    "4. Confrontatie Gaius & Argyn",
+    "Chondrus' koopje — greater item Dragonslayer"
+   ],
+   "haken": [
+    {
+     "h": "Kyrenos",
+     "t": "GREATER ITEM HIER: Chondrus draagt de Dragonslayer (wapen naar keuze) en biedt het aan als deel van zijn koopje. Argyn is Gaius' rijdier en verdorven — een gevecht, niet zijn taak."
+    },
+    {
+     "h": "Dragini",
+     "t": "HARNAS HIER: Cloak of the Bat, in de kamer van Gaius. Ze verandert ermee in een pseudodraak, niet in een vleermuis."
+    },
+    {
+     "h": "Sirius",
+     "t": "LOTGENOOT HIER: Mikhael in de cellen, laatste overlevende van een luchtschip-expeditie die wél voorbij de Forgotten Sea raakte. Het levende bewijs dat de weg naar huis bestaat."
+    }
+   ],
+   "bron": "Tracker-boom (grof)"
+  },
+  {
+   "id": "a3c",
+   "groep": "a3-grof",
+   "titel": "Island of the Fates — DRIE scènes",
+   "ster": false,
+   "status": "later",
+   "type": "verhaal",
+   "kern": "Drie zusters aan een weefgetouw van reuzenbeen. Het scherpste stuk waarheid in de campagne. Aan dit getouw wordt Orelles beschermartefact gemaakt — door te onderhandelen of door ze te doden.",
+   "doen": [
+    "Scène A — de Doomed One",
+    "Scène B — de Haunted One",
+    "Scène C — de Dragonslayer",
+    "Weefgetouw: Breastplate gemaakt"
+   ],
+   "haken": [
+    {
+     "h": "Orelle",
+     "t": "Volledige geboorteprofetie: Lutheria liet haar ouders afslachten en beval eindeloze kwelling — als grap. Ze moet DRIE KEER STERVEN. + het weefgetouw maakt hier haar Breastplate of Invulnerability."
+    },
+    {
+     "h": "Apollodorus",
+     "t": "Lutheria joeg hem op (\"zou de macht van de dood breken\"); MYTROS wiste hem om hem te redden. Zielen zitten in de zeis."
+    },
+    {
+     "h": "Kyrenos",
+     "t": "CANON: zoek de Zonnegod onder het sterrenbeeld DE WAGEN. Hij helpt je de wraak vinden die je zoekt."
+    },
+    {
+     "h": "Ox",
+     "t": "De Fates zien de vloek van zijn volk als lotsbeschikking, niet als ongeluk."
+    },
+    {
+     "h": "Wauros",
+     "t": "Eén zin over de brandende achterpoten — leest achteraf als voorspelling."
+    }
+   ],
+   "bron": "Tracker-boom (grof)"
+  },
+  {
+   "id": "a3d",
+   "groep": "a3-grof",
+   "titel": "Island of Themis — Amazones",
+   "ster": false,
+   "status": "later",
+   "type": "verhaal",
+   "kern": "Bronzen automaten (stimfay). Machtige bondgenoten voor Act 4. Respect verdienen, niet het eiland aflopen.",
+   "doen": [],
+   "haken": [
+    {
+     "h": "Apollodorus",
+     "t": "GREATER ITEM HIER: Koningin Thesilea draagt de Dancing Sword — daarin zit de ziel van de stichter van zijn familie. Attunen = de stemmen worden luider en wijzen naar de Fates."
+    },
+    {
+     "h": "Sirius",
+     "t": "De stimfay-bouwers: levend gyganisch vakmanschap, geen ruïne."
+    }
+   ],
+   "bron": "Tracker-boom (grof)"
+  },
+  {
+   "id": "a3b",
+   "groep": "a3-grof",
+   "titel": "Cerulean Gulf — overige eilanden",
+   "ster": false,
+   "status": "later",
+   "type": "verhaal",
+   "kern": "Golden Heart, Chimera, Exiles, Scorpion, Indigo, Titan's Folly, Fire Island. Schat, gevaar en epic-path-werk. Reken ~1 maand voor de hele Golf.",
+   "doen": [],
+   "haken": [
+    {
+     "h": "Sirius",
+     "t": "Zijn bemanning ligt hier verspreid. Suggestie: één bij de Barbarians, één gevangen op Yonder, één dood."
+    },
+    {
+     "h": "Dragini",
+     "t": "Het brass drakenei op Fire Island (V15) — canon expliciet van haar."
+    },
+    {
+     "h": "Ox",
+     "t": "SCORPION ISLAND: de Lotuswitch. Zie eigen knoop hieronder."
+    }
+   ],
+   "bron": "Tracker-boom (grof)"
+  },
+  {
+   "id": "a3h",
+   "groep": "a3-grof",
+   "titel": "Garden of Helios — DUBBELE climax",
+   "ster": true,
+   "status": "later",
+   "type": "verhaal",
+   "kern": "Gouden draak Helios, in mensengedaante als gastheer aan tafel. In zijn schathoop ligt het instant fortress. Twee spelers krijgen hier hun grootste moment. Erinyes-scène: Helios wordt meegesleept naar het Island of Oathbreakers als hij vlucht.",
+   "doen": [
+    "Diner met Helios — de onthulling",
+    "Helios verslagen of gevlucht",
+    "Instant fortress uit de schathoop"
+   ],
+   "haken": [
+    {
+     "h": "Kyrenos",
+     "t": "ZIJN DOELWIT. De Fates vertelden Helios dat iemand uit Kyrenos' dorp hem zou doden — dus verbrandde hij het dorp. Hij wacht al jaren op hem. Adara stierf omdat Helios zichzelf wilde redden."
+    },
+    {
+     "h": "Wauros",
+     "t": "Fortress of the Dragonlords = heroic task 1. De nieuwe orde heeft een zetel nodig."
+    }
+   ],
+   "bron": "Tracker-boom (grof)"
+  },
+  {
+   "id": "a3i",
+   "groep": "a3-grof",
+   "titel": "Scorpion Island — de Lotuswitch",
+   "ster": false,
+   "status": "later",
+   "type": "verhaal",
+   "kern": "De Lotuswitch is een sfinx. Ze stelt vier vragen over de geschiedenis van Thylea; drie goed volstaat. Daarna beantwoordt ze vijf vragen van de partij — ze weet alles over Thylea.",
+   "doen": [
+    "Raadsels beantwoord (of de heks gedood)",
+    "Greater artefact ontvangen"
+   ],
+   "haken": [
+    {
+     "h": "Ox",
+     "t": "GREATER ITEM HIER: Belt of Fire Giant Strength (met resistance tegen vuur — precies wat hij op Typhon nodig heeft). Zij onthult dat de vloek op TYPHON ISLAND ontstaat."
+    },
+    {
+     "h": "Orelle",
+     "t": "Eén van haar canon-voorbeeldvragen luidt: \"Wat gebeurde er met de Stad van de Sirenen?\" Laat die vraag vallen waar Indy bij zit."
+    }
+   ],
+   "bron": "Tracker-boom (grof)"
+  },
+  {
+   "id": "a3j",
+   "groep": "a3-grof",
+   "titel": "Typhon Island — de Maw",
+   "ster": true,
+   "status": "later",
+   "type": "verhaal",
+   "kern": "In de vulkanische kern springen. Met het artefact van de Lotuswitch komt hij ongedeerd aan op de asvlakten van HADES. Zonder dat artefact is het een vurige dood.",
+   "doen": [
+    "In de Maw gesprongen",
+    "De voorouder ontmoet",
+    "DE KEUZE gemaakt"
+   ],
+   "haken": [
+    {
+     "h": "Ox",
+     "t": "EINDE VAN ZIJN BOOG. Een oude man, bewaakt door een volwassen cerberus. Hij beledigde de Titanen; dit was de straf. De cerberus zegt dat hem doden de enige weg is. HIJ VERDEDIGT ZICH NIET. Doodt Ox hem, dan wordt het lijk verslonden en is de Oath of Service aan Theron gebroken — de minotaurusvloek zelf blijft. ALTERNATIEF (nooit uitleggen, moet ontdekt worden): beide Titanen doden breekt de eed ook én bevrijdt de voorouder."
+    }
+   ],
+   "bron": "Tracker-boom (grof)"
+  },
+  {
+   "id": "a3e",
+   "groep": "a3-grof",
+   "titel": "Island of the Dragon — Hexia",
+   "ster": false,
+   "status": "later",
+   "type": "verhaal",
+   "kern": "Groene draak die Pythors geliefden een voor een wegnam. Houdt Ophea gevangen. VRIJGEKOMEN — hangt aan geen spelersblad meer.",
+   "doen": [],
+   "haken": [],
+   "bron": "Tracker-boom (grof)"
+  },
+  {
+   "id": "a3f",
+   "groep": "a3-grof",
+   "titel": "Praxys — Sydon's Tower",
+   "ster": true,
+   "status": "later",
+   "type": "verhaal",
+   "kern": "Verdieping na verdieping omhoog: arena van Talieus, Nephele, de Furies met hun orrery, een stervende ster. Sydon biedt onderhandeling maar vecht niet tot de dood.",
+   "doen": [
+    "Bondgenoten verzameld (ster / Nephele / Furies)",
+    "Sydon geconfronteerd — ontsnapt via de kaart"
+   ],
+   "haken": [
+    {
+     "h": "Wauros",
+     "t": "GROOTSTE PAYOFF. Medaillon breken = grootmoeders ziel in Nephele. Zij is de moeder van Argyn én Icarus. Sydon herkent hem."
+    },
+    {
+     "h": "Ox",
+     "t": "Sydon bedacht de vloek samen met Lutheria — maar de vloek breken gebeurt op Typhon, niet hier. Wel: beide Titanen doden is de tweede, verzwegen weg."
+    },
+    {
+     "h": "Orelle",
+     "t": "Haar eigen bloedlijn, en hij weet het. Zij en Wauros staan hier als familie."
+    }
+   ],
+   "bron": "Tracker-boom (grof)"
+  },
+  {
+   "id": "a3g",
+   "groep": "a3-grof",
+   "titel": "Nether Sea — Confront Lutheria",
+   "ster": true,
+   "status": "later",
+   "type": "verhaal",
+   "kern": "Inktzwart zuur water. Lutheria op Hypnos, getrokken door Talieus. LACH OM HAAR MOPPEN. Het Royal Game zet levens van de bemanning in.",
+   "doen": [
+    "Prison Cube gevonden",
+    "Aan boord van Hypnos",
+    "De kristallen zeis GEBROKEN"
+   ],
+   "haken": [
+    {
+     "h": "Apollodorus",
+     "t": "Zij richt alles op hem. Zeis breken = familie vrij + de wereld herinnert zich hen weer. EINDE VAN ZIJN BOOG."
+    },
+    {
+     "h": "Orelle",
+     "t": "HAAR DOEM IN PERSOON. Lutheria doet één ronde niets van het lachen om alle zinloze ellende die ze haar aandeed. Haar dood heft de limiet op de derde dood op."
+    },
+    {
+     "h": "Sirius",
+     "t": "SCHAT HIER: Gem of Seeing, plus 3 edelstenen à 10.000 gp, 2.000 pp en 10.000 gp. Estor neemt eerst de xiphos of slaughter. Bewaakt door Hezzebal."
+    },
+    {
+     "h": "Dragini",
+     "t": "Hezzebal geeft haar persoonlijk de schuld van zijn eeuwenlange opsluiting."
+    }
+   ],
+   "bron": "Tracker-boom (grof)"
+  },
+  {
+   "id": "a4a",
+   "groep": "a4-grof",
+   "titel": "De goden veranderen",
+   "ster": true,
+   "status": "later",
+   "type": "verhaal",
+   "kern": "Op de zestigste ochtend: Kyrah en Pythor worden bronzen draken op het dek. Balmytria misleidde de Titanen en haar broed werd goden.",
+   "doen": [],
+   "haken": [
+    {
+     "h": "Kyrenos",
+     "t": "De omkering van zijn hele eed. Alles waarop hij zwoer blijkt draak."
+    }
+   ],
+   "bron": "Tracker-boom (grof)"
+  },
+  {
+   "id": "a4e",
+   "groep": "a4-grof",
+   "titel": "Oath of the Dragonlord — binden",
+   "ster": false,
+   "status": "later",
+   "type": "verhaal",
+   "kern": "Elke held kiest een draak, zweert de eed hardop en offert daarvoor een magisch voorwerp.",
+   "doen": [],
+   "haken": [
+    {
+     "h": "Kyrenos",
+     "t": "Sluit de cirkel die in Act 1 begon met een gestolen hoorn."
+    },
+    {
+     "h": "Wauros",
+     "t": "Zijn eigen draak, uit Vallus' ei, vliegt hier voor het eerst de oorlog in."
+    }
+   ],
+   "bron": "Tracker-boom (grof)"
+  },
+  {
+   "id": "a4b",
+   "groep": "a4-grof",
+   "titel": "Icarus & de valse Dragonlord",
+   "ster": false,
+   "status": "later",
+   "type": "verhaal",
+   "kern": "Acastus verloor de controle over zijn zilveren draak. Versla Icarus, confronteer de koning, claim de Colossus of Pythor.",
+   "doen": [],
+   "haken": [
+    {
+     "h": "Wauros",
+     "t": "Icarus is Nephele's zoon. Als hij haar bevrijdde, staat hij tegenover haar kind."
+    },
+    {
+     "h": "Kyrenos",
+     "t": "Broer van Argyn. Conflict 1 is voor hem en Wauros samen een familiekwestie."
+    },
+    {
+     "h": "Apollodorus",
+     "t": "Als de zeis gebroken is, herinnert de wereld zijn familie. Laat iemand hem bij zijn echte naam noemen."
+    }
+   ],
+   "bron": "Tracker-boom (grof)"
+  },
+  {
+   "id": "a4c",
+   "groep": "a4-grof",
+   "titel": "Titans Attack Mytros",
+   "ster": true,
+   "status": "later",
+   "type": "verhaal",
+   "kern": "Sydon, Lutheria en Kentimane vallen aan, afhankelijk van wie nog leeft. Elke bondgenoot en elke beslissing telt nu.",
+   "doen": [],
+   "haken": [
+    {
+     "h": "Orelle",
+     "t": "Haar stad brandt. Kentimane is NIET langer haar doem — dat is Lutheria zelf."
+    },
+    {
+     "h": "Sirius",
+     "t": "Kentimane staat los van Smash: diens herkomst komt van Hezzebal (Nether Sea)."
+    },
+    {
+     "h": "Ox",
+     "t": "Zijn arena brandt."
+    }
+   ],
+   "bron": "Tracker-boom (grof)"
+  },
+  {
+   "id": "a4d",
+   "groep": "a4-grof",
+   "titel": "The New Oath",
+   "ster": false,
+   "status": "later",
+   "type": "verhaal",
+   "kern": "Titanen verslagen. Nieuwe eden van de overlevende Titanen, en van de helden zelf aan de stad.",
+   "doen": [],
+   "haken": [],
+   "bron": "Tracker-boom (grof)"
+  },
+  {
+   "id": "a5e",
+   "groep": "a5-grof",
+   "titel": "De jaren daarna",
+   "ster": false,
+   "status": "later",
+   "type": "verhaal",
+   "kern": "Mytros herbouwd, nieuwe nederzettingen met elk een held als beschermheer. De orde van de Dragonlords als vredeshandhavers. Vraag elke speler wat hun personage deed.",
+   "doen": [],
+   "haken": [],
+   "bron": "Tracker-boom (grof)"
+  },
+  {
+   "id": "a5a",
+   "groep": "a5-grof",
+   "titel": "Narsus the Forgotten God",
+   "ster": false,
+   "status": "later",
+   "type": "verhaal",
+   "kern": "Ekoh komt met het verzoek. Narsus is 500 jaar gevangene van Queen Calliope in Aresia. Hij weet welk pad een sterveling naar goddelijkheid voert.",
+   "doen": [],
+   "haken": [],
+   "bron": "Tracker-boom (grof)"
+  },
+  {
+   "id": "a5b",
+   "groep": "a5-grof",
+   "titel": "Siege of Aresia",
+   "ster": false,
+   "status": "later",
+   "type": "verhaal",
+   "kern": "Belegeren met een leger, of binnensluipen terwijl het leger voor de poorten staat. Beide werken — dit is een test van leiderschap.",
+   "doen": [],
+   "haken": [
+    {
+     "h": "Ox",
+     "t": "Aresia ligt naast het voorouderlijke doolhof van zijn volk."
+    }
+   ],
+   "bron": "Tracker-boom (grof)"
+  },
+  {
+   "id": "a5c",
+   "groep": "a5-grof",
+   "titel": "Gather the Divine Artifacts",
+   "ster": false,
+   "status": "later",
+   "type": "verhaal",
+   "kern": "Drie items voor de Theogenesis, uit twee Aresische kerkers en het Verzonken Koninkrijk.",
+   "doen": [
+    "Caduceus — Tomb of Karpathos",
+    "Ambrosia — Zakroth's Prison Fort",
+    "Promethean Fire — Sunken Kingdom"
+   ],
+   "haken": [
+    {
+     "h": "Orelle",
+     "t": "Het Verzonken Koninkrijk IS haar verloren sirenenstad."
+    }
+   ],
+   "bron": "Tracker-boom (grof)"
+  },
+  {
+   "id": "a5d",
+   "groep": "a5-grof",
+   "titel": "The Apokalypsis",
+   "ster": true,
+   "status": "later",
+   "type": "verhaal",
+   "kern": "Lutheria laat de Wapens van de Goden vrij (Tarrasque, Kraken, Nether Dragon, Behemoth) én het vergeten pantheon, dat de artefacten wil inpikken.",
+   "doen": [
+    "Vier oermonsters onderschept",
+    "Empyrean Palace + verloren pantheon",
+    "Theogenesis — of niet"
+   ],
+   "haken": [
+    {
+     "h": "Sirius",
+     "t": "Theogenesis is zijn enige weg naar huis."
+    },
+    {
+     "h": "Wauros",
+     "t": "Hier landt zijn eerste heroic task: een orde die het land bewaakt in plaats van opeet."
+    },
+    {
+     "h": "Kyrenos",
+     "t": "Als de draken hun ruiters dragen, sterft de orde niet meer uit. Dat was zijn eed."
+    },
+    {
+     "h": "Dragini",
+     "t": "En dan is er nog de eed van terugkeer. Versi heeft geen haast, maar vergeet niets."
+    }
+   ],
+   "bron": "Tracker-boom (grof)"
+  }
+ ]
+}
