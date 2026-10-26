@@ -73,23 +73,27 @@
    "id": "p-proloog",
    "akte": "P",
    "titel": "Proloog",
+   "kort": "Proloog",
    "sub": "The Sour Vintage in the Heartlands. Kyrah (vermomd als dichteres) roept de helden samen. Eindigt met de Drie Arbeidsdaden en de zeven gesprekken met Versi. Sessies 1–2.",
    "dicht": true
   },
   {
    "id": "a1-gespeeld",
+   "kort": "Estoria & Mossy Temple",
    "akte": "A1",
    "titel": "Estoria en de Mossy Temple",
    "sub": "Sessies 3–6. Labour 1 is klaar."
   },
   {
    "id": "a1-estoria",
+   "kort": "Terug in Estoria",
    "akte": "A1",
    "titel": "Terug in Estoria",
    "sub": "Corinna thuis, Gaius ontmoeten, Anora redden, het feest."
   },
   {
    "id": "a1-zijpaden",
+   "kort": "Zijpaden",
    "akte": "A1",
    "titel": "Zijpaden in en rond Estoria",
    "sub": "Optioneel. Kleur, buit en losse haken.",
@@ -97,6 +101,7 @@
   },
   {
    "id": "a1-warband",
+   "kort": "Onderweg",
    "akte": "A1",
    "titel": "Onderweg: Gaius slaat toe",
    "sub": "Op weg naar de volgende labour."
@@ -119,6 +124,7 @@
   },
   {
    "id": "a1-na",
+   "kort": "Na 2e labour",
    "akte": "A1",
    "titel": "Na de tweede labour",
    "sub": "Nachtmerrie, herstellingen en de ontbieding."
@@ -166,7 +172,8 @@
     "Vertrek met Taneias en Javon"
    ],
    "haken": [],
-   "bron": "Tracker-boom"
+   "bron": "Tracker-boom",
+   "wanneer": "Begin van de campagne, in The Sour Vintage."
   },
   {
    "id": "p2",
@@ -181,7 +188,8 @@
     "Karkas geofferd aan Vallus → scarab of protection (Act 2)"
    ],
    "haken": [],
-   "bron": "Tracker-boom"
+   "bron": "Tracker-boom",
+   "wanneer": "Na het aannemen van de opdracht, op weg met Taneias en Javon."
   },
   {
    "id": "p3",
@@ -196,7 +204,8 @@
     "Versi bevrijd"
    ],
    "haken": [],
-   "bron": "Tracker-boom"
+   "bron": "Tracker-boom",
+   "wanneer": "Na het zwijn, bij aankomst aan de Temple of the Oracle."
   },
   {
    "id": "p4",
@@ -208,7 +217,8 @@
    "kern": "(1) Drink uit de Horn of Balmytria. (2) Ontsteek de Mithral Forge. (3) Herover de wapens van de Dragonlords. Proteus geeft één dragonlord coin.",
    "doen": [],
    "haken": [],
-   "bron": "Tracker-boom"
+   "bron": "Tracker-boom",
+   "wanneer": "Zodra Versi bevrijd is en spreekt."
   },
   {
    "id": "p5",
@@ -222,34 +232,42 @@
    "haken": [
     {
      "h": "Orelle",
-     "t": "Gedeeld bloed van Sydon erkend. Doem is echt én afwendbaar. Stuurt haar naar DEMETRIA in de Mossy Temple. Zwijgt over de drie doden."
+     "t": "Gedeeld bloed van Sydon erkend. Doem is echt én afwendbaar. Stuurt haar naar DEMETRIA in de Mossy Temple. Zwijgt over de drie doden.",
+     "soort": "boek"
     },
     {
      "h": "Kyrenos",
-     "t": "Hij is voorbestemd de vloek van boze draken te worden. Naar de FORGEKEEPER in de Mithral Mines voor zijn artefacten. Zwijgt dat de draak een god is."
+     "t": "Hij is voorbestemd de vloek van boze draken te worden. Naar de FORGEKEEPER in de Mithral Mines voor zijn artefacten. Zwijgt dat de draak een god is.",
+     "soort": "boek"
     },
     {
      "h": "Dragini",
-     "t": "Versi bekent dat zij 500 jaar de cipier was. Naar Xander in de Necropolis. Eed van terugkeer."
+     "t": "Versi bekent dat zij 500 jaar de cipier was. Naar Xander in de Necropolis. Eed van terugkeer.",
+     "soort": "boek"
     },
     {
      "h": "Apollodorus",
-     "t": "Gewist is niet vernietigd. Begin in het Oudwoud, bij haar zuster."
+     "t": "Gewist is niet vernietigd. Begin in het Oudwoud, bij haar zuster.",
+     "soort": "boek"
     },
     {
      "h": "Sirius",
-     "t": "Bemanning leeft, verspreid over de Golf. Eerst de verloren schat van de Dragonlords vinden; daarna volgt de weg naar huis."
+     "t": "Bemanning leeft, verspreid over de Golf. Eerst de verloren schat van de Dragonlords vinden; daarna volgt de weg naar huis.",
+     "soort": "boek"
     },
     {
      "h": "Wauros",
-     "t": "KLEINKIND VAN SYDON. Krijgt het medaillon van zijn grootmoeder. Geen roem — gezag dat niet weggelachen kan worden."
+     "t": "KLEINKIND VAN SYDON. Krijgt het medaillon van zijn grootmoeder. Geen roem — gezag dat niet weggelachen kan worden.",
+     "soort": "boek"
     },
     {
      "h": "Ox",
-     "t": "Weigert zijn arenanaam. Vloek is breekbaar — spreek met DAMON, de lich die de Necropolis bewaakt. Hij weet wie de vloek wierp."
+     "t": "Weigert zijn arenanaam. Vloek is breekbaar — spreek met DAMON, de lich die de Necropolis bewaakt. Hij weet wie de vloek wierp.",
+     "soort": "boek"
     }
    ],
-   "bron": "Tracker-boom"
+   "bron": "Tracker-boom",
+   "wanneer": "Na de onthulling van de Labors: Versi neemt elke held apart."
   },
   {
    "id": "p6",
@@ -261,7 +279,8 @@
    "kern": "Kyrah stelt de eed voor. Fame wordt gedeeld en de eed beschermt de groep. Daarna: eerste Arbeidsdaad kiezen — Kyrah stuurt naar Estoria.",
    "doen": [],
    "haken": [],
-   "bron": "Tracker-boom"
+   "bron": "Tracker-boom",
+   "wanneer": "Na de zeven gesprekken, vóór het vertrek uit de tempel."
   },
   {
    "id": "p7",
@@ -275,10 +294,12 @@
    "haken": [
     {
      "h": "Wauros",
-     "t": "Zij was zelf een tovenares. Zijn wizardhaat is zelfhaat — en hij moet elke week luisteren."
+     "t": "Zij was zelf een tovenares. Zijn wizardhaat is zelfhaat — en hij moet elke week luisteren.",
+     "soort": "boek"
     }
    ],
-   "bron": "Tracker-boom"
+   "bron": "Tracker-boom",
+   "wanneer": "Een week na Versi's gesprek met Wauros."
   },
   {
    "id": "a1-aankomst",
@@ -291,7 +312,8 @@
    "dm": [
     "Gaius en de Orde van Sydon kwamen in sessie 3 NIET in beeld. Thericles werd nog niet ontmoet."
    ],
-   "bron": "Recap sessie 3; campaign.json"
+   "bron": "Recap sessie 3; campaign.json",
+   "wanneer": "Bij de eerste aankomst in Estoria (sessie 3)."
   },
   {
    "id": "a1-shrine",
@@ -301,7 +323,8 @@
    "status": "klaar",
    "type": "onderzoek",
    "kern": "Aesop meldde de diefstal; hoefsporen en wijnvlekken leidden naar het Oldwood.",
-   "bron": "Boek ch2 E7"
+   "bron": "Boek ch2 E7",
+   "wanneer": "Na het bezoek aan Pythor, in de Dragon Shrine."
   },
   {
    "id": "a1-mossy",
@@ -314,7 +337,8 @@
    "open": [
     "Nog te bevestigen: lot van de gygan en de drie overige meisjes; de vier slapende tieners in T13 en de acht in de Madon-grot; of de Ring of Protection (Apollodorus) gevonden is."
    ],
-   "bron": "campaign.json sessies 4–6"
+   "bron": "campaign.json sessies 4–6",
+   "wanneer": "Na het volgen van het wijnspoor het Oldwood in (sessies 4–6)."
   },
   {
    "id": "a1-hoorn",
@@ -330,7 +354,8 @@
    "dm": [
     "De Droom is canon de Ultros (galei, dode roeiers) + de Antikythera. Kyrah, Aesop of Proteus kunnen hem duiden: twee nieuwe Labors."
    ],
-   "bron": "Boek ch2 E7 \"Returning the Horn\"; campaign.json sessie 6"
+   "bron": "Boek ch2 E7 \"Returning the Horn\"; campaign.json sessie 6",
+   "wanneer": "Zodra de Hoorn terug in Estoria is (sessie 6)."
   },
   {
    "id": "a1-thericles",
@@ -371,11 +396,13 @@
    "haken": [
     {
      "h": "Kyrenos",
-     "t": "Voorstel: Gaius gooit ook javelins of lightning. Eén heldenwapen tegenover drie van de vijand: laat dat later terugkomen."
+     "t": "Voorstel: Gaius gooit ook javelins of lightning. Eén heldenwapen tegenover drie van de vijand: laat dat later terugkomen.",
+     "soort": "voorstel"
     },
     {
      "h": "Dragini",
-     "t": "Voorstel: Phobas is een naam uit haar tijd (Rizon Phobas, rivale van Xander). Een flits van herkenning, geen herinnering."
+     "t": "Voorstel: Phobas is een naam uit haar tijd (Rizon Phobas, rivale van Xander). Een flits van herkenning, geen herinnering.",
+     "soort": "voorstel"
     }
    ],
    "dm": [
@@ -437,15 +464,18 @@
    "haken": [
     {
      "h": "Apollodorus",
-     "t": "Gaius kruisigt barden om ze te doen zwijgen. Een bard aan tafel trekt meteen zijn blik."
+     "t": "Gaius kruisigt barden om ze te doen zwijgen. Een bard aan tafel trekt meteen zijn blik.",
+     "soort": "boek"
     },
     {
      "h": "Kyrenos",
-     "t": "Gaius voert de centaurenstammen aan die Estoria bedreigen: Kyrenos' eigen volk."
+     "t": "Gaius voert de centaurenstammen aan die Estoria bedreigen: Kyrenos' eigen volk.",
+     "soort": "boek"
     },
     {
      "h": "Ox",
-     "t": "Gaius voert de Orde aan waaraan Ox' priester Theron verbonden is. Ox weet dat niet. Voorstel: laat hooguit een symbool herkennen."
+     "t": "Gaius voert de Orde aan waaraan Ox' priester Theron verbonden is. Ox weet dat niet. Voorstel: laat hooguit een symbool herkennen.",
+     "soort": "boek"
     }
    ],
    "dm": [
@@ -497,7 +527,8 @@
    "haken": [
     {
      "h": "Sirius",
-     "t": "Pythor gebruikt zijn kennis over de schat van de Dragonlords als hefboom: pas na Anora's redding vertelt hij over Estor Arkelander."
+     "t": "Pythor gebruikt zijn kennis over de schat van de Dragonlords als hefboom: pas na Anora's redding vertelt hij over Estor Arkelander.",
+     "soort": "boek"
     }
    ],
    "dm": [
@@ -556,7 +587,8 @@
    "haken": [
     {
      "h": "Kyrenos",
-     "t": "Voorstel: een centaur aan de kant van de mensen. Baenor spreekt hem aan als verrader of als verloren broer: dat bepaalt de toon."
+     "t": "Voorstel: een centaur aan de kant van de mensen. Baenor spreekt hem aan als verrader of als verloren broer: dat bepaalt de toon.",
+     "soort": "voorstel"
     }
    ],
    "dm": [
@@ -660,11 +692,13 @@
    "haken": [
     {
      "h": "Orelle",
-     "t": "De harpijen zijn Lutheria's dienaren: ze negeren de rest zoveel mogelijk en pesten haar. Het moet opvallen."
+     "t": "De harpijen zijn Lutheria's dienaren: ze negeren de rest zoveel mogelijk en pesten haar. Het moet opvallen.",
+     "soort": "boek"
     },
     {
      "h": "Kyrenos",
-     "t": "Voorstel: twaalf centauren aan de overkant kijken hoe een van hun soort zich laat vastbinden voor de mensen."
+     "t": "Voorstel: twaalf centauren aan de overkant kijken hoe een van hun soort zich laat vastbinden voor de mensen.",
+     "soort": "voorstel"
     }
    ],
    "dm": [
@@ -712,11 +746,13 @@
    "haken": [
     {
      "h": "Sirius",
-     "t": "Het Estor-spoor: de galei uit de Droom is de Ultros, en Estor had de schat. Ruben moet hier zijn eerste concrete lead voelen."
+     "t": "Het Estor-spoor: de galei uit de Droom is de Ultros, en Estor had de schat. Ruben moet hier zijn eerste concrete lead voelen.",
+     "soort": "boek"
     },
     {
      "h": "Dragini",
-     "t": "Estor was 500 jaar geleden Versi's andere minnaar. Voorstel: Pythor weet dat niet, maar laat de naam bij haar binnenkomen."
+     "t": "Estor was 500 jaar geleden Versi's andere minnaar. Voorstel: Pythor weet dat niet, maar laat de naam bij haar binnenkomen.",
+     "soort": "boek"
     }
    ],
    "dm": [
@@ -749,7 +785,8 @@
    "haken": [
     {
      "h": "Kyrenos",
-     "t": "Voorstel: Volkan laat vallen dat de Forgekeeper daar beneden nog leeft (Versi stuurde Kyrenos naar haar)."
+     "t": "Voorstel: Volkan laat vallen dat de Forgekeeper daar beneden nog leeft (Versi stuurde Kyrenos naar haar).",
+     "soort": "voorstel"
     }
    ],
    "dm": [
@@ -758,7 +795,8 @@
    "open": [
     "De \"smid\" uit sessie 6 (upgrades): was dat Volkan? Dan is deze scène deels gespeeld."
    ],
-   "bron": "Boek ch2 E9"
+   "bron": "Boek ch2 E9",
+   "wanneer": "Wanneer de helden de smid opzoeken, of als Pythor hen naar zijn vader stuurt."
   },
   {
    "id": "a1-z-dwergen",
@@ -774,7 +812,8 @@
    "buit": [
     "F14 Dwarven Hall: 25 dwergenskeletten → tot 250 gp."
    ],
-   "bron": "Boek ch2 E8"
+   "bron": "Boek ch2 E8",
+   "wanneer": "Bij een avond in The Dragon's Tooth, als de dwergen van de kopermijn binnenkomen."
   },
   {
    "id": "a1-z-claus",
@@ -792,7 +831,8 @@
     "Koopt een held hem toch: Curse of the Graverobber (kan niet eten; na Con-score dagen elke dag een level exhaustion). Greater restoration lost het op.",
     "Goede voorbode voor de waarschuwing van Aesop over de graven in Telamok."
    ],
-   "bron": "Boek ch2 E5; Intro \"Laws of Thylea\""
+   "bron": "Boek ch2 E5; Intro \"Laws of Thylea\"",
+   "wanneer": "Bij een bezoek aan de agora."
   },
   {
    "id": "a1-z-festival",
@@ -820,14 +860,17 @@
    "haken": [
     {
      "h": "Orelle",
-     "t": "Voorstel: Lutheria eiste haar op bij een wijnfeest. Een priester van Lutheria die een wijnfestival leidt: dat moet pijn doen."
+     "t": "Voorstel: Lutheria eiste haar op bij een wijnfeest. Een priester van Lutheria die een wijnfestival leidt: dat moet pijn doen.",
+     "soort": "voorstel"
     },
     {
      "h": "Sirius",
-     "t": "Voorstel: The Fall of Estor speelt Estor Arkelander als held die zijn bemanning redt. Mooi tegengif voor wat Pythor vertelt."
+     "t": "Voorstel: The Fall of Estor speelt Estor Arkelander als held die zijn bemanning redt. Mooi tegengif voor wat Pythor vertelt.",
+     "soort": "voorstel"
     }
    ],
-   "bron": "Boek ch2 E1"
+   "bron": "Boek ch2 E1",
+   "wanneer": "Tijdens de feestweek van Pythor, of bij een terugkeer na een Labor."
   },
   {
    "id": "a1-z-woodhike",
@@ -860,7 +903,8 @@
    "dm": [
     "Raken ze de cycloop los van de bende, dan adopteert Thobos hem."
    ],
-   "bron": "Boek ch2 E14"
+   "bron": "Boek ch2 E14",
+   "wanneer": "Als de helden langs het halflingdorp in het bos trekken."
   },
   {
    "id": "a1-z-geruchten",
@@ -873,7 +917,8 @@
    "doen": [
     "1 tieners verdwijnen (Thericles' dochter) · 2 orkaan bij Mytros, wegen dicht · 3 de Orde eist de vernietiging van de Tempel van de Vijf in Mytros · 4 een groep strijders trok vorige maand naar de Necropolis en kwam niet terug · 5 Acastus heeft draken, boeren zagen ze vliegen · 6 de kopermijnen leveren te weinig; als de Mithral Mines maar terug waren · 7 Anora zou een betere heerser zijn · 8 Volkan beweert de God of the Forge te zijn, iedereen speelt mee."
    ],
-   "bron": "Boek ch2 E8"
+   "bron": "Boek ch2 E8",
+   "wanneer": "Bij elk bezoek aan The Dragon's Tooth."
   },
   {
    "id": "a1-warband",
@@ -882,7 +927,7 @@
    "waar": "Onderweg naar de volgende labour",
    "status": "open",
    "type": "gevecht",
-   "wanneer": "Joris (25/10): onderweg naar de volgende labour. Boek: na de eerste Labor.",
+   "wanneer": "Onderweg naar de volgende labour, kort na het vertrek uit Estoria.",
    "kern": "Donkere wolken en gedonder. Een zilveren flits in de wolken, eerst aangezien voor bliksem: een prachtige zilveren draak met een figuur in blauwe mantel. Gaius eist dat ze hun queeste opgeven en knielen voor Sydon; halverwege verandert zijn stem in iets diepers, niet-menselijks. De draak verdwijnt in de wolken, de bliksem scheurt, de grond dreunt: een bloeddorstige warband charget.",
    "zeg": [
     "Eén centaur per held. Ze vechten twee rondes, keren dan abrupt om en trekken weg. Hun doden laten ze liggen."
@@ -922,19 +967,24 @@
    "haken": [
     {
      "h": "Orelle",
-     "t": "Eerste dood (1 van 3). Haar divine boon werkt meteen: true resurrection. Speel het groot en publiek; de tafel moet voelen dat de teller loopt."
+     "t": "Eerste dood (1 van 3). Haar divine boon werkt meteen: true resurrection. Speel het groot en publiek; de tafel moet voelen dat de teller loopt.",
+     "soort": "boek",
+     "mijlpaal": "sleutel"
     },
     {
      "h": "Kyrenos",
-     "t": "Eerste keer Argyn. Een draak, maar niet de zijne: zilver, en hij ademt kou. Zijn doelwit ademde vuur. Volgens de gecorrigeerde profetie is Argyn/Gaius een tussenstap (Yonder → Chondrus → Dragonslayer-wapen), niet de prooi."
+     "t": "Eerste keer Argyn. Een draak, maar niet de zijne: zilver, en hij ademt kou. Zijn doelwit ademde vuur. Volgens de gecorrigeerde profetie is Argyn/Gaius een tussenstap (Yonder → Chondrus → Dragonslayer-wapen), niet de prooi.",
+     "soort": "boek"
     },
     {
      "h": "Kyrenos",
-     "t": "De warband zijn centauren van de stammen die Gaius aanvoert: zijn eigen volk valt hem aan."
+     "t": "De warband zijn centauren van de stammen die Gaius aanvoert: zijn eigen volk valt hem aan.",
+     "soort": "boek"
     },
     {
      "h": "Wauros",
-     "t": "Het is Sydons stem die door Gaius spreekt: de stem van zijn grootvader. Voorstel: hij weet het niet, maar het medaillon wordt koud."
+     "t": "Het is Sydons stem die door Gaius spreekt: de stem van zijn grootvader. Voorstel: hij weet het niet, maar het medaillon wordt koud.",
+     "soort": "boek"
     }
    ],
    "dm": [
@@ -958,7 +1008,8 @@
    "zeg": [
     "De tocht is rustig. Bij zonsondergang: een bende centauren."
    ],
-   "bron": "Boek ch2 \"Traveling to the Forge\""
+   "bron": "Boek ch2 \"Traveling to the Forge\"",
+   "wanneer": "Bij dageraad, vertrek uit de North Gate richting de Great Falls."
   },
   {
    "id": "f-hukar",
@@ -997,18 +1048,22 @@
    "haken": [
     {
      "h": "Kyrenos",
-     "t": "Voorstel: na de warband van Gaius: centauren die gewoon hun eigen mensen willen terugvinden. Hukar spreekt hem aan als een van hen."
+     "t": "Voorstel: na de warband van Gaius: centauren die gewoon hun eigen mensen willen terugvinden. Hukar spreekt hem aan als een van hen.",
+     "soort": "voorstel"
     },
     {
      "h": "Wauros",
-     "t": "Voorstel: \"Blood of Sydon\", de zegen van zijn grootvader in een flesje. Laat hij het drinken?"
+     "t": "Voorstel: \"Blood of Sydon\", de zegen van zijn grootvader in een flesje. Laat hij het drinken?",
+     "soort": "voorstel"
     },
     {
      "h": "Orelle",
-     "t": "Voorstel: ook zij draagt Sydons bloed. Hukar's pleidooi voor Sydons wijsheid landt anders bij haar, zeker na haar gebed in de tempel."
+     "t": "Voorstel: ook zij draagt Sydons bloed. Hukar's pleidooi voor Sydons wijsheid landt anders bij haar, zeker na haar gebed in de tempel.",
+     "soort": "voorstel"
     }
    ],
-   "bron": "Boek ch2 \"Band of Centaurs\", \"The Missing Centaurs\""
+   "bron": "Boek ch2 \"Band of Centaurs\", \"The Missing Centaurs\"",
+   "wanneer": "Bij zonsondergang op de verlaten weg, net vóór de Great Falls."
   },
   {
    "id": "f-falls",
@@ -1026,7 +1081,8 @@
     "De vier handen zijn de Hands of Kentimane, de Elder Titan. Voorlopig slapend.",
     "De dwergen bliezen de ingang dicht om de cerberus op te sluiten."
    ],
-   "bron": "Boek ch2 \"The Great Falls of Arkelon\""
+   "bron": "Boek ch2 \"The Great Falls of Arkelon\"",
+   "wanneer": "Bij aankomst op de rotspunt boven het meer."
   },
   {
    "id": "f1",
@@ -1054,7 +1110,8 @@
    "dm": [
     "Verliezen de helden van troglodieten, dan worden ze niet gedood maar naar de koning gebracht: wakker met de effecten van een short rest, zonder wapens."
    ],
-   "bron": "Boek ch2 F1"
+   "bron": "Boek ch2 F1",
+   "wanneer": "Bij het betreden van het pad achter de waterval."
   },
   {
    "id": "f2",
@@ -1082,7 +1139,8 @@
      "opt": true
     }
    ],
-   "bron": "Boek ch2 F2"
+   "bron": "Boek ch2 F2",
+   "wanneer": "Na de troglodiet-vissers, waar de tunnel zich splitst."
   },
   {
    "id": "f3",
@@ -1100,7 +1158,8 @@
      "noot": "Plat tegen de wanden; voordeel op Stealth (Chameleon Skin). Elke zes uur afgelost."
     }
    ],
-   "bron": "Boek ch2 F3"
+   "bron": "Boek ch2 F3",
+   "wanneer": "Als de helden links afslaan bij de splitsing (F2)."
   },
   {
    "id": "f4",
@@ -1132,13 +1191,15 @@
    "haken": [
     {
      "h": "Kyrenos",
-     "t": "Voorstel: een centaur aan het spit. Dit is het moment waarop hij beslist wat Hukar's stam voor hem betekent."
+     "t": "Voorstel: een centaur aan het spit. Dit is het moment waarop hij beslist wat Hukar's stam voor hem betekent.",
+     "soort": "voorstel"
     }
    ],
    "dm": [
     "Dit lost Hukar's quest op: blaas de ivoren hoorn aan de oever van de Arkelon."
    ],
-   "bron": "Boek ch2 F4"
+   "bron": "Boek ch2 F4",
+   "wanneer": "Bij binnenkomst in F4 (na F3)."
   },
   {
    "id": "f5",
@@ -1160,7 +1221,8 @@
      "noot": "Slapen; horen ze de helden, dan verstoppen ze zich tegen de wanden of in hun eigen vuil voor een hinderlaag"
     }
    ],
-   "bron": "Boek ch2 F5"
+   "bron": "Boek ch2 F5",
+   "wanneer": "Bij binnenkomst in de warrens (vanuit F4)."
   },
   {
    "id": "f6",
@@ -1184,7 +1246,8 @@
    "dm": [
     "De zuidwestelijke tunnel daalt mijlenver af naar de Underdark. Zo kwamen de troglodieten boven. Buiten het boek."
    ],
-   "bron": "Boek ch2 F6"
+   "bron": "Boek ch2 F6",
+   "wanneer": "Bij binnenkomst in F6 (via de warrens)."
   },
   {
    "id": "f7",
@@ -1210,7 +1273,8 @@
      "q": 12
     }
    ],
-   "bron": "Boek ch2 F7"
+   "bron": "Boek ch2 F7",
+   "wanneer": "Bij binnenkomst in F7 (via de warrens)."
   },
   {
    "id": "f8",
@@ -1229,7 +1293,8 @@
    "buit": [
     "5 ft. diep onder de smurrie: mithral breastplate, mithral ringmail, adamantine short sword, adamantine spear."
    ],
-   "bron": "Boek ch2 F8"
+   "bron": "Boek ch2 F8",
+   "wanneer": "Bij binnenkomst in F8 (via de warrens)."
   },
   {
    "id": "f9",
@@ -1282,7 +1347,8 @@
     "Hij kent het wachtwoord van de lift (F18): \"dragon\" in het Dwarvish. De Forgekeeper gaf het hem een jaar geleden.",
     "Leeft de koning nog als de smidse ontwaakt, dan komt hij met een horde (zie Het ontwaken van de smidse)."
    ],
-   "bron": "Boek ch2 F9"
+   "bron": "Boek ch2 F9",
+   "wanneer": "Bij binnenkomst in F9, de troonzaal (na F8 of via F5)."
   },
   {
    "id": "f10",
@@ -1303,7 +1369,8 @@
    "dm": [
     "De death dogs uit de diepte verkennen sinds een paar dagen de bovenste verdieping. Ze doodden de troglodieten hier; die lieten als laatste redmiddel de cockatrices los."
    ],
-   "bron": "Boek ch2 F10"
+   "bron": "Boek ch2 F10",
+   "wanneer": "Als de helden rechts afslaan bij de splitsing (F2): het dwergenwerk begint."
   },
   {
    "id": "f11",
@@ -1329,7 +1396,8 @@
    "dm": [
     "De koning kweekt cockatrices, laat ze vechten en verstenen gevangenen om ze te bewaren voor later. Aan \"eregasten\" serveert hij soms gebraden cockatrice."
    ],
-   "bron": "Boek ch2 F11"
+   "bron": "Boek ch2 F11",
+   "wanneer": "Bij binnenkomst in F11 (na F10)."
   },
   {
    "id": "f12",
@@ -1352,7 +1420,8 @@
      "noot": "Ontwaken na 10 minuten, één per twee rondes"
     }
    ],
-   "bron": "Boek ch2 F12"
+   "bron": "Boek ch2 F12",
+   "wanneer": "Bij binnenkomst in F12 (na F11)."
   },
   {
    "id": "f13",
@@ -1382,7 +1451,8 @@
    "dm": [
     "De cerberus werd gedood door iets enorms dat uit de Deep Shaft (F17) kwam. Laat dat dreigen, niet verschijnen."
    ],
-   "bron": "Boek ch2 F13–F16"
+   "bron": "Boek ch2 F13–F16",
+   "wanneer": "Bij het verder verkennen van de bovenste mijnen (na F12)."
   },
   {
    "id": "f17",
@@ -1401,7 +1471,8 @@
     "Onderaan: een ingang naar de Underdark die uitkomt in een magmameer. Buiten het boek.",
     "Alternatieve weg naar beneden naast de lift (F18)."
    ],
-   "bron": "Boek ch2 F17"
+   "bron": "Boek ch2 F17",
+   "wanneer": "Aan het einde van de gemetselde tunnel, bij de rand van de schacht."
   },
   {
    "id": "f18",
@@ -1424,7 +1495,8 @@
     "Uitschakelen: het wachtwoord uitspreken, of de drakenmonden dichtstoppen (ze gloeien dan rood).",
     "Einde ronde 5: het vuur dooft, de deuren gaan open met een belletje. Terug omhoog = de val start opnieuw."
    ],
-   "bron": "Boek ch2 F18"
+   "bron": "Boek ch2 F18",
+   "wanneer": "Als de helden de bronzen lift instappen en de hendel overhalen."
   },
   {
    "id": "f19",
@@ -1441,7 +1513,8 @@
    "buit": [
     "Mithral xiphos +1."
    ],
-   "bron": "Boek ch2 F19"
+   "bron": "Boek ch2 F19",
+   "wanneer": "Bij het uitstappen van de lift beneden (of na de klim langs F17)."
   },
   {
    "id": "f20",
@@ -1496,17 +1569,21 @@
    "haken": [
     {
      "h": "Kyrenos",
-     "t": "LESSER ITEM: de Forgekeeper geeft hem de Ring of Resistance (Fire). Helios is goud; vuur is het juiste element."
+     "t": "LESSER ITEM: de Forgekeeper geeft hem de Ring of Resistance (Fire). Helios is goud; vuur is het juiste element.",
+     "soort": "boek",
+     "mijlpaal": "item"
     },
     {
      "h": "Kyrenos",
-     "t": "Ze zegt dat hij een wapen nodig heeft dat sterk genoeg is voor een draak: de gygans van Yonder smeedden zulke wapens in de Eerste Oorlog (Chondrus, Act 3)."
+     "t": "Ze zegt dat hij een wapen nodig heeft dat sterk genoeg is voor een draak: de gygans van Yonder smeedden zulke wapens in de Eerste Oorlog (Chondrus, Act 3).",
+     "soort": "boek"
     }
    ],
    "open": [
     "Wanneer geeft ze de ring: meteen bij het gesprek, of pas na haar bevrijding? Voorstel: na het contract, als dank."
    ],
-   "bron": "Boek ch2 F20; ch1 Dragonslayer"
+   "bron": "Boek ch2 F20; ch1 Dragonslayer",
+   "wanneer": "Bij binnenkomst in F20 (na F19)."
   },
   {
    "id": "f21",
@@ -1541,10 +1618,12 @@
    "haken": [
     {
      "h": "Orelle",
-     "t": "Een dienaar van Lutheria: hij kiest haar. Drie koppen, één doelwit."
+     "t": "Een dienaar van Lutheria: hij kiest haar. Drie koppen, één doelwit.",
+     "soort": "boek"
     }
    ],
-   "bron": "Boek ch2 F21"
+   "bron": "Boek ch2 F21",
+   "wanneer": "Zodra er met de Forgekeeper onderhandeld wordt, of bij binnenkomst in F21."
   },
   {
    "id": "f-ontwaken",
@@ -1590,7 +1669,8 @@
    "haken": [
     {
      "h": "Kyrenos",
-     "t": "Als de ring nog niet gegeven is: nu."
+     "t": "Als de ring nog niet gegeven is: nu.",
+     "soort": "boek"
     }
    ],
    "dm": [
@@ -1615,7 +1695,8 @@
    "dm": [
     "Zodra ze de Ultros hebben, kunnen ze hier aanleggen en terugkeren naar de smidse. Een uitstekende schuilplaats voor het schip."
    ],
-   "bron": "Boek ch2 F22"
+   "bron": "Boek ch2 F22",
+   "wanneer": "Bij het verkennen voorbij de smidse, achter de waterval."
   },
   {
    "id": "f-terug",
@@ -1630,7 +1711,8 @@
     "3 potions of heroism (Hukar).",
     "10 gp per dwergenschedel bij de dwergen in The Dragon's Tooth."
    ],
-   "bron": "Boek ch2 \"The Missing Centaurs\"; E8"
+   "bron": "Boek ch2 \"The Missing Centaurs\"; E8",
+   "wanneer": "Op de terugweg, aan de oever van de Arkelon; daarna in Estoria."
   },
   {
    "id": "x-armen",
@@ -1644,7 +1726,8 @@
    "dm": [
     "De armen van Kentimane, de Hundred-Handed Titan. Ze zijn onverwoestbaar en bewegen niet tegen de helden."
    ],
-   "bron": "Boek ch2 \"Arms of Kentimane\""
+   "bron": "Boek ch2 \"Arms of Kentimane\"",
+   "wanneer": "Op de vlakte, zodra de Mithral Mountains in zicht komen."
   },
   {
    "id": "x-pad",
@@ -1672,10 +1755,12 @@
    "haken": [
     {
      "h": "Orelle",
-     "t": "Voorstel: haar sirenenbloed kent dit soort lied. Speel het als iets dat haar herkent, niet alleen betovert."
+     "t": "Voorstel: haar sirenenbloed kent dit soort lied. Speel het als iets dat haar herkent, niet alleen betovert.",
+     "soort": "voorstel"
     }
    ],
-   "bron": "Boek ch2 \"The Path of the Dead\""
+   "bron": "Boek ch2 \"The Path of the Dead\"",
+   "wanneer": "Halverwege de bergweg naar de Necropolis."
   },
   {
    "id": "x-dalen",
@@ -1707,10 +1792,12 @@
    "haken": [
     {
      "h": "Orelle",
-     "t": "Alle vijandige undead richten zich op haar (Lutheria's Joke)."
+     "t": "Alle vijandige undead richten zich op haar (Lutheria's Joke).",
+     "soort": "boek"
     }
    ],
-   "bron": "Boek ch2 \"Valleys Shrouded in Mist\""
+   "bron": "Boek ch2 \"Valleys Shrouded in Mist\"",
+   "wanneer": "Alleen als iemand afdaalt in de nevel (of na een val van het pad)."
   },
   {
    "id": "x1",
@@ -1724,7 +1811,8 @@
    "doen": [
     "Survival DC 15: sporen onder de sneeuw van een tweebenige stier, heen en terug. DC 20+: een machtige minotaur."
    ],
-   "bron": "Boek ch2 X1"
+   "bron": "Boek ch2 X1",
+   "wanneer": "Bij aankomst bovenaan het Pad van de Doden, voor de kloof."
   },
   {
    "id": "x2",
@@ -1766,15 +1854,19 @@
    "haken": [
     {
      "h": "Ox",
-     "t": "LESSER ITEM: gem of brightness. Damon zegt dat de vloek uniek is in Thylea, door Sydon én Lutheria samen bedacht, en stuurt hem naar de Lotus Witch op Scorpion Island."
+     "t": "LESSER ITEM: gem of brightness. Damon zegt dat de vloek uniek is in Thylea, door Sydon én Lutheria samen bedacht, en stuurt hem naar de Lotus Witch op Scorpion Island.",
+     "soort": "boek",
+     "mijlpaal": "item"
     },
     {
      "h": "Ox",
-     "t": "Wees Versi's handout hem naar \"een toren in de zee\" (Praxys)? Dan zet Damon het spoor hier recht."
+     "t": "Wees Versi's handout hem naar \"een toren in de zee\" (Praxys)? Dan zet Damon het spoor hier recht.",
+     "soort": "boek"
     },
     {
      "h": "Wauros",
-     "t": "Damon is de stichter van de Academie van Mytros en de grootste wizard die Thylea voortbracht. Wauros' eerste echte wizardconfrontatie, en hij kan er niet omheen."
+     "t": "Damon is de stichter van de Academie van Mytros en de grootste wizard die Thylea voortbracht. Wauros' eerste echte wizardconfrontatie, en hij kan er niet omheen.",
+     "soort": "boek"
     }
    ],
    "dm": [
@@ -1784,7 +1876,8 @@
     "Damon spreekt niet (boek), maar moet Ox naar de Lotus Witch sturen. Kies hoe: runen in de rijp op de brugleuning, de gouden runen op zijn mantel die een kaart tonen, of een geschreven tablet uit zijn mantel."
    ],
    "bron": "Boek ch2 X2; ch1 Cursed One",
-   "ster": true
+   "ster": true,
+   "wanneer": "Bij het oversteken van de enige heel gebleven brug."
   },
   {
    "id": "x-ruines",
@@ -1808,7 +1901,8 @@
     "Curse of the Graverobber: magisch item uit een gewijd graf → kan niet eten; na Con-score dagen elke dag een level exhaustion. Het item keert om middernacht altijd terug. Greater restoration helpt, of iemand die het item willens en wetens aanneemt.",
     "De graven zijn optioneel en vaak te zwaar voor level 3. Uitgedroogde, verscheurde lijken bij de ingangen zijn de waarschuwing."
    ],
-   "bron": "Boek ch2 \"The Necropolis Ruins\""
+   "bron": "Boek ch2 \"The Necropolis Ruins\"",
+   "wanneer": "Zodra Damon de partij heeft doorgelaten."
   },
   {
    "id": "x3",
@@ -1833,10 +1927,12 @@
    "haken": [
     {
      "h": "Orelle",
-     "t": "Een vijandige undead: hij kiest haar."
+     "t": "Een vijandige undead: hij kiest haar.",
+     "soort": "boek"
     }
    ],
-   "bron": "Boek ch2 X3"
+   "bron": "Boek ch2 X3",
+   "wanneer": "Als de helden de plaat van X3 verschuiven (DC 25 Strength)."
   },
   {
    "id": "x4",
@@ -1856,7 +1952,8 @@
     "Breastplate +1 en short sword of quickness. GEWIJD: curse of the graverobber."
    ],
    "haken": [],
-   "bron": "Boek ch2 X4"
+   "bron": "Boek ch2 X4",
+   "wanneer": "Als de helden de plaat van X4 verschuiven (DC 25 Strength)."
   },
   {
    "id": "x5",
@@ -1874,14 +1971,17 @@
    "haken": [
     {
      "h": "Sirius",
-     "t": "Leeg: Estor werd nooit begraven. Hij is de kapitein van de Ultros, de man die de schat had."
+     "t": "Leeg: Estor werd nooit begraven. Hij is de kapitein van de Ultros, de man die de schat had.",
+     "soort": "boek"
     },
     {
      "h": "Dragini",
-     "t": "Voorstel: Estor is voor haar geen onbekende naam. De afgeslachte dryaden passen bij het verhaal van Demetria's zus."
+     "t": "Voorstel: Estor is voor haar geen onbekende naam. De afgeslachte dryaden passen bij het verhaal van Demetria's zus.",
+     "soort": "voorstel"
     }
    ],
-   "bron": "Boek ch2 X5"
+   "bron": "Boek ch2 X5",
+   "wanneer": "Als de helden de plaat van X5 verschuiven (DC 25 Strength)."
   },
   {
    "id": "x6",
@@ -1906,14 +2006,17 @@
    "haken": [
     {
      "h": "Dragini",
-     "t": "Voorstel: Rizon kwam met Xander over zee en was zijn rivale. Dragini kan haar gekend hebben."
+     "t": "Voorstel: Rizon kwam met Xander over zee en was zijn rivale. Dragini kan haar gekend hebben.",
+     "soort": "voorstel"
     },
     {
      "h": "Orelle",
-     "t": "Undead: zij is het doelwit."
+     "t": "Undead: zij is het doelwit.",
+     "soort": "boek"
     }
    ],
-   "bron": "Boek ch2 X6"
+   "bron": "Boek ch2 X6",
+   "wanneer": "Als de helden de plaat van X6 verschuiven (DC 25 Strength)."
   },
   {
    "id": "x7",
@@ -1936,7 +2039,8 @@
     "Adamantine breastplate en shield, 500 gp elk. NIET gewijd."
    ],
    "haken": [],
-   "bron": "Boek ch2 X7"
+   "bron": "Boek ch2 X7",
+   "wanneer": "Als de helden de plaat van X7 verschuiven (DC 25 Strength)."
   },
   {
    "id": "x8",
@@ -1959,7 +2063,8 @@
     "Decoratieve breastplate en shield (zilver, goud, platina), nutteloos in een gevecht: 2.500 gp elk. NIET gewijd."
    ],
    "haken": [],
-   "bron": "Boek ch2 X8"
+   "bron": "Boek ch2 X8",
+   "wanneer": "Als de helden de plaat van X8 verschuiven (DC 25 Strength)."
   },
   {
    "id": "x9",
@@ -1985,7 +2090,8 @@
     "Halsketting 1.000 gp, vijf ringen à 200 gp, staff of charming. GEWIJD: de staf geeft de curse."
    ],
    "haken": [],
-   "bron": "Boek ch2 X9"
+   "bron": "Boek ch2 X9",
+   "wanneer": "Als de helden de plaat van X9 verschuiven: het alarm gaat meteen af."
   },
   {
    "id": "x10",
@@ -2003,10 +2109,12 @@
    "haken": [
     {
      "h": "Sirius",
-     "t": "De Arkelander-lijn: Estor → Lysis → … → Acastus."
+     "t": "De Arkelander-lijn: Estor → Lysis → … → Acastus.",
+     "soort": "boek"
     }
    ],
-   "bron": "Boek ch2 X10"
+   "bron": "Boek ch2 X10",
+   "wanneer": "Als de helden de plaat van X10 verschuiven (DC 25 Strength)."
   },
   {
    "id": "x11",
@@ -2031,10 +2139,12 @@
    "haken": [
     {
      "h": "Kyrenos",
-     "t": "Voorstel: Ochos versloeg centauren. Het graf van een held is het graf van een vijand van zijn volk."
+     "t": "Voorstel: Ochos versloeg centauren. Het graf van een held is het graf van een vijand van zijn volk.",
+     "soort": "voorstel"
     }
    ],
-   "bron": "Boek ch2 X11"
+   "bron": "Boek ch2 X11",
+   "wanneer": "Als de helden de plaat van X11 verschuiven (DC 25 Strength)."
   },
   {
    "id": "x12",
@@ -2050,7 +2160,8 @@
    "vijanden": [],
    "buit": [],
    "haken": [],
-   "bron": "Boek ch2 X12"
+   "bron": "Boek ch2 X12",
+   "wanneer": "Als de helden de plaat van X12 verschuiven (staat op een kier)."
   },
   {
    "id": "x13",
@@ -2068,10 +2179,12 @@
    "haken": [
     {
      "h": "Sirius",
-     "t": "Voorstel: een Dragonlord die op zee verdween. Een lotgenoot van een ander soort."
+     "t": "Voorstel: een Dragonlord die op zee verdween. Een lotgenoot van een ander soort.",
+     "soort": "voorstel"
     }
    ],
-   "bron": "Boek ch2 X13"
+   "bron": "Boek ch2 X13",
+   "wanneer": "Bij het binnenlopen van X13 (geen plaat, geen zuilen)."
   },
   {
    "id": "x14",
@@ -2091,14 +2204,17 @@
    "haken": [
     {
      "h": "Ox",
-     "t": "De Orde van Sydon modelleerde zich naar Nicholas: de oorsprong van de Orde waaraan Theron dient."
+     "t": "De Orde van Sydon modelleerde zich naar Nicholas: de oorsprong van de Orde waaraan Theron dient.",
+     "soort": "boek"
     },
     {
      "h": "Wauros",
-     "t": "Wie hier geteleporteerd wordt, staat voor Sydon: zijn grootvader."
+     "t": "Wie hier geteleporteerd wordt, staat voor Sydon: zijn grootvader.",
+     "soort": "boek"
     }
    ],
-   "bron": "Boek ch2 X14"
+   "bron": "Boek ch2 X14",
+   "wanneer": "Als de helden de plaat van X14 verschuiven (DC 25 Strength)."
   },
   {
    "id": "x15",
@@ -2117,14 +2233,17 @@
    "haken": [
     {
      "h": "Wauros",
-     "t": "Nephele op Praxys is een kloon uit het vlees van Balmytria. Voorstel: plant dat zaadje hier."
+     "t": "Nephele op Praxys is een kloon uit het vlees van Balmytria. Voorstel: plant dat zaadje hier.",
+     "soort": "boek"
     },
     {
      "h": "Dragini",
-     "t": "Voorstel: de mozaïeken tonen de aankomst van haar eigen generatie. Ze herkent gezichten."
+     "t": "Voorstel: de mozaïeken tonen de aankomst van haar eigen generatie. Ze herkent gezichten.",
+     "soort": "voorstel"
     }
    ],
-   "bron": "Boek ch2 X15"
+   "bron": "Boek ch2 X15",
+   "wanneer": "Bij het binnenlopen van het grote witte mausoleum."
   },
   {
    "id": "x16",
@@ -2140,7 +2259,8 @@
     "Vier kleinere graven ernaast (plaat: DC 25 Strength): Aetius, Pericles en Eustace, plus één leeg en naamloos graf, gebouwd voor Damon.",
     "In de drie graven: stalen breastplates, schilden en short swords, perfect bewaard, niet magisch."
    ],
-   "bron": "Boek ch2 X16"
+   "bron": "Boek ch2 X16",
+   "wanneer": "Bij het dertiende graf op de rotspunt, na de ruïnes."
   },
   {
    "id": "x17",
@@ -2157,14 +2277,17 @@
    "haken": [
     {
      "h": "Kyrenos",
-     "t": "Voorstel: de mozaïeken vieren de verovering van zijn volk."
+     "t": "Voorstel: de mozaïeken vieren de verovering van zijn volk.",
+     "soort": "voorstel"
     },
     {
      "h": "Ox",
-     "t": "Voorstel: idem voor de minotaurussen: de \"horned ones\" zijn zijn soort."
+     "t": "Voorstel: idem voor de minotaurussen: de \"horned ones\" zijn zijn soort.",
+     "soort": "voorstel"
     }
    ],
-   "bron": "Boek ch2 X17"
+   "bron": "Boek ch2 X17",
+   "wanneer": "Zodra de deur van Xanders graf open is."
   },
   {
    "id": "x18",
@@ -2207,10 +2330,12 @@
    "haken": [
     {
      "h": "Orelle",
-     "t": "Alle undead hier kiezen haar."
+     "t": "Alle undead hier kiezen haar.",
+     "soort": "boek"
     }
    ],
-   "bron": "Boek ch2 X18"
+   "bron": "Boek ch2 X18",
+   "wanneer": "Bij het afdalen van de trap achter de knielende minotaurus."
   },
   {
    "id": "x19",
@@ -2228,7 +2353,8 @@
      "noot": "Weathered bronze greataxes; verlaten het doolhof niet"
     }
    ],
-   "bron": "Boek ch2 X19"
+   "bron": "Boek ch2 X19",
+   "wanneer": "Bij binnenkomst in X19; de botten komen meteen tot leven."
   },
   {
    "id": "x20",
@@ -2253,7 +2379,8 @@
      "q": 1
     }
    ],
-   "bron": "Boek ch2 X20"
+   "bron": "Boek ch2 X20",
+   "wanneer": "Bij binnenkomst in de koepelzaal met de sarcofaag."
   },
   {
    "id": "x21",
@@ -2271,7 +2398,8 @@
    "buit": [
     "Zak: 600 cp, 254 sp, 115 gp en zes juwelen à 25 gp."
    ],
-   "bron": "Boek ch2 X21"
+   "bron": "Boek ch2 X21",
+   "wanneer": "Bij binnenkomst in het hol, of als de helden Graxis na een charge volgen."
   },
   {
    "id": "x22",
@@ -2297,10 +2425,12 @@
    "haken": [
     {
      "h": "Orelle",
-     "t": "Ze focussen haar."
+     "t": "Ze focussen haar.",
+     "soort": "boek"
     }
    ],
-   "bron": "Boek ch2 X22"
+   "bron": "Boek ch2 X22",
+   "wanneer": "Bij binnenkomst in X22; na twee rondes rijzen de skeletten op."
   },
   {
    "id": "x23",
@@ -2322,7 +2452,8 @@
    "buit": [
     "Tussen de verpletterde slachtoffers: 112 gp en 245 sp."
    ],
-   "bron": "Boek ch2 X23"
+   "bron": "Boek ch2 X23",
+   "wanneer": "Zodra er meer dan 300 pond in X23 staat."
   },
   {
    "id": "x24",
@@ -2383,15 +2514,20 @@
    "haken": [
     {
      "h": "Dragini",
-     "t": "Xander HERKENT haar en geeft haar een kroon. Eerste echte herinnering. Haar harnas ligt hier niet: Gaius heeft het, in zijn kamer op Yonder (Cloak of the Bat)."
+     "t": "Xander HERKENT haar en geeft haar een kroon. Eerste echte herinnering. Haar harnas ligt hier niet: Gaius heeft het, in zijn kamer op Yonder (Cloak of the Bat).",
+     "soort": "boek",
+     "mijlpaal": "item"
     },
     {
      "h": "Wauros",
-     "t": "TWEEDE KROON: het boek verdeelt ze zelf. Een kroon van de Dragonlords voor wie de orde moet doen herrijzen."
+     "t": "TWEEDE KROON: het boek verdeelt ze zelf. Een kroon van de Dragonlords voor wie de orde moet doen herrijzen.",
+     "soort": "boek",
+     "mijlpaal": "item"
     },
     {
      "h": "Ox",
-     "t": "Graxis komt uit een stam die Lutheria schiep en die Damon vervloekte. Voorstel: speel hem als spiegel van Ox' eigen vloek."
+     "t": "Graxis komt uit een stam die Lutheria schiep en die Damon vervloekte. Voorstel: speel hem als spiegel van Ox' eigen vloek.",
+     "soort": "boek"
     }
    ],
    "dm": [
@@ -2399,7 +2535,8 @@
     "Labour 3 voltooid. Telt mee voor de Madness of Lutheria (nachtmerrie na de tweede labour)."
    ],
    "bron": "Boek ch2 X24; ch1 Vanished One, Gifted One",
-   "ster": true
+   "ster": true,
+   "wanneer": "Bij binnenkomst in X24; Graxis komt zodra de sarcofaag opengaat."
   },
   {
    "id": "a1-nachtmerrie",
@@ -2417,11 +2554,13 @@
    "haken": [
     {
      "h": "Orelle",
-     "t": "Lutheria's stem, persoonlijk. Ze weet nu dat haar doem van Lutheria komt."
+     "t": "Lutheria's stem, persoonlijk. Ze weet nu dat haar doem van Lutheria komt.",
+     "soort": "boek"
     },
     {
      "h": "Apollodorus",
-     "t": "Voorstel: een stem die vergeten aanprijst, tegen iemand wiens bestaan uitgewist is."
+     "t": "Voorstel: een stem die vergeten aanprijst, tegen iemand wiens bestaan uitgewist is.",
+     "soort": "voorstel"
     }
    ],
    "open": [
@@ -2459,7 +2598,8 @@
    "haken": [
     {
      "h": "Apollodorus",
-     "t": "De \"nieuwe Dragonlords\" van Acastus. Zijn troonaanspraak wordt vanaf hier een probleem voor de koning."
+     "t": "De \"nieuwe Dragonlords\" van Acastus. Zijn troonaanspraak wordt vanaf hier een probleem voor de koning.",
+     "soort": "boek"
     }
    ],
    "dm": [
@@ -2481,7 +2621,8 @@
     "Kaart naar de Ultros ontvangen"
    ],
    "haken": [],
-   "bron": "Tracker-boom (grof)"
+   "bron": "Tracker-boom (grof)",
+   "wanneer": "Bij aankomst in Mytros, in de troonzaal van Acastus."
   },
   {
    "id": "a2b",
@@ -2495,10 +2636,12 @@
    "haken": [
     {
      "h": "Wauros",
-     "t": "Neemt hem apart: de fortress ligt bij een draak in de Garden of Helios. Het geheime ei gaat naar hem."
+     "t": "Neemt hem apart: de fortress ligt bij een draak in de Garden of Helios. Het geheime ei gaat naar hem.",
+     "soort": "boek"
     }
    ],
-   "bron": "Tracker-boom (grof)"
+   "bron": "Tracker-boom (grof)",
+   "wanneer": "Na de audiëntie bij Acastus: Vallus vraagt de helden apart."
   },
   {
    "id": "a2c",
@@ -2512,14 +2655,17 @@
    "haken": [
     {
      "h": "Wauros",
-     "t": "Icarus is een zoon van Nephele. Zet dit klaar voor Act 4."
+     "t": "Icarus is een zoon van Nephele. Zet dit klaar voor Act 4.",
+     "soort": "boek"
     },
     {
      "h": "Apollodorus",
-     "t": "Als de troonaanspraak echt is, wordt hij vanaf Act 3 een probleem voor Acastus."
+     "t": "Als de troonaanspraak echt is, wordt hij vanaf Act 3 een probleem voor Acastus.",
+     "soort": "boek"
     }
    ],
-   "bron": "Tracker-boom (grof)"
+   "bron": "Tracker-boom (grof)",
+   "wanneer": "Tijdens het verblijf in Mytros, telkens als de helden aan het hof komen."
   },
   {
    "id": "a2d",
@@ -2535,22 +2681,27 @@
    "haken": [
     {
      "h": "Ox",
-     "t": "Zijn arena, en de cultus van zijn priester. Zet de oproep hier klaar."
+     "t": "Zijn arena, en de cultus van zijn priester. Zet de oproep hier klaar.",
+     "soort": "boek"
     },
     {
      "h": "Apollodorus",
-     "t": "De Academie: zijn eigen leermeesters plaatsen hem niet."
+     "t": "De Academie: zijn eigen leermeesters plaatsen hem niet.",
+     "soort": "boek"
     },
     {
      "h": "Wauros",
-     "t": "De gebeten student LEEFT en is nu meester. Zijn versie: \"een monster viel ons zonder aanleiding aan.\""
+     "t": "De gebeten student LEEFT en is nu meester. Zijn versie: \"een monster viel ons zonder aanleiding aan.\"",
+     "soort": "boek"
     },
     {
      "h": "Orelle",
-     "t": "Haar stad, haar haven."
+     "t": "Haar stad, haar haven.",
+     "soort": "boek"
     }
    ],
-   "bron": "Tracker-boom (grof)"
+   "bron": "Tracker-boom (grof)",
+   "wanneer": "Zodra de storm gaat liggen en de stad weer open is."
   },
   {
    "id": "a2e",
@@ -2564,14 +2715,17 @@
    "haken": [
     {
      "h": "Sirius",
-     "t": "DE DEAL: Estor wijst de schat in de Nether Sea aan, mits hij eerste keuze krijgt (xiphos of slaughter). Zonder eed geen route."
+     "t": "DE DEAL: Estor wijst de schat in de Nether Sea aan, mits hij eerste keuze krijgt (xiphos of slaughter). Zonder eed geen route.",
+     "soort": "boek"
     },
     {
      "h": "Dragini",
-     "t": "Estor was Versi's andere minnaar, 500 jaar geleden."
+     "t": "Estor was Versi's andere minnaar, 500 jaar geleden.",
+     "soort": "boek"
     }
    ],
-   "bron": "Tracker-boom (grof)"
+   "bron": "Tracker-boom (grof)",
+   "wanneer": "Met de kaart van Acastus, bij de Dead Falls."
   },
   {
    "id": "a2f",
@@ -2588,14 +2742,17 @@
    "haken": [
     {
      "h": "Sirius",
-     "t": "De Antikythera kan door een gygan-smid (Steros/Bront/Garzoon) omgebouwd worden tot kompas naar buiten Thylea."
+     "t": "De Antikythera kan door een gygan-smid (Steros/Bront/Garzoon) omgebouwd worden tot kompas naar buiten Thylea.",
+     "soort": "boek"
     },
     {
      "h": "Wauros",
-     "t": "Vallus geeft het geheime drakenei aan Kyrah — wijs het aan hem toe. NIET het brass ei op Fire Island: dat is canon van Dragini."
+     "t": "Vallus geeft het geheime drakenei aan Kyrah — wijs het aan hem toe. NIET het brass ei op Fire Island: dat is canon van Dragini.",
+     "soort": "boek"
     }
    ],
-   "bron": "Tracker-boom (grof)"
+   "bron": "Tracker-boom (grof)",
+   "wanneer": "Na het opeisen van de Ultros, terug in Mytros."
   },
   {
    "id": "a2g",
@@ -2607,7 +2764,8 @@
    "kern": "Vanaf hier telt elke zeedag. Drie dagen varen tussen eilanden. Laat Kyrah aftellen; op dag 50 wordt ze gejaagd.",
    "doen": [],
    "haken": [],
-   "bron": "Tracker-boom (grof)"
+   "bron": "Tracker-boom (grof)",
+   "wanneer": "Bij het uitvaren met de Ultros na het feest."
   },
   {
    "id": "a3a",
@@ -2627,18 +2785,24 @@
    "haken": [
     {
      "h": "Kyrenos",
-     "t": "GREATER ITEM HIER: Chondrus draagt de Dragonslayer (wapen naar keuze) en biedt het aan als deel van zijn koopje. Argyn is Gaius' rijdier en verdorven — een gevecht, niet zijn taak."
+     "t": "GREATER ITEM HIER: Chondrus draagt de Dragonslayer (wapen naar keuze) en biedt het aan als deel van zijn koopje. Argyn is Gaius' rijdier en verdorven — een gevecht, niet zijn taak.",
+     "soort": "boek",
+     "mijlpaal": "item"
     },
     {
      "h": "Dragini",
-     "t": "HARNAS HIER: Cloak of the Bat, in de kamer van Gaius. Ze verandert ermee in een pseudodraak, niet in een vleermuis."
+     "t": "HARNAS HIER: Cloak of the Bat, in de kamer van Gaius. Ze verandert ermee in een pseudodraak, niet in een vleermuis.",
+     "soort": "boek",
+     "mijlpaal": "item"
     },
     {
      "h": "Sirius",
-     "t": "LOTGENOOT HIER: Mikhael in de cellen, laatste overlevende van een luchtschip-expeditie die wél voorbij de Forgotten Sea raakte. Het levende bewijs dat de weg naar huis bestaat."
+     "t": "LOTGENOOT HIER: Mikhael in de cellen, laatste overlevende van een luchtschip-expeditie die wél voorbij de Forgotten Sea raakte. Het levende bewijs dat de weg naar huis bestaat.",
+     "soort": "boek"
     }
    ],
-   "bron": "Tracker-boom (grof)"
+   "bron": "Tracker-boom (grof)",
+   "wanneer": "Wanneer de Antikythera de weg naar Yonder wijst."
   },
   {
    "id": "a3c",
@@ -2657,26 +2821,32 @@
    "haken": [
     {
      "h": "Orelle",
-     "t": "Volledige geboorteprofetie: Lutheria liet haar ouders afslachten en beval eindeloze kwelling — als grap. Ze moet DRIE KEER STERVEN. + het weefgetouw maakt hier haar Breastplate of Invulnerability."
+     "t": "Volledige geboorteprofetie: Lutheria liet haar ouders afslachten en beval eindeloze kwelling — als grap. Ze moet DRIE KEER STERVEN. + het weefgetouw maakt hier haar Breastplate of Invulnerability.",
+     "soort": "boek"
     },
     {
      "h": "Apollodorus",
-     "t": "Lutheria joeg hem op (\"zou de macht van de dood breken\"); MYTROS wiste hem om hem te redden. Zielen zitten in de zeis."
+     "t": "Lutheria joeg hem op (\"zou de macht van de dood breken\"); MYTROS wiste hem om hem te redden. Zielen zitten in de zeis.",
+     "soort": "boek"
     },
     {
      "h": "Kyrenos",
-     "t": "CANON: zoek de Zonnegod onder het sterrenbeeld DE WAGEN. Hij helpt je de wraak vinden die je zoekt."
+     "t": "CANON: zoek de Zonnegod onder het sterrenbeeld DE WAGEN. Hij helpt je de wraak vinden die je zoekt.",
+     "soort": "boek"
     },
     {
      "h": "Ox",
-     "t": "De Fates zien de vloek van zijn volk als lotsbeschikking, niet als ongeluk."
+     "t": "De Fates zien de vloek van zijn volk als lotsbeschikking, niet als ongeluk.",
+     "soort": "boek"
     },
     {
      "h": "Wauros",
-     "t": "Eén zin over de brandende achterpoten — leest achteraf als voorspelling."
+     "t": "Eén zin over de brandende achterpoten — leest achteraf als voorspelling.",
+     "soort": "boek"
     }
    ],
-   "bron": "Tracker-boom (grof)"
+   "bron": "Tracker-boom (grof)",
+   "wanneer": "Bij aankomst op het Island of the Fates."
   },
   {
    "id": "a3d",
@@ -2690,14 +2860,18 @@
    "haken": [
     {
      "h": "Apollodorus",
-     "t": "GREATER ITEM HIER: Koningin Thesilea draagt de Dancing Sword — daarin zit de ziel van de stichter van zijn familie. Attunen = de stemmen worden luider en wijzen naar de Fates."
+     "t": "GREATER ITEM HIER: Koningin Thesilea draagt de Dancing Sword — daarin zit de ziel van de stichter van zijn familie. Attunen = de stemmen worden luider en wijzen naar de Fates.",
+     "soort": "boek",
+     "mijlpaal": "item"
     },
     {
      "h": "Sirius",
-     "t": "De stimfay-bouwers: levend gyganisch vakmanschap, geen ruïne."
+     "t": "De stimfay-bouwers: levend gyganisch vakmanschap, geen ruïne.",
+     "soort": "boek"
     }
    ],
-   "bron": "Tracker-boom (grof)"
+   "bron": "Tracker-boom (grof)",
+   "wanneer": "Bij aankomst op het Island of Themis."
   },
   {
    "id": "a3b",
@@ -2711,18 +2885,22 @@
    "haken": [
     {
      "h": "Sirius",
-     "t": "Zijn bemanning ligt hier verspreid. Suggestie: één bij de Barbarians, één gevangen op Yonder, één dood."
+     "t": "Zijn bemanning ligt hier verspreid. Suggestie: één bij de Barbarians, één gevangen op Yonder, één dood.",
+     "soort": "boek"
     },
     {
      "h": "Dragini",
-     "t": "Het brass drakenei op Fire Island (V15) — canon expliciet van haar."
+     "t": "Het brass drakenei op Fire Island (V15) — canon expliciet van haar.",
+     "soort": "boek"
     },
     {
      "h": "Ox",
-     "t": "SCORPION ISLAND: de Lotuswitch. Zie eigen knoop hieronder."
+     "t": "SCORPION ISLAND: de Lotuswitch. Zie eigen knoop hieronder.",
+     "soort": "boek"
     }
    ],
-   "bron": "Tracker-boom (grof)"
+   "bron": "Tracker-boom (grof)",
+   "wanneer": "Tijdens het eilandhoppen in de Cerulean Gulf."
   },
   {
    "id": "a3h",
@@ -2740,14 +2918,18 @@
    "haken": [
     {
      "h": "Kyrenos",
-     "t": "ZIJN DOELWIT. De Fates vertelden Helios dat iemand uit Kyrenos' dorp hem zou doden — dus verbrandde hij het dorp. Hij wacht al jaren op hem. Adara stierf omdat Helios zichzelf wilde redden."
+     "t": "ZIJN DOELWIT. De Fates vertelden Helios dat iemand uit Kyrenos' dorp hem zou doden — dus verbrandde hij het dorp. Hij wacht al jaren op hem. Adara stierf omdat Helios zichzelf wilde redden.",
+     "soort": "boek",
+     "mijlpaal": "sleutel"
     },
     {
      "h": "Wauros",
-     "t": "Fortress of the Dragonlords = heroic task 1. De nieuwe orde heeft een zetel nodig."
+     "t": "Fortress of the Dragonlords = heroic task 1. De nieuwe orde heeft een zetel nodig.",
+     "soort": "boek"
     }
    ],
-   "bron": "Tracker-boom (grof)"
+   "bron": "Tracker-boom (grof)",
+   "wanneer": "Bij aankomst in de Garden of Helios (Forgotten Sea)."
   },
   {
    "id": "a3i",
@@ -2764,14 +2946,18 @@
    "haken": [
     {
      "h": "Ox",
-     "t": "GREATER ITEM HIER: Belt of Fire Giant Strength (met resistance tegen vuur — precies wat hij op Typhon nodig heeft). Zij onthult dat de vloek op TYPHON ISLAND ontstaat."
+     "t": "GREATER ITEM HIER: Belt of Fire Giant Strength (met resistance tegen vuur — precies wat hij op Typhon nodig heeft). Zij onthult dat de vloek op TYPHON ISLAND ontstaat.",
+     "soort": "boek",
+     "mijlpaal": "item"
     },
     {
      "h": "Orelle",
-     "t": "Eén van haar canon-voorbeeldvragen luidt: \"Wat gebeurde er met de Stad van de Sirenen?\" Laat die vraag vallen waar Indy bij zit."
+     "t": "Eén van haar canon-voorbeeldvragen luidt: \"Wat gebeurde er met de Stad van de Sirenen?\" Laat die vraag vallen waar Indy bij zit.",
+     "soort": "boek"
     }
    ],
-   "bron": "Tracker-boom (grof)"
+   "bron": "Tracker-boom (grof)",
+   "wanneer": "Bij aankomst op Scorpion Island."
   },
   {
    "id": "a3j",
@@ -2789,10 +2975,13 @@
    "haken": [
     {
      "h": "Ox",
-     "t": "EINDE VAN ZIJN BOOG. Een oude man, bewaakt door een volwassen cerberus. Hij beledigde de Titanen; dit was de straf. De cerberus zegt dat hem doden de enige weg is. HIJ VERDEDIGT ZICH NIET. Doodt Ox hem, dan wordt het lijk verslonden en is de Oath of Service aan Theron gebroken — de minotaurusvloek zelf blijft. ALTERNATIEF (nooit uitleggen, moet ontdekt worden): beide Titanen doden breekt de eed ook én bevrijdt de voorouder."
+     "t": "EINDE VAN ZIJN BOOG. Een oude man, bewaakt door een volwassen cerberus. Hij beledigde de Titanen; dit was de straf. De cerberus zegt dat hem doden de enige weg is. HIJ VERDEDIGT ZICH NIET. Doodt Ox hem, dan wordt het lijk verslonden en is de Oath of Service aan Theron gebroken — de minotaurusvloek zelf blijft. ALTERNATIEF (nooit uitleggen, moet ontdekt worden): beide Titanen doden breekt de eed ook én bevrijdt de voorouder.",
+     "soort": "boek",
+     "mijlpaal": "sleutel"
     }
    ],
-   "bron": "Tracker-boom (grof)"
+   "bron": "Tracker-boom (grof)",
+   "wanneer": "Bij aankomst op Typhon Island, met het artefact van de Lotuswitch."
   },
   {
    "id": "a3e",
@@ -2804,7 +2993,8 @@
    "kern": "Groene draak die Pythors geliefden een voor een wegnam. Houdt Ophea gevangen. VRIJGEKOMEN — hangt aan geen spelersblad meer.",
    "doen": [],
    "haken": [],
-   "bron": "Tracker-boom (grof)"
+   "bron": "Tracker-boom (grof)",
+   "wanneer": "Alleen als de partij koers zet naar het Island of the Dragon."
   },
   {
    "id": "a3f",
@@ -2821,18 +3011,23 @@
    "haken": [
     {
      "h": "Wauros",
-     "t": "GROOTSTE PAYOFF. Medaillon breken = grootmoeders ziel in Nephele. Zij is de moeder van Argyn én Icarus. Sydon herkent hem."
+     "t": "GROOTSTE PAYOFF. Medaillon breken = grootmoeders ziel in Nephele. Zij is de moeder van Argyn én Icarus. Sydon herkent hem.",
+     "soort": "boek",
+     "mijlpaal": "sleutel"
     },
     {
      "h": "Ox",
-     "t": "Sydon bedacht de vloek samen met Lutheria — maar de vloek breken gebeurt op Typhon, niet hier. Wel: beide Titanen doden is de tweede, verzwegen weg."
+     "t": "Sydon bedacht de vloek samen met Lutheria — maar de vloek breken gebeurt op Typhon, niet hier. Wel: beide Titanen doden is de tweede, verzwegen weg.",
+     "soort": "boek"
     },
     {
      "h": "Orelle",
-     "t": "Haar eigen bloedlijn, en hij weet het. Zij en Wauros staan hier als familie."
+     "t": "Haar eigen bloedlijn, en hij weet het. Zij en Wauros staan hier als familie.",
+     "soort": "boek"
     }
    ],
-   "bron": "Tracker-boom (grof)"
+   "bron": "Tracker-boom (grof)",
+   "wanneer": "Bij aankomst aan Praxys, de toren van Sydon."
   },
   {
    "id": "a3g",
@@ -2850,22 +3045,30 @@
    "haken": [
     {
      "h": "Apollodorus",
-     "t": "Zij richt alles op hem. Zeis breken = familie vrij + de wereld herinnert zich hen weer. EINDE VAN ZIJN BOOG."
+     "t": "Zij richt alles op hem. Zeis breken = familie vrij + de wereld herinnert zich hen weer. EINDE VAN ZIJN BOOG.",
+     "soort": "boek",
+     "mijlpaal": "sleutel"
     },
     {
      "h": "Orelle",
-     "t": "HAAR DOEM IN PERSOON. Lutheria doet één ronde niets van het lachen om alle zinloze ellende die ze haar aandeed. Haar dood heft de limiet op de derde dood op."
+     "t": "HAAR DOEM IN PERSOON. Lutheria doet één ronde niets van het lachen om alle zinloze ellende die ze haar aandeed. Haar dood heft de limiet op de derde dood op.",
+     "soort": "boek",
+     "mijlpaal": "sleutel"
     },
     {
      "h": "Sirius",
-     "t": "SCHAT HIER: Gem of Seeing, plus 3 edelstenen à 10.000 gp, 2.000 pp en 10.000 gp. Estor neemt eerst de xiphos of slaughter. Bewaakt door Hezzebal."
+     "t": "SCHAT HIER: Gem of Seeing, plus 3 edelstenen à 10.000 gp, 2.000 pp en 10.000 gp. Estor neemt eerst de xiphos of slaughter. Bewaakt door Hezzebal.",
+     "soort": "boek",
+     "mijlpaal": "item"
     },
     {
      "h": "Dragini",
-     "t": "Hezzebal geeft haar persoonlijk de schuld van zijn eeuwenlange opsluiting."
+     "t": "Hezzebal geeft haar persoonlijk de schuld van zijn eeuwenlange opsluiting.",
+     "soort": "boek"
     }
    ],
-   "bron": "Tracker-boom (grof)"
+   "bron": "Tracker-boom (grof)",
+   "wanneer": "Bij het binnenvaren van de Nether Sea."
   },
   {
    "id": "a4a",
@@ -2879,10 +3082,12 @@
    "haken": [
     {
      "h": "Kyrenos",
-     "t": "De omkering van zijn hele eed. Alles waarop hij zwoer blijkt draak."
+     "t": "De omkering van zijn hele eed. Alles waarop hij zwoer blijkt draak.",
+     "soort": "boek"
     }
    ],
-   "bron": "Tracker-boom (grof)"
+   "bron": "Tracker-boom (grof)",
+   "wanneer": "Bij de terugkeer in Mytros na de grote reis."
   },
   {
    "id": "a4e",
@@ -2896,14 +3101,17 @@
    "haken": [
     {
      "h": "Kyrenos",
-     "t": "Sluit de cirkel die in Act 1 begon met een gestolen hoorn."
+     "t": "Sluit de cirkel die in Act 1 begon met een gestolen hoorn.",
+     "soort": "boek"
     },
     {
      "h": "Wauros",
-     "t": "Zijn eigen draak, uit Vallus' ei, vliegt hier voor het eerst de oorlog in."
+     "t": "Zijn eigen draak, uit Vallus' ei, vliegt hier voor het eerst de oorlog in.",
+     "soort": "boek"
     }
    ],
-   "bron": "Tracker-boom (grof)"
+   "bron": "Tracker-boom (grof)",
+   "wanneer": "Zodra een held zijn draak bindt met de Oath of the Dragonlord."
   },
   {
    "id": "a4b",
@@ -2917,18 +3125,22 @@
    "haken": [
     {
      "h": "Wauros",
-     "t": "Icarus is Nephele's zoon. Als hij haar bevrijdde, staat hij tegenover haar kind."
+     "t": "Icarus is Nephele's zoon. Als hij haar bevrijdde, staat hij tegenover haar kind.",
+     "soort": "boek"
     },
     {
      "h": "Kyrenos",
-     "t": "Broer van Argyn. Conflict 1 is voor hem en Wauros samen een familiekwestie."
+     "t": "Broer van Argyn. Conflict 1 is voor hem en Wauros samen een familiekwestie.",
+     "soort": "boek"
     },
     {
      "h": "Apollodorus",
-     "t": "Als de zeis gebroken is, herinnert de wereld zijn familie. Laat iemand hem bij zijn echte naam noemen."
+     "t": "Als de zeis gebroken is, herinnert de wereld zijn familie. Laat iemand hem bij zijn echte naam noemen.",
+     "soort": "boek"
     }
    ],
-   "bron": "Tracker-boom (grof)"
+   "bron": "Tracker-boom (grof)",
+   "wanneer": "Wanneer Acastus Icarus inzet tegen de Titanen."
   },
   {
    "id": "a4c",
@@ -2942,18 +3154,22 @@
    "haken": [
     {
      "h": "Orelle",
-     "t": "Haar stad brandt. Kentimane is NIET langer haar doem — dat is Lutheria zelf."
+     "t": "Haar stad brandt. Kentimane is NIET langer haar doem — dat is Lutheria zelf.",
+     "soort": "boek"
     },
     {
      "h": "Sirius",
-     "t": "Kentimane staat los van Smash: diens herkomst komt van Hezzebal (Nether Sea)."
+     "t": "Kentimane staat los van Smash: diens herkomst komt van Hezzebal (Nether Sea).",
+     "soort": "boek"
     },
     {
      "h": "Ox",
-     "t": "Zijn arena brandt."
+     "t": "Zijn arena brandt.",
+     "soort": "boek"
     }
    ],
-   "bron": "Tracker-boom (grof)"
+   "bron": "Tracker-boom (grof)",
+   "wanneer": "Bij de aanval van de Titanen op Mytros."
   },
   {
    "id": "a4d",
@@ -2965,7 +3181,8 @@
    "kern": "Titanen verslagen. Nieuwe eden van de overlevende Titanen, en van de helden zelf aan de stad.",
    "doen": [],
    "haken": [],
-   "bron": "Tracker-boom (grof)"
+   "bron": "Tracker-boom (grof)",
+   "wanneer": "Na de slag om Mytros."
   },
   {
    "id": "a5e",
@@ -2977,7 +3194,8 @@
    "kern": "Mytros herbouwd, nieuwe nederzettingen met elk een held als beschermheer. De orde van de Dragonlords als vredeshandhavers. Vraag elke speler wat hun personage deed.",
    "doen": [],
    "haken": [],
-   "bron": "Tracker-boom (grof)"
+   "bron": "Tracker-boom (grof)",
+   "wanneer": "In de jaren na de slag."
   },
   {
    "id": "a5a",
@@ -2989,7 +3207,8 @@
    "kern": "Ekoh komt met het verzoek. Narsus is 500 jaar gevangene van Queen Calliope in Aresia. Hij weet welk pad een sterveling naar goddelijkheid voert.",
    "doen": [],
    "haken": [],
-   "bron": "Tracker-boom (grof)"
+   "bron": "Tracker-boom (grof)",
+   "wanneer": "Bij het begin van Akte 5."
   },
   {
    "id": "a5b",
@@ -3003,10 +3222,12 @@
    "haken": [
     {
      "h": "Ox",
-     "t": "Aresia ligt naast het voorouderlijke doolhof van zijn volk."
+     "t": "Aresia ligt naast het voorouderlijke doolhof van zijn volk.",
+     "soort": "boek"
     }
    ],
-   "bron": "Tracker-boom (grof)"
+   "bron": "Tracker-boom (grof)",
+   "wanneer": "Bij aankomst bij Aresia."
   },
   {
    "id": "a5c",
@@ -3024,10 +3245,12 @@
    "haken": [
     {
      "h": "Orelle",
-     "t": "Het Verzonken Koninkrijk IS haar verloren sirenenstad."
+     "t": "Het Verzonken Koninkrijk IS haar verloren sirenenstad.",
+     "soort": "boek"
     }
    ],
-   "bron": "Tracker-boom (grof)"
+   "bron": "Tracker-boom (grof)",
+   "wanneer": "Na Aresia, op zoek naar de drie goddelijke artefacten."
   },
   {
    "id": "a5d",
@@ -3045,22 +3268,27 @@
    "haken": [
     {
      "h": "Sirius",
-     "t": "Theogenesis is zijn enige weg naar huis."
+     "t": "Theogenesis is zijn enige weg naar huis.",
+     "soort": "boek"
     },
     {
      "h": "Wauros",
-     "t": "Hier landt zijn eerste heroic task: een orde die het land bewaakt in plaats van opeet."
+     "t": "Hier landt zijn eerste heroic task: een orde die het land bewaakt in plaats van opeet.",
+     "soort": "boek"
     },
     {
      "h": "Kyrenos",
-     "t": "Als de draken hun ruiters dragen, sterft de orde niet meer uit. Dat was zijn eed."
+     "t": "Als de draken hun ruiters dragen, sterft de orde niet meer uit. Dat was zijn eed.",
+     "soort": "boek"
     },
     {
      "h": "Dragini",
-     "t": "En dan is er nog de eed van terugkeer. Versi heeft geen haast, maar vergeet niets."
+     "t": "En dan is er nog de eed van terugkeer. Versi heeft geen haast, maar vergeet niets.",
+     "soort": "boek"
     }
    ],
-   "bron": "Tracker-boom (grof)"
+   "bron": "Tracker-boom (grof)",
+   "wanneer": "Als de Apokalypsis begint."
   }
  ]
 }
