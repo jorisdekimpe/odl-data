@@ -1,8 +1,8 @@
 {
  "meta": {
   "titel": "De Zeven — verhaalstroom",
-  "stand": "Na sessie 6 (25/10): Labour 1 klaar, party level 3.",
-  "bijgewerkt": "2026-10-26",
+  "stand": "Na sessie 6 (25/10, recap verwerkt 27/10): Labour 1 klaar, party level 3, terug in Estoria.",
+  "bijgewerkt": "2026-10-27",
   "versie": 1
  },
  "spelers": [
@@ -333,9 +333,10 @@
    "waar": "Oldwood",
    "status": "klaar",
    "type": "kerker",
-   "kern": "Sessies 4–6. Corinna gered, Herkus gevangen (eekhoorn op Apollodorus' schouder), Sostrate gered, Loreus vertelde Demetria's verhaal, maenads verslagen. Finale: Kyrenos doodde Demetria en nam de Shortbow of Cupidity. Een van de meisjes stierf (door de gygan). Ritual Tome verbrand. Uit de Hoorn gedronken: visioen van een wijde zee en een bronzen toestel dat een sterrenbeeld weerspiegelt.",
+   "kern": "Sessies 4–6. Corinna gered, Herkus gevangen (eekhoorn op Apollodorus' schouder), Sostrates gered, Loreus vertelde Demetria's verhaal, maenads verslagen. Finale: Demetria lekte Orelles halve doem en herkende Dragini; Sirius werd voor het eerst Smash; Kyrenos doodde Demetria en nam de Shortbow of Cupidity. Een van de meisjes stierf (door de gygan); de gygan liet de party daarna gaan. Apollodorus nam Demetria's ring (Ring of Protection). Ritual Tome verbrand. Zeventien jongeren mee naar Estoria.",
    "open": [
-    "Nog te bevestigen: lot van de gygan en de drie overige meisjes; de vier slapende tieners in T13 en de acht in de Madon-grot; of de Ring of Protection (Apollodorus) gevonden is."
+    "Apollodorus' attunement aan de ring (familiestemmen, Clovis het luidst) is nog niet gespeeld.",
+    "De gygan leeft en is vertrokken: optioneel later terug te brengen."
    ],
    "bron": "campaign.json sessies 4–6",
    "wanneer": "Na het volgen van het wijnspoor het Oldwood in (sessies 4–6)."
@@ -347,12 +348,9 @@
    "waar": "E7 Dragon Shrine",
    "status": "klaar",
    "type": "sociaal",
-   "kern": "Sessie 6. Aesop vertelde over Telamok en Damon en gaf de burnished dragonlord coin voor de brugwachter, met de waarschuwing de praalgraven met rust te laten. Daarna long rest, inkopen en armor/wapen-upgrades bij de smid. Party naar level 3.",
-   "open": [
-    "Heeft Aesop de eed gevraagd om de Hoorn naar Queen Vallus in Mytros te brengen (en gewaarschuwd voor Acastus)? Zo niet: inhalen bij het volgende bezoek."
-   ],
+   "kern": "Sessie 6. Uit de Hoorn gedronken: een galei met dode roeiers en een bronzen toestel dat de sterrenhemel weerspiegelt. Aesop duidde het als de Ultros en de Antikythera en vermoedt dat Acastus van de Ultros weet. Hij vroeg de Hoorn in Mytros aan Queen Vallus te geven, niet aan Acastus, vertelde over Damon en gaf de burnished dragonlord coin, en vroeg het graf van Adonis Neurdagon met rust te laten. Daarna long rest, inkopen en armor/wapen-upgrades. Party naar level 3.",
    "dm": [
-    "De Droom is canon de Ultros (galei, dode roeiers) + de Antikythera. Kyrah, Aesop of Proteus kunnen hem duiden: twee nieuwe Labors."
+    "De Droom is canon de Ultros + de Antikythera; Aesop heeft hem al geduid. Wie de Hoorn wel aan Acastus geeft, speelt hem een machtssymbool in handen."
    ],
    "bron": "Boek ch2 E7 \"Returning the Horn\"; campaign.json sessie 6",
    "wanneer": "Zodra de Hoorn terug in Estoria is (sessie 6)."
@@ -364,7 +362,7 @@
    "waar": "E13 Estorian Vineyards",
    "status": "nu",
    "type": "sociaal",
-   "wanneer": "Zodra Corinna (en Sostrate) uit het Oldwood terug zijn.",
+   "wanneer": "Corinna en Sostrates zijn sinds sessie 6 terug in Estoria; de scène met Thericles is nog niet gespeeld.",
    "kern": "Thericles (NG scout), oud-verkenner van de koning, leeft met zijn man aan de rand van de stad. Hij zocht Corinna al een week. Brengen de helden haar thuis, dan is hij uitzinnig van vreugde en geeft hij zijn familie-erfstuk.",
    "zeg": [
     "Thericles is niet rijk, maar hij geeft graag zijn erfstuk: een javelin of lightning.",
@@ -409,9 +407,9 @@
     "Rizon, Cosmo en Nicholas Phobas liggen in Telamok (X6, X7, X14). Aesop noemt Thericles en Acastus de laatste echte erfgenamen van Rizon en Estor."
    ],
    "open": [
-    "Thericles: boek en tracker zeggen wijnboer, de recap en de spelersapp zeggen \"tavern owner\". Kies één versie."
+    "Thericles: boek en tracker zeggen wijnboer, de recap (ook die van sessie 6) en de spelersapp zeggen \"tavern owner\". Kies één versie."
    ],
-   "bron": "Boek ch2 E13; sessies 4–5"
+   "bron": "Boek ch2 E13; sessies 4–6"
   },
   {
    "id": "a1-gaius-paleis",
@@ -1824,7 +1822,8 @@
    "type": "sociaal",
    "kern": "Een eenzaam skelet midden op de brug. Een gerafelde mantel met gouden runen langs de zomen verbergt het gezicht. Als de helden naderen, steekt het een benen hand uit, alsof het betaling verwacht.",
    "zeg": [
-    "Damon laat alleen door tegen één burnished dragonlord coin. De partij heeft die van Aesop."
+    "Damon laat alleen door tegen één burnished dragonlord coin. De partij heeft die van Aesop (Xander op de ene zijde, de Ultros op de andere).",
+    "Aesop zei: betalen, niet forceren, bedriegen of omheen gaan."
    ],
    "dialoog": [
     {
@@ -1953,7 +1952,10 @@
    ],
    "haken": [],
    "bron": "Boek ch2 X4",
-   "wanneer": "Als de helden de plaat van X4 verschuiven (DC 25 Strength)."
+   "wanneer": "Als de helden de plaat van X4 verschuiven (DC 25 Strength).",
+   "dm": [
+    "Aesop vroeg in sessie 6 uitdrukkelijk dit graf (zijn mentor) onaangeroerd te laten. Wie het toch opent, breekt een belofte aan hem."
+   ]
   },
   {
    "id": "x5",
@@ -3126,11 +3128,6 @@
     {
      "h": "Wauros",
      "t": "Icarus is Nephele's zoon. Als hij haar bevrijdde, staat hij tegenover haar kind.",
-     "soort": "boek"
-    },
-    {
-     "h": "Kyrenos",
-     "t": "Broer van Argyn. Conflict 1 is voor hem en Wauros samen een familiekwestie.",
      "soort": "boek"
     },
     {
