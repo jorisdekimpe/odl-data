@@ -1002,7 +1002,12 @@
       "p2": "open",
       "f-hukar": "optie"
     },
-    "chk": {}
+    "chk": {
+      "a1-thericles": {
+        "0": 1,
+        "1": 1
+      }
+    }
   },
   "buit": [
     {
