@@ -1053,6 +1053,26 @@
         "note": "Enkel als het escaleert; vechten om te overmeesteren"
       },
       {
+        "id": "pl_1",
+        "playerId": 1,
+        "name": "Indy (Orelle)",
+        "init": 20,
+        "hp": 20,
+        "maxHp": 20,
+        "isPlayer": true,
+        "active": true
+      },
+      {
+        "id": "pl_6",
+        "playerId": 6,
+        "name": "Jonas (Wauros)",
+        "init": 20,
+        "hp": 20,
+        "maxHp": 20,
+        "isPlayer": true,
+        "active": true
+      },
+      {
         "id": "1793641241016_p65nyf",
         "name": "Centaur 7",
         "base": "Centaur",
@@ -1071,6 +1091,16 @@
         "scene": "f-hukar",
         "sb": "centaur",
         "note": "Enkel als het escaleert; vechten om te overmeesteren"
+      },
+      {
+        "id": "pl_2",
+        "playerId": 2,
+        "name": "Tiebe (Kyrenos Dragonbane)",
+        "init": 16,
+        "hp": 20,
+        "maxHp": 20,
+        "isPlayer": true,
+        "active": true
       },
       {
         "id": "1793641241016_vpq3qr",
@@ -1093,6 +1123,16 @@
         "note": "Enkel als het escaleert; vechten om te overmeesteren"
       },
       {
+        "id": "pl_5",
+        "playerId": 5,
+        "name": "Jarne (Apollodorus)",
+        "init": 15,
+        "hp": 20,
+        "maxHp": 20,
+        "isPlayer": true,
+        "active": true
+      },
+      {
         "id": "1793641241016_llcu3u",
         "name": "Centaur 6",
         "base": "Centaur",
@@ -1111,6 +1151,36 @@
         "scene": "f-hukar",
         "sb": "centaur",
         "note": "Enkel als het escaleert; vechten om te overmeesteren"
+      },
+      {
+        "id": "pl_0",
+        "playerId": 0,
+        "name": "Laura (Ox)",
+        "init": 14,
+        "hp": 14,
+        "maxHp": 14,
+        "isPlayer": true,
+        "active": true
+      },
+      {
+        "id": "pl_4",
+        "playerId": 4,
+        "name": "Marthe (Dragini Led Vit)",
+        "init": 12,
+        "hp": 8,
+        "maxHp": 8,
+        "isPlayer": true,
+        "active": true
+      },
+      {
+        "id": "pl_3",
+        "playerId": 3,
+        "name": "Ruben (Dr. Sirius Reed / Smash)",
+        "init": 10,
+        "hp": 20,
+        "maxHp": 20,
+        "isPlayer": true,
+        "active": true
       },
       {
         "id": "1793641241016_ruapvw",
@@ -1233,8 +1303,8 @@
         "note": "Enkel als het escaleert; vechten om te overmeesteren"
       }
     ],
-    "current": -1,
-    "round": 0,
+    "current": 0,
+    "round": 1,
     "scene": "f-hukar"
   },
   "lvl": 3,
