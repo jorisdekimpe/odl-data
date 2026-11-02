@@ -1031,24 +1031,6 @@
         "scene": "a1-rots",
         "sb": "basilisk",
         "note": "Zwemmen 20 ft. Petrifying Gaze DC 12; ogen afwenden kan."
-      },
-      {
-        "id": "1793650085107_0.3696181237913869",
-        "name": "basilisk",
-        "init": 14,
-        "hp": 10,
-        "maxHp": 10,
-        "isPlayer": false,
-        "active": true
-      },
-      {
-        "id": "1793650113699_0.3800689406749215",
-        "name": "basilisk",
-        "init": 12,
-        "hp": 52,
-        "maxHp": 52,
-        "isPlayer": false,
-        "active": true
       }
     ],
     "current": -1,
