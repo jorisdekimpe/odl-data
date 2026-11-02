@@ -1073,7 +1073,7 @@
         "mod": -1,
         "dex": -1,
         "ac": 12,
-        "hp": 52,
+        "hp": 33,
         "maxHp": 52,
         "isPlayer": false,
         "active": true,
@@ -1145,7 +1145,7 @@
         "active": true
       }
     ],
-    "current": 1,
+    "current": 2,
     "round": 1,
     "scene": "f-hukar"
   },
