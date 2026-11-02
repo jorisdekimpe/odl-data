@@ -2,7 +2,7 @@
  "meta": {
   "titel": "De Zeven — verhaalstroom",
   "stand": "Na sessie 6 (25/10, recap verwerkt 27/10): Labour 1 klaar, party level 3, terug in Estoria.",
-  "bijgewerkt": "2026-10-27",
+  "bijgewerkt": "2026-11-02",
   "versie": 1
  },
  "spelers": [
@@ -339,7 +339,54 @@
     "De gygan leeft en is vertrokken: optioneel later terug te brengen."
    ],
    "bron": "campaign.json sessies 4–6",
-   "wanneer": "Na het volgen van het wijnspoor het Oldwood in (sessies 4–6)."
+   "wanneer": "Na het volgen van het wijnspoor het Oldwood in (sessies 4–6).",
+   "items": [
+    {
+     "n": "Horn of Balmytria",
+     "mi": "horn-of-balmytria",
+     "x": "T15 Feast Hall. Voor Queen Vallus in Mytros (eed aan Aesop).",
+     "id": "a1-mossy:horn-of-balmytria"
+    },
+    {
+     "n": "Shortbow of Cupidity",
+     "mi": "shortbow-of-cupidity",
+     "x": "Demetria droeg hem (T15).",
+     "id": "a1-mossy:shortbow-of-cupidity"
+    },
+    {
+     "n": "Demetria's ring (Ring of Protection)",
+     "mi": "ring-of-protection",
+     "x": "Apollodorus' lesser family artifact.",
+     "id": "a1-mossy:demetrias-ring-ring-of-protection"
+    },
+    {
+     "n": "Sieraden uit Demetria's kist",
+     "x": "T16: 2 kettingen à 100 gp, 4 ringen à 50 gp, 6 edelstenen à 50 gp (bij ons deels beschadigd, zie sessie 6).",
+     "id": "a1-mossy:sieraden-uit-demetrias-kist"
+    },
+    {
+     "n": "Madon-paddenstoelen",
+     "mi": "madon-fungus",
+     "x": "T9: genoeg voor 12 doses truth serum.",
+     "id": "a1-mossy:madon-paddenstoelen"
+    },
+    {
+     "n": "Sunril-bessen",
+     "mi": "sunril-berry",
+     "x": "T8: 30 bessen, bederven na 24 uur.",
+     "id": "a1-mossy:sunril-bessen"
+    },
+    {
+     "n": "Ethereum-planten en aconite",
+     "x": "T8: essence of ether en assassin's blood (12 doses elk, Poisoner's Kit nodig).",
+     "id": "a1-mossy:ethereum-planten-en-aconite"
+    },
+    {
+     "n": "Gebroken Dragonlord-schild (Estor)",
+     "x": "T3: oud bronzen schild, gebroken. Arcana voelde sterke magie maar kon de bron niet vinden. Bleef liggen.",
+     "id": "a1-mossy:gebroken-dragonlord-schild-estor"
+    }
+   ]
   },
   {
    "id": "a1-hoorn",
@@ -353,7 +400,15 @@
     "De Droom is canon de Ultros + de Antikythera; Aesop heeft hem al geduid. Wie de Hoorn wel aan Acastus geeft, speelt hem een machtssymbool in handen."
    ],
    "bron": "Boek ch2 E7 \"Returning the Horn\"; campaign.json sessie 6",
-   "wanneer": "Zodra de Hoorn terug in Estoria is (sessie 6)."
+   "wanneer": "Zodra de Hoorn terug in Estoria is (sessie 6).",
+   "items": [
+    {
+     "n": "Burnished Dragonlord Coin",
+     "mi": "burnished-dragonlord-coin",
+     "x": "Van Aesop: tol voor Damon in Telamok.",
+     "id": "a1-hoorn:burnished-dragonlord-coin"
+    }
+   ]
   },
   {
    "id": "a1-thericles",
@@ -409,7 +464,15 @@
    "open": [
     "Thericles: boek en tracker zeggen wijnboer, de recap (ook die van sessie 6) en de spelersapp zeggen \"tavern owner\". Kies één versie."
    ],
-   "bron": "Boek ch2 E13; sessies 4–6"
+   "bron": "Boek ch2 E13; sessies 4–6",
+   "items": [
+    {
+     "n": "Javelin of Lightning",
+     "mi": "javelin-of-lightning",
+     "x": "Thericles' familie-erfstuk, zodra Corinna veilig thuis is.",
+     "id": "a1-thericles:javelin-of-lightning"
+    }
+   ]
   },
   {
    "id": "a1-gaius-paleis",
@@ -621,7 +684,15 @@
    "dm": [
     "Zijn alle vier dood, dan komen er geen basilisken naar het offer. De harpijen worden dan steeds ongeduldiger en duiken uiteindelijk zelf aan."
    ],
-   "bron": "Boek ch2 E11 \"Encounter: Basilisks\""
+   "bron": "Boek ch2 E11 \"Encounter: Basilisks\"",
+   "items": [
+    {
+     "n": "Basiliskeneieren",
+     "q": 4,
+     "x": "In het nest. Het boek geeft er geen waarde aan.",
+     "id": "a1-basilisken:basiliskeneieren"
+    }
+   ]
   },
   {
    "id": "a1-rots",
@@ -757,7 +828,15 @@
     "Het boek geeft de hamer bij voorkeur aan een Demi-God-kind. Dat pad is vrij: laat de tafel kiezen of geef hem aan wie het meest voor Anora riskeerde.",
     "Wil je het Wijnfestival (Tassos, Seema) spelen: dit is het moment (zie zijpaden)."
    ],
-   "bron": "Boek ch2 \"Celebration with the King\"; ch1 Lost One"
+   "bron": "Boek ch2 \"Celebration with the King\"; ch1 Lost One",
+   "items": [
+    {
+     "n": "Pythor's Hammer",
+     "mi": "pythors-hammer",
+     "x": "Pythor geeft hem aan één held (boek: bij voorkeur een Demi-God-kind; dat pad is vrij).",
+     "id": "a1-feest:pythors-hammer"
+    }
+   ]
   },
   {
    "id": "a1-volkan",
@@ -830,7 +909,16 @@
     "Goede voorbode voor de waarschuwing van Aesop over de graven in Telamok."
    ],
    "bron": "Boek ch2 E5; Intro \"Laws of Thylea\"",
-   "wanneer": "Bij een bezoek aan de agora."
+   "wanneer": "Bij een bezoek aan de agora.",
+   "items": [
+    {
+     "n": "Necklace of Fireballs (nog 1 kraal)",
+     "mi": "necklace-of-fireballs",
+     "x": "Claus vraagt 1 gp. Uit Telamok gestolen.",
+     "als": "Enkel als een held hem koopt: dan krijgt die de curse of the graverobber.",
+     "id": "a1-z-claus:necklace-of-fireballs-nog-1-kraal"
+    }
+   ]
   },
   {
    "id": "a1-z-festival",
@@ -992,7 +1080,28 @@
    "open": [
     "Is Tiebe's gecorrigeerde profetie (Argyn/Gaius als tussenstap, Helios als echte prooi) al verstuurd? Zo niet: vóór deze scène."
    ],
-   "bron": "Boek Intro \"Event: The Centaur Warband\"; beslissing 25/10"
+   "bron": "Boek Intro \"Event: The Centaur Warband\"; beslissing 25/10",
+   "items": [
+    {
+     "n": "Breastplate +1 (Gaius)",
+     "mi": "armor-1",
+     "als": "Enkel als Gaius sneuvelt (boek: hij duikt één keer en verdwijnt).",
+     "id": "a1-warband:breastplate-1-gaius"
+    },
+    {
+     "n": "Javelin of Lightning (Gaius)",
+     "mi": "javelin-of-lightning",
+     "q": 3,
+     "als": "Enkel als Gaius sneuvelt.",
+     "id": "a1-warband:javelin-of-lightning-gaius"
+    },
+    {
+     "n": "Ring of Feather Falling (Gaius)",
+     "mi": "ring-of-feather-falling",
+     "als": "Enkel als Gaius sneuvelt.",
+     "id": "a1-warband:ring-of-feather-falling-gaius"
+    }
+   ]
   },
   {
    "id": "f-weg",
@@ -1061,7 +1170,14 @@
     }
    ],
    "bron": "Boek ch2 \"Band of Centaurs\", \"The Missing Centaurs\"",
-   "wanneer": "Bij zonsondergang op de verlaten weg, net vóór de Great Falls."
+   "wanneer": "Bij zonsondergang op de verlaten weg, net vóór de Great Falls.",
+   "items": [
+    {
+     "n": "Ivoren hoorn",
+     "x": "Blaas hem op de oever van de Arkelon als het lot van zijn verwanten bekend is: Hukar komt dan.",
+     "id": "f-hukar:ivoren-hoorn"
+    }
+   ]
   },
   {
    "id": "f-falls",
@@ -1292,7 +1408,31 @@
     "5 ft. diep onder de smurrie: mithral breastplate, mithral ringmail, adamantine short sword, adamantine spear."
    ],
    "bron": "Boek ch2 F8",
-   "wanneer": "Bij binnenkomst in F8 (via de warrens)."
+   "wanneer": "Bij binnenkomst in F8 (via de warrens).",
+   "items": [
+    {
+     "n": "Mithral breastplate",
+     "mi": "mithral-armor",
+     "x": "Niet magisch. Onder 5 ft. smurrie: 1 minuut + DC 15 Investigation per item.",
+     "id": "f8:mithral-breastplate"
+    },
+    {
+     "n": "Mithral ringmail",
+     "mi": "mithral-armor",
+     "x": "Niet magisch.",
+     "id": "f8:mithral-ringmail"
+    },
+    {
+     "n": "Adamantine short sword",
+     "x": "Niet magisch.",
+     "id": "f8:adamantine-short-sword"
+    },
+    {
+     "n": "Adamantine spear",
+     "x": "Niet magisch.",
+     "id": "f8:adamantine-spear"
+    }
+   ]
   },
   {
    "id": "f9",
@@ -1346,7 +1486,20 @@
     "Leeft de koning nog als de smidse ontwaakt, dan komt hij met een horde (zie Het ontwaken van de smidse)."
    ],
    "bron": "Boek ch2 F9",
-   "wanneer": "Bij binnenkomst in F9, de troonzaal (na F8 of via F5)."
+   "wanneer": "Bij binnenkomst in F9, de troonzaal (na F8 of via F5).",
+   "items": [
+    {
+     "n": "Headband of Intellect",
+     "mi": "headband-of-intellect",
+     "x": "De troglodietenkoning draagt hem.",
+     "id": "f9:headband-of-intellect"
+    },
+    {
+     "n": "Mithral ingot (scepter)",
+     "x": "500 gp.",
+     "id": "f9:mithral-ingot-scepter"
+    }
+   ]
   },
   {
    "id": "f10",
@@ -1450,7 +1603,31 @@
     "De cerberus werd gedood door iets enorms dat uit de Deep Shaft (F17) kwam. Laat dat dreigen, niet verschijnen."
    ],
    "bron": "Boek ch2 F13–F16",
-   "wanneer": "Bij het verder verkennen van de bovenste mijnen (na F12)."
+   "wanneer": "Bij het verder verkennen van de bovenste mijnen (na F12).",
+   "items": [
+    {
+     "n": "Mithral chain shirt",
+     "mi": "mithral-armor",
+     "x": "F14: op een dwergenskelet.",
+     "id": "f13:mithral-chain-shirt"
+    },
+    {
+     "n": "Dwergenschedels",
+     "q": 25,
+     "x": "F14: 10 gp per stuk bij de dwergen in The Dragon's Tooth.",
+     "id": "f13:dwergenschedels"
+    },
+    {
+     "n": "Zak met 65 sp",
+     "x": "F15 kamer 1.",
+     "id": "f13:zak-met-65-sp"
+    },
+    {
+     "n": "Amethistring",
+     "x": "F15 kamer 3: 250 gp.",
+     "id": "f13:amethistring"
+    }
+   ]
   },
   {
    "id": "f17",
@@ -1512,7 +1689,15 @@
     "Mithral xiphos +1."
    ],
    "bron": "Boek ch2 F19",
-   "wanneer": "Bij het uitstappen van de lift beneden (of na de klim langs F17)."
+   "wanneer": "Bij het uitstappen van de lift beneden (of na de klim langs F17).",
+   "items": [
+    {
+     "n": "Mithral Xiphos +1",
+     "mi": "mithral-xiphos-1",
+     "x": "Onder het afval: DC 20 Wisdom (Perception) of detect magic.",
+     "id": "f19:mithral-xiphos-1"
+    }
+   ]
   },
   {
    "id": "f20",
@@ -1621,7 +1806,30 @@
     }
    ],
    "bron": "Boek ch2 F21",
-   "wanneer": "Zodra er met de Forgekeeper onderhandeld wordt, of bij binnenkomst in F21."
+   "wanneer": "Zodra er met de Forgekeeper onderhandeld wordt, of bij binnenkomst in F21.",
+   "items": [
+    {
+     "n": "Munten: 56 pp, 125 gp, 389 sp",
+     "x": "In een hoek, verzameld door de jonge cerberus.",
+     "id": "f21:munten-56-pp-125-gp-389-sp"
+    },
+    {
+     "n": "Adamantine trident",
+     "x": "Niet magisch.",
+     "id": "f21:adamantine-trident"
+    },
+    {
+     "n": "Adamantine javelins",
+     "q": 6,
+     "x": "Niet magisch.",
+     "id": "f21:adamantine-javelins"
+    },
+    {
+     "n": "Runetablet met het contract van de Forgekeeper",
+     "x": "Geef het haar en ze smelt het: ze blijft dan nog een jaar en smeedt voor de helden.",
+     "id": "f21:runetablet-met-het-contract-van-de-forgekeeper"
+    }
+   ]
   },
   {
    "id": "f-ontwaken",
@@ -1676,7 +1884,16 @@
     "Probeer de helden de Forgekeeper te dwingen met het tablet: de uitkomst is altijd dezelfde."
    ],
    "bron": "Boek ch2 \"Awakening the Forge\", \"The Forgekeeper's Contract\"",
-   "ster": true
+   "ster": true,
+   "items": [
+    {
+     "n": "Ring of Resistance (Fire)",
+     "mi": "ring-of-resistance-fire",
+     "x": "Lesser item van Kyrenos (Dragonslayer), te smeden in de Mithral Forge.",
+     "als": "Te smeden: kost en duur bepaal jij (App. G: 25 gp/dag basis, +75 smidse, +50 Volkan).",
+     "id": "f-ontwaken:ring-of-resistance-fire"
+    }
+   ]
   },
   {
    "id": "f22",
@@ -1710,7 +1927,16 @@
     "10 gp per dwergenschedel bij de dwergen in The Dragon's Tooth."
    ],
    "bron": "Boek ch2 \"The Missing Centaurs\"; E8",
-   "wanneer": "Op de terugweg, aan de oever van de Arkelon; daarna in Estoria."
+   "wanneer": "Op de terugweg, aan de oever van de Arkelon; daarna in Estoria.",
+   "items": [
+    {
+     "n": "Potion of Heroism",
+     "mi": "potion-of-heroism",
+     "q": 3,
+     "x": "Beloning van Hukar.",
+     "id": "f-terug:potion-of-heroism"
+    }
+   ]
   },
   {
    "id": "x-armen",
@@ -1876,7 +2102,15 @@
    ],
    "bron": "Boek ch2 X2; ch1 Cursed One",
    "ster": true,
-   "wanneer": "Bij het oversteken van de enige heel gebleven brug."
+   "wanneer": "Bij het oversteken van de enige heel gebleven brug.",
+   "items": [
+    {
+     "n": "Gem of Brightness",
+     "mi": "gem-of-brightness",
+     "x": "Damon geeft hem aan Ox: verloren familie-erfstuk. Enkel Ox kan attunen.",
+     "id": "x2:gem-of-brightness"
+    }
+   ]
   },
   {
    "id": "x-ruines",
@@ -1931,7 +2165,20 @@
     }
    ],
    "bron": "Boek ch2 X3",
-   "wanneer": "Als de helden de plaat van X3 verschuiven (DC 25 Strength)."
+   "wanneer": "Als de helden de plaat van X3 verschuiven (DC 25 Strength).",
+   "items": [
+    {
+     "n": "Mithral breastplate (Telamok)",
+     "mi": "mithral-armor",
+     "x": "500 gp, drakenmotieven. Niet gewijd: geen vloek.",
+     "id": "x3:mithral-breastplate-telamok"
+    },
+    {
+     "n": "Mithral shield (Telamok)",
+     "x": "500 gp. Niet gewijd: geen vloek.",
+     "id": "x3:mithral-shield-telamok"
+    }
+   ]
   },
   {
    "id": "x4",
@@ -1955,6 +2202,20 @@
    "wanneer": "Als de helden de plaat van X4 verschuiven (DC 25 Strength).",
    "dm": [
     "Aesop vroeg in sessie 6 uitdrukkelijk dit graf (zijn mentor) onaangeroerd te laten. Wie het toch opent, breekt een belofte aan hem."
+   ],
+   "items": [
+    {
+     "n": "Breastplate +1 (Adonis)",
+     "mi": "armor-1",
+     "x": "GEWIJD: wie dit neemt, krijgt de curse of the graverobber.",
+     "id": "x4:breastplate-1-adonis"
+    },
+    {
+     "n": "Short Sword of Quickness",
+     "mi": "short-sword-of-quickness",
+     "x": "GEWIJD: wie dit neemt, krijgt de curse of the graverobber.",
+     "id": "x4:short-sword-of-quickness"
+    }
    ]
   },
   {
@@ -2018,7 +2279,26 @@
     }
    ],
    "bron": "Boek ch2 X6",
-   "wanneer": "Als de helden de plaat van X6 verschuiven (DC 25 Strength)."
+   "wanneer": "Als de helden de plaat van X6 verschuiven (DC 25 Strength).",
+   "items": [
+    {
+     "n": "Mithral breastplate (Rizon)",
+     "mi": "mithral-armor",
+     "x": "500 gp. GEWIJD: wie dit neemt, krijgt de curse of the graverobber.",
+     "id": "x6:mithral-breastplate-rizon"
+    },
+    {
+     "n": "Mithral shield (Rizon)",
+     "x": "500 gp. GEWIJD: wie dit neemt, krijgt de curse of the graverobber.",
+     "id": "x6:mithral-shield-rizon"
+    },
+    {
+     "n": "Mithral Kopis +1",
+     "mi": "mithral-kopis-1",
+     "x": "GEWIJD: wie dit neemt, krijgt de curse of the graverobber.",
+     "id": "x6:mithral-kopis-1"
+    }
+   ]
   },
   {
    "id": "x7",
@@ -2042,7 +2322,20 @@
    ],
    "haken": [],
    "bron": "Boek ch2 X7",
-   "wanneer": "Als de helden de plaat van X7 verschuiven (DC 25 Strength)."
+   "wanneer": "Als de helden de plaat van X7 verschuiven (DC 25 Strength).",
+   "items": [
+    {
+     "n": "Adamantine breastplate (Cosmo)",
+     "mi": "adamantine-armor",
+     "x": "500 gp. Niet gewijd: geen vloek.",
+     "id": "x7:adamantine-breastplate-cosmo"
+    },
+    {
+     "n": "Adamantine shield (Cosmo)",
+     "x": "500 gp. Niet gewijd: geen vloek.",
+     "id": "x7:adamantine-shield-cosmo"
+    }
+   ]
   },
   {
    "id": "x8",
@@ -2066,7 +2359,19 @@
    ],
    "haken": [],
    "bron": "Boek ch2 X8",
-   "wanneer": "Als de helden de plaat van X8 verschuiven (DC 25 Strength)."
+   "wanneer": "Als de helden de plaat van X8 verschuiven (DC 25 Strength).",
+   "items": [
+    {
+     "n": "Decoratieve breastplate (Myrto)",
+     "x": "Zilver, goud, platina: 2.500 gp, nutteloos in gevecht. Niet gewijd: geen vloek.",
+     "id": "x8:decoratieve-breastplate-myrto"
+    },
+    {
+     "n": "Decoratief shield (Myrto)",
+     "x": "2.500 gp. Niet gewijd: geen vloek.",
+     "id": "x8:decoratief-shield-myrto"
+    }
+   ]
   },
   {
    "id": "x9",
@@ -2093,7 +2398,26 @@
    ],
    "haken": [],
    "bron": "Boek ch2 X9",
-   "wanneer": "Als de helden de plaat van X9 verschuiven: het alarm gaat meteen af."
+   "wanneer": "Als de helden de plaat van X9 verschuiven: het alarm gaat meteen af.",
+   "items": [
+    {
+     "n": "Halsketting (Isadore)",
+     "x": "1.000 gp.",
+     "id": "x9:halsketting-isadore"
+    },
+    {
+     "n": "Ringen (Isadore)",
+     "q": 5,
+     "x": "200 gp per stuk.",
+     "id": "x9:ringen-isadore"
+    },
+    {
+     "n": "Staff of Charming",
+     "mi": "staff-of-charming",
+     "x": "Enkel de staf is gewijd: wie hem neemt, krijgt de curse of the graverobber.",
+     "id": "x9:staff-of-charming"
+    }
+   ]
   },
   {
    "id": "x10",
@@ -2116,7 +2440,19 @@
     }
    ],
    "bron": "Boek ch2 X10",
-   "wanneer": "Als de helden de plaat van X10 verschuiven (DC 25 Strength)."
+   "wanneer": "Als de helden de plaat van X10 verschuiven (DC 25 Strength).",
+   "items": [
+    {
+     "n": "Bronzen breastplate (Lysis)",
+     "x": "Platina ingelegd, 500 gp. Niet gewijd: geen vloek.",
+     "id": "x10:bronzen-breastplate-lysis"
+    },
+    {
+     "n": "Bronzen shield (Lysis)",
+     "x": "500 gp. Niet gewijd: geen vloek.",
+     "id": "x10:bronzen-shield-lysis"
+    }
+   ]
   },
   {
    "id": "x11",
@@ -2146,7 +2482,25 @@
     }
    ],
    "bron": "Boek ch2 X11",
-   "wanneer": "Als de helden de plaat van X11 verschuiven (DC 25 Strength)."
+   "wanneer": "Als de helden de plaat van X11 verschuiven (DC 25 Strength).",
+   "items": [
+    {
+     "n": "Breastplate +2 (Ochos)",
+     "mi": "armor-2",
+     "x": "Niet gewijd: geen vloek. De bronzen golem valt aan wie iets meeneemt.",
+     "id": "x11:breastplate-2-ochos"
+    },
+    {
+     "n": "Bronzen short sword (Ochos)",
+     "x": "250 gp.",
+     "id": "x11:bronzen-short-sword-ochos"
+    },
+    {
+     "n": "Bronzen shield (Ochos)",
+     "x": "250 gp.",
+     "id": "x11:bronzen-shield-ochos"
+    }
+   ]
   },
   {
    "id": "x12",
@@ -2216,7 +2570,24 @@
     }
    ],
    "bron": "Boek ch2 X14",
-   "wanneer": "Als de helden de plaat van X14 verschuiven (DC 25 Strength)."
+   "wanneer": "Als de helden de plaat van X14 verschuiven (DC 25 Strength).",
+   "items": [
+    {
+     "n": "Bronzen breastplate (Nicholas)",
+     "x": "Maelstrom van Sydon, 1.500 gp. Teleportatieval bij aanraken.",
+     "id": "x14:bronzen-breastplate-nicholas"
+    },
+    {
+     "n": "Platina shield (Nicholas)",
+     "x": "1.500 gp.",
+     "id": "x14:platina-shield-nicholas"
+    },
+    {
+     "n": "Mithral ingot",
+     "x": "500 gp.",
+     "id": "x14:mithral-ingot"
+    }
+   ]
   },
   {
    "id": "x15",
@@ -2262,7 +2633,15 @@
     "In de drie graven: stalen breastplates, schilden en short swords, perfect bewaard, niet magisch."
    ],
    "bron": "Boek ch2 X16",
-   "wanneer": "Bij het dertiende graf op de rotspunt, na de ruïnes."
+   "wanneer": "Bij het dertiende graf op de rotspunt, na de ruïnes.",
+   "items": [
+    {
+     "n": "Stalen breastplates, shields en short swords",
+     "q": 3,
+     "x": "In de graven van Aetius, Pericles en Eustace: perfect, niet magisch.",
+     "id": "x16:stalen-breastplates-shields-en-short-swords"
+    }
+   ]
   },
   {
    "id": "x17",
@@ -2401,7 +2780,20 @@
     "Zak: 600 cp, 254 sp, 115 gp en zes juwelen à 25 gp."
    ],
    "bron": "Boek ch2 X21",
-   "wanneer": "Bij binnenkomst in het hol, of als de helden Graxis na een charge volgen."
+   "wanneer": "Bij binnenkomst in het hol, of als de helden Graxis na een charge volgen.",
+   "items": [
+    {
+     "n": "Zak van Graxis: 600 cp, 254 sp, 115 gp",
+     "x": "Plus zes juwelen.",
+     "id": "x21:zak-van-graxis-600-cp-254-sp-115-gp"
+    },
+    {
+     "n": "Juwelen (Graxis)",
+     "q": 6,
+     "x": "25 gp per stuk.",
+     "id": "x21:juwelen-graxis"
+    }
+   ]
   },
   {
    "id": "x22",
@@ -2455,7 +2847,14 @@
     "Tussen de verpletterde slachtoffers: 112 gp en 245 sp."
    ],
    "bron": "Boek ch2 X23",
-   "wanneer": "Zodra er meer dan 300 pond in X23 staat."
+   "wanneer": "Zodra er meer dan 300 pond in X23 staat.",
+   "items": [
+    {
+     "n": "112 gp en 245 sp",
+     "x": "Tussen de verpletterde slachtoffers.",
+     "id": "x23:112-gp-en-245-sp"
+    }
+   ]
   },
   {
    "id": "x24",
@@ -2538,7 +2937,45 @@
    ],
    "bron": "Boek ch2 X24; ch1 Vanished One, Gifted One",
    "ster": true,
-   "wanneer": "Bij binnenkomst in X24; Graxis komt zodra de sarcofaag opengaat."
+   "wanneer": "Bij binnenkomst in X24; Graxis komt zodra de sarcofaag opengaat.",
+   "items": [
+    {
+     "n": "Axe of Xander",
+     "mi": "axe-of-xander",
+     "x": "Beschadigd: magie werkt niet tot Volkan hem herstelt.",
+     "id": "x24:axe-of-xander"
+    },
+    {
+     "n": "Breastplate of Mytros",
+     "mi": "breastplate-of-mytros",
+     "x": "Xander legt hem zelf neer na Graxis' dood (gedeukt, AC 18).",
+     "id": "x24:breastplate-of-mytros"
+    },
+    {
+     "n": "Golden Shield of Volkan",
+     "mi": "golden-shield-of-volkan",
+     "x": "Van het lijk van Graxis. Beschadigd.",
+     "id": "x24:golden-shield-of-volkan"
+    },
+    {
+     "n": "Crown of the Dragonlords (Dragini)",
+     "mi": "crown-of-the-dragonlords",
+     "x": "Xander geeft hem aan de Vanished One.",
+     "id": "x24:crown-of-the-dragonlords-dragini"
+    },
+    {
+     "n": "Crown of the Dragonlords (Wauros)",
+     "mi": "crown-of-the-dragonlords",
+     "x": "Xander geeft hem aan de Gifted One.",
+     "id": "x24:crown-of-the-dragonlords-wauros"
+    },
+    {
+     "n": "Everburning Torch",
+     "mi": "everburning-torch",
+     "x": "De enige fakkel in de grafkamer.",
+     "id": "x24:everburning-torch"
+    }
+   ]
   },
   {
    "id": "a1-nachtmerrie",

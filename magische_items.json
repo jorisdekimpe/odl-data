@@ -1,0 +1,1046 @@
+{
+ "meta": {
+  "titel": "De Zeven — magische items",
+  "versie": 1,
+  "bijgewerkt": "2026-11-02",
+  "bronnen": "SRD 5.1 (CC-BY-4.0, Wizards of the Coast) voor standaarditems; Odyssey of the Dragonlords App. G en ch. 2 voor OotD-items. Regeltekst in het Engels, DM-notities (nl) in het Nederlands.",
+  "velden": "n=naam, t=type, r=rarity, att=attunement, door=voor wie/beperking, voor=bestemde helden, tx=regeltekst (alinea's), ootd=wat het boek aan het item verandert, nl=DM-notitie, al=andere namen, bron"
+ },
+ "items": {
+  "adamantine-armor": {
+   "n": "Adamantine Armor",
+   "t": "Armor (medium or heavy, but not hide)",
+   "r": "uncommon",
+   "att": "",
+   "tx": [
+    "This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any critical hit against you becomes a normal hit."
+   ],
+   "bron": "SRD 5.1",
+   "al": [
+    "adamantine breastplate",
+    "Adamantine Armor"
+   ]
+  },
+  "ambrosia": {
+   "n": "Ambrosia",
+   "t": "Wondrous item",
+   "r": "legendary",
+   "att": "requires attunement",
+   "tx": [
+    "This painted amphora contains ambrosia: the nectar of the gods. It resizes itself to fit the hands of the creature that holds it, and it contains enough ambrosia for six creatures to drink from it. The amphora refills itself at dawn of each day. Drinking ambrosia has the following temporary and permanent effects.",
+    "Immortality. Drinking ambrosia just once makes you effectively immortal. You no longer show the physical effects of aging, and you will never die of old age. However, if you are killed after exceeding the maximum age of your race, spells can no longer resurrect you. Fountain of Youth. Each day that you drink ambrosia, your physical age is reduced by 1d10 years, to a minimum of 13 years. This effect is permanent. Voice of the Gods. Each day that you drink ambrosia, your Charisma score increases by 1, to a maximum of 20. If even a single day passes where you don't drink ambrosia, this effect wears off."
+   ],
+   "bron": "OotD App. G"
+  },
+  "amulet-bulla-talisman": {
+   "n": "Amulet, Bulla Talisman",
+   "t": "Wondrous item, neck",
+   "r": "",
+   "att": "",
+   "tx": [
+    "This acorn-shaped golden amulet is engraved with a winged figure wielding a harp. While wearing this amulet, if your alignment is good, you have advantage on saving throws against spells and magical effects cast by fiends and fey creatures."
+   ],
+   "bron": "OotD App. G"
+  },
+  "amulet-lunula-talisman": {
+   "n": "Amulet, Lunula Talisman",
+   "t": "Wondrous item, neck",
+   "r": "",
+   "att": "",
+   "tx": [
+    "This crescent moon-shaped golden amulet is engraved with beautiful filigree. While wearing this amulet, if your alignment is good, you have advantage on saving throws against spells and magical effects cast by aberrations and monstrosities."
+   ],
+   "bron": "OotD App. G"
+  },
+  "amulet-of-health": {
+   "n": "Amulet of Health",
+   "t": "Wondrous item",
+   "r": "rare",
+   "att": "requires attunement",
+   "tx": [
+    "Your Constitution score is 19 while you wear this amulet. It has no effect on you if your Constitution is already 19 or higher"
+   ],
+   "bron": "SRD 5.1"
+  },
+  "antikythera-device": {
+   "n": "Antikythera Device",
+   "t": "Wondrous item",
+   "r": "legendary",
+   "att": "requires attunement",
+   "tx": [
+    "The Antikythera is a complex construct that acts as a magical compass. It also has the power to mend damage to a ship: once per day it can magically repair 50 hit points of damage to a ship it is aboard.",
+    "It uses the constellations to guide its user to islands in the Cerulean Gulf or Forgotten Sea. Every island in these seas are associated with a specific constellation. The Antikythera must be used on dry land as the constant movement of waves makes it impossible to calibrate. When it is calibrated to the proper constellations, it will show a path that can be used to reach the island associated with a particular constellation."
+   ],
+   "bron": "OotD App. G",
+   "al": [
+    "Antikythera"
+   ]
+  },
+  "armor-1": {
+   "n": "Armor, +1",
+   "t": "Armor (light, medium, or heavy)",
+   "r": "rare",
+   "att": "",
+   "tx": [
+    "You have a +1 bonus to AC while wearing this armor."
+   ],
+   "bron": "SRD 5.1",
+   "al": [
+    "Breastplate +1",
+    "breastplate +1",
+    "Armor +1"
+   ]
+  },
+  "armor-2": {
+   "n": "Armor, +2",
+   "t": "Armor (light, medium, or heavy)",
+   "r": "very rare",
+   "att": "",
+   "tx": [
+    "You have a +2 bonus to AC while wearing this armor."
+   ],
+   "bron": "SRD 5.1",
+   "al": [
+    "Breastplate +2",
+    "breastplate +2",
+    "Armor +2"
+   ]
+  },
+  "axe-of-xander": {
+   "n": "Axe of Xander",
+   "t": "Weapon (greataxe)",
+   "r": "rare",
+   "att": "requires attunement",
+   "tx": [
+    "This is a sentient, lawful neutral +1 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathically by transmitting emotion to the creature carrying or using it.",
+    "The axe’s primary purpose is to destroy giants and titans. When you hit one of those creatures with this weapon, it deals an extra 3d6 force damage. It also transmits a tremendous sense of satisfaction and wellbeing to its user when it kills a giant or titan. You may heal 1d6 Hit Points when this happens."
+   ],
+   "bron": "OotD App. G",
+   "nl": "Beschadigd uit Telamok: magie werkt niet tot Volkan hem herstelt in de Mithral Forge (F21) met Pythor's Hammer (1 item per week)."
+  },
+  "balm-of-invulnerability": {
+   "n": "Balm of Invulnerability",
+   "t": "Wondrous item",
+   "r": "very rare",
+   "att": "",
+   "tx": [
+    "This ointment is made from the magical herbs that only grow where titan blood has been spilled. A character may apply this balm to their entire body to gain resistance to non-magical damage for 1 day. This uses the entire jar of balm."
+   ],
+   "bron": "OotD App. G"
+  },
+  "belt-of-fire-giant-strength": {
+   "n": "Belt of Fire Giant Strength",
+   "t": "Wondrous item",
+   "r": "legendary",
+   "att": "requires attunement",
+   "tx": [
+    "While wearing this belt, your Strength score changes to a score granted by the belt. If your Strength is already equal to or greater than the belt's score, the item has no Effect on you.",
+    "Six varieties of this belt exist, corresponding with and having rarity according to The Six kinds of true Giants. The belt of Stone Giant Strength and the belt of Frost Giant Strength look different, but they have the same Effect.",
+    "| Type | Strength | Rarity |",
+    "|---|---|---|",
+    "| Hill Giant | 21 | Rare |",
+    "| Stone Giant / Frost Giant | 23 | Very Rare |",
+    "| Fire Giant | 25 | Very Rare |",
+    "| Cloud Giant | 27 | Legendary |",
+    "| Storm Giant | 29 | Legendary |"
+   ],
+   "bron": "SRD 5.1",
+   "door": "Cursed One (Ox).",
+   "voor": [
+    "Ox"
+   ],
+   "ootd": "(Greater) Belt of Fire Giant Strength: this belt also grants resistance to fire.",
+   "nl": "Fire giant = Strength 25, legendary. De Lotuswitch op Scorpion Island geeft hem (Act 3).",
+   "al": [
+    "Belt of Fire Giant Strength"
+   ]
+  },
+  "blessed-olive-oil": {
+   "n": "Blessed Olive Oil",
+   "t": "Wondrous item",
+   "r": "uncommon",
+   "att": "",
+   "tx": [
+    "This amphora of fragrant olive oil has been blessed by the Mother Goddess. Characters may bathe in this olive oil to be receive the same effects as a bless spell. Anyone using the oil must remove their armor and spend one minute bathing. The oil is consumed in the process."
+   ],
+   "bron": "OotD App. G"
+  },
+  "breastplate-of-invulnerability": {
+   "n": "Breastplate of Invulnerability",
+   "t": "Armor (plate)",
+   "r": "legendary",
+   "att": "requires attunement",
+   "tx": [
+    "You have resistance to nonmagical damage while you wear this armor. Additionally, you can use an action to make yourself immune to nonmagical damage for 10 minutes or until you are no longer wearing the armor. Once this special action is used, it can't be used again until the next dawn."
+   ],
+   "bron": "SRD 5.1",
+   "door": "Doomed One (Orelle).",
+   "voor": [
+    "Orelle"
+   ],
+   "ootd": "These items provide resistance to all damage that originates from the creature that is fated to kill you. Choose one from the following list: Robe of the Archmagi, Breastplate of Invulnerability, Cloak of Invisibility.",
+   "nl": "Het boek noemt een \"Breastplate of Invulnerability\"; SRD kent enkel Armor of Invulnerability (plate). Tekst hiernaast is die van de SRD, als breastplate te lezen. Canon: haar artefact wordt aan het weefgetouw van de Fates gemaakt (Act 3), niet in de Forge.",
+   "al": [
+    "Breastplate of Invulnerability",
+    "Armor of Invulnerability"
+   ]
+  },
+  "breastplate-of-mytros": {
+   "n": "Breastplate of Mytros",
+   "t": "Armor (breastplate)",
+   "r": "rare",
+   "att": "requires attunement",
+   "tx": [
+    "A character has a +1 bonus to AC and a +1 bonus to Charisma while wearing this armor. Giants and titans have disadvantage on their attacks against an opponent wearing the Breastplate."
+   ],
+   "bron": "OotD App. G",
+   "nl": "In Telamok draagt Xander hem (AC 18, gedeukt)."
+  },
+  "burnished-dragonlord-coin": {
+   "n": "Burnished Dragonlord Coin",
+   "t": "Wondrous item",
+   "r": "very rare",
+   "att": "",
+   "tx": [
+    "This burnished golden coin carries the face of Xander Huorath on one side, and an engraving of the legendary ship Ultros on the reverse. The coin emits a faint golden light. Anyone who possesses a Dragonlord Coin can understand the Draconic language."
+   ],
+   "bron": "OotD App. G",
+   "al": [
+    "Dragonlord coin",
+    "burnished dragonlord coin"
+   ],
+   "nl": "Tol voor Damon op de brug van Telamok (X2)."
+  },
+  "caduceus": {
+   "n": "Caduceus",
+   "t": "Wondrous item",
+   "r": "legendary",
+   "att": "requires attunement",
+   "tx": [
+    "The Caduceus is a staff that features five dragons winding around it, with the top featuring two unfolded dragon wings. The staff was created by the wizard Damon over five centuries ago. Forged in the primordial waters of the Nether Sea, the Caduceus was a life-giving staff with the power to turn the tide against the Titans in the First War. Damon gave it to the dragonlord named Karpathos, also known as the Wolf Lord. Karpathos used the Caduceus to raise the Dragonlords from death during the First War. But he was seduced by Lutheria into believing the staff could elevate him to godhood. Karpathos betrayed his fellow dragonlords and swore an oath to Lutheria. He later broke the oath at the urging of his wife and Lutheria transformed him into Thylea’s first vampire as punishment.",
+    "The Caduceus is an item of powerful life giving. In the hands of a living being it gives the power to heal and bring back those who have died. However, in the hands of the fiendish or undead, the Caduceus works in an entirely different manner.",
+    "The Caduceus has 5 charges, which recharge daily at dawn. When used by a creature that is not a fiend or undead, they can be used in the following manner:",
+    "• Cast the heal spell (1 charge)",
+    "• Cast the greater restoration spell (1 charge)",
+    "• Cast the resurrection spell (5 charges) When used by a fiend or undead creature, the rod can be used in the following manner:",
+    "• Cast the create undead spell as a 9th level spell (2 charges)",
+    "• Create a vampire spawn from a corpse that has been drained of blood (1 charge)",
+    "• Restore 100 hit points to an undead or fiend, even if they are at 0 hit points (2 charges) The Caduceus is seemingly indestructible. However, it can be broken by an empyrean with a CR of 15 or higher. When the staff is destroyed, the life force of the titan contained within the Caduceus can be used to raise one empyrean from death, or it can be used to transform a creature with divine blood into a young empyrean."
+   ],
+   "bron": "OotD App. G"
+  },
+  "chariot-of-dawn": {
+   "n": "Chariot of Dawn",
+   "t": "Wondrous item",
+   "r": "legendary",
+   "att": "requires attunement",
+   "tx": [
+    "This chariot is a beautifully decorated artifact made from bronze. The chariot can only be activated while during the day in the open air and cannot be used underground or during night. When activated with its command word, a team of four golden horses spring into existence to pull the vehicle. The chariot shines with a painfully radiant light in a 60 ft. radius. Anyone within that radius other than the rider takes 4 (1d6) damage.",
+    "The chariot has a flying speed of 90 ft. Flying is a free action, but the horses are difficult to control, and every round, the chariot rider must use a bonus action to control the horses. This requires a successful DC 15 Wisdom (Animal Handling) check. Failure means that the control is lost and the horses will move their full movement to climb straight up into the sky."
+   ],
+   "bron": "OotD App. G"
+  },
+  "cloak-of-the-bat": {
+   "n": "Cloak of the Bat",
+   "t": "Wondrous item",
+   "r": "rare",
+   "att": "requires attunement",
+   "tx": [
+    "While wearing this cloak, you have advantage on Dexterity (Stealth) checks. In an area of dim light or darkness, you can grip the edges of the cloak with both hands and use it to fly at a speed of 40 feet. If you ever fail to grip the cloak's edges while flying in this way, or if you are no longer in dim light or darkness, you lose this flying speed.",
+    "While wearing the cloak in an area of dim light or darkness, you can use your action to cast polymorph on yourself, transforming into a bat. While you are in the form of the bat, you retain your Intelligence, Wisdom, and Charisma scores. The cloak can't be used this way again until the next dawn."
+   ],
+   "bron": "SRD 5.1",
+   "door": "Vanished One (Dragini): only you can attune.",
+   "voor": [
+    "Dragini"
+   ],
+   "ootd": "Cloak of the Bat: Only you can attune to this cloak. Instead of transforming into a bat, this cloak allows you to transform into a pseudodragon.",
+   "nl": "Haar gestolen harnas: ligt in Gaius' kamer op Yonder."
+  },
+  "crown-of-laurels": {
+   "n": "Crown of Laurels",
+   "t": "Wondrous item",
+   "r": "very rare",
+   "att": "requires attunement",
+   "tx": [
+    "This crown of enchanted laurel leaves is customarily awarded to the winner of the Great Games. It was crafted by Vallus, the Queen of Mytros and the Goddess of Wisdom. When worn, the crown provides +2 to Wisdom saving throws."
+   ],
+   "bron": "OotD App. G"
+  },
+  "crown-of-the-dragonlords": {
+   "n": "Crown of the Dragonlords",
+   "t": "Wondrous item",
+   "r": "rare",
+   "att": "requires attunement",
+   "tx": [
+    "If you are a spellcaster (bard, cleric, druid, paladin, ranger, sorcerer, warlock or wizard), this crown grants you the ability to prepare the following spells: bond of the dragonlords and dirge of the dragonlords. If you are not a spellcaster, then as long as you wear the crown, you can cast bond of the dragonlords. Once you cast it, you must finish a long rest before you can cast it again. The material components are still required for both spells."
+   ],
+   "bron": "OotD App. G",
+   "nl": "Spelregels voor bond of the dragonlords (2nd level) en dirge of the dragonlords (3rd level): App. C, p. 340.",
+   "door": "Canon: Xander geeft de twee kronen aan Dragini (Vanished One) en Wauros (Gifted One).",
+   "voor": [
+    "Dragini",
+    "Wauros"
+   ]
+  },
+  "dancing-sword": {
+   "n": "Dancing Sword",
+   "t": "Weapon (any sword)",
+   "r": "very rare",
+   "att": "requires attunement",
+   "tx": [
+    "You can use a bonus action to toss this magic sword into the air and speak the command word. When you do so, the sword begins to hover, flies up to 30 feet, and attacks one creature of your choice within 5 feet of it. The sword uses your attack roll and ability score modifier to damage rolls.",
+    "While the sword hovers, you can use a bonus action to cause it to fly up to 30 feet to another spot within 30 feet of you. As part of the same bonus action, you can cause the sword to attack one creature within 5 feet of it.",
+    "After the hovering sword attacks for the fourth time, it flies up to 30 feet and tries to return to your hand. If you have no hand free, it falls to the ground at your feet. If the sword has no unobstructed path to you, it moves as close to you as it can and then falls to the ground. It also ceases to hover if you grasp it or move more than 30 feet away from it."
+   ],
+   "bron": "SRD 5.1",
+   "door": "Haunted One (Apollodorus): greater family artifact.",
+   "voor": [
+    "Apollodorus"
+   ],
+   "ootd": "(Greater) Dancing Sword: this sword (it can be of any type) contains the soul of the family’s founder.",
+   "nl": "Canon 16/10: de stem van de stichter spreekt publiek in Mytros (Act 4, Acastus-conflict)."
+  },
+  "dragon-scale-mail": {
+   "n": "Dragon Scale Mail",
+   "t": "Armor (scale mail)",
+   "r": "very rare",
+   "att": "requires attunement",
+   "tx": [
+    "Dragon scale mail is made of the scales of one kind of dragon. Sometimes dragons collect their cast-off scales and gift them to humanoids. Other times, hunters carefully skin and preserve the hide of a dead dragon. In either case, dragon scale mail is highly valued.",
+    "While wearing this armor, you gain a +1 bonus to AC, you have advantage on saving throws against the Frightful Presence and breath weapons of dragons, and you have resistance to one damage type that is determined by the kind of dragon that provided the scales (see the table).",
+    "Additionally, you can focus your senses as an action to magically discern the distance and direction to the closest dragon within 30 miles of you that is of the same type as the armor. This special action can't be used again until the next dawn.",
+    "| Dragon | Resistance |",
+    "|---|---|",
+    "| Black | Acid |",
+    "| Blue | Lightning |",
+    "| Brass | Fire |",
+    "| Bronze | Lightning |",
+    "| Copper | Acid |",
+    "| Gold | Fire |",
+    "| Green | Poison |",
+    "| Red | Fire |",
+    "| Silver | Cold |",
+    "| White | Cold |"
+   ],
+   "bron": "SRD 5.1"
+  },
+  "dragon-slayer": {
+   "n": "Dragon Slayer",
+   "t": "Weapon (any sword)",
+   "r": "rare",
+   "att": "",
+   "tx": [
+    "You gain a +1 bonus to attack and damage rolls made with this magic weapon.",
+    "When you hit a dragon with this weapon, the dragon takes an extra 3d6 damage of the weapon's type. For the purpose of this weapon, \"dragon\" refers to any creature with the dragon type, including dragon turtles and wyverns."
+   ],
+   "bron": "SRD 5.1",
+   "door": "Dragonslayer (Kyrenos): can be any melee weapon.",
+   "voor": [
+    "Kyrenos"
+   ],
+   "ootd": "(Greater) Dragonslayer: can be any melee weapon.",
+   "nl": "Canon: via de deal met Chondrus op Yonder (Act 3). Doelwit: Helios.",
+   "al": [
+    "Dragonslayer",
+    "Dragon Slayer"
+   ]
+  },
+  "everburning-torch": {
+   "n": "Everburning Torch",
+   "t": "Wondrous item",
+   "r": "uncommon",
+   "att": "",
+   "tx": [
+    "This bronze torch is enchanted with the continual flame spell. The pommel of the torch can be twisted to ignite or douse the flame."
+   ],
+   "bron": "OotD App. G"
+  },
+  "game-of-twenty-squares": {
+   "n": "Game of Twenty Squares",
+   "t": "Wondrous item",
+   "r": "uncommon",
+   "att": "",
+   "tx": [
+    "The Game of Twenty Squares is more commonly known as \"The Royal Game.\" The game is considered to be sacred, and it has been played by gods and mortals since the dawn of time. Kings sometimes use the game to resolve disputes that would otherwise result in war. The game requires two players, and it is played by moving seven pieces across a board comprising twenty squares. Dice are rolled to determine how quickly the pieces can move, and the object of the game is to reach the end of the twenty-square course before your opponent. This requires a mix of strategy and luck. The game is protected against magical interference, which prevents cheating with spells such as mage hand. Magical Wagers. Anything can be wagered on the outcome of the game—wealth, power, magic, or even the lives of the two players. Whenever gods play the game, this wager is enforced by magic woven into the fabric of the multiverse. Depending upon the nature of the wager, as many as six rematches may be allowed.",
+    "Starting the Game. Two players are required to play the game. They must agree to their wager beforehand, and it is customary to cut the thumb and make a 'blood handshake' before the game begins.",
+    "Winning the Game. The game is resolved by making a series of seven opposed skill checks, which represent the various strategies that can be used to win the game. Each opposed skill check to determines the outcome of a race between two game pieces. The winner of the game is the player who wins at least four rounds, which means that it is possible to win in just four rounds. The Seven Rounds. The seven rounds proceed as a series of opposed skill checks. The skill checks are made in this order: Performance, Insight, History, Deception, Intimidation, Persuasion, Perception. Tied skill checks must be repeated until one player prevails."
+   ],
+   "bron": "OotD App. G"
+  },
+  "gem-of-brightness": {
+   "n": "Gem of Brightness",
+   "t": "Wondrous item",
+   "r": "uncommon",
+   "att": "",
+   "tx": [
+    "This prism has 50 charges. While you are holding it, you can use an action to speak one of three command words to cause one of the following effects:",
+    "The first command word causes the gem to shed bright light in a 30-foot radius and dim light for an additional 30 feet. This effect doesn't expend a charge. It lasts until you use a bonus action to repeat the command word or until you use another function of the gem.",
+    "The second command word expends 1 charge and causes the gem to fire a brilliant beam of light at one creature you can see within 60 feet of you. The creature must succeed on a DC 15 Constitution saving throw or become blinded for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
+    "The third command word expends 5 charges and causes the gem to flare with blinding light in a 30 foot cone originating from it. Each creature in the cone must make a saving throw as if struck by the beam created with the second command word.",
+    "When all of the gem's charges are expended, the gem becomes a nonmagical jewel worth 50 gp."
+   ],
+   "bron": "SRD 5.1",
+   "door": "Cursed One (Ox): only you can attune.",
+   "voor": [
+    "Ox"
+   ],
+   "ootd": "(Lesser) Gem of Brightness: only you can attune.",
+   "nl": "Damon geeft hem aan Ox op de brug van Telamok (X2): verloren familie-erfstuk.",
+   "al": [
+    "gem of brightness"
+   ]
+  },
+  "gem-of-seeing": {
+   "n": "Gem of Seeing",
+   "t": "Wondrous item",
+   "r": "rare",
+   "att": "requires attunement",
+   "tx": [
+    "This gem has 3 charges. As an action, you can speak the gem's command word and expend 1 charge. For the next 10 minutes, you have truesight out to 120 feet when you peer through the gem.",
+    "The gem regains 1d3 expended charges daily at dawn."
+   ],
+   "bron": "SRD 5.1",
+   "door": "Lost One (Sirius): item uit de schat van de Dragonlords.",
+   "voor": [
+    "Sirius"
+   ],
+   "ootd": "The treasure trove includes three gems worth 10,000 gp (a diamond, a ruby, and a sapphire), 2,000 pp, and 10,000 gp. It also includes one item from the following list: Gem of Seeing, Necklace of Prayer Beads, Glamoured Studded Leather, Rod of Rulership.",
+   "nl": "Ligt in de spiegelgevangenis in de Nether Sea, bewaakt door Hezzebal. Estor neemt eerst de Xiphos of Slaughter."
+  },
+  "glaive-of-sydon": {
+   "n": "Glaive of Sydon",
+   "t": "Weapon (glaive)",
+   "r": "legendary",
+   "att": "requires attunement",
+   "tx": [
+    "You gain a +2 bonus to attack and damage rolls with this magic weapon. Once per turn, when you hit a creature with this weapon, you may choose to inflict an additional 4d6 lightning damage."
+   ],
+   "bron": "OotD App. G"
+  },
+  "golden-apple": {
+   "n": "Golden Apple",
+   "t": "Wondrous item",
+   "r": "very rare",
+   "att": "requires attunement",
+   "tx": [
+    "These apples are wrought from solid gold, and are so beautiful that they inspire immense greed in anyone who sees them.",
+    "On a turn, the owner of a golden apple may use an action to throw it. Everyone within a 30-foot radius of where the apple lands must make a DC 18 Wisdom saving throw. On a failure, they must use their next turn to move toward the apple and attempt to take it for themselves. This saving throw is repeated on each turn if no one has possession of the apple. No other activities are possible while wanting the golden apple. Once a creature has taken possession of the apple, they will spend the next day jealously guarding it. Weaker creatures, such as bandits or goatlings, may attempt to run away and hide it from others."
+   ],
+   "bron": "OotD App. G"
+  },
+  "golden-shield-of-volkan": {
+   "n": "Golden Shield of Volkan",
+   "t": "Shield",
+   "r": "very rare",
+   "att": "requires attunement",
+   "tx": [
+    "This golden shield has a lion engraved on its front, and three times per day the user can use a bonus action to cast the spell thunderwave. The spell will be accompanied by the mighty roar of a lion and the lion carving will animate. The severed head of any medium or smaller creature can be attached to the front of the shield by wedging it in the lion’s teeth. The user can spend an action to activate this head and will gain the benefit of one of the creature’s traits for five rounds. Spellcasting of any kind will not work. This ability can only be used once per day. Once used, the head disintegrates into ash.",
+    "While holding this shield, the user has advantage on initiative rolls and Wisdom (Perception) checks. In addition, while holding this shield the user can also understand and speak the Draconic tongue."
+   ],
+   "bron": "OotD App. G",
+   "nl": "Beschadigd (Graxis): magie werkt niet tot Volkan het herstelt in de Mithral Forge met Pythor's Hammer.",
+   "al": [
+    "Shield of Volkan"
+   ]
+  },
+  "greatclub-of-the-cyclopes": {
+   "n": "Greatclub of the Cyclopes",
+   "t": "Weapon, greatclub",
+   "r": "legendary",
+   "att": "",
+   "tx": [
+    "You gain a +1 bonus to attack and damage rolls with this magic weapon. When you perform a critical hit with this weapon, your target must succeed on a DC 16 Strength saving throw or be knocked prone and become stunned until the end of its next turn."
+   ],
+   "bron": "OotD App. G"
+  },
+  "hags-loom": {
+   "n": "Hag's Loom",
+   "t": "Wondrous item",
+   "r": "very rare",
+   "att": "requires attunement",
+   "tx": [
+    "This magical loom weighs 1000 pounds and is used to divine the future. The loom can cast a commune spell once per day, but this takes an hour, as the answer must be woven into cloth made by the loom.",
+    "In addition to its divination powers, certain individuals can also use the loom to create magic items. There is, however, only a 1% chance for any individual to have this power. The loom can only be used to weave each of the magic items on the table below. The person weaving the magic items must have all of the appropriate components. The Doomed One also has the power to use this loom. Once all three items have been woven the loom becomes non-magical."
+   ],
+   "bron": "OotD App. G",
+   "nl": "Recepten (App. G): Armor of Invulnerability (10 dagen, 20.000 gp, golden lion hide + gorgon blood), Cloak of Invisibility en Robe of the Archmagi (10 dagen, 20.000 gp, golden fleece + gorgon blood). Canon: Orelles artefact wordt aan dit weefgetouw van de Fates gemaakt.",
+   "al": [
+    "Fates' loom",
+    "weefgetouw van de Fates"
+   ]
+  },
+  "headband-of-intellect": {
+   "n": "Headband of Intellect",
+   "t": "Wondrous item",
+   "r": "uncommon",
+   "att": "requires attunement",
+   "tx": [
+    "Your Intelligence score is 19 while you wear this headband. It has no effect on you if your Intelligence is already 19 or higher."
+   ],
+   "bron": "SRD 5.1",
+   "nl": "De troglodietenkoning (F9) draagt hem al meer dan een eeuw."
+  },
+  "helm-of-darkness": {
+   "n": "Helm of Darkness",
+   "t": "Wondrous item",
+   "r": "legendary",
+   "att": "requires attunement",
+   "tx": [
+    "Magical darkness spreads from the helmet when it is worn and fills a 15-foot-radius sphere; the darkness will even spread around corners. A creature with darkvision can’t see through the Helm’s darkness, and nonmagical light will not pierce it. The magical darkness is not dispelled by light from magical effects. The Helm’s wearer, on the other hand, has darkvision to a range of 60 feet. This darkvision is not affected by darkness from the helmet or another source.",
+    "Completely covering the helmet with something opaque blocks the darkness: think of the darkness as “negative light”."
+   ],
+   "bron": "OotD App. G"
+  },
+  "horn-of-balmytria": {
+   "n": "Horn of Balmytria",
+   "t": "Wondrous item",
+   "r": "rare",
+   "att": "requires attunement",
+   "tx": [
+    "This horn was fashioned from one of the horns of Balmytria. It has two command words: one produces delicious food, along with water and wine, in a sufficient quantity to keep six Medium-sized creatures well fed for a day. If wine is drunk from the horn it can sometimes (at your discretion) induce a deep sleep with dreams that will reveal possible futures.",
+    "The second command word produces a paralyzing, mercurial vapor. Once per day, you may use an action to create a cloud within 60 ft. of you. The cloud starts with a 5 ft. radius, which increases by 5 ft. each round to a maximum of 30 ft. Any creature that starts its turn in the mist must make a DC 14 Constitution saving throw or be paralyzed until the start of its next turn."
+   ],
+   "bron": "OotD App. G",
+   "nl": "Aesop liet de helden zweren de Hoorn naar Queen Vallus in Mytros te brengen, niet naar Acastus."
+  },
+  "instant-fortress": {
+   "n": "Instant Fortress",
+   "t": "Wondrous item",
+   "r": "rare",
+   "att": "",
+   "tx": [
+    "You can use an action to place this 1-inch metal cube on the ground and speak its command word. The cube rapidly grows into a fortress that remains until you use an action to speak the command word that dismisses it, which works only if the fortress is empty.",
+    "The fortress is a square tower, 20 feet on a side and 30 feet high, with arrow slits on all sides and a battlement atop it. Its interior is divided into two floors, with a ladder running along one wall to connect them. The ladder ends at a trapdoor leading to the roof. When activated, the tower has a small door on the side facing you. The door opens only at your command, which you can speak as a bonus action. It is immune to the knock spell and similar magic, such as that of a chime of opening.",
+    "Each creature in the area where the fortress appears must make a DC 15 Dexterity saving throw, taking 10d10 bludgeoning damage on a failed save, or half as much damage on a successful one. In either case, the creature is pushed to an unoccupied space outside but next to the fortress. Objects in the area that aren't being worn or carried take this damage and are pushed automatically.",
+    "The tower is made of adamantine, and its magic prevents it from being tipped over. The roof, the door, and the walls each have 100 hit points, immunity to damage from nonmagical weapons excluding siege weapons, and resistance to all other damage. Only a wish spell can repair the fortress (this use of the spell counts as replicating a spell of 8th level or lower). Each casting of wish causes the roof, the door, or one wall to regain 50 hit points."
+   ],
+   "bron": "SRD 5.1",
+   "door": "Gifted One (Wauros): the Fortress of the Dragonlords.",
+   "voor": [
+    "Wauros"
+   ],
+   "ootd": "To found a new order of Dragonlords. To do so you must find the Fortress of the Dragonlords. This fortress is the magical item instant fortress.",
+   "nl": "Ligt in de schathoop van Helios (Garden of Helios, Act 3).",
+   "al": [
+    "Fortress of the Dragonlords",
+    "instant fortress"
+   ]
+  },
+  "instruments-of-the-muse": {
+   "n": "Instruments of the Muse",
+   "t": "Wondrous item",
+   "r": "rare",
+   "att": "requires attunement by a bard",
+   "tx": [
+    "These instruments were crafted by the forge god Volkan for his daughter, Kyrah. Each instrument is simple but elegant, designed so as not to attract unwanted attention, because the goddess of music loves to travel in disguise as a common bard. However, when played, the instruments produce rapturous melodies, owing to the fact that they are crafted from the hair of nymphs. The following table lists the spells common to all the instruments, as well as the spells that are specific to each instrument. You can use an action to play the instrument and cast one of its spells. Once the instrument has been used to cast a spell, it can't be used to cast that spell again until the next dawn. The spells use your spellcasting ability and spell save DC. When you use the instrument to cast a spell as a source or as a focus, your spell save DC is increased by 2.",
+    "| Instrument | Spells |",
+    "|---|---|",
+    "| All | jump, invisibility, levitate |",
+    "| Boreal harp | control weather, conjure animals |",
+    "| Euros lyre | sleep (4th level), counterspell (3rd level) |",
+    "| Notos kithara | zone of truth, magic circle |",
+    "| Zephyr lute | hold person, conjure elemental |"
+   ],
+   "bron": "OotD App. G"
+  },
+  "javelin-of-lightning": {
+   "n": "Javelin of Lightning",
+   "t": "Weapon (javelin)",
+   "r": "uncommon",
+   "att": "",
+   "tx": [
+    "This javelin is a magic weapon. When you hurl it and speak its command word, it transforms into a bolt of lightning, forming a line 5 feet wide that extends out from you to a target within 120 feet. Each creature in the line excluding you and the target must make a DC 13 Dexterity saving throw, taking 4d6 lightning damage on a failed save, and half as much damage on a successful one. The lightning bolt turns back into a javelin when it reaches the target. Make a ranged weapon attack against the target. On a hit, the target takes damage from the javelin plus 4d6 lightning damage.",
+    "The javelin's property can't be used again until the next dawn. In the meantime, the javelin can still be used as a magic weapon."
+   ],
+   "bron": "SRD 5.1",
+   "al": [
+    "javelin of lightning",
+    "javelins of lightning"
+   ],
+   "nl": "Thericles' familie-erfstuk (beloning voor Corinna). Gaius draagt er drie."
+  },
+  "luck-blade": {
+   "n": "Luck Blade",
+   "t": "Weapon (any sword)",
+   "r": "legendary",
+   "att": "requires attunement",
+   "tx": [
+    "You gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you also gain a +1 bonus to saving throws.",
+    "***Luck.*** If the sword is on your person, you can call on its luck (no action required) to reroll one attack roll, ability check, or saving throw you dislike. You must use the second roll. This property can't be used again until the next dawn.",
+    "***Wish.*** The sword has 1d4 - 1 charges. While holding it, you can use an action to expend 1 charge and cast the wish spell from it. This property can't be used again until the next dawn. The sword loses this property if it has no charges."
+   ],
+   "bron": "SRD 5.1",
+   "nl": "Demi-God-pad (vrij). Te maken met Pythor's Hammer."
+  },
+  "madon-fungus": {
+   "n": "Madon Fungus",
+   "t": "Fungus (Mossy Temple, T9)",
+   "r": "",
+   "att": "",
+   "bron": "OotD ch. 2 (T9)",
+   "tx": [
+    "This cavern is filled with the Madon fungus which doesn’t require sunlight to grow. The Madon is famed for its use in the making of the truth serum poison. It is also used as a recreational drug. When eaten, it causes a state of euphoria that lasts for hours.",
+    "Heroes with proficiency in Nature will recognize the Madon fungus and realize its usefulness in making the truth serum poison. Proficiency in Medicine is required to recognize that the fungus needs to be harvested in a particular way to avoid spoiling its effectiveness. Every hour spent harvesting the fungus gives enough material to make a single dose of truth serum poison. There is enough harvestable fungus for 12 doses."
+   ],
+   "al": [
+    "Madon-paddenstoelen",
+    "Madon fungus",
+    "Madon"
+   ]
+  },
+  "mithral-armor": {
+   "n": "Mithral Armor",
+   "t": "Armor (medium or heavy)",
+   "r": "uncommon",
+   "att": "",
+   "tx": [
+    "Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn't."
+   ],
+   "bron": "SRD 5.1",
+   "al": [
+    "mithral breastplate",
+    "mithral chain shirt",
+    "mithral ringmail",
+    "Mithral Armor"
+   ]
+  },
+  "mithral-chakram-1": {
+   "n": "Mithral Chakram +1",
+   "t": "Weapon, chakram",
+   "r": "uncommon",
+   "att": "",
+   "tx": [
+    "This mithral-forged, bladed circular disc is an unusual thrown weapon. It glides through the air, slicing through anything in its path before returning to the thrower. Attacks made with this weapon have a +1 bonus to attack and damage rolls. When you miss an attack with this weapon, you may try the same attack roll against another creature within 10 feet of the first target."
+   ],
+   "bron": "OotD App. G"
+  },
+  "mithral-dorata-1": {
+   "n": "Mithral Dorata +1",
+   "t": "Weapon, spear",
+   "r": "uncommon",
+   "att": "",
+   "tx": [
+    "These mithral-forged spears are designed to be carried together, with one to be used for throwing and one to be used for close-quarters combat.",
+    "Attacks made with this weapon have a +1 bonus to attack and damage rolls. You do not suffer disadvantage on ranged attacks due to enemies in close proximity when you are wielding this weapon."
+   ],
+   "bron": "OotD App. G"
+  },
+  "mithral-honorblade-1": {
+   "n": "Mithral Honorblade +1",
+   "t": "Weapon, greatsword",
+   "r": "very rare",
+   "att": "",
+   "tx": [
+    "This oversized, mithral-forged makhaira was designed by ancient jancan smiths. Although it seems much too large for a human, the warrior monks of Aresia have been known to specialize in the use of honorblades. Attacks made with this weapon have a +1 bonus to attack and damage rolls. Whenever this magic weapon hits a creature wielding a non-magical shield, that shield is instantly destroyed."
+   ],
+   "bron": "OotD App. G"
+  },
+  "mithral-kopis-1": {
+   "n": "Mithral Kopis +1",
+   "t": "Weapon, shortsword",
+   "r": "uncommon",
+   "att": "",
+   "tx": [
+    "This mithral-forged, forward-curving shortsword is heavier along the end of the blade. This gives it more cutting power than most shortswords.",
+    "Attacks made with this weapon have a +1 bonus to attack and damage rolls. When you make an attack with this sword, you may choose to have it inflict piercing or slashing damage."
+   ],
+   "bron": "OotD App. G",
+   "al": [
+    "mithral kopis +1"
+   ]
+  },
+  "mithral-makhaira-1": {
+   "n": "Mithral Makhaira +1",
+   "t": "Weapon, longsword",
+   "r": "uncommon",
+   "att": "",
+   "tx": [
+    "This mithral-forged longsword has a single curved blade with a flat edge along the top. It is heavier than most longswords, making it more effective while mounted. Attacks made with this weapon have a +1 bonus to attack and damage rolls. When you attack with this blade while you are mounted, it does an additional d4 slashing damage on hit."
+   ],
+   "bron": "OotD App. G"
+  },
+  "mithral-xiphos-1": {
+   "n": "Mithral Xiphos +1",
+   "t": "Weapon, dagger",
+   "r": "uncommon",
+   "att": "",
+   "tx": [
+    "This mithral-forged dagger has a straight, leaf-shaped blade, which is excellent for thrusting and piercing between shields in phalanx formations.",
+    "Attacks made with this weapon have a +1 bonus to attack and damage rolls. When you make an attack with this weapon, you ignore any AC that the enemy gains from wielding a shield."
+   ],
+   "bron": "OotD App. G",
+   "al": [
+    "mithral xiphos +1"
+   ]
+  },
+  "necklace-of-fireballs": {
+   "n": "Necklace of Fireballs",
+   "t": "Wondrous item",
+   "r": "rare",
+   "att": "",
+   "tx": [
+    "This necklace has 1d6 + 3 beads hanging from it. You can use an action to detach a bead and throw it up to 60 feet away. When it reaches the end of its trajectory, the bead detonates as a 3rd-level fireball spell (save DC 15).",
+    "You can hurl multiple beads, or even the whole necklace, as one action. When you do so, increase the level of the fireball by 1 for each bead beyond the first."
+   ],
+   "bron": "SRD 5.1",
+   "nl": "Claus verkoopt er een met nog één kraal (1 gp). Gestolen uit Telamok: wie koopt, krijgt de curse of the graverobber."
+  },
+  "nine-lives-stealer": {
+   "n": "Nine Lives Stealer",
+   "t": "Weapon (any sword)",
+   "r": "very rare",
+   "att": "requires attunement",
+   "tx": [
+    "You gain a +2 bonus to attack and damage rolls made with this magic weapon.",
+    "The sword has 1d8 + 1 charges. If you score a critical hit against a creature that has fewer than 100 hit points, it must succeed on a DC 15 Constitution saving throw or be slain instantly as the sword tears its life force from its body (a construct or an undead is immune). The sword loses 1 charge if the creature is slain. When the sword has no charges remaining, it loses this property."
+   ],
+   "bron": "SRD 5.1",
+   "nl": "Acastus' shortsword (5 charges).",
+   "al": [
+    "nine lives stealer"
+   ]
+  },
+  "palladium": {
+   "n": "Palladium",
+   "t": "Wondrous item",
+   "r": "legendary",
+   "att": "",
+   "tx": [
+    "This artifact bestows magical protection upon any city or ship that enshrines it. Enshrining the Palladium within a city or ship requires seven days of devoted prayer by a priest. Sacrifices are sometimes offered to expedite this process. Once the artifact is enshrined, it bestows its full protection. However, if the artifact is ever moved by more than an inch, the protective effects end.",
+    "Protected Cities. The city walls have resistance to all damage types. Siege weapons mounted on the city walls have advantage on all attacks.",
+    "Protected Ships. The ship's hull has resistance to all damage types. Siege weapons mounted on the deck of the ship have advantage on all attacks.",
+    "Forbiddance. The city is protected by the effects of the forbiddance spell, preventing teleportation into or out of the city, as defined by its walls."
+   ],
+   "bron": "OotD App. G"
+  },
+  "pegasus-bridle": {
+   "n": "Pegasus Bridle",
+   "t": "Wondrous item",
+   "r": "rare",
+   "att": "requires attunement",
+   "tx": [
+    "This golden bridle may be used to tame a pegasus, so that the mythical creature may be used as a flying mount. Once the pegasus has been bridled, it may only be commanded by the character who is attuned to this item."
+   ],
+   "bron": "OotD App. G"
+  },
+  "potion-of-aging": {
+   "n": "Potion of Aging",
+   "t": "Wondrous item",
+   "r": "legendary",
+   "att": "",
+   "bron": "OotD App. G",
+   "tx": [
+    "This cloudy blue potion was brewed from the blood of a living god. For each droplet that a creature drinks from this potion, the creature physically ages by one year. Creatures with shorter lifespans, such as humans, should be cautious when drinking this potion.",
+    "Brewing the potion is a long process that requires one droplet of divine blood to be added each year for many years. Such potions are always designated with the number of years that it took to brew them. For example, a potion of aging (25 years) contains 25 droplets."
+   ],
+   "nl": "Acastus liet Icarus hiermee versneld opgroeien."
+  },
+  "potion-of-healing": {
+   "n": "Potion of Healing",
+   "t": "Potion",
+   "r": "varies",
+   "att": "",
+   "tx": [
+    "You regain hit points when you drink this potion. The number of hit points depends on the potion's rarity, as shown in the Potions of Healing table. Whatever its potency, the potion's red liquid glimmers when agitated.",
+    "Potions of Healing (table)",
+    "| Potion of ... | Rarity | HP Regained |",
+    "|---|---|---|",
+    "| Healing | Common | 2d4 + 2 |",
+    "| Greater healing | Uncommon | 4d4 + 4 |",
+    "| Superior healing | Rare | 8d4 + 8 |",
+    "| Supreme healing | Very rare | 10d4 + 20 |"
+   ],
+   "bron": "SRD 5.1",
+   "al": [
+    "Potions of Healing",
+    "Healing Potion",
+    "potion of healing"
+   ]
+  },
+  "potion-of-heroism": {
+   "n": "Potion of Heroism",
+   "t": "Potion",
+   "r": "rare",
+   "att": "",
+   "tx": [
+    "For 1 hour after drinking it, you gain 10 temporary hit points that last for 1 hour. For the same duration, you are under the effect of the bless spell (no concentration required). This blue potion bubbles and steams as if boiling."
+   ],
+   "bron": "SRD 5.1",
+   "al": [
+    "potions of heroism",
+    "potion of heroism"
+   ],
+   "nl": "Hukar geeft er drie als beloning (bloed van zijn stam, gezegend door Sydon)."
+  },
+  "pythors-hammer": {
+   "n": "Pythor's Hammer",
+   "t": "Weapon (warhammer)",
+   "r": "legendary",
+   "att": "requires attunement",
+   "tx": [
+    "Attacks made with this weapon have a +1 bonus to attack and damage rolls. Once per day, you may instantly summon the hammer to your hand from any distance, and it teleports directly into your grasp. The hammer’s main purpose is to forge magical weapons and armor, and if used in such a fashion, the creation time is halved. Refer to the table below for crafting recipes."
+   ],
+   "bron": "OotD App. G",
+   "nl": "Recepten (App. G): Luck Blade (10 dagen, 20.000 gp, magisch zwaard + orb of star metal) en Rod of Lordly Might (10 dagen, 20.000 gp, magische mace + adamantine ingot). Steros' monocle kan de hamer vervangen.",
+   "al": [
+    "Pythor's hammer",
+    "Pythors hamer"
+   ]
+  },
+  "repeating-shot": {
+   "n": "Repeating Shot",
+   "t": "Artificer infusion (weapon)",
+   "r": "",
+   "att": "requires attunement",
+   "bron": "niet in SRD 5.1 (samenvatting)",
+   "tx": [],
+   "nl": "Samenvatting (geen SRD-tekst): artificer-infusie op een wapen met ammunition. +1 op aanval en schade, de ammunition-eigenschap wordt genegeerd (hij laadt zichzelf) en zonder munitie maakt hij er zelf een.",
+   "al": [
+    "Repeating Shot Shortbow"
+   ]
+  },
+  "ring-of-feather-falling": {
+   "n": "Ring of Feather Falling",
+   "t": "Ring",
+   "r": "rare",
+   "att": "requires attunement",
+   "tx": [
+    "When you fall while wearing this ring, you descend 60 feet per round and take no damage from falling."
+   ],
+   "bron": "SRD 5.1"
+  },
+  "ring-of-protection": {
+   "n": "Ring of Protection",
+   "t": "Ring",
+   "r": "rare",
+   "att": "requires attunement",
+   "tx": [
+    "You gain a +1 bonus to AC and saving throws while wearing this ring."
+   ],
+   "bron": "SRD 5.1",
+   "al": [
+    "Demetria's ring"
+   ],
+   "door": "Haunted One (Apollodorus): lesser family artifact, a signet ring worn by members of the lost family.",
+   "ootd": "(Lesser) Ring of Protection: this signet ring was worn by members of your lost family.",
+   "voor": [
+    "Apollodorus"
+   ],
+   "nl": "Sessie 6: Apollodorus nam Demetria's ring = deze Ring of Protection. Bij attunement: familiestemmen, Clovis het luidst."
+  },
+  "ring-of-resistance-fire": {
+   "n": "Ring of Resistance (Fire)",
+   "t": "Ring",
+   "r": "rare",
+   "att": "requires attunement",
+   "tx": [
+    "You have resistance to one damage type while wearing this ring. The gem in the ring indicates the type, which the GM chooses or determines randomly.",
+    "| d10 | Damage Type | Gem |",
+    "|---|---|---|",
+    "| 1 | Acid | Pearl |",
+    "| 2 | Cold | Tourmaline |",
+    "| 3 | Fire | Garnet |",
+    "| 4 | Force | Sapphire |",
+    "| 5 | Lightning | Citrine |",
+    "| 6 | Necrotic | Jet |",
+    "| 7 | Poison | Amethyst |",
+    "| 8 | Psychic | Jade |",
+    "| 9 | Radiant | Topaz |",
+    "| 10 | Thunder | Spinel |"
+   ],
+   "bron": "SRD 5.1",
+   "door": "Dragonslayer (Kyrenos): only you can attune to this ring.",
+   "voor": [
+    "Kyrenos"
+   ],
+   "ootd": "(Lesser) Ring of Resistance—Fire: only you can attune to this ring.",
+   "nl": "Resistance tegen fire (garnet). Gemaakt in de Mithral Forge (Forgekeeper).",
+   "al": [
+    "Ring of Resistance (Fire)",
+    "Ring of Resistance - Fire",
+    "Ring of Resistance—Fire",
+    "Ring of Fire Resistance"
+   ]
+  },
+  "rod-of-lordly-might": {
+   "n": "Rod of Lordly Might",
+   "t": "Rod",
+   "r": "legendary",
+   "att": "requires attunement",
+   "tx": [
+    "This rod has a flanged head, and it functions as a magic mace that grants a +3 bonus to attack and damage rolls made with it. The rod has properties associated with six different buttons that are set in a row along the haft. It has three other properties as well, detailed below.",
+    "***Six Buttons.*** You can press one of the rod's six buttons as a bonus action. A button's effect lasts until you push a different button or until you push the same button again, which causes the rod to revert to its normal form.",
+    "If you press **button 1**, the rod becomes a flame tongue, as a fiery blade sprouts from the end opposite the rod's flanged head.",
+    "If you press **button 2**, the rod's flanged head folds down and two crescent-shaped blades spring out, transforming the rod into a magic battleaxe that grants a +3 bonus to attack and damage rolls made with it.",
+    "If you press **button 3**, the rod's flanged head folds down, a spear point springs from the rod's tip, and the rod's handle lengthens into a 6-foot haft, transforming the rod into a magic spear that grants a +3 bonus to attack and damage rolls made with it.",
+    "If you press **button 4**, the rod transforms into a climbing pole up to 50 feet long, as you specify. In surfaces as hard as granite, a spike at the bottom and three hooks at the top anchor the pole. Horizontal bars 3 inches long fold out from the sides, 1 foot apart, forming a ladder. The pole can bear up to 4,000 pounds. More weight or lack of solid anchoring causes the rod to revert to its normal form.",
+    "If you press **button 5**, the rod transforms into a handheld battering ram and grants its user a +10 bonus to Strength checks made to break through doors, barricades, and other barriers.",
+    "If you press **button 6**, the rod assumes or remains in its normal form and indicates magnetic north. (Nothing happens if this function of the rod is used in a location that has no magnetic north.) The rod also gives you knowledge of your approximate depth beneath the ground or your height above it.",
+    "***Drain Life.*** When you hit a creature with a melee attack using the rod, you can force the target to make a DC 17 Constitution saving throw. On a failure, the target takes an extra 4d6 necrotic damage, and you regain a number of hit points equal to half that necrotic damage. This property can't be used again until the next dawn.",
+    "***Paralyze.*** When you hit a creature with a melee attack using the rod, you can force the target to make a DC 17 Strength saving throw. On a failure, the target is paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on a success. This property can't be used again until the next dawn.",
+    "***Terrify.*** While holding the rod, you can use an action to force each creature you can see within 30 feet of you to make a DC 17 Wisdom saving throw. On a failure, a target is frightened of you for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. This property can't be used again until the next dawn."
+   ],
+   "bron": "SRD 5.1",
+   "nl": "Demi-God-pad (vrij). Te maken met Pythor's Hammer."
+  },
+  "rod-of-rulership": {
+   "n": "Rod of Rulership",
+   "t": "Rod",
+   "r": "rare",
+   "att": "requires attunement",
+   "tx": [
+    "You can use an action to present the rod and command obedience from each creature of your choice that you can see within 120 feet of you. Each target must succeed on a DC 15 Wisdom saving throw or be charmed by you for 8 hours. While charmed in this way, the creature regards you as its trusted leader. If harmed by you or your companions, or commanded to do something contrary to its nature, a target ceases to be charmed in this way. The rod can't be used again until the next dawn."
+   ],
+   "bron": "SRD 5.1",
+   "nl": "Acastus draagt er een."
+  },
+  "scimitar-of-speed": {
+   "n": "Scimitar of Speed",
+   "t": "Weapon (scimitar)",
+   "r": "very rare",
+   "att": "requires attunement",
+   "tx": [
+    "You gain a +2 bonus to attack and damage rolls made with this magic weapon. In addition, you can make one attack with it as a bonus action on each of your turns."
+   ],
+   "bron": "SRD 5.1",
+   "nl": "Gebruikt als voorstel voor de \"short sword of quickness\" (X4)."
+  },
+  "scythe-of-lutheria": {
+   "n": "Scythe of Lutheria",
+   "t": "Weapon (scythe)",
+   "r": "legendary",
+   "att": "requires attunement",
+   "tx": [
+    "Attacks made with this weapon have a +1 bonus to attack and damage rolls. If critical hit is scored against a creature that has fewer than 100 hit points, it must make a DC15 Constitution saving throw or be slain instantly; constructs and the undead are immune to this effect. When a creature is slain in this manner, the user feels a surge of dark pleasure that entices them to become evil. On the second and subsequent slaying the user must make a DC15 Charisma saving throw or their alignment changes to evil. Affiliation to Law or Chaos is unchanged. Only a wish spell can undo this alignment change."
+   ],
+   "bron": "OotD App. G"
+  },
+  "short-sword-of-quickness": {
+   "n": "Short Sword of Quickness",
+   "t": "Weapon (shortsword)",
+   "r": "",
+   "att": "",
+   "bron": "OotD ch. 2 (X4), geen regeltekst",
+   "tx": [],
+   "nl": "Het boek geeft hiervoor geen regels. Voorstel: speel hem als Scimitar of Speed (shortsword). GEWIJD graf: curse of the graverobber."
+  },
+  "shortbow-of-cupidity": {
+   "n": "Shortbow of Cupidity",
+   "t": "Weapon (shortbow)",
+   "r": "legendary",
+   "att": "requires attunement",
+   "tx": [
+    "Attacks made with this weapon have a +1 bonus to attack and damage rolls. Once per day, on a successful hit, you may force the target to make a DC 14 Wisdom saving throw. On a failure, the target is charmed by you for one hour."
+   ],
+   "bron": "OotD App. G",
+   "nl": "Sessie 6: Kyrenos nam hem van Demetria."
+  },
+  "staff-of-charming": {
+   "n": "Staff of Charming",
+   "t": "Staff",
+   "r": "rare",
+   "att": "requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard",
+   "tx": [
+    "While holding this staff, you can use an action to expend 1 of its 10 charges to cast charm person, command, or comprehend languages from it using your spell save DC. The staff can also be used as a magic quarterstaff.",
+    "If you are holding the staff and fail a saving throw against an enchantment spell that targets only you, you can turn your failed save into a successful one. You can't use this property of the staff again until the next dawn. If you succeed on a save against an enchantment spell that targets only you, with or without the staff's intervention, you can use your reaction to expend 1 charge from the staff and turn the spell back on its caster as if you had cast the spell.",
+    "The staff regains 1d8 + 2 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff becomes a nonmagical quarterstaff."
+   ],
+   "bron": "SRD 5.1",
+   "nl": "Graf van Isadore (X9): GEWIJD, wie de staf neemt krijgt de curse of the graverobber."
+  },
+  "sunril-berry": {
+   "n": "Sunril Berry",
+   "t": "Plant (Mossy Temple, T8)",
+   "r": "",
+   "att": "",
+   "bron": "OotD ch. 2 (T8)",
+   "tx": [
+    "Sunril Berry Bush. The berries from this legendary bush have the same effect as goodberries. Thirty berries can be harvested from the bush. The berries are easy to harvest, but they will spoil in 24 hours."
+   ],
+   "al": [
+    "Sunril-bessen",
+    "Sunril berries",
+    "Sunril-bes"
+   ]
+  },
+  "the-promethean-fire": {
+   "n": "The Promethean Fire",
+   "t": "Weapon (spear)",
+   "r": "legendary",
+   "att": "requires attunement",
+   "tx": [
+    "This spear was crafted from the Great Tree of Thylea and set ablaze with the fires of creation. When attuning with this item, you may transform it into any martial or simple weapon of your choice. The new weapon has all the same magical properties.",
+    "Attack Bonus. Attacks made with this weapon have a +3 bonus to attack and damage rolls. Regardless of the form that this weapon takes, its damage type is fire. Radiant Light. The weapon radiates a blazing light out to 60 feet. This light is sunlight.",
+    "Transmutation Spells. The weapon has 5 charges. It regains 1d4 + 1 expended charges daily at dawn. Spells cast from this weapon have a save DC of 17. You can use this weapon to cast the following spells: awaken (3 charges), fabricate (2 charges), plant growth (2 charges), stone shape (2 charges)."
+   ],
+   "bron": "OotD App. G"
+  },
+  "titansbane-blade-of-talieus": {
+   "n": "Titansbane, Blade of Talieus",
+   "t": "Weapon (longsword)",
+   "r": "legendary",
+   "att": "requires attunement",
+   "tx": [
+    "Attacks made with this weapon have a +2 bonus to attack and damage rolls. When a giant or celestial is hit by this weapon, the creature takes an extra 2d6 necrotic damage. Gygans and cyclopes are also affected.",
+    "Titansbane is sentient and wishes to be returned to its master. It was forged by Talieus, the ancient titan who pulls Lutheria’s barge. It was wielded against Sydon by Hergeron and then lost in the War of the Titans."
+   ],
+   "bron": "OotD App. G"
+  },
+  "toga-praetexta": {
+   "n": "Toga Praetexta",
+   "t": "Wondrous item",
+   "r": "uncommon",
+   "att": "",
+   "tx": [
+    "This white, woolen cloth toga has broad purple stripes along its border, and it drapes fashionably across the body when worn. It has been purified by priests through ritual processions and sacrifices on the night of the new moon. While wearing the toga, you have proficiency in Charisma saving throws. Additionally, once per day, when you fail a Charisma check to influence a crowd of people, you may flourish your toga to impress the crowd and re-roll that check."
+   ],
+   "bron": "OotD App. G"
+  },
+  "wand-of-conducting": {
+   "n": "Wand of Conducting",
+   "t": "Wand",
+   "r": "common",
+   "att": "",
+   "bron": "niet in SRD 5.1 (samenvatting)",
+   "tx": [],
+   "nl": "Samenvatting (geen SRD-tekst): een wand met een paar charges die bij het dirigeren een kort orkestmuziekje laat klinken. Geen gevechtseffect."
+  },
+  "weapon-1": {
+   "n": "Weapon, +1",
+   "t": "Weapon (any)",
+   "r": "uncommon",
+   "att": "",
+   "tx": [
+    "You have a +1 bonus to attack and damage rolls made with this magic weapon."
+   ],
+   "bron": "SRD 5.1",
+   "al": [
+    "Weapon +1"
+   ]
+  },
+  "wheel-of-fortune": {
+   "n": "Wheel of Fortune",
+   "t": "Wondrous item",
+   "r": "legendary",
+   "att": "",
+   "tx": [
+    "This is a 6-foot-tall bronze wheel that has been set on a stand so that it can easily be spun. Along the wheel are inscriptions showing each of Thylea’s major constellations. At the top of the wheel is the symbol of the mother goddess, pointing down. When the wheel is spun, a magical effect occurs depending upon which of the inscriptions the mother goddess is pointing at. Any effect, magical or otherwise, that would make the spinning of the wheel not random removes all of the wheel’s magic until the dawn of the next day. A creature may only spin the wheel of fortune once per day (24-hour period). Refer to the table on the next page for the effects of the wheel."
+   ],
+   "bron": "OotD App. G"
+  },
+  "xiphos-of-slaughter": {
+   "n": "Xiphos of Slaughter",
+   "t": "Weapon (dagger)",
+   "r": "very rare",
+   "att": "requires attunement",
+   "tx": [
+    "Centuries ago, the Dragonlord Estor Arkelander defeated a gygan smith in single combat and forced the cyclops into his service. He demanded that the cyclops forge him a weapon that would drench all the shores of Thylea in blood. The gygan complied, crafting this bronze dagger. Estor anointed the weapon by slaughtering the smith and his family. The weapon is stained deep red.",
+    "You gain a +2 bonus to attack and damage rolls made with this magic weapon.",
+    "Cursed. This dagger is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the dagger, keeping it within reach at all times. You also have disadvantage on attack rolls with weapons other than this one. At the beginning of your turn in combat, you must use your actions to attack the nearest creature at least once. If you have multiple possible targets, you attack one at random. At the end of your turn in combat, if you did not inflict damage on any creature this turn, you suffer 1d10 psychic damage."
+   ],
+   "bron": "OotD App. G",
+   "nl": "Estor eist hem als eerste keuze uit de schat in de Nether Sea."
+  }
+ }
+}

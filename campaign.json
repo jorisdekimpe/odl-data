@@ -630,25 +630,70 @@
       "title": "The Three Great Labors",
       "status": "active",
       "desc": "Given by Oracle: (1) Horn of Balmytria — Mossy Temple. (2) Mithral Forge. (3) Weapons of the Dragonlords — Necropolis. [Sessie 4] Mossy Temple binnengegaan; Hoorn nog niet gevonden. [Sessie 5] T4-T12 gedaan (tot en met de Nursing Chamber); Hoorn ligt in T15, nog niet bereikt. [Sessie 6] Labour 1 voltooid: Demetria gedood, Horn of Balmytria teruggehaald en gedronken. Aesop gaf de munt voor Telamok. Aesop vroeg de Hoorn in Mytros aan Vallus te geven, niet aan Acastus, en het graf van Adonis Neurdagon in Telamok met rust te laten.",
-      "con": "Must complete all three to unlock the City of Mytros (Act 2)."
+      "con": "Must complete all three to unlock the City of Mytros (Act 2).",
+      "items": [
+        {
+          "n": "Horn of Balmytria",
+          "mi": "horn-of-balmytria",
+          "id": "a1-mossy:horn-of-balmytria"
+        },
+        {
+          "n": "Axe of Xander",
+          "mi": "axe-of-xander",
+          "id": "x24:axe-of-xander"
+        },
+        {
+          "n": "Breastplate of Mytros",
+          "mi": "breastplate-of-mytros",
+          "id": "x24:breastplate-of-mytros"
+        },
+        {
+          "n": "Golden Shield of Volkan",
+          "mi": "golden-shield-of-volkan",
+          "id": "x24:golden-shield-of-volkan"
+        }
+      ]
     },
     {
       "title": "Two Dream Labors: Ultros + Antikythera",
       "status": "active",
       "desc": "Revealed in a dream after drinking the Horn. Find the ghost ship Ultros and the Antikythera navigation device. [Sessie 6] Uit de Hoorn gedronken: visioen van een wijde zee en een vreemd bronzen toestel dat een sterrenbeeld weerspiegelt. Aesop duidde het: de Ultros (Estor Arkelanders vervloekte galei, dode roeiers) en de Antikythera (kompas voor onbekende zeeën); hij vermoedt dat Acastus van de Ultros weet.",
-      "con": "The Ultros unlocks Act 3. Antikythera needed to navigate the Cerulean Gulf."
+      "con": "The Ultros unlocks Act 3. Antikythera needed to navigate the Cerulean Gulf.",
+      "items": [
+        {
+          "n": "Antikythera Device",
+          "mi": "antikythera-device",
+          "x": "Vindplaats in Act 2.",
+          "id": "antikythera-device"
+        }
+      ]
     },
     {
       "title": "Rescue Princess Anora",
       "status": "active",
       "desc": "Pythor's daughter is being sacrificed to Sydon. Pythor will not help with the Labors until she is safe.",
-      "con": "Without Pythor's guidance the Labors are harder and the party misses crucial lore."
+      "con": "Without Pythor's guidance the Labors are harder and the party misses crucial lore.",
+      "items": [
+        {
+          "n": "Pythor's Hammer",
+          "mi": "pythors-hammer",
+          "id": "a1-feest:pythors-hammer"
+        }
+      ]
     },
     {
       "title": "Gaius and the Order of Sydon",
       "status": "hidden",
       "desc": "Recurring villain from Act 1. Rides silver dragon Argyn. Has the Vanished One's armor. Base on Island of Yonder. [Beslist 25/10] Gaius' centaurenaanval komt onderweg naar de volgende labour.",
-      "con": "Keeps sending forces and blocking progress unless confronted."
+      "con": "Keeps sending forces and blocking progress unless confronted.",
+      "items": [
+        {
+          "n": "Cloak of the Bat",
+          "mi": "cloak-of-the-bat",
+          "x": "Dragini's harnas, in Gaius' kamer op Yonder.",
+          "id": "cloak-of-the-bat"
+        }
+      ]
     },
     {
       "title": "Acastus's secret betrayal",
@@ -678,7 +723,15 @@
       "title": "Helios - Kyrenos' doelwit (canon)",
       "status": "active",
       "desc": "De gouden draak Helios verbrandde Kyrenos' dorp omdat de Fates hem vertelden dat iemand daarvandaan hem zou doden. Adara stierf daardoor. Hij wacht al jaren op de Dragonslayer.",
-      "con": "Argyn is GEEN heroic task meer, maar blijft Gaius' rijdier op Yonder. Helios is metalliek: na de Dragonlord-eed is hij Kyrenos' 'bloed'. Garden of Helios is een dubbele climax met Wauros' vesting."
+      "con": "Argyn is GEEN heroic task meer, maar blijft Gaius' rijdier op Yonder. Helios is metalliek: na de Dragonlord-eed is hij Kyrenos' 'bloed'. Garden of Helios is een dubbele climax met Wauros' vesting.",
+      "items": [
+        {
+          "n": "Instant Fortress",
+          "mi": "instant-fortress",
+          "x": "In Helios' schathoop: Wauros' Fortress of the Dragonlords.",
+          "id": "instant-fortress"
+        }
+      ]
     },
     {
       "title": "Ophea leeft — vrijgekomen draad",
@@ -702,13 +755,35 @@
       "title": "De vergeten troonaanspraak",
       "status": "hidden",
       "desc": "De Greenbottles hadden een oude, waardeloos geworden aanspraak op de troon van Mytros — tot iemand hem gevaarlijk vond. Apollodorus weet dit niet. De Dancing Sword (bij de Amazonenkoningin) is het bewijs.",
-      "con": "Waarom Lutheria juist deze familie wiste. Maakt Apollodorus in Act 3+ een probleem voor Acastus."
+      "con": "Waarom Lutheria juist deze familie wiste. Maakt Apollodorus in Act 3+ een probleem voor Acastus.",
+      "items": [
+        {
+          "n": "Dancing Sword",
+          "mi": "dancing-sword",
+          "x": "Bevat de ziel van de stichter van de familie (bewijsstuk in Act 4).",
+          "id": "dancing-sword"
+        }
+      ]
     },
     {
       "title": "Yonder - drievoudige afrekening",
       "status": "hidden",
       "desc": "Drie persoonlijke lijnen + het tandwiel (beslist 28/09): Dragini's Cloak of the Bat in Gaius' kamer; Kyrenos' Dragonslayer-wapen dat Chondrus zelf aanbiedt als deel van zijn verraderlijke koopje; en Mikhael, Sirius' outsider-lotgenoot in de cellen, die een weg voorbij de Forgotten Sea kent. Het Antikythera-tandwiel (verguld kistje bij Chondrus) is de reden om er te zijn.",
-      "con": "Speel als meerdere scenes: aankomst en bibliotheek, Chondrus (tandwiel + koopje), de cellen en Gaius' kamer, dan Gaius & Argyn. Ox' Orde speelt niet hier. Argyn = verdorven, gewoon een vijand."
+      "con": "Speel als meerdere scenes: aankomst en bibliotheek, Chondrus (tandwiel + koopje), de cellen en Gaius' kamer, dan Gaius & Argyn. Ox' Orde speelt niet hier. Argyn = verdorven, gewoon een vijand.",
+      "items": [
+        {
+          "n": "Cloak of the Bat",
+          "mi": "cloak-of-the-bat",
+          "x": "Gaius' kamer.",
+          "id": "cloak-of-the-bat"
+        },
+        {
+          "n": "Dragonslayer",
+          "mi": "dragon-slayer",
+          "x": "Via de deal met Chondrus. Kan elk melee-wapen zijn.",
+          "id": "dragon-slayer"
+        }
+      ]
     },
     {
       "title": "The Five Gods' true nature",
@@ -775,7 +850,15 @@
       "status": "active",
       "desc": "Zolang Lutheria leeft richten al haar dienaren zich zichtbaar op Orelle: goatlings, jackalwere, lamia, maenads en alle vijandige undead. Canon zegt expliciet dat het moet opvallen. [Sessie 4] Zes goatlings focusten Orelle en haalden haar neer; Indy trekt nu zelf de conclusie dat Lutheria haar dood wil. [Sessie 5] Opnieuw zes goatlings op Orelle (ze vloog weg); Lorius verbond Demetria met Lutheria; de maenads lieten Dragini Orelle knock-out slaan. Indy legt het verband nu zelf hardop. [Sessie 6] Demetria bevestigde de halve doem: Lutheria kent Orelles naam, ze zal sterven door Lutheria of haar dienaren, enkel de Fates kennen het hele verhaal.",
       "con": "Doorlopende gratis spotlight vanaf Act 1. Indy heeft het patroon in sessie 4 zelf opgemerkt — Demetria kan nu de helft van de doem bevestigen.",
-      "log": []
+      "log": [],
+      "items": [
+        {
+          "n": "Breastplate of Invulnerability",
+          "mi": "breastplate-of-invulnerability",
+          "x": "Gemaakt aan het weefgetouw van de Fates (Act 3).",
+          "id": "breastplate-of-invulnerability"
+        }
+      ]
     },
     {
       "title": "De drie doden van Orelle",
@@ -789,7 +872,19 @@
       "status": "active",
       "desc": "Canon: Xander draagt twee crowns of the dragonlords en geeft er een aan de Vanished One en een aan de Gifted One.",
       "con": "Het kroonconflict tussen Dragini en Wauros bestaat niet. Beiden bedienen in dezelfde scene.",
-      "log": []
+      "log": [],
+      "items": [
+        {
+          "n": "Crown of the Dragonlords (Dragini)",
+          "mi": "crown-of-the-dragonlords",
+          "id": "x24:crown-of-the-dragonlords-dragini"
+        },
+        {
+          "n": "Crown of the Dragonlords (Wauros)",
+          "mi": "crown-of-the-dragonlords",
+          "id": "x24:crown-of-the-dragonlords-wauros"
+        }
+      ]
     },
     {
       "title": "Versi's jaloezie",
@@ -803,14 +898,51 @@
       "status": "hidden",
       "desc": "De draak die de spiegelgevangenis bewaakt geeft Dragini de schuld van zijn opsluiting; in diezelfde hoard ligt Sirius' schat en de Gem of Seeing.",
       "con": "Waanzin te genezen met 3x greater restoration, wat hij als aanval opvat. Twee heroic tasks in een gevecht waar praten mogelijk is. Herkent zijn eigen essentie in Reed ('jij hebt iets van mij') — zie 'Sirius' verspreide bemanning & de oorsprong van Smash'; dat kan het gesprek openen.",
-      "log": []
+      "log": [],
+      "items": [
+        {
+          "n": "Gem of Seeing",
+          "mi": "gem-of-seeing",
+          "x": "Sirius' item uit de schat.",
+          "id": "gem-of-seeing"
+        },
+        {
+          "n": "Edelstenen: diamant, robijn, saffier",
+          "q": 3,
+          "x": "10.000 gp per stuk.",
+          "id": "schat-edelstenen"
+        },
+        {
+          "n": "2.000 pp en 10.000 gp",
+          "id": "schat-munten"
+        },
+        {
+          "n": "Xiphos of Slaughter",
+          "mi": "xiphos-of-slaughter",
+          "x": "Estors eerste keuze. Vervloekt.",
+          "id": "xiphos-of-slaughter"
+        }
+      ]
     },
     {
       "title": "Ox' canon-keten",
       "status": "active",
       "desc": "Damon (gem of brightness) -> Lotuswitch op Scorpion Island (Belt of Fire Giant Strength) -> Typhon Island, de Maw, Hades, de weerloze voorouder bij een cerberus.",
       "con": "Twee nieuwe eilanden in Act 3. Damon is ook Wauros' eerste wizardhaat-confrontatie: speel dat als een scene, niet als twee.",
-      "log": []
+      "log": [],
+      "items": [
+        {
+          "n": "Gem of Brightness",
+          "mi": "gem-of-brightness",
+          "id": "x2:gem-of-brightness"
+        },
+        {
+          "n": "Belt of Fire Giant Strength",
+          "mi": "belt-of-fire-giant-strength",
+          "x": "Van de Lotuswitch op Scorpion Island (Act 3).",
+          "id": "belt-of-fire-giant-strength"
+        }
+      ]
     }
   ],
   "sessions": [
@@ -867,5 +999,133 @@
   "vs": {
     "st": {},
     "chk": {}
-  }
+  },
+  "buit": [
+    {
+      "id": "start-1",
+      "n": "Verzilverde speer",
+      "bij": "Orelle",
+      "bron": "Grot van het monsterlijke zwijn (van een dode jager)",
+      "sessie": "1"
+    },
+    {
+      "id": "start-2",
+      "n": "Potion of Healing",
+      "bij": "iedereen (1 per held)",
+      "bron": "Versi, the Oracle",
+      "mi": "potion-of-healing",
+      "sessie": "3"
+    },
+    {
+      "id": "start-3",
+      "n": "Potion of Healing ×6",
+      "bij": "party",
+      "bron": "Vertrekken van Proteus",
+      "mi": "potion-of-healing",
+      "sessie": "2"
+    },
+    {
+      "id": "start-4",
+      "n": "Koperen sleutel",
+      "bij": "Orelle",
+      "bron": "Zaal met de geanimeerde zwaarden"
+    },
+    {
+      "id": "start-5",
+      "n": "Bericht van Sydon aan Heleka",
+      "bij": "party",
+      "bron": "Spullen van Heleka",
+      "sessie": "2"
+    },
+    {
+      "id": "start-6",
+      "n": "Pike van de centaur hero",
+      "bij": "Orelle",
+      "bron": "Weg naar Estoria",
+      "sessie": "3"
+    },
+    {
+      "id": "start-7",
+      "n": "Darmen van de priester (voor luitsnaren)",
+      "bij": "Apollodorus",
+      "bron": "Temple of the Oracle",
+      "sessie": "2"
+    },
+    {
+      "id": "a1-mossy:madon-paddenstoelen",
+      "n": "Madon-paddenstoelen",
+      "bij": "party",
+      "bron": "Paddenstoelengrot, Mossy Temple",
+      "mi": "madon-fungus",
+      "sessie": "5"
+    },
+    {
+      "id": "a1-mossy:ethereum-planten-en-aconite",
+      "n": "Ethereum-planten en aconite",
+      "bij": "party",
+      "bron": "Ondergrondse tuin, Mossy Temple",
+      "sessie": "5"
+    },
+    {
+      "id": "a1-mossy:sunril-bessen",
+      "n": "Sunril-bessen (werken als goodberries; een deel ging op na het gevecht met de maenads)",
+      "bij": "party",
+      "bron": "Ondergrondse tuin, Mossy Temple",
+      "mi": "sunril-berry",
+      "sessie": "5"
+    },
+    {
+      "id": "a1-mossy:horn-of-balmytria",
+      "n": "Horn of Balmytria",
+      "bij": "party",
+      "bron": "Feestzaal, Mossy Temple (voor Queen Vallus in Mytros)",
+      "mi": "horn-of-balmytria",
+      "sessie": "6"
+    },
+    {
+      "id": "a1-mossy:shortbow-of-cupidity",
+      "n": "Shortbow of Cupidity",
+      "bij": "Kyrenos",
+      "bron": "Demetria",
+      "mi": "shortbow-of-cupidity",
+      "sessie": "6"
+    },
+    {
+      "id": "a1-mossy:demetrias-ring-ring-of-protection",
+      "n": "Demetria's ring",
+      "bij": "Apollodorus",
+      "bron": "Demetria",
+      "mi": "ring-of-protection",
+      "sessie": "6"
+    },
+    {
+      "id": "a1-hoorn:burnished-dragonlord-coin",
+      "n": "Burnished Dragonlord coin (Xander / de Ultros)",
+      "bij": "party",
+      "bron": "Aesop — tol voor Damon",
+      "mi": "burnished-dragonlord-coin",
+      "sessie": "6"
+    },
+    {
+      "id": "a1-mossy:sieraden-uit-demetrias-kist",
+      "n": "Sieraden: 2 beschadigde kettingen (~50 gp per stuk), 2 intacte ringen, 2 beschadigde ringen (halve waarde)",
+      "bij": "party",
+      "bron": "Kist in Demetria's kamer (één ketting ging naar de smid voor Orelles harnas)",
+      "sessie": "6"
+    },
+    {
+      "id": "start-16",
+      "n": "Studded leather armor",
+      "bij": "Orelle",
+      "bron": "Laten maken in Estoria",
+      "sessie": "6"
+    },
+    {
+      "id": "start-17",
+      "n": "Nieuwe quarterstaff",
+      "bij": "Dragini",
+      "bron": "Gekocht in Estoria",
+      "sessie": "6"
+    }
+  ]
 }
