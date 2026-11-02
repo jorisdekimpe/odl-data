@@ -1050,7 +1050,8 @@
         "node": "a1-rots",
         "scene": "a1-rots",
         "sb": "basilisk",
-        "note": "Zwemmen 20 ft. Petrifying Gaze DC 12; ogen afwenden kan."
+        "note": "Zwemmen 20 ft. Petrifying Gaze DC 12; ogen afwenden kan.",
+        "toon": true
       },
       {
         "id": "pl_3",
@@ -1080,7 +1081,8 @@
         "node": "a1-rots",
         "scene": "a1-rots",
         "sb": "basilisk",
-        "note": "Zwemmen 20 ft. Petrifying Gaze DC 12; ogen afwenden kan."
+        "note": "Zwemmen 20 ft. Petrifying Gaze DC 12; ogen afwenden kan.",
+        "toon": true
       },
       {
         "id": "1793650145750_ow1tbk",
@@ -1099,7 +1101,8 @@
         "side": "f",
         "node": "a1a",
         "sb": "basilisk",
-        "note": "Na 20 min uit de rivier (niet als het nest al is uitgeroeid)"
+        "note": "Na 20 min uit de rivier (niet als het nest al is uitgeroeid)",
+        "toon": true
       },
       {
         "id": "1793650145749_gteauf",
@@ -1118,7 +1121,8 @@
         "side": "f",
         "node": "a1a",
         "sb": "basilisk",
-        "note": "Na 20 min uit de rivier (niet als het nest al is uitgeroeid)"
+        "note": "Na 20 min uit de rivier (niet als het nest al is uitgeroeid)",
+        "toon": true
       },
       {
         "id": "pl_2",
