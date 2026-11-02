@@ -1102,7 +1102,8 @@
         "node": "a1a",
         "sb": "basilisk",
         "note": "Na 20 min uit de rivier (niet als het nest al is uitgeroeid)",
-        "toon": true
+        "toon": true,
+        "cond": "grappled"
       },
       {
         "id": "1793650145749_gteauf",
