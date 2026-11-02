@@ -1040,6 +1040,15 @@
         "maxHp": 10,
         "isPlayer": false,
         "active": true
+      },
+      {
+        "id": "1793650113699_0.3800689406749215",
+        "name": "basilisk",
+        "init": 12,
+        "hp": 52,
+        "maxHp": 52,
+        "isPlayer": false,
+        "active": true
       }
     ],
     "current": -1,
