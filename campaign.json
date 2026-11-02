@@ -1035,7 +1035,7 @@
       {
         "id": "1793650085107_0.3696181237913869",
         "name": "basilisk",
-        "init": 0,
+        "init": 14,
         "hp": 10,
         "maxHp": 10,
         "isPlayer": false,
