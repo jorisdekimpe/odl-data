@@ -1020,7 +1020,8 @@
         "hp": 20,
         "maxHp": 20,
         "isPlayer": true,
-        "active": true
+        "active": true,
+        "cond": "unconscious"
       },
       {
         "id": "pl_4",
