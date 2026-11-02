@@ -999,7 +999,8 @@
   "lvl": 3,
   "vs": {
     "st": {
-      "p2": "open"
+      "p2": "open",
+      "f-hukar": "optie"
     },
     "chk": {}
   },
