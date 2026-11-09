@@ -2,7 +2,7 @@
  "meta": {
   "titel": "De Zeven — verhaalstroom",
   "stand": "Na sessie 6 (25/10, recap verwerkt 27/10): Labour 1 klaar, party level 3, terug in Estoria.",
-  "bijgewerkt": "2026-11-02",
+  "bijgewerkt": "2026-11-09",
   "versie": 1
  },
  "spelers": [
@@ -418,7 +418,7 @@
    "status": "nu",
    "type": "sociaal",
    "wanneer": "Corinna en Sostrates zijn sinds sessie 6 terug in Estoria; de scène met Thericles is nog niet gespeeld.",
-   "kern": "Thericles (NG scout), oud-verkenner van de koning, leeft met zijn man aan de rand van de stad. Hij zocht Corinna al een week. Brengen de helden haar thuis, dan is hij uitzinnig van vreugde en geeft hij zijn familie-erfstuk.",
+   "kern": "Thericles (NG scout), oud-verkenner van de koning, leeft met zijn man aan de rand van de stad, als wijnboer en herbergier. Hij zocht Corinna al een week. Brengen de helden haar thuis, dan is hij uitzinnig van vreugde en geeft hij zijn familie-erfstuk.",
    "zeg": [
     "Thericles is niet rijk, maar hij geeft graag zijn erfstuk: een javelin of lightning.",
     "Hij stamt af van de Phobas-lijn van de Dragonlords en wordt door heel Estoria gerespecteerd."
@@ -460,9 +460,6 @@
    ],
    "dm": [
     "Rizon, Cosmo en Nicholas Phobas liggen in Telamok (X6, X7, X14). Aesop noemt Thericles en Acastus de laatste echte erfgenamen van Rizon en Estor."
-   ],
-   "open": [
-    "Thericles: boek en tracker zeggen wijnboer, de recap (ook die van sessie 6) en de spelersapp zeggen \"tavern owner\". Kies één versie."
    ],
    "bron": "Boek ch2 E13; sessies 4–6",
    "items": [
