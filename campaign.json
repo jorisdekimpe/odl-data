@@ -129,7 +129,13 @@
       "att": "Friendly",
       "paths": "Lost One",
       "sec": "God of Battle, koning van Estoria. Vijfhonderd jaar zonder oorlog heeft hem uitgehold; hij drinkt. Zijn geliefden werden een voor een weggenomen door de groene draak Hexia — niemand weet waarom ze hem zo haat. Anora moet eerst gered worden; tot dan helpt hij met niets. Joins Ultros crew Act 2. Wordt draak in Act 4. GEEN SPELERSHAAK MEER (Demi-God vrijgekomen): Anora blijft de poort naar zijn medewerking, maar de emotionele haak is weg.",
-      "log": []
+      "log": [
+        {
+          "pl": "Whole party",
+          "txt": "Sessie 7: onderhandelde met Gaius over Anora; stuurde de Zeven naar zijn vader Volkan om wapens binnen te smokkelen.",
+          "dt": "12/11/2026"
+        }
+      ]
     },
     {
       "name": "Volkan",
@@ -139,7 +145,13 @@
       "att": "Friendly",
       "paths": "—",
       "sec": "God of Forges — IN ESTORIA, niet Mytros. Verstrooide dwergensmid, vader van Pythor, echtgenoot van Mytros. Smeedt aan de Mithral Forge zodra de vuren branden wat de partij aanlevert. NIET Orelles artefact: haar Breastplate of Invulnerability wordt gemaakt aan het weefgetouw van de Fates (Act 3). Stuurt een keledone om af te leveren. Joins Ultros crew Act 2. Wordt draak in Act 4.",
-      "log": []
+      "log": [
+        {
+          "pl": "Whole party",
+          "txt": "Sessie 7: ontmoet in Volkan's Hall. Stelde opvouwbare quarterstaffs voor (afgewezen) en maakte verborgen polsmessen voor de Zeven. Bewaart hun gewone wapens en de Horn of Balmytria.",
+          "dt": "12/11/2026"
+        }
+      ]
     },
     {
       "name": "Princess Anora",
@@ -148,8 +160,14 @@
       "act": "Act 1",
       "att": "Friendly",
       "paths": "—",
-      "sec": "Dochter van Pythor. Wordt geofferd aan Sydon als jaarlijkse tribuut — vastgeketend aan de Rock of Estor vóór de volle maan, anders vallen de verzamelde centaurenstammen aan. Zij heeft zich erbij neergelegd; Pythor heeft haar opgesloten om te beletten dat ze zichzelf aanbiedt. Zou een betere heerser zijn dan haar vader. PARTIJQUEST — geen persoonlijke haak meer sinds de spelerswissel. KLOK (beslist 28/09): de volle maan valt na de Mossy Temple. Tijd blijft bewust fluïde — geen dagteller bijhouden.",
-      "log": []
+      "sec": "Dochter van Pythor. Wordt geofferd aan Sydon als jaarlijkse tribuut — vastgeketend aan de Rock of Estor vóór de volle maan, anders vallen de verzamelde centaurenstammen aan. Zij heeft zich erbij neergelegd; Pythor heeft haar opgesloten om te beletten dat ze zichzelf aanbiedt. Zou een betere heerser zijn dan haar vader. PARTIJQUEST — geen persoonlijke haak meer sinds de spelerswissel. KLOK (beslist 28/09): de volle maan valt na de Mossy Temple. Tijd blijft bewust fluïde — geen dagteller bijhouden. SESSIE 7: gespaard, de Zeven zitten in haar plaats op de rots.",
+      "log": [
+        {
+          "pl": "Whole party",
+          "txt": "Sessie 7: gespaard; de Zeven namen haar plaats in op de Rock of Estor. In de Dragon's Tooth zegt men dat ze een betere heerser zou zijn dan Pythor.",
+          "dt": "12/11/2026"
+        }
+      ]
     },
     {
       "name": "Aesop",
@@ -237,7 +255,13 @@
       "att": "Hostile",
       "paths": "Vanished One, Dragonslayer, Cursed One, Gifted One, Lost One",
       "sec": "Aartsvijand: rijdt ARGYN (zoon van Nephele, door hem verdorven), bewaart Dragini's harnas op Yonder, en Ox' priester dient zijn Orde (speelt in Mytros, niet op Yonder). Stuurt centaurenwarbands (pijnlijk voor Kyrenos). YONDER Act 3 = DRIEVOUDIGE afrekening (beslist 28/09): Dragini's Cloak of the Bat in zijn kamer, Kyrenos' Dragonslayer-wapen via Chondrus' koopje, en Sirius' lotgenoot Mikhael in de cellen — met het Antikythera-tandwiel als reden om er te zijn. Speel als meerdere scenes. Voor Kyrenos is Yonder een tussenstap, niet zijn wraak: dat is Helios.",
-      "log": []
+      "log": [
+        {
+          "pl": "Whole party",
+          "txt": "Sessie 7: ontmoet in Pythors paleis, met zeven kapiteins van de Orde van Sydon. Aanvaardde dat de Zeven Anora's plaats innemen en bracht hen naar de Rock of Estor. Weet niet dat ze verborgen messen hadden.",
+          "dt": "12/11/2026"
+        }
+      ]
     },
     {
       "name": "King Acastus",
@@ -252,6 +276,11 @@
           "pl": "Whole party",
           "txt": "Sessie 6: Aesop vermoedt dat Acastus van de Ultros weet en wil dat de Hoorn niet naar hem gaat (hij wil de Orde herstellen en zou de Hoorn als machtssymbool gebruiken).",
           "dt": "27/10/2026"
+        },
+        {
+          "pl": "Whole party",
+          "txt": "Sessie 7 (gerucht, Dragon's Tooth): hij blijft beweren dat hij de Dragonlords herstelt; er zouden draken boven zijn land vliegen.",
+          "dt": "12/11/2026"
         }
       ]
     },
@@ -496,8 +525,14 @@
       "act": "Act 1",
       "att": "Friendly",
       "paths": "—",
-      "sec": "NG scout. Diende vroeger de koning, nu met zijn man wijnboer aan de rand van Estoria en eigenaar van een herberg (beide, beslist 09/11); zeer gerespecteerd. Afstammeling van de Phobas-lijn van de Dragonlords (Rizon Phobas) — Aesop noemt hem en Acastus de laatste echte erfgenamen van Rizon en Estor. Wanhopig: Corinna verdween een week geleden in het Oldwood. QUEST Missing Daughter: brengen de helden haar terug, dan schenkt hij zijn familie-erfstuk, een JAVELIN OF LIGHTNING. Nog niet ontmoet. SESSIE 6: Corinna is mee terug naar Estoria; de Javelin of Lightning is nog niet gegeven (scène nog te spelen).",
-      "log": []
+      "sec": "NG scout. Diende vroeger de koning, nu met zijn man wijnboer aan de rand van Estoria en eigenaar van een herberg (beide, beslist 09/11); zeer gerespecteerd. Afstammeling van de Phobas-lijn van de Dragonlords (Rizon Phobas) — Aesop noemt hem en Acastus de laatste echte erfgenamen van Rizon en Estor. Wanhopig: Corinna verdween een week geleden in het Oldwood. QUEST Missing Daughter: brengen de helden haar terug, dan schenkt hij zijn familie-erfstuk, een JAVELIN OF LIGHTNING. SESSIE 6: Corinna is mee terug naar Estoria. SESSIE 7: de Javelin of Lightning is gegeven, via Corinna, aan Kyrenos. Thericles zelf is nog niet persoonlijk ontmoet.",
+      "log": [
+        {
+          "pl": "Whole party",
+          "txt": "Sessie 7: liet via Corinna zijn familie-erfstuk, de Javelin of Lightning, aan Kyrenos geven. Zijn familie stamt af van de Phobas-lijn (spelers weten dit nu).",
+          "dt": "12/11/2026"
+        }
+      ]
     },
     {
       "name": "Corinna",
@@ -522,6 +557,11 @@
           "pl": "Whole party",
           "txt": "Sessie 6: mee terug naar Estoria met de andere geredde jongeren.",
           "dt": "27/10/2026"
+        },
+        {
+          "pl": "Whole party",
+          "txt": "Sessie 7: kwam de Zeven bedanken, omhelsde Kyrenos en gaf hem namens Thericles de Javelin of Lightning. De ouders van het gestorven meisje verwijten de Zeven niets.",
+          "dt": "12/11/2026"
         }
       ]
     },
@@ -623,13 +663,45 @@
           "dt": "27/10/2026"
         }
       ]
+    },
+    {
+      "name": "Delphion",
+      "role": "Waard van The Dragon's Tooth (NG veteran)",
+      "loc": "Estoria — The Dragon's Tooth (E8)",
+      "act": "Act 1",
+      "att": "Friendly",
+      "paths": "—",
+      "sec": "Boek E8: magere oude man met wit haar en littekens, NG veteran. Vriendelijk en goed geïnformeerd, weinig geduld voor smalltalk of bijgeloof. Kent de quest van de Zeven en helpt waar hij kan. Regelt logies in de herbergen aan de zuidrand. Spelersguide: citaat over saters bij de Thylean Satyr.",
+      "log": [
+        {
+          "pl": "Whole party",
+          "txt": "Sessie 7: herkende de Zeven en gaf gratis drank terwijl Volkan hun messen maakte.",
+          "dt": "12/11/2026"
+        }
+      ]
+    },
+    {
+      "name": "Dwergen van Estoria (Belok?)",
+      "role": "Dwergen uit de kopermijn — clan verdreven uit de Mithral Mines",
+      "loc": "Estoria — The Dragon's Tooth (E8)",
+      "act": "Act 1",
+      "att": "Friendly",
+      "paths": "—",
+      "sec": "Boek E8, Quest: The Dwarves of Estoria. Werken in de kopermijn; hun clan vluchtte eeuwen geleden uit de Mithral Mines, sommigen leefden toen al. Willen er niet terug, want Lutheria vervloekte de mijnen. Betalen 10 gp per dwergenschedel voor een begrafenis. In de mijnen (F14) liggen 25 dwergenskeletten, een ervan met een mithral chain shirt. De naam Belok is niet uit het boek en volgens de recap onzeker.",
+      "log": [
+        {
+          "pl": "Whole party",
+          "txt": "Sessie 7: hingen een oproep op in de Dragon's Tooth: 10 gp per dwergenschedel uit de Mithral Mines.",
+          "dt": "12/11/2026"
+        }
+      ]
     }
   ],
   "threads": [
     {
       "title": "The Three Great Labors",
       "status": "active",
-      "desc": "Given by Oracle: (1) Horn of Balmytria — Mossy Temple. (2) Mithral Forge. (3) Weapons of the Dragonlords — Necropolis. [Sessie 4] Mossy Temple binnengegaan; Hoorn nog niet gevonden. [Sessie 5] T4-T12 gedaan (tot en met de Nursing Chamber); Hoorn ligt in T15, nog niet bereikt. [Sessie 6] Labour 1 voltooid: Demetria gedood, Horn of Balmytria teruggehaald en gedronken. Aesop gaf de munt voor Telamok. Aesop vroeg de Hoorn in Mytros aan Vallus te geven, niet aan Acastus, en het graf van Adonis Neurdagon in Telamok met rust te laten.",
+      "desc": "Given by Oracle: (1) Horn of Balmytria — Mossy Temple. (2) Mithral Forge. (3) Weapons of the Dragonlords — Necropolis. [Sessie 4] Mossy Temple binnengegaan; Hoorn nog niet gevonden. [Sessie 5] T4-T12 gedaan (tot en met de Nursing Chamber); Hoorn ligt in T15, nog niet bereikt. [Sessie 6] Labour 1 voltooid: Demetria gedood, Horn of Balmytria teruggehaald en gedronken. Aesop gaf de munt voor Telamok. Aesop vroeg de Hoorn in Mytros aan Vallus te geven, niet aan Acastus, en het graf van Adonis Neurdagon in Telamok met rust te laten. [Sessie 7] Gerucht in de Dragon's Tooth: een groep krijgers ging naar Telamok en kwam niet terug. Dwergen bieden 10 gp per dwergenschedel uit de Mithral Mines (route naar de Forge). De Hoorn ligt tijdelijk bij Volkan.",
       "con": "Must complete all three to unlock the City of Mytros (Act 2).",
       "items": [
         {
@@ -671,7 +743,7 @@
     {
       "title": "Rescue Princess Anora",
       "status": "active",
-      "desc": "Pythor's daughter is being sacrificed to Sydon. Pythor will not help with the Labors until she is safe.",
+      "desc": "Pythor's daughter is being sacrificed to Sydon. Pythor will not help with the Labors until she is safe. [Sessie 7] De Zeven namen met z'n zevenen Anora's plaats in (Gaius aanvaardde), met verborgen polsmessen van Volkan. Op de Rock of Estor: drie harpijen (Lutheria), centauren aan de overkant, vier basilisken. Gevecht loopt nog (ronde 2). Overleven tot zonsopgang = Gaius laat hen gaan; daarna Pythors feest en Pythor's Hammer.",
       "con": "Without Pythor's guidance the Labors are harder and the party misses crucial lore.",
       "items": [
         {
@@ -684,7 +756,7 @@
     {
       "title": "Gaius and the Order of Sydon",
       "status": "hidden",
-      "desc": "Recurring villain from Act 1. Rides silver dragon Argyn. Has the Vanished One's armor. Base on Island of Yonder. [Beslist 25/10] Gaius' centaurenaanval komt onderweg naar de volgende labour.",
+      "desc": "Recurring villain from Act 1. Rides silver dragon Argyn. Has the Vanished One's armor. Base on Island of Yonder. [Beslist 25/10] Gaius' centaurenaanval komt onderweg naar de volgende labour. [Sessie 7] Gaius ontmoet in Pythors paleis met zeven kapiteins; hij aanvaardde de Zeven als offer.",
       "con": "Keeps sending forces and blocking progress unless confronted.",
       "items": [
         {
@@ -987,6 +1059,13 @@
       "sum": "Mossy Temple finale (T13-T15) en terug naar Estoria. Acht uur rust in een gebarricadeerde kamer (Kyrenos tegen de deur); iets enorms met één blauw oog passeerde in de gang (de gygan), niemand greep in. T13: vier slapende tieners, niet gewekt. Keuken (T14) met een groot bronzen hoofd: Orelle doodde twee goatlings. Demetria's slaapkamer: Ox sloeg de kist open, de edelstenen werden verpletterd. Buit volgens de recap: 2 beschadigde kettingen (~50 gp per stuk), 2 intacte ringen en 2 beschadigde ringen (halve waarde). Het tome in mensenhuid (maenad-ritueel) door Sirius verbrand met Fire Bolt. Grisly Feast (T15): Demetria, de gygan en vier meisjes aan een tafel van levende eik, de Horn of Balmytria op tafel. Demetria zei Orelle dat Lutheria haar naam kent en dat ze zal sterven door Lutheria of haar dienaren; enkel de Fates kennen het hele verhaal. Ze herkende Dragini als iemand die vijf eeuwen geleden met Estor Arkelander reed, en vertelde over haar zus (de eik werd mast, kiel en boeg). Orelle overtuigde de meisjes half dat het vlees hun vrienden waren; Herkus rook mensenvlees. Een meisje viel Demetria aan met een mes en werd door de gygan gedood. Gevecht: de gygan velde Ox; Sirius veranderde voor het eerst aan tafel in Smash (grijze, hulkachtige gedaante, herkende de groep niet); Demetria charmde Apollodorus; Orelle in een wijnrank; Kyrenos doodde Demetria met één smite. De gygan bood aan te stoppen, de wapens gingen neer en hij vertrok. Sirius werd weer zichzelf; de groep is geschokt. Buit: Apollodorus nam Demetria's ring (= Ring of Protection, attunement nog niet gespeeld); Kyrenos de Shortbow of Cupidity; de Horn of Balmytria. Zeventien jongeren mee naar Estoria (4 uit T13, 8 uit de Madon-grot, 3 meisjes uit T15, plus Sostrates en Corinna). Bij Aesop uit de Hoorn gedronken: een galei sneller dan de wind met dode roeiers, en een bronzen toestel dat de sterrenhemel weerspiegelt. Aesop duidde het als de Ultros (Estor Arkelanders schip) en de Antikythera; hij vermoedt dat Acastus van de Ultros weet. Aesop vroeg de Hoorn in Mytros aan Queen Vallus te geven, niet aan Acastus. Hij vertelde over Damon op de brug naar Telamok (spreekt niet meer, vraagt tol) en gaf de burnished dragonlord coin (Xander / Ultros): betalen, niet forceren of bedriegen. Hij vroeg het graf van zijn mentor Adonis Neurdagon onaangeroerd te laten. Winkelen in Estoria: Dragini verving haar quarterstaff; Orelles verzilverde speer geschat op ~28 gp; ze liet studded leather maken met een beschadigde ketting als betaling (~2 dagen). Sirius legde zijn kaart uit (artificer-feature: verbinding tot de volgende long rest, locaties, +1d4 initiatief, spreuken zonder zicht). Loreus niet meer gezien. Orelle niet gestorven. Party naar level 3.",
       "cliff": "Labour 1 klaar; volgende doel de Necropolis van Telamok (munt voor Damon). Open in Estoria: het offer van Anora, Thericles (Corinna is thuis, javelin of lightning nog niet gegeven), en Pythor-Sirius na Anora's redding. Gaius' centaurenaanval komt onderweg naar de volgende labour.",
       "notes": "Recap online (Homebrewery, 'Session Six: The Horn of Balmytria'), verwerkt op 27/10; vervangt de voorlopige versie uit de Pocket-opnames. Buit: de recap klopt (bevestigd 09/11): 2 beschadigde kettingen (~50 gp), 2 intacte en 2 beschadigde ringen; Ox beschadigde de buit toen hij de kist openbrak. Het voorlopige log (2×100 gp + 4×50 gp) is achterhaald. DM: Gaius' centaurenaanval komt onderweg naar de volgende labour; daar valt Orelles eerste dood (door Gaius). De naam 'Smash' viel niet in de recap. Party is na de Mossy Temple level 3 (bevestigd 25/10)."
+    },
+    {
+      "num": "7",
+      "date": "2026-11-02",
+      "sum": "The Rock of Estor. Corinna kwam de Zeven nog eens bedanken en omhelsde Kyrenos; namens haar vader Thericles (Phobas-lijn, een van de oude Dragonlord-bloedlijnen) gaf ze Kyrenos de Javelin of Lightning, een familie-erfstuk. De ouders van het gestorven meisje uit de feestzaal weten wat er gebeurde en verwijten de Zeven niets. In het paleis: soldaten met Sydons banier, zeven kapiteins van de Orde van Sydon en Commander Gaius, die met Pythor over Anora's offer onderhandelde. De Zeven boden zich met z'n zevenen aan in Anora's plaats; Gaius aanvaardde, Anora is gespaard. Pythor stuurde hen naar zijn vader Volkan om wapens binnen te smokkelen: opvouwbare quarterstaffs (verstopplek te gênant, afgewezen) of verborgen polsmessen onder de kleren (gekozen). Wachten in de Dragon's Tooth bij Delphion (gratis drank). Geruchten: orkaan voor de kust van Mytros; de Orde van Sydon eist de vernietiging van de Temple of the Five in Mytros; een groep krijgers ging naar Telamok en kwam niet terug; Acastus wil de Dragonlords herstellen en er zouden draken boven zijn land vliegen; de kopermijnen van Estoria produceren te weinig, vandaar interesse in de Mithral Mines; men houdt van Pythor maar vindt hem een slechte koning, Anora zou beter zijn; Volkan is chagrijniger dan ooit. Drie dwergen (een heet misschien Belok) hingen een oproep op: hun families werden zo'n twee eeuwen geleden uit de Mithral Mines verdreven; 10 gp per dwergenschedel die terugkomt, voor een fatsoenlijke begrafenis. Polsmessen opgehaald in Volkan's Hall; de gewone wapens en de Horn of Balmytria bleven bij Volkan. Fouillering in het paleis doorstaan (Persuasion), handen gebonden, onder begeleiding naar de Rock of Estor en met touwen op het rotsplatform neergelaten, vastgemaakt aan palen. Toeschouwers: centauren aan de overkant van de rivier, drie harpijen boven op de rots. De Zeven sneden zich los met de verborgen messen. Vier basilisken kwamen uit een opening in de rots. Gevecht met ogen dicht of weggedraaid: Ox grijpt een basilisk vast (grapple); Dragini maakt met water een spiegel om een basilisk zijn eigen blik te laten vangen, maar ze halen telkens net hun save. Sessie gestopt midden in het gevecht (ronde 2).",
+      "cliff": "Midden in het basiliskengevecht op de Rock of Estor (ronde 2, vier basilisken, Ox heeft er een in grapple). Drie harpijen boven de rots, centauren aan de overkant. De echte wapens en de Hoorn liggen bij Volkan. Daarna: overleven tot zonsopgang (dan laat Gaius hen gaan), Pythors feest en Pythor's Hammer, en Gaius' centaurenaanval onderweg naar de volgende labour (Orelles eerste dood).",
+      "notes": "Recap ontvangen 12/11 en op 12/11 gecontroleerd tegen de online Homebrewery-versie (Homebrewery, 'Session Seven: The Rock of Estor'). DM: de harpijen zijn door Lutheria gestuurd om het offer te zien (spelers weten niet wie ze stuurde). Boek: twee basilisken uit de rivier, vier in het nest; aan tafel kwamen er vier uit de rots. Thericles is nog niet persoonlijk ontmoet: de javelin kwam via Corinna. Delphion en de dwergenquest zijn boekcanon (E8); de naam Belok staat niet in het boek en is in de recap onzeker. Volgens het boek liggen er 25 dwergenskeletten in de Mithral Mines (F14). gevecht.json 'actief, ronde 2' klopt: het gevecht loopt door in sessie 8."
     }
   ],
   "nfilt": "Prologue",
@@ -1298,11 +1377,19 @@
     {
       "id": "eigen-mvzlu7jq",
       "n": "Javelin of Lightning",
-      "bij": "party",
-      "bron": "Opgezocht",
+      "bij": "Kyrenos",
+      "bron": "Thericles' familie-erfstuk, gegeven via Corinna",
       "sessie": "7",
       "t": 1793644860086,
       "mi": "javelin-of-lightning"
+    },
+    {
+      "id": "eigen-s7-polsmessen",
+      "n": "Verborgen polsmessen (door Volkan gemaakt)",
+      "bij": "iedereen",
+      "bron": "Volkan's Hall — om de fouillering voor het offer te omzeilen",
+      "sessie": "7",
+      "t": 1794484036975
     }
   ]
 }
